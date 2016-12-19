@@ -1,3 +1,0 @@
-(10) Le présent règlement devrait s’appliquer au règlement des transactions sur tous les instruments financiers et à toutes les activités des DCT, sauf s’il en dispose autrement. Le présent règlement devrait également être sans préjudice d’autres dispositions législatives de l’Union portant sur des instruments financiers spécifiques, telles que la directive 2003/87/CE du Parlement européen et du Conseil (6) et les mesures adoptées conformément à cette directive.
-
-%%% (6)  Directive 2003/87/CE du Parlement européen et du Conseil du 13 octobre 2003 établissant un système d’échange de quotas d’émission de gaz à effet de serre dans la Communauté et modifiant la directive 96/61/CE du Conseil (JO L 275 du 25.10.2003, p. 32).

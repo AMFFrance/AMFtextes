@@ -1,1 +1,0 @@
-(19) Un DCT devrait être autorisé à suivre l’exécution d’une opération de rachat d’office concernant des instructions de règlement multiples, portant sur les mêmes instruments financiers et dont le délai de prolongation expire à la même date afin de réduire au minimum le nombre d’opérations de rachat d’office, dans une mesure compatible avec les exigences du présent règlement.

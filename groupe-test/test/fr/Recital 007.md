@@ -1,1 +1,0 @@
-(7) Le Conseil, dans ses conclusions du 2 décembre 2008, a souligné la nécessité de renforcer la sécurité et la solidité des systèmes de règlement de titres, et de s’attaquer aux obstacles juridiques aux activités de post-marché au sein de l’Union.

@@ -1,1 +1,0 @@
-(53) Afin que les services fournis par les DCT offrent un niveau de sécurité et de continuité suffisant, les DCT devraient être soumis à des exigences prudentielles et de fonds propres spécifiques, uniformes et directement applicables qui réduisent leurs risques juridiques, opérationnels et d’investissement.
