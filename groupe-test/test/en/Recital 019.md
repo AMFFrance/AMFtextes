@@ -1,1 +1,0 @@
-(19) CSDs should be allowed to monitor the execution of a buy-in with respect to multiple settlement instructions on the same financial instruments and with the same date of expiry of the extension period with the aim of minimising the number of buy-ins to the extent compatible with the requirements of this Regulation.

@@ -1,1 +1,0 @@
-(7) The Council, in its conclusions of 2 December 2008, emphasised the need to strengthen the safety and soundness of the securities settlement systems, and to address legal barriers to post-trading in the Union.

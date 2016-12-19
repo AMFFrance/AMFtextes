@@ -1,6 +1,0 @@
-# Article 32 - General provisions
-
-
-1.   A CSD shall have clearly defined goals and objectives that are achievable, such as in the areas of minimum service levels, risk-management expectations and business priorities.
-
-2.   A CSD shall have transparent rules for the handling of complaints.

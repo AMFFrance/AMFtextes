@@ -1,1 +1,0 @@
-(1) Central securities depositories (CSDs), together with central counterparties (CCPs) contribute to a large degree in maintaining post-trade infrastructures that safeguard financial markets and give market participants confidence that securities transactions are executed properly and in a timely manner, including during periods of extreme stress.

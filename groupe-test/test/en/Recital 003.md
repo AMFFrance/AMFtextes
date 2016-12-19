@@ -1,3 +1,0 @@
-(3) While Directive 98/26/EC of the European Parliament and of the Council (4) reduced the disruption to a securities settlement system caused by insolvency proceedings against a participant in that system, it is necessary to address other risks that securities settlement systems are facing, as well as the risk of insolvency or disruption in the functioning of the CSDs that operate securities settlement systems. A number of CSDs are subject to credit and liquidity risks deriving from the provision of banking services ancillary to settlement.
-
-%%% (4)  Directive 98/26/EC of the European Parliament and of the Council of 19 May 1998 on settlement finality in payment and securities settlement systems (OJ L 166, 11.6.1998, p. 45).

@@ -1,3 +1,0 @@
-(74) In order to ensure uniform conditions for the implementation of this Regulation, implementing powers should be conferred on the Commission to take decisions on the assessment of rules from third countries for the purposes of recognition of third-country CSDs. Those powers should be exercised in accordance with Regulation (EU) No 182/2011 of the European Parliament and of the Council (20).
-
-%%% (20)  Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by the Member States of the Commission’s exercise of implementing powers (OJ L 55, 28.2.2011, p. 13).

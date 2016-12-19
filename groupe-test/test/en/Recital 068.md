@@ -1,1 +1,0 @@
-(68) ESMA should play a central role in the application of this Regulation by ensuring consistent application of Union rules by national competent authorities and by settling disagreements between them.

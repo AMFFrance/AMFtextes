@@ -1,4 +1,0 @@
-# Article 10 - Competent authority
-
-
-Without prejudice to the oversight by the members of the ESCB referred to in Article 12(1), a CSD shall be authorised and supervised by the competent authority of its home Member State.
