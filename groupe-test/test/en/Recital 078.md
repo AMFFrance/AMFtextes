@@ -1,0 +1,3 @@
+(78) Taking into account the fact that this Regulation harmonises at Union level the measures to prevent and address settlement fails and has a wider scope of application for such measures than Regulation (EU) No 236/2012 of the European Parliament and of the Council (22), it is necessary to repeal Article 15 of that Regulation.
+
+%%% (22)  Regulation (EU) No 236/2012 of the European Parliament and of the Council of 14 March 2012 on short selling and certain aspects of credit default swaps (OJ L 86, 24.3.2012, p. 1).

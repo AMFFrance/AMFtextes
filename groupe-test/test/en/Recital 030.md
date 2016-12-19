@@ -1,0 +1,1 @@
+(30) In order to ensure the safe functioning of the securities settlement systems, they should be operated only by the CSDs or by central banks acting as CSDs, subject to this Regulation.

@@ -1,0 +1,3 @@
+(10) This Regulation should apply to the settlement of transactions in all financial instruments and activities of CSDs unless specified otherwise. This Regulation should also be without prejudice to other legislation of the Union concerning specific financial instruments such as Directive 2003/87/EC of the European Parliament and of the Council (6) and measures adopted in accordance with that Directive.
+
+%%% (6)  Directive 2003/87/EC of the European Parliament and of the Council of 13 October 2003 establishing a scheme for greenhouse gas emission allowance trading within the Community and amending Council Directive 96/61/EC (OJ L 275, 25.10.2003, p. 32).

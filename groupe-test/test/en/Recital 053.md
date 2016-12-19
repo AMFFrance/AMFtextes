@@ -1,0 +1,1 @@
+(53) In order to provide a sufficient degree of safety and continuity of services provided by CSDs, CSDs should be subject to specific uniform and directly applicable prudential and capital requirements which mitigate their legal, operational and investment risks.
