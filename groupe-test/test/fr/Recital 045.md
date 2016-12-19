@@ -1,0 +1,1 @@
+(45) Les services bancaires accessoires au règlement comportant des risques de crédit et de liquidité devraient uniquement être assurés par les DCT ou externalisés auprès d’entités autorisées à fournir les services bancaires accessoires aux activités des DCT énoncés dans le présent règlement.

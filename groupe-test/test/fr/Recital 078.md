@@ -1,0 +1,3 @@
+(78) Étant donné que le présent règlement harmonise au niveau de l’Union les mesures destinées à prévenir les défauts de règlement et à y remédier, et que son champ d’application concernant de telles mesures est plus étendu que celui du règlement (UE) no 236/2012 du Parlement européen et du Conseil (22), il convient d’abroger l’article 15 dudit règlement.
+
+%%% (22)  Règlement (UE) no 236/2012 du Parlement européen et du Conseil du 14 mars 2012 sur la vente à découvert et certains aspects des contrats d’échange sur risque de crédit (JO L 86 du 24.3.2012, p. 1).
