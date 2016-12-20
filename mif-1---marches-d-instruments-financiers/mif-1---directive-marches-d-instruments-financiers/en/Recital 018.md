@@ -1,0 +1,3 @@
+(18) Credit institutions that are authorised under Directive 2000/12/EC of the European Parliament and of the Council of 20 March 2000 relating to the taking up and pursuit of the business of credit institutions ( 9 ) should not need another authorisation under this Directive in order to provide investment services or perform investment activities. When a credit institution decides to provide investment services or perform investment activities the competent authorities, before granting an authorisation, should verify that it complies with the relevant provisions of this Directive.
+
+%%% ( 9 ) OJ L 126, 26.5.2000, p. 1. Directive as last amended by Directive 2002/87/EC.

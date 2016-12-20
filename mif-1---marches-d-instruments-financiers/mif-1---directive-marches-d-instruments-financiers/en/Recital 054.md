@@ -1,0 +1,1 @@
+(54) The standard market size for any class of share should not be significantly disproportionate to any share included in that class.

@@ -1,0 +1,1 @@
+(21) In the context of the forthcoming revision of the Capital Adequacy framework in Basel II, Member States recognise the need to re-examine whether or not investment firms who execute client orders on a matched principal basis are to be regarded as acting as principals, and thereby be subject to additional regulatory capital requirements.

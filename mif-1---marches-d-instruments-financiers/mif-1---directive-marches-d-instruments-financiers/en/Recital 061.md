@@ -1,0 +1,3 @@
+(61) With a view to protecting clients and without prejudice to the right of customers to bring their action before the courts, it is appropriate that Member States encourage public or private bodies established with a view to settling disputes out-of-court, to cooperate in resolving cross-border disputes, taking into account Commission Recommendation 98/257/EC of 30 March 1998 on the principles applicable to the bodies responsible for out-of-court settlement of consumer disputes ( 15 ). When implementing provisions on complaints and redress procedures for out-of-court settlements, Member States should be encouraged to use existing cross-border cooperation mechanisms, notably the Financial Services Complaints Network (FIN-Net).
+
+%%% ( 15 ) OJ L 115, 17.4.1998, p. 31.

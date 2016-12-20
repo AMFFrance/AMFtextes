@@ -1,0 +1,1 @@
+(62) Any exchange or transmission of information between competent authorities, other authorities, bodies or persons should be in accordance with the rules on transfer of personal data to third countries as laid down in Directive 95/46/EC.

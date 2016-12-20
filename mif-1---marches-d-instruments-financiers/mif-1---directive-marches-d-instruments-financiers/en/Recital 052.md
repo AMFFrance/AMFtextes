@@ -1,0 +1,1 @@
+(52) Where an investment firm is a systematic internaliser both in shares and in other financial instruments, the obligation to quote should only apply in respect of shares without prejudice to Recital 46.

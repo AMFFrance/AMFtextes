@@ -1,0 +1,1 @@
+(17) Persons who provide the investment services and/or perform investment activities covered by this Directive should be subject to authorisation by their home Member States in order to protect investors and the stability of the financial system.

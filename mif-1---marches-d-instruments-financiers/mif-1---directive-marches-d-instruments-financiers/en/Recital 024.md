@@ -1,0 +1,5 @@
+(24) Since certain investment firms are exempted from certain obligations imposed by Council Directive 93/6/EEC of 15 March 1993 on the capital adequacy of investment firms and credit institutions ( 10 ), they should be obliged to hold either a minimum amount of capital or professional indemnity insurance or a combination of both. The adjustments of the amounts of that insurance should take into account adjustments made in the framework of Directive 2002/92/EC of the European Parliament and of the Council of 9 December 2002 on insurance mediation ( 11 ). This particular treatment for the purposes of capital adequacy should be without prejudice to any decisions regarding the appropriate treatment of these firms under future changes to Community legislation on capital adequacy.
+
+%%% ( 10 ) OJ L 141, 11.6.1993, p. 1. Directive as last amended by Directive 2002/87/EC.
+
+%%% ( 11 ) OJ L 9, 15.1.2003, p. 3.

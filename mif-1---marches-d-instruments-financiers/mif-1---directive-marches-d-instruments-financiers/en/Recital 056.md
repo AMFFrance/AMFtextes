@@ -1,0 +1,1 @@
+(56) Operators of a regulated market should also be able to operate an MTF in accordance with the relevant provisions of this Directive.

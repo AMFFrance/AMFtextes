@@ -1,0 +1,1 @@
+(4) It is appropriate to include in the list of financial instruments certain commodity derivatives and others which are constituted and traded in such a manner as to give rise to regulatory issues comparable to traditional financial instruments.

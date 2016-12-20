@@ -1,0 +1,1 @@
+(13) Persons who provide investment services consisting exclusively in the administration of employee-participation schemes and who therefore do not provide investment services for third parties should not be covered by this Directive.

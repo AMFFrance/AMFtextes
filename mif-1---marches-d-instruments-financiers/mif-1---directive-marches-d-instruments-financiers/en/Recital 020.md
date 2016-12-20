@@ -1,0 +1,1 @@
+(20) For the purposes of this Directive, the business of the reception and transmission of orders should also include bringing together two or more investors thereby bringing about a transaction between those investors.

@@ -1,0 +1,1 @@
+(29) The expanding range of activities that many investment firms undertake simultaneously has increased potential for conflicts of interest between those different activities and the interests of their clients. It is therefore necessary to provide for rules to ensure that such conflicts do not adversely affect the interests of their clients.

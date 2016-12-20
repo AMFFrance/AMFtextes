@@ -1,0 +1,1 @@
+(60) It is necessary to enhance convergence of powers at the disposal of competent authorities so as to pave the way towards an equivalent intensity of enforcement across the integrated financial market. A common minimum set of powers coupled with adequate resources should guarantee supervisory effectiveness.

@@ -1,0 +1,14 @@
+# Article 67 - Amendment of Directive 93/6/EEC
+
+
+Directive 93/6/EEC shall be amended as follows:
+
+1) Article 2(2) shall be replaced by the following: ‘2.  Investment firms shall mean all institutions that satisfy the definition in Article 4(1) of ?C1  Directive 2004/39/EC of the European Parliament and of the Council of 21 April 2004 on markets in financial instruments  ?  ( 35 ), which are subject to the requirements imposed by the same Directive, excluding: (a) credit institutions, (b) local firms as defined in 20, and (c) firms which are only authorised to provide the service of investment advice and/or receive and transmit orders from investors without in both cases holding money or securities belonging to their clients and which for that reason may not at any time place themselves in debit with their clients.
+
+2) Article 3(4) shall be replaced by the following: ‘4.  The firms referred to in point (b) of Article 2(2) shall have initial capital of EUR 50 000 in so far as they benefit from the freedom of establishment or to provide services under Articles 31 or 32 of Directive 2004/39/EC.’;
+
+3) In Article 3 the following paragraphs shall be inserted: ‘(4a)  Pending revision of Directive 93/6/EC, the firms referred to in point (c) of Article 2(2) shall have: (a) initial capital of EUR 50 000; or (b) professional indemnity insurance covering the whole territory of the Community or some other comparable guarantee against liability arising from professional negligence, representing at least EUR 1 000 000 applying to each claim and in aggregate EUR 1 500 000 per year for all claims; or (c) a combination of initial capital and professional indemnity insurance in a form resulting in a level of coverage equivalent to points (a) or (b). The amounts referred to in this paragraph shall be periodically reviewed by the Commission in order to take account of changes in the European Index of Consumer Prices as published by Eurostat, in line with and at the same time as the adjustments made under Article 4(7) of Directive 2002/92/EC of the European Parliament and the Council of 9 December 2002 on insurance mediation ( 36 ). (4b)  When an investment firm referred to in Article 2(2)(c), is also registered under Directive 2002/92/EC it has to comply with the requirement established by Article 4(3), of that Directive and in addition it has to have: (a) initial capital of EUR 25 000; or (b) professional indemnity insurance covering the whole territory of the Community or some other comparable guarantee against liability arising from professional negligence, representing at least EUR 500 000 applying to each claim and in aggregate EUR 750 000 per year for all claims; or (c) a combination of initial capital and professional indemnity insurance in a form resulting in a level of coverage equivalent to points (a) or (b).
+
+%%% ( 35 )  ?C1  OJ L 145, 30.4.2004, p. 1. ? ’
+
+%%% ( 36 ) OJ L 9, 15.1.2003, p. 3.’

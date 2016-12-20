@@ -1,0 +1,1 @@
+(34) Fair competition requires that market participants and investors be able to compare the prices that trading venues (i.e. regulated markets, MTFs and intermediaries) are required to publish. To this end, it is recommended that Member States remove any obstacles which may prevent the consolidation at European level of the relevant information and its publication.

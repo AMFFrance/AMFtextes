@@ -1,0 +1,1 @@
+(3) Due to the increasing dependence of investors on personal recommendations, it is appropriate to include the provision of investment advice as an investment service requiring authorisation.

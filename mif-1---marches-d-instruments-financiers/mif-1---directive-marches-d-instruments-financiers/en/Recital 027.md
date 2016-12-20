@@ -1,0 +1,3 @@
+(27) Where a client, in line with Community legislation and in particular Directive 2002/47/EC of the European Parliament and of the Council of 6 June 2002 on financial collateral arrangements ( 12 ), transfers full ownership of financial instruments or funds to an investment firm for the purpose of securing or otherwise covering present or future, actual or contingent or prospective obligations, such financial instruments or funds should likewise no longer be regarded as belonging to the client.
+
+%%% ( 12 ) OJ L 168, 27.6.2002, p. 43.

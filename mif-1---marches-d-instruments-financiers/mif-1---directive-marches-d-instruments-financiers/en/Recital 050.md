@@ -1,0 +1,1 @@
+(50) Systematic internalisers might decide to give access to their quotes only to retail clients, only to professional clients, or to both. They should not be allowed to discriminate within those categories of clients.

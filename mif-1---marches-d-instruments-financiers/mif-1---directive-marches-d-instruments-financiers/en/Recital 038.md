@@ -1,0 +1,1 @@
+(38) The conditions for conducting activities outside the premises of the investment firm (door-to-door selling) should not be covered by this Directive.

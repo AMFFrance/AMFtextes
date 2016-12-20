@@ -1,0 +1,1 @@
+(31) One of the objectives of this Directive is to protect investors. Measures to protect investors should be adapted to the particularities of each category of investors (retail, professional and counterparties).

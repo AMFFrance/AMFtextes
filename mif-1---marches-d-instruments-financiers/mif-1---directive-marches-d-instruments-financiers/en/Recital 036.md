@@ -1,0 +1,1 @@
+(36) Persons who provide investment services on behalf of more than one investment firm should not be considered as tied agents but as investment firms when they fall under the definition provided in this Directive, with the exception of certain persons who may be exempted.
