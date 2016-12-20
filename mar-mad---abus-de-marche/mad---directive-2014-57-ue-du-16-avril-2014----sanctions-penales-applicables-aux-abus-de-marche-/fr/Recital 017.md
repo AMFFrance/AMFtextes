@@ -1,0 +1,1 @@
+(17) La présente directive devrait être appliquée en tenant compte du cadre juridique établi par le règlement (UE) no 596/2014 et par ses mesures d’exécution.

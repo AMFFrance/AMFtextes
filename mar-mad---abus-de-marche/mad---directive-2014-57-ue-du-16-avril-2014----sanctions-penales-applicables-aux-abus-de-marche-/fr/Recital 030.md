@@ -1,0 +1,1 @@
+(30) Conformément aux articles 1er, 2, 3 et 4 du protocole no 21 sur la position du Royaume-Uni et de l’Irlande à l’égard de l’espace de liberté, de sécurité et de justice annexé au traité sur l’Union européenne et au traité sur le fonctionnement de l’Union européenne, l’Irlande a notifié son souhait de participer à l’adoption et à l’application de la présente directive.

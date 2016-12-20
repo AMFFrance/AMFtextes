@@ -1,0 +1,1 @@
+(21) Les États membres peuvent, par exemple, prévoir que la manipulation de marché constitue une infraction pénale si elle résulte d’une imprudence ou d’une faute grave.

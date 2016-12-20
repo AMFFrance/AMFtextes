@@ -1,0 +1,1 @@
+(13) Eu égard aux effets négatifs qu’ont les tentatives d’opération d’initié et de manipulation de marché sur l’intégrité des marchés financiers et sur la confiance des investisseurs dans ces marchés, ces formes de comportement devraient également être punissables au titre d’infractions pénales.

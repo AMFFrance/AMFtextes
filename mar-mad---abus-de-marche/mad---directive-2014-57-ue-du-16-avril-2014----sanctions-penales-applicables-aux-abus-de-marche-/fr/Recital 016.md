@@ -1,0 +1,1 @@
+(16) Afin que les sanctions applicables aux infractions visées à la présente directive soient efficaces et dissuasives, il convient de fixer le seuil de la peine d’emprisonnement maximale dans la présente directive.

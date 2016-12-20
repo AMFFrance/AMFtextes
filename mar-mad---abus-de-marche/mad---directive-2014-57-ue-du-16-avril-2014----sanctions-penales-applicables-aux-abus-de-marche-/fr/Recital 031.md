@@ -1,0 +1,1 @@
+(31) Conformément aux articles 1er et 2 du protocole no 22 sur la position du Danemark annexé au traité sur l’Union européenne et au traité sur le fonctionnement de l’Union européenne, le Danemark ne participe pas à l’adoption de la présente directive et n’est donc pas lié par celle-ci ni soumis à son application.

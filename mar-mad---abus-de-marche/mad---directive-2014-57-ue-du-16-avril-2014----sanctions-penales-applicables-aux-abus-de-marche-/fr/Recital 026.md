@@ -1,0 +1,1 @@
+(26) Le développement des activités transfrontalières requiert une coopération efficace et performante entre les autorités nationales chargées d’enquêter et de poursuivre les infractions d’abus de marché. L’organisation et les compétences de ces autorités nationales dans les divers États membres ne devraient pas entraver leur coopération.
