@@ -1,0 +1,1 @@
+(2) Même si le règlement (UE) no 596/2014 autorise la stabilisation par des instruments associés, la dérogation applicable aux opérations effectuées dans le cadre de programmes de rachat devrait se limiter à la négociation des propres actions de l'émetteur et ne pas s'étendre aux opérations sur produits financiers dérivés.

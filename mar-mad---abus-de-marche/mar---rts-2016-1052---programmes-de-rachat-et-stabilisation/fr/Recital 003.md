@@ -1,0 +1,1 @@
+(3) La transparence étant indispensable à la prévention des abus de marché, il importe de veiller à la publication ou à la déclaration d'informations adéquates avant, pendant et après les opérations sur actions propres effectuées dans le cadre de programmes de rachat et la négociation en vue de la stabilisation de titres.
