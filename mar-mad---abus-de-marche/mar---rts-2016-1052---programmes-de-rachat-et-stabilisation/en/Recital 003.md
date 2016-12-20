@@ -1,0 +1,1 @@
+(3) As transparency is a prerequisite for the prevention of market abuse, it is important to ensure that adequate information is disclosed or reported prior to, during and after the trading in own shares in buy-back programmes and trading for the stabilisation of securities.

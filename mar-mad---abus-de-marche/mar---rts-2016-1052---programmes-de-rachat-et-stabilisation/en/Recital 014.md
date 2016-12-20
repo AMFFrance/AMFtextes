@@ -1,0 +1,1 @@
+(14) In order to ensure the smooth functioning of the financial markets, it is necessary that this Regulation enters into force as a matter of urgency and that the provisions laid down in this Regulation apply from the same date as those laid down in Regulation (EU) No 596/2014,

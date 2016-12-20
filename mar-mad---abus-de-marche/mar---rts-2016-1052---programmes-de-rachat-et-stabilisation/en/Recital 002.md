@@ -1,0 +1,1 @@
+(2) Although Regulation (EU) No 596/2014 allows stabilisation through associated instruments, the exemption for transactions relating to buy-back programmes should be limited to actual trading in the own shares of the issuer and should not apply to transactions in financial derivatives.

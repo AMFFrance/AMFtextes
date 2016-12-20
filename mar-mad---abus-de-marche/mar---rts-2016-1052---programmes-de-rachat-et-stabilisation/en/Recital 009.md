@@ -1,0 +1,1 @@
+(9) There should be adequate coordination in place between all investment firms and credit institutions undertaking stabilisation. During stabilisation, one investment firm or credit institution should act as a central point of inquiry for any regulatory intervention by the competent authorities of the Member States concerned.
