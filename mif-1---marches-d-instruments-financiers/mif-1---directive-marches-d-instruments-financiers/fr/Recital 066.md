@@ -1,0 +1,1 @@
+(66) Selon le Conseil européen de Stockholm, les mesures d'exécution de niveau 2 devraient servir plus fréquemment, afin de garantir l'actualisation des dispositions techniques par rapport à l'évolution des marchés et des pratiques en matière de surveillance, et il conviendrait de fixer des dates limites pour toutes les étapes des travaux relatifs au niveau 2.

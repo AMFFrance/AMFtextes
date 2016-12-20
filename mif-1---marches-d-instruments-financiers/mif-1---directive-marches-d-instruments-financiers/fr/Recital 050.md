@@ -1,0 +1,1 @@
+(50) Les internalisateurs systématiques pourraient décider de donner accès à leurs prix uniquement à leurs clients de détail, ou bien uniquement à leurs clients professionnels ou aux deux. Ils ne devraient pas être autorisés à exercer une discrimination à l'intérieur de ces catégories de clients.

@@ -1,0 +1,3 @@
+(18) Les établissements de crédit qui sont agréés en vertu de la directive 2000/12/CE du Parlement européen et du Conseil du 20 mars 2000 concernant l'accès à l'activité des établissements de crédit et son exercice ( 9 ), ne devraient pas avoir besoin d'un autre agrément en vertu de la présente directive pour fournir des services d'investissement ou exercer des activités de même nature. Lorsqu'un établissement de crédit décide de fournir de tels services ou d'exercer de telles activités, les autorités compétentes devraient s'assurer, avant d'accorder l'agrément, qu'il respecte les dispositions pertinentes de la présente directive.
+
+%%% ( 9 ) JO L 126 du 26.5.2000, p. 1. Directive modifiée en dernier lieu par la directive 2002/87/CE.

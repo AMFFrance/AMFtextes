@@ -1,0 +1,6 @@
+# Article 43 - Contrôle du respect des règles des marchés réglementés et des autres obligations légales
+
+
+1.  Les États membres exigent que les marchés réglementés instaurent et maintiennent des dispositions et procédures efficaces pour le contrôle régulier du respect de leurs règles par leurs membres ou leurs participants. Les marchés réglementés surveillent les transactions effectuées par leurs membres ou leurs participants dans le cadre de leurs systèmes, en vue de détecter tout manquement auxdites règles, toute condition de négociation de nature à perturber le bon ordre du marché ou tout comportement potentiellement révélateur d'un abus de marché.
+
+2.  Les États membres exigent que les opérateurs de marchés réglementés signalent à l'autorité compétente du marché réglementé tout manquement important à leurs règles ou toute condition de négociation de nature à perturber le bon ordre du marché pouvant entraîner un abus de marché. Ils exigent également que les opérateurs de marchés réglementés fournissent sans délai les informations pertinentes à l'autorité compétente en matière d'enquêtes et de poursuites concernant les abus de marché sur les marchés réglementés et prêtent à celle-ci toute l'aide nécessaire pour instruire et poursuivre les abus de marché commis sur ou via les systèmes du marché réglementé.

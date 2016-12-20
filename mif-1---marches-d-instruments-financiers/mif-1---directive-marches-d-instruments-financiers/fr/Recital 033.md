@@ -1,0 +1,1 @@
+(33) Il est nécessaire d'imposer aux entreprises d'investissement une obligation effective d'exécution au mieux, afin d'assurer qu'elles exécutent les ordres des clients dans les conditions qui leur sont les plus favorables. Cela devrait valoir pour les entreprises d'investissement tenues à des obligations contractuelles ou à des obligations d'intermédiaire envers leurs clients.

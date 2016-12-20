@@ -1,0 +1,1 @@
+(51) L'article 27 n'oblige pas les internalisateurs systématiques à publier des prix fermes pour des transactions supérieures à la taille normale de marché.

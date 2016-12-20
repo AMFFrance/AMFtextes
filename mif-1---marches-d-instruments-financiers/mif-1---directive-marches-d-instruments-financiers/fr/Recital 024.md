@@ -1,0 +1,5 @@
+(24) Les entreprises d'investissement qui sont dispensées de certaines obligations prévues par la directive 93/6/CEE du Conseil du 15 mars 1993 sur l'adéquation des fonds propres des entreprises d'investissement et des établissements de crédit ( 10 ) sont tenues soit de détenir un montant minimal en capital, soit de contracter une assurance de responsabilité civile professionnelle, soit à une combinaison de ces deux obligations. Toute adaptation des montants de cette assurance devrait tenir compte de la révision effectuée dans le cadre de la directive 2002/92/CE du 9 décembre 2002 du Parlement européen et du Conseil sur l'intermédiation en assurance. ( 11 ) Ce régime particulier en matière d'adéquation des fonds propres devrait être sans préjudice de toute décision afférente au traitement qu'il conviendra d'appliquer aux entreprises concernées au titre de révisions futures de la législation communautaire sur l'adéquation des fonds propres.
+
+%%% ( 10 ) JO L 141 du 11.6.1993, p. 1. Directive modifiée en dernier lieu par la directive 2002/87/CE.
+
+%%% ( 11 ) JO L 9 du 15.1.2003, p. 3.

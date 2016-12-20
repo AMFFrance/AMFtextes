@@ -1,0 +1,1 @@
+(54) La taille normale de marché pour une catégorie d'actions ne devrait pas être notablement disproportionnée par rapport à n'importe quelle action appartenant à cette catégorie.

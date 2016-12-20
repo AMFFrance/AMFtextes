@@ -1,0 +1,3 @@
+(27) Lorsque, conformément à la législation communautaire et notamment à la directive 2002/47/CE du Parlement européen et du Conseil du 6 juin 2002 concernant les contrats de garantie financière ( 12 ) un client transfère la pleine propriété d'instruments financiers ou de fonds à une entreprise d'investissement à titre de sûretés d'obligations présentes ou futures, qu'elles soient réelles, conditionnelles ou potentielles, ou en vue de les garantir d'une autre manière, il y a également lieu de considérer que ces instruments ou fonds ne devraient plus appartenir au client.
+
+%%% ( 12 ) JO L 168 du 27.6.2002, p. 43.

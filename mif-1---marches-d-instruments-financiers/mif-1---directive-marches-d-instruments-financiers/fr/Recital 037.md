@@ -1,0 +1,1 @@
+(37) La présente directive ne doit pas porter atteinte au droit des agents liés d'entreprendre des activités couvertes par d'autres directives ou des activités connexes portant sur des services ou des produits financiers qui ne sont pas visés par la présente directive, y compris pour le compte d'entités d'un groupe financier auquel ils appartiennent.

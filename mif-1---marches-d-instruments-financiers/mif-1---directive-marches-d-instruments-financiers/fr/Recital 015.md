@@ -1,0 +1,1 @@
+(15) Il y a lieu d'exclure du champ d'application de la présente directive les organismes de placement collectif et les fonds de pension, qu'ils soient ou non coordonnés au niveau communautaire, ainsi que les dépositaires et gestionnaires de tels organismes, dans la mesure où ils sont soumis à une réglementation spécifique directement adaptée à leurs activités.

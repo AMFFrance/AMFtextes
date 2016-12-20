@@ -1,0 +1,1 @@
+(38) Les conditions d'exercice des activités ayant lieu en dehors des locaux de l'entreprise d'investissement (le «démarchage et colportage») ne devraient pas être couvertes par la présente directive.

@@ -1,0 +1,3 @@
+(43) Les États membres protègent le droit à la vie privée des personnes physiques à l'égard du traitement des données à caractère personnel conformément à la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données ( 13 ).
+
+%%% ( 13 ) JO L 281 du 23.11.1995, p. 31.

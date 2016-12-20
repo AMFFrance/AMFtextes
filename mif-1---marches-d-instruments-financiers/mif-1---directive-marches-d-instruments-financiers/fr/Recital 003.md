@@ -1,0 +1,1 @@
+(3) Étant donné que les investisseurs s'appuient de plus en plus sur des recommandations personnalisées, il convient d'ajouter le conseil en investissement au nombre des services d'investissement requérant un agrément.

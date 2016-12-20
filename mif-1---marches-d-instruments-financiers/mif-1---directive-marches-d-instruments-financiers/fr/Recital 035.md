@@ -1,0 +1,1 @@
+(35) Lorsqu'elle établit la relation commerciale avec le client ou le client potentiel, l'entreprise d'investissement devrait pouvoir en même temps lui demander de donner son accord à la politique d'exécution ainsi qu'à la possibilité que les ordres soient exécutés en dehors d'un marché réglementé ou d'un MTF.

@@ -1,0 +1,1 @@
+(11) Les personnes qui ne fournissent pas de services à des tiers, mais dont l'activité consiste à fournir des services d'investissement exclusivement à leur entreprise mère, à leurs filiales ou à une autre filiale de leur entreprise mère, ne devraient pas être couvertes par la présente directive.

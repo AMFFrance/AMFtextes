@@ -1,0 +1,1 @@
+(52) Lorsqu'une entreprise d'investissement est un internalisateur systématique à la fois en actions et en autres instruments financiers, l'obligation d'afficher un prix ne devrait s'appliquer qu'aux actions, sans préjudice du considérant 46.

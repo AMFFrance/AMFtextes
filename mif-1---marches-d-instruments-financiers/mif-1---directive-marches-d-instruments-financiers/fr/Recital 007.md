@@ -1,0 +1,1 @@
+(7) La présente directive vise à couvrir les entreprises dont l'occupation ou l'activité habituelle consiste à fournir des services d'investissement et/ou à exercer des activités d'investissement, à titre professionnel. Il convient, dès lors, d'exclure de son champ d'application toute personne dont l'activité professionnelle est d'une autre nature.

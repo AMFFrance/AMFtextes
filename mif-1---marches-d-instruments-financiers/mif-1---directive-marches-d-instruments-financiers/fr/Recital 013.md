@@ -1,0 +1,1 @@
+(13) Les personnes qui fournissent des services d'investissement consistant exclusivement à gérer un système de participation des travailleurs et qui, à ce titre, ne fournissent pas de services d'investissement à des tiers ne sont pas visées par les dispositions de la présente directive.

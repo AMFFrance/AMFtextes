@@ -1,0 +1,1 @@
+(40) Aux fins de la présente directive, les contreparties éligibles devraient être considérées comme agissant en qualité de clients.

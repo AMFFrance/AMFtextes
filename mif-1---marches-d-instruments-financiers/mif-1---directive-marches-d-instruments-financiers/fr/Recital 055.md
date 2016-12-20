@@ -1,0 +1,1 @@
+(55) La version révisée de la directive 93/6/CEE devrait fixer les exigences minimales de capital auxquelles les marchés réglementés doivent satisfaire pour pouvoir être agréés, en tenant compte de la nature spécifique des risques associés à ces marchés.

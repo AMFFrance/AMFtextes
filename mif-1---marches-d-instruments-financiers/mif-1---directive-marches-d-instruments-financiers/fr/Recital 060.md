@@ -1,0 +1,1 @@
+(60) Il est nécessaire de faire converger davantage les pouvoirs dont disposent les autorités compétentes, en vue de tendre vers une intensité équivalente de l'exécution des règles à l'intérieur du marché financier intégré. Un socle minimum commun de pouvoirs, assorti des ressources appropriées, devrait garantir l'efficacité de la surveillance.

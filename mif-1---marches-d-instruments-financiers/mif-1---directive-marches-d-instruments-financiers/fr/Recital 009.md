@@ -1,0 +1,1 @@
+(9) Lorsque le texte comporte le terme «personne(s)», celui-ci devrait être compris comme visant tant les personnes physiques que les personnes morales.

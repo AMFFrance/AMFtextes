@@ -1,0 +1,1 @@
+(62) Tout échange ou toute transmission d'informations entre les autorités compétentes ou d'autres autorités, organismes ou personnes doit se conformer aux règles concernant le transfert de données à caractère personnel vers des pays tiers visées à la directive 95/46/CE.

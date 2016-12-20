@@ -1,0 +1,1 @@
+(29) L'élargissement de la palette des activités exercées simultanément par nombre d'entreprises d'investissement a multiplié les sources de conflits potentiels entre ces différentes activités et les intérêts des clients. Il est donc nécessaire de prévoir des règles visant à éviter que ces conflits ne lèsent lesdits intérêts.

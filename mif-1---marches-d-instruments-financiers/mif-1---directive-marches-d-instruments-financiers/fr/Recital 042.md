@@ -1,0 +1,1 @@
+(42) En ce qui concerne les transactions exécutées entre contreparties éligibles, l'obligation de divulguer des ordres à cours limité ne devrait s'appliquer que lorsque la contrepartie envoie explicitement un ordre à cours limité à une entreprise d'investissement en vue de son exécution.

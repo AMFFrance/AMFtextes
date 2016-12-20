@@ -1,0 +1,1 @@
+(45) Les États membres devraient aussi pouvoir appliquer l'obligation de déclarer les transactions prévue par la présente directive à des instruments financiers qui ne sont pas admis à la négociation sur un marché réglementé.

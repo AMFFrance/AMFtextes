@@ -1,0 +1,1 @@
+(4) Il convient d'inclure dans la liste des instruments financiers certains contrats dérivés sur matières premières et d'autres constitués et négociés d'une manière telle qu'elle appelle une approche réglementaire comparable à celle applicable aux instruments financiers classiques.

@@ -1,0 +1,1 @@
+(47) Les entreprises d'investissement devraient disposer des mêmes possibilités de devenir membres des marchés réglementés ou d'avoir accès à ces marchés dans toute la Communauté. Quels que soient les modes d'organisation des transactions en vigueur dans les États membres, il importe d'abolir les limitations techniques et juridiques à l'accès aux marchés réglementés.
