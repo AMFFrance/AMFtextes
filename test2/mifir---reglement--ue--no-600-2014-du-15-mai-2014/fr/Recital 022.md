@@ -1,0 +1,1 @@
+(22) Le présent règlement n’a pas pour objet d’imposer des règles de transparence pré-négociation aux transactions de gré à gré, autres que celles passant par l’intermédiaire d’un internalisateur systématique

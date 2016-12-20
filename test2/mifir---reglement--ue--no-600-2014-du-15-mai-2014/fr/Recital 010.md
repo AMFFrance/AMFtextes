@@ -1,0 +1,1 @@
+(10) Toutes les activités de négociation organisée devraient s’exercer sur des plates-formes réglementées et ce, de manière totalement transparente, aussi bien avant qu’après la négociation. Des obligations de transparence judicieusement calibrées doivent donc s’appliquer à tous les types de plates-formes de négociation et à tous les instruments financiers qui y sont négociés.

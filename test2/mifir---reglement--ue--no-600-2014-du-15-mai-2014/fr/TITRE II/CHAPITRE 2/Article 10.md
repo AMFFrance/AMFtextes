@@ -1,0 +1,6 @@
+# Article 10 - Obligations de transparence post-négociation imposées aux plates-formes de négociation pour les obligations, produits financiers structurés, quotas d’émission et instruments dérivés
+
+
+1.   Les opérateurs de marché et les entreprises d’investissement exploitant une plate-forme de négociation rendent publics le prix, le volume et l’heure des transactions exécutées portant sur des obligations, produits financiers structurés, quotas d’émission et instruments dérivés négociés sur une plate-forme de négociation. Les opérateurs de marché et les entreprises d’investissement exploitant une plate-forme de négociation rendent public le détail de toutes ces transactions en temps réel, dans la mesure où les moyens techniques le permettent.
+
+2.   Les opérateurs de marché et les entreprises d’investissement exploitant une plate-forme de négociation permettent aux entreprises d’investissement qui sont tenues, conformément à l’article 21, de publier le détail de leurs transactions sur des obligations, produits financiers structurés, quotas d’émission et instruments dérivés d’accéder, à des conditions commerciales raisonnables et sur une base non discriminatoire, aux dispositifs qu’ils utilisent pour rendre publiques les informations visées au paragraphe 1.
