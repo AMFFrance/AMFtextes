@@ -1,0 +1,1 @@
+(78) Afin d’accroître la transparence et de mieux documenter le fonctionnement des régimes de sanctions, les autorités compétentes devraient fournir des données anonymes et agrégées à l’AEMF sur une base annuelle. Ces données devraient comprendre le nombre d’enquêtes ayant été ouvertes, le nombre d’enquêtes en cours et le nombre d’enquêtes closes pendant la période considérée.

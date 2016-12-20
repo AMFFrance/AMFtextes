@@ -1,0 +1,4 @@
+# Article 22 - Autorités compétentes
+
+
+Sans préjudice des compétences des autorités judiciaires, chaque État membre désigne une autorité administrative compétente unique aux fins du présent règlement. Les États membres en informent la Commission, l’AEMF et les autres autorités compétentes des autres États membres. L’autorité compétente veille à l’application des dispositions du présent règlement sur son territoire, en ce qui concerne l’ensemble des actions réalisées sur son territoire et les actions réalisées à l’étranger se rapportant à des instruments admis à la négociation sur un marché réglementé, pour lesquels une demande d’admission à la négociation sur un tel marché a été introduite, mis aux enchères sur une plate-forme d’enchères ou qui sont négociés sur un MTF ou sur un OTF ou pour lesquels une demande d’admission à la négociation a été présentée sur un MTF opérant sur son territoire.

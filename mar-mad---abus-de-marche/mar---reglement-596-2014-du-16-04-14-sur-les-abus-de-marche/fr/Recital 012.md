@@ -1,0 +1,1 @@
+(12) Les opérations sur actions propres effectuées dans le cadre de programmes de rachat ainsi que les mesures de stabilisation d’instruments financiers qui ne bénéficieraient pas des dérogations au titre du présent règlement ne devraient pas être réputées en elles-mêmes constituer des abus de marché.

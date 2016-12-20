@@ -1,0 +1,1 @@
+(40) Afin de garantir la responsabilité tant de la personne morale que de toute personne physique participant à la prise de décision de la personne morale, il est nécessaire de reconnaître les différents mécanismes juridiques nationaux des États membres. Ces mécanismes devraient concerner directement les méthodes d’imputation de la responsabilité dans le droit national.

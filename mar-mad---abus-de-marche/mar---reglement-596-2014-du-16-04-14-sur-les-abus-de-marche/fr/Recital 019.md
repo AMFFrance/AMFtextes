@@ -1,0 +1,1 @@
+(19) Le présent règlement n’a pas pour objet d’interdire les discussions d’ordre général portant sur les évolutions des affaires et du marché entre les actionnaires et les dirigeants concernant un émetteur. De telles relations sont essentielles au fonctionnement efficace des marchés et ne devraient pas être interdites par le présent règlement.

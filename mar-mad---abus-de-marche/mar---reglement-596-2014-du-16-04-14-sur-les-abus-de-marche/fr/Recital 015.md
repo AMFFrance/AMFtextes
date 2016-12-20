@@ -1,0 +1,1 @@
+(15) Les informations disponibles ex post peuvent servir à vérifier la présomption de sensibilité des cours aux informations disponibles ex ante, mais elles ne devraient pas être utilisées pour poursuivre les personnes qui auraient tiré des conclusions raisonnables des informations dont elles disposaient ex ante.

@@ -1,0 +1,1 @@
+(43) Le présent règlement devrait également préciser que les manipulations de marché ou les tentatives de manipulation de marché concernant un instrument financier peuvent passer par l’utilisation d’instruments financiers liés, tels que des instruments dérivés négociés sur une autre plate-forme de négociation ou un OTC.

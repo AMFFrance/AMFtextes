@@ -1,0 +1,1 @@
+(87) Les dispositions de la directive 2003/6/CE n’étant plus pertinentes ou suffisantes, il convient d’abroger cette directive à compter du 3 juillet 2016. Les exigences et interdictions contenues dans le présent règlement sont strictement liées à celles de la directive 2014/65/UE et devraient dès lors entrer en vigueur à la date d’entrée en vigueur de cette directive.

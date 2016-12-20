@@ -1,0 +1,1 @@
+(80) Le présent règlement ainsi que les actes délégués, actes d’exécution, normes techniques de réglementation, normes techniques d’exécution et lignes directrices adoptés conformément à celui-ci sont sans préjudice de l’application des règles de l’Union en matière de concurrence.
