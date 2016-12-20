@@ -1,0 +1,1 @@
+(22) It is not the intention of this Regulation to require the application of pre-trade transparency rules to transactions carried out on an OTC basis, other than within a systematic internaliser.

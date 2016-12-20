@@ -1,0 +1,1 @@
+(33) The operator of a trading venue should provide its competent authority with relevant financial instrument reference data. Those notifications are to be transmitted by the competent authorities without delay to ESMA, which should publish them immediately on its website to enable ESMA and competent authorities to use, analyse and exchange transaction reports.

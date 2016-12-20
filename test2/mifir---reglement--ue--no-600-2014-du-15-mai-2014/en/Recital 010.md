@@ -1,0 +1,1 @@
+(10) All organised trading should be conducted on regulated venues and be fully transparent, both pre and post trade. Appropriately calibrated transparency requirements therefore need to apply to all types of trading venues, and to all financial instruments traded thereon.
