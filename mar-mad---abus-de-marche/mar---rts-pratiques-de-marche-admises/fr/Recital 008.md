@@ -1,1 +1,0 @@
-(8) Le présent règlement se fonde sur les projets de normes techniques de réglementation soumis à la Commission par l'Autorité européenne des marchés financiers (AEMF).

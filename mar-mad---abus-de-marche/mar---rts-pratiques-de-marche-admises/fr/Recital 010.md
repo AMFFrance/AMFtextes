@@ -1,1 +1,0 @@
-(10) Afin d'assurer le bon fonctionnement des marchés financiers, il est nécessaire que le présent règlement entre en vigueur d'urgence et que ses dispositions s'appliquent à compter de la même date que celles prévues par le règlement (UE) no 596/2014,
