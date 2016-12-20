@@ -1,0 +1,1 @@
+(43) This Regulation should also clarify that engaging in market manipulation or attempting to engage in market manipulation in a financial instrument may take the form of using related financial instruments such as derivative instruments that are traded on another trading venue or OTC.

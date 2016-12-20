@@ -1,0 +1,1 @@
+(78) In order to increase transparency and to better inform the operation of the sanction regimes, competent authorities should provide anonymised and aggregated data to ESMA on an annual basis. That data should comprise the number of investigations that have been opened, the number that are ongoing and the number that have been closed during the relevant period.

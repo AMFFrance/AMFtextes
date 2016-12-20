@@ -1,0 +1,1 @@
+(45) In order to ensure uniform market conditions between trading venues and facilities subject to this Regulation, any person who operates regulated markets, MTFs and OTFs should be required to establish and to maintain effective arrangements, systems and procedures aimed at preventing and detecting market manipulation and abusive practices.

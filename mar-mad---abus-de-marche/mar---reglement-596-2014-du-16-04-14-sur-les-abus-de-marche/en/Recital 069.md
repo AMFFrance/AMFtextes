@@ -1,0 +1,3 @@
+(69) In order to ensure exchanges of information and cooperation with third-country authorities in relation to the effective enforcement of this Regulation, competent authorities should conclude cooperation arrangements with their counterparts in third countries. Any transfer of personal data carried out on the basis of those agreements should comply with Directive 95/46/EC and with Regulation (EC) No 45/2001 of the European Parliament and of the Council (13).
+
+%%% (13)  Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data (OJ L 8, 12.1.2001, p. 1).

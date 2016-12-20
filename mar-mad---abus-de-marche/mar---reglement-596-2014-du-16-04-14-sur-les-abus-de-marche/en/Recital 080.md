@@ -1,0 +1,1 @@
+(80) This Regulation, as well as the delegated acts, implementing acts, regulatory technical standards, implementing technical standards and guidelines adopted in accordance therewith, are without prejudice to the application of Union rules on competition.

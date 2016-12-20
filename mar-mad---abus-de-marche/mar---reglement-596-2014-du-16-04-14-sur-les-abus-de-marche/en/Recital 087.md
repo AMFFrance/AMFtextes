@@ -1,0 +1,1 @@
+(87) The provisions of Directive 2003/6/EC being no longer relevant or sufficient, that Directive should be repealed from 3 July 2016. The requirements and prohibitions of this Regulation are strictly related to those in Directive 2014/65/EU and should therefore enter into force on the date of entry into force of that Directive.

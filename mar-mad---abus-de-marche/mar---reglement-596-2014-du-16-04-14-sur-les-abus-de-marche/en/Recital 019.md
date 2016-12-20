@@ -1,0 +1,1 @@
+(19) This Regulation is not intended to prohibit discussions of a general nature regarding the business and market developments between shareholders and management concerning an issuer. Such relationships are essential for the efficient functioning of markets and should not be prohibited by this Regulation.

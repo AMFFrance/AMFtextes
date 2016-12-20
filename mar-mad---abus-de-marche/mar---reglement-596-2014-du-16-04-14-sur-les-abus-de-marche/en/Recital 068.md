@@ -1,0 +1,1 @@
+(68) It is necessary for competent authorities to have the necessary tools for effective cross-market order book surveillance. Pursuant to Directive 2014/65/EU, competent authorities are able to request and receive data from other competent authorities relating to the order book to assist in monitoring and detecting market manipulation on a cross-border basis.

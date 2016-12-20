@@ -1,0 +1,1 @@
+(15) Ex post information can be used to check the presumption that the ex ante information was price sensitive, but should not be used to take action against persons who drew reasonable conclusions from ex ante information available to them.

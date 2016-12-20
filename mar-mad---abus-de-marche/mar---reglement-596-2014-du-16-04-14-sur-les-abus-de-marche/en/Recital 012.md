@@ -1,0 +1,1 @@
+(12) Trading in own shares in buy-back programmes and Stabilising a financial instrument which would not benefit from the exemptions under this Regulation should not of itself be deemed to constitute market abuse.

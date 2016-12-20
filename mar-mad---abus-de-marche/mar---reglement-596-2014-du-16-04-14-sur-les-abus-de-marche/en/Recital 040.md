@@ -1,0 +1,1 @@
+(40) To ensure that liability is conferred on both the legal person and any natural person who participates in the decision-making of the legal person, it is necessary to give recognition of the different national legal mechanisms in Member States. Such mechanisms should relate directly to the methods of attribution of liability in national law.

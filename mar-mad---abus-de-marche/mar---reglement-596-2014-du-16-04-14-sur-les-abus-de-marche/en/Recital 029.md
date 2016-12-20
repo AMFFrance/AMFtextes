@@ -1,0 +1,1 @@
+(29) In order to avoid inadvertently prohibiting forms of financial activity which are legitimate, namely where there is no effect of market abuse, it is necessary to recognise certain legitimate behaviour. This may include, for example, recognising the role of market makers, when acting in the legitimate capacity of providing market liquidity.

@@ -1,0 +1,4 @@
+# Article 15 - Prohibition of market manipulation
+
+
+A person shall not engage in or attempt to engage in market manipulation.
