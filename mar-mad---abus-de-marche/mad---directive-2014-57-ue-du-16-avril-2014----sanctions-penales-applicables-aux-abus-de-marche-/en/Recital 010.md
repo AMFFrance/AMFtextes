@@ -1,0 +1,1 @@
+(10) Member States should be required to provide at least for serious cases of insider dealing, market manipulation and unlawful disclosure of inside information to constitute criminal offences when committed with intent.

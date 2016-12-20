@@ -1,0 +1,1 @@
+(17) This Directive should be applied taking into account the legal framework established by Regulation (EU) No 596/2014 and its implementing measures.

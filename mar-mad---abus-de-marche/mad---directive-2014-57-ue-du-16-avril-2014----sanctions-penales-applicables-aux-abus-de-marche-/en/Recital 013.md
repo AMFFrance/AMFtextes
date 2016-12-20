@@ -1,0 +1,1 @@
+(13) Due to the adverse effects of attempted insider dealing and attempted market manipulation on the integrity of the financial markets and on investor confidence in those markets, those forms of behaviour should also be punishable as a criminal offence.

@@ -1,0 +1,1 @@
+(8) The introduction by all Member States of criminal sanctions for at least serious market abuse offences is therefore essential to ensure the effective implementation of Union policy on fighting market abuse.

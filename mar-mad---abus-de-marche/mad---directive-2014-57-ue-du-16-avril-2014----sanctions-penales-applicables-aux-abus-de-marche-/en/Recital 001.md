@@ -1,0 +1,1 @@
+(1) An integrated and efficient financial market and stronger investor confidence requires market integrity. The smooth functioning of securities markets and public confidence in markets are prerequisites for economic growth and wealth. Market abuse harms the integrity of financial markets and public confidence in securities, derivatives and benchmarks.

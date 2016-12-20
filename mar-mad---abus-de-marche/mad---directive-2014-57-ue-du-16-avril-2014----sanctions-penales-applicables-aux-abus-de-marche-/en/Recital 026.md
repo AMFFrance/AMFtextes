@@ -1,0 +1,1 @@
+(26) Increasing cross-border activities require efficient and effective cooperation between national authorities which are competent for the investigation and prosecution of market abuse offences. The organisation and competences of those national authorities in the different Member States should not hinder their cooperation.

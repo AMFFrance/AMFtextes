@@ -1,0 +1,1 @@
+(30) In accordance with Articles 1, 2, 3 and 4 of Protocol No 21 on the position of the United Kingdom and Ireland in respect of the area of freedom, security and justice, annexed to the TEU and to the TFEU, Ireland has notified its wish to take part in the adoption and application of this Directive.

@@ -1,0 +1,1 @@
+(31) In accordance with Articles 1 and 2 of Protocol No 22 on the position of Denmark annexed to the TEU and to the TFEU, Denmark is not taking part in the adoption of this Directive and is therefore not bound by it or subject to its application.

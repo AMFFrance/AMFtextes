@@ -1,0 +1,1 @@
+(21) Member States may, for example, provide that market manipulation committed recklessly or by serious negligence constitutes a criminal offence.

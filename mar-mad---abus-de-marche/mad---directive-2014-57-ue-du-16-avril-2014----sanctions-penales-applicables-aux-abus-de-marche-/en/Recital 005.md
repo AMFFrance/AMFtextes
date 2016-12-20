@@ -1,0 +1,1 @@
+(5) The adoption of administrative sanctions by Member States has, to date, proven to be insufficient to ensure compliance with the rules on preventing and fighting market abuse.

@@ -1,0 +1,1 @@
+(16) In order for the sanctions for the offences referred to in this Directive to be effective and dissuasive, a minimum level for the maximum term of imprisonment should be set in this Directive.
