@@ -1,0 +1,1 @@
+(38) A depositary should act honestly, fairly, professionally, independently and in the interest of the AIF or of the investors of the AIF.

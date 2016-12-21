@@ -1,0 +1,1 @@
+(14) This Directive lays down requirements regarding the manner in which AIFMs should manage AIFs under their responsibility. For non-EU AIFMs this is limited to the management of EU AIFs and other AIFs the units or shares of which are also marketed to professional investors in the Union.

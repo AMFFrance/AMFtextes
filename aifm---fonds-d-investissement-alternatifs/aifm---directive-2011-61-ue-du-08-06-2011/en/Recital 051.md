@@ -1,0 +1,1 @@
+(51) It is also considered necessary to allow ESMA, after taking into account the advice of the ESRB, to determine that the leverage used by an AIFM or by a group of AIFMs poses a substantial risk to the stability and the integrity of the financial system and to issue advice to competent authorities specifying the remedial measures to be taken.

@@ -1,0 +1,1 @@
+(66) Further, a non-EU AIFM intending to manage EU AIFs and/or market AIFs in the Union with a passport should comply with a specific authorisation procedure and certain specific requirements concerning the third country of the non-EU AIFM and, as appropriate, the third country of the non-EU AIF should be satisfied.

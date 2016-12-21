@@ -1,0 +1,1 @@
+(36) The Commission is invited to examine the possibilities of putting forward an appropriate horizontal legislative proposal that clarifies the responsibilities and liabilities of a depositary and governs the right of a depositary in one Member State to provide its services in another Member State.

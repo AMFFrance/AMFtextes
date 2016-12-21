@@ -1,0 +1,5 @@
+# ANNEX I
+
+1. Investment management functions which an AIFM shall at least perform when managing an AIF: (a) portfolio management; (b) risk management.
+
+2. Other functions that an AIFM may additionally perform in the course of the collective management of an AIF: (a) Administration: (i) legal and fund management accounting services; (ii) customer inquiries; (iii) valuation and pricing, including tax returns; (iv) regulatory compliance monitoring; (v) maintenance of unit-/shareholder register; (vi) distribution of income; (vii) unit/shares issues and redemptions; (viii) contract settlements, including certificate dispatch; (ix) record keeping; (b) Marketing; (c) Activities related to the assets of AIFs, namely services necessary to meet the fiduciary duties of the AIFM, facilities management, real estate administration activities, advice to undertakings on capital structure, industrial strategy and related matters, advice and services relating to mergers and the purchase of undertakings and other services connected to the management of the AIF and the companies and other assets in which it has invested.

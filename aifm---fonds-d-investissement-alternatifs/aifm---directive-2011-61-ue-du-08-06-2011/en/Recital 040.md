@@ -1,0 +1,1 @@
+(40) A third party to whom the safe-keeping of assets is delegated should be able to maintain a common segregated account for multiple AIFs, a so-called ‘omnibus account’.

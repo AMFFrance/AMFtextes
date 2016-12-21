@@ -1,0 +1,1 @@
+(61) Many EU AIFMs currently manage non-EU AIFs. It is appropriate to allow authorised EU AIFMs to manage non-EU AIFs without marketing them in the Union without imposing on them the strict depositary requirements and the requirements relating to the annual report provided for in this Directive, as those requirements have been included for the protection of Union investors.

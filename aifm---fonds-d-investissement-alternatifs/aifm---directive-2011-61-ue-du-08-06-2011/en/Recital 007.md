@@ -1,0 +1,1 @@
+(7) Investment undertakings, such as family office vehicles which invest the private wealth of investors without raising external capital, should not be considered to be AIFs in accordance with this Directive.

@@ -1,0 +1,1 @@
+(73) This Directive provides for a general coordinating role for ESMA, and the possibility of binding mediation procedures, chaired by ESMA, to resolve disputes between competent authorities.

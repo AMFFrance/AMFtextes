@@ -1,0 +1,1 @@
+(70) This Directive should not affect the current situation, whereby a professional investor established in the Union may invest in AIFs on its own initiative, irrespective of where the AIFM and/or the AIF is established.

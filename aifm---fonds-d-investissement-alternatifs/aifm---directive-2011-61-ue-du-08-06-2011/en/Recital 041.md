@@ -1,0 +1,3 @@
+(41) Entrusting the custody of assets to the operator of a securities settlement system as designated for the purposes of Directive 98/26/EC of the European Parliament and of the Council of 19 May 1998 on settlement finality in payment and securities settlement systems (12) or entrusting the provision of similar services to third-country securities settlement systems should not be considered to be a delegation of custody functions.
+
+%%% (12)  OJ L 166, 11.6.1998, p. 45.

@@ -1,0 +1,1 @@
+(1) Managers of alternative investment funds (AIFMs) are responsible for the management of a significant amount of invested assets in the Union, account for significant amounts of trading in markets for financial instruments, and can exercise an important influence on markets and companies in which they invest.

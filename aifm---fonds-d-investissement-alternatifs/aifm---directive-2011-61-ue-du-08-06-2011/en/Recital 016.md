@@ -1,0 +1,1 @@
+(16) This Directive should not apply to AIFMs in so far as they manage AIFs whose only investors are the AIFMs themselves or their parent undertakings, their subsidiaries or other subsidiaries of their parent undertaking and where those investors are not themselves AIFs.

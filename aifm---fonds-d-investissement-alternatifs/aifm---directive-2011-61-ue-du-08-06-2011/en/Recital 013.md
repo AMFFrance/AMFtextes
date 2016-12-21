@@ -1,0 +1,1 @@
+(13) Subject to the exceptions and restrictions provided for, this Directive should be applicable to all EU AIFMs managing EU AIFs or non-EU AIFs, irrespective of whether or not they are marketed in the Union, to non-EU AIFMs managing EU AIFs, irrespective of whether or not they are marketed in the Union, and to non-EU AIFMs marketing EU AIFs or non-EU AIFs in the Union.

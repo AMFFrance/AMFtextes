@@ -1,0 +1,1 @@
+(25) The principles governing remuneration policies should recognise that AIFMs are able to apply those policies in different ways according to their size and the size of the AIFs they manage, their internal organisation and the nature, the scope and the complexity of their activities.

@@ -1,0 +1,1 @@
+(75) Member States should lay down rules on penalties applicable to infringements of this Directive and ensure that they are implemented. The penalties should be effective, proportionate and dissuasive.

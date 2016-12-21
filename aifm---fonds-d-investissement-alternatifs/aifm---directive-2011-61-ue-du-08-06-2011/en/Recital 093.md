@@ -1,0 +1,1 @@
+(93) At the end of its review, the Commission should present a report to the European Parliament and the Council including, if appropriate, proposed amendments taking into account the objectives of this Directive and potential impacts on investors, AIFs or AIFMs, in the Union and in third countries.

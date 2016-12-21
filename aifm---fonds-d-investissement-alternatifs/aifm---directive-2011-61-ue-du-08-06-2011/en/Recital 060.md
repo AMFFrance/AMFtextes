@@ -1,0 +1,3 @@
+(60) It should be possible for units or shares of an AIF to be listed on a regulated market in the Union, or offered or placed by third parties acting on behalf of the AIFM, in a particular Member State only if the AIFM which manages the AIF is itself permitted to market the units or shares of the AIF in that Member State. In addition, other national and Union law, such as Directive 2003/71/EC of the European Parliament and of the Council of 4 November 2003 on the prospectus to be published when securities are offered to the public or admitted to trading (17) and Directive 2004/39/EC, may also regulate the distribution of AIFs to investors in the Union.
+
+%%% (17)  OJ L 345, 31.12.2003, p. 64.

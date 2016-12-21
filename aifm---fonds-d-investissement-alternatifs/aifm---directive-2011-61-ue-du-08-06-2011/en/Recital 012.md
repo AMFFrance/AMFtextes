@@ -1,0 +1,1 @@
+(12) Unless specifically provided for otherwise, where this Directive refers to the interests of the investors of an AIF the investors’ interests in their specific capacity as investors of the AIF, and not their individual interests, are envisaged.

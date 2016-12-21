@@ -1,0 +1,1 @@
+(18) No EU AIFM should be able to manage and/or market EU AIFs to professional investors in the Union unless it has been authorised in accordance with this Directive. An AIFM authorised in accordance with this Directive should meet the conditions for authorisation established in this Directive at all times.

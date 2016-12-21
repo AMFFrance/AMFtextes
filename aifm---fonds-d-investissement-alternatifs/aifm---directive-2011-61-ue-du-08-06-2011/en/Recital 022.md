@@ -1,0 +1,1 @@
+(22) It is necessary to ensure that AIFMs operate subject to robust governance controls. AIFMs should be managed and organised so as to minimise conflicts of interest. The organisational requirements established under this Directive should be without prejudice to systems and controls established by national law for the registration of persons working within or for an AIFM.

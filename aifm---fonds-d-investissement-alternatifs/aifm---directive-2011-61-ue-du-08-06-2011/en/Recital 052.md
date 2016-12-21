@@ -1,0 +1,1 @@
+(52) It is necessary to ensure that the competent authorities of the home Member State of the AIFM, the companies over which AIFs managed by an AIFM exercise control and the employees of such companies receive certain information necessary for those companies to assess how that control will impact their situation.

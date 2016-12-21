@@ -1,0 +1,1 @@
+(68) ESMA should, on an annual basis, conduct a peer review analysis of the supervisory activities of the competent authorities in relation to the authorisation and the supervision of non-EU AIFMs, to further enhance consistency in supervisory outcomes, in accordance with Article 30 of Regulation (EU) No 1095/2010.

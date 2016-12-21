@@ -1,0 +1,1 @@
+(55) The Commission is invited to examine the need and the possibilities to amend the information and disclosure requirements applicable in cases of control over non-listed companies or issuers set out in this Directive on a general level, regardless of the type of investor.

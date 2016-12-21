@@ -1,0 +1,1 @@
+(48) An AIFM should, for each of the EU AIFs it manages and for each of the AIFs it markets in the Union, make available an annual report for each financial year no later than 6 months following the end of the financial year in accordance with this Directive. That 6-month period should be without prejudice to the right of the Member States to impose a shorter period.
