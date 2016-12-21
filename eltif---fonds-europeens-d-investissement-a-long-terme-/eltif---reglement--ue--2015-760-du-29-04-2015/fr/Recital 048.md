@@ -1,0 +1,1 @@
+(48) L'autorité compétente pour l'ELTIF devrait vérifier en permanence si ce dernier respecte le présent règlement. Les autorités compétentes étant déjà dotées de pouvoirs étendus en vertu de la directive 2011/61/UE, il est nécessaire d'élargir ces pouvoirs eu égard au présent règlement.

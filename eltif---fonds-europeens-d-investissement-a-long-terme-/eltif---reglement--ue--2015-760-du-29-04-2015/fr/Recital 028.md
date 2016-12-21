@@ -1,0 +1,1 @@
+(28) Afin d'empêcher qu'un ELTIF investisseur n'exerce une influence significative sur la gestion d'un autre ELTIF ou d'un organisme émetteur, il est nécessaire d'éviter une concentration excessive d'un ELTIF dans un même investissement.

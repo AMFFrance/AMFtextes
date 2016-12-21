@@ -1,0 +1,3 @@
+(38) Pour élargir l'accès des investisseurs de détail aux ELTIF, un OPCVM a la faculté d'investir dans des parts ou actions émises par un ELTIF, dans la mesure où les parts ou actions de l'ELTIF sont éligibles au titre de la directive 2009/65/CE du Parlement européen et du Conseil (8).
+
+%%% (8)  Directive 2009/65/CE du Parlement européen et du Conseil du 13 juillet 2009 portant coordination des dispositions législatives, réglementaires et administratives concernant certains organismes de placement collectif en valeurs mobilières (OPCVM) (JO L 302 du 17.11.2009, p. 32).

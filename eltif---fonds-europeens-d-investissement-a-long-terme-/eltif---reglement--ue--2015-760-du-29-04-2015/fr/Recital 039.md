@@ -1,0 +1,1 @@
+(39) Un ELTIF devrait avoir la possibilité de réduire son capital au prorata dans le cas où il a cédé l'un de ses actifs, en particulier en cas d'investissement dans des infrastructures.

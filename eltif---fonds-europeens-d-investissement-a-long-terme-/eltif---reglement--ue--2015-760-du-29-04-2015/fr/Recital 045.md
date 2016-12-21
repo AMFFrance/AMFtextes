@@ -1,0 +1,1 @@
+(45) En cas de commercialisation d'un ELTIF auprès d'investisseurs de détail, le dépositaire de l'ELTIF devrait se conformer aux dispositions de la directive 2009/65/CE en ce qui concerne les entités éligibles autorisées à faire office de dépositaire, la règle qui interdit la décharge de responsabilité et la réutilisation des actifs.

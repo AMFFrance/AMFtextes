@@ -1,0 +1,1 @@
+(16) Un ELTIF devrait être autorisé à investir dans des actifs autres que des actifs éligibles à l'investissement, si une gestion efficace de ses flux de trésorerie l'exige, mais uniquement dans la mesure où cela est compatible avec sa stratégie d'investissement à long terme.

@@ -1,0 +1,3 @@
+(42) Les ELTIF peuvent être attrayants pour des investisseurs tels que les municipalités, les églises, les organisations caritatives et les fondations, qui devraient avoir la possibilité de demander à être traités comme des clients professionnels lorsqu'ils satisfont aux conditions de l'annexe II, section II, de la directive 2014/65/UE du Parlement européen et du Conseil (12).
+
+%%% (12)  Directive 2014/65/UE du Parlement européen et du Conseil du 15 mai 2014 concernant les marchés d'instruments financiers et modifiant la directive 2002/92/CE et la directive 2011/61/UE (JO L 173 du 12.6.2014, p. 349).

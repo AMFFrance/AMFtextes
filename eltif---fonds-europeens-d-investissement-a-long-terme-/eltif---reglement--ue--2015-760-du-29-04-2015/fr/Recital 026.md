@@ -1,0 +1,1 @@
+(26) Afin de ménager aux gestionnaires d'ELTIF un certain degré de souplesse dans le cadre de l'investissement de leurs fonds, la négociation d'actifs autres que des investissements à long terme devrait être autorisée jusqu'à un seuil maximum de 30 % du capital de l'ELTIF.

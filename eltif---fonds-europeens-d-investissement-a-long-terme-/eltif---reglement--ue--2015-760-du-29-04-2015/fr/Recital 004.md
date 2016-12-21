@@ -1,0 +1,1 @@
+(4) Le présent règlement vise à dynamiser les investissements européens à long terme dans l'économie réelle. Les investissements à long terme dans des projets, des entreprises et des infrastructures de pays tiers peuvent également apporter des capitaux aux ELTIF et, dès lors, profiter à l'économie européenne. Il n'y a donc pas lieu d'empêcher de tels investissements.

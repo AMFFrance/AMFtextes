@@ -1,0 +1,1 @@
+(24) Les catégories d'actifs à long terme au sens du présent règlement devraient dès lors comprendre les entreprises non cotées qui émettent des instruments de capitaux propres ou de dette pour lesquels il pourrait ne pas y avoir d'acheteur aisément identifiable et les entreprises cotées avec une capitalisation maximale de 500 000 000 EUR.

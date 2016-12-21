@@ -1,0 +1,1 @@
+(47) Dans des circonstances exceptionnelles indiquées dans les statuts ou documents constitutifs d'un ELTIF, la durée de vie de l'ELTIF pourrait être prolongée ou réduite afin d'offrir une plus grande flexibilité, lorsque, par exemple, un projet est terminé plus tôt ou plus tard que prévu, pour l'aligner sur sa stratégie d'investissement à long terme.

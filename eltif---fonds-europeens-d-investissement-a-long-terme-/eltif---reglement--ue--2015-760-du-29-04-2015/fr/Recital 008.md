@@ -1,0 +1,3 @@
+(8) Les nouvelles règles relatives aux ELTIF sont étroitement liées à la directive 2011/61/UE du Parlement européen et du Conseil (4), puisque ladite directive constitue le cadre juridique régissant la gestion et la commercialisation des fonds d'investissement alternatifs (FIA) dans l'Union. Par définition, les ELTIF sont des FIA de l'Union gérés par des gestionnaires de fonds d'investissement alternatifs agréés conformément à la directive 2011/61/UE.
+
+%%% (4)  Directive 2011/61/UE du Parlement européen et du Conseil du 8 juin 2011 sur les gestionnaires de fonds d'investissement alternatifs et modifiant les directives 2003/41/CE et 2009/65/CE ainsi que les règlements (CE) no 1060/2009 et (UE) no 1095/2010 (JO L 174 du 1.7.2011, p. 1).

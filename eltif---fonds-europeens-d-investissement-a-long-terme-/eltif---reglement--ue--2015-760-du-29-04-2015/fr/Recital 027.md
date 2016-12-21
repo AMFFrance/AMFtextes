@@ -1,0 +1,3 @@
+(27) Afin de limiter la prise de risques des ELTIF, il est essentiel de réduire le risque de contrepartie en soumettant le portefeuille des ELTIF à des obligations de diversification claires. Tous les produits dérivés de gré à gré devraient être soumis au règlement (UE) no 648/2012 du Parlement européen et du Conseil (7).
+
+%%% (7)  Règlement (UE) no 648/2012 du Parlement européen et du Conseil du 4 juillet 2012 sur les produits dérivés de gré à gré, les contreparties centrales et les référentiels centraux (JO L 201 du 27.7.2012, p. 1).

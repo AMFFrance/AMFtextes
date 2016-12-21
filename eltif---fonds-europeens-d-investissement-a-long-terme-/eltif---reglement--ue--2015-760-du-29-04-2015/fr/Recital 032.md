@@ -1,0 +1,1 @@
+(32) La Commission devrait assurer un traitement prioritaire et rationaliser ses procédures pour toutes les demandes présentées par des ELTIF sollicitant un financement de la BEI. La Commission devrait dès lors simplifier la production de tout avis ou contribution ayant trait à des demandes présentées par des ELTIF sollicitant un financement de la BEI.
