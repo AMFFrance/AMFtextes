@@ -1,0 +1,1 @@
+(113) Given the importance of liquidity provision to the orderly and efficient functioning of markets, investment firms that engage in algorithmic trading to pursue a market making strategy should have written agreements in place with trading venues clarifying their obligations to provide liquidity to the market.

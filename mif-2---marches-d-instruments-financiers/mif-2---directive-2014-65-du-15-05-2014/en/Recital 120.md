@@ -1,0 +1,1 @@
+(120) Union law on own funds requirements should fix the minimum capital requirements with which regulated markets should comply in order to be authorised, and in so doing should take into account the specific nature of the risks associated with such markets.

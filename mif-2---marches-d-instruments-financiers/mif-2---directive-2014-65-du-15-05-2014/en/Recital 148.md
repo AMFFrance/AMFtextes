@@ -1,0 +1,1 @@
+(148) This Directive should refer to sanctions and measures in order to cover all actions applied after an infringement, and which are intended to prevent further infringements, irrespective of their qualification as a sanction or a measure under national law.

@@ -1,0 +1,1 @@
+(140) In view of the significant impact and market share acquired by various MTFs, it is appropriate to ensure that adequate cooperation arrangements are established between the competent authority of the MTF and that of the jurisdiction in which the MTF is providing services. In order to anticipate any similar developments, this should be extended to OTFs.

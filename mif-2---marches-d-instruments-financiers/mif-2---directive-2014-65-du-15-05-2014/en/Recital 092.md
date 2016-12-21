@@ -1,0 +1,1 @@
+(92) Given that a wider range of execution venues are now available in the Union, it is appropriate to enhance the best execution framework for retail investors. Advances in technology for monitoring best execution should be considered when applying the best execution framework in accordance with the second and third subparagraph of Article 27(1).

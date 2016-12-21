@@ -1,0 +1,1 @@
+(91) It is necessary to impose an effective ‘best execution’ obligation to ensure that investment firms execute client orders on terms that are most favourable to the client. That obligation should apply where a firm owes contractual or agency obligations to the client.

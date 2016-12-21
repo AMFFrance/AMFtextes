@@ -1,0 +1,1 @@
+(40) The application of this Directive to investment firms and credit institutions when selling or advising clients in relation to structured deposits, should be understood as when acting as intermediaries for those products issued by credit institutions that can take deposits in accordance with Directive 2013/36/EU.

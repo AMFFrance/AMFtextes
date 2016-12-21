@@ -1,0 +1,1 @@
+(30) Persons who provide investment services only on an incidental basis in the course of professional activity should also be excluded from the scope of this Directive, provided that that activity is regulated and the relevant rules do not prohibit the provision, on an incidental basis, of investment services.

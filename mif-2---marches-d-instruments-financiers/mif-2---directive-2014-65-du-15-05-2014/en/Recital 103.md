@@ -1,0 +1,1 @@
+(103) For the purposes of this Directive eligible counterparties should be considered to be acting as clients.

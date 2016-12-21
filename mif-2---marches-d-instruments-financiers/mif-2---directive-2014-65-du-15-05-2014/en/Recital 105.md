@@ -1,0 +1,1 @@
+(105) In respect of transactions executed between eligible counterparties, the obligation to disclose client limit orders should only apply where the counterparty is explicitly sending a limit order to an investment firm for its execution.

@@ -1,0 +1,7 @@
+(106) Member States should ensure the respect of the right to the protection of personal data in accordance with Directive 95/46/EC of the European Parliament and of the Council (31) and Directive 2002/58/EC of the European Parliament and of the Council (32) which govern the processing of personal data carried out in application of this Directive. Processing of personal data by ESMA in the application of this Directive is subject to Regulation (EU) No 45/2001 of the European Parliament and of the Council (33).
+
+%%% (31)  Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (OJ L 281, 23.11.1995, p. 31).
+
+%%% (32)  Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and electronic communications) (OJ L 201, 31.7.2002, p. 37).
+
+%%% (33)  Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data (OJ L 8, 12.1.2001, p. 1).

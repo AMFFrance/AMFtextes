@@ -1,0 +1,1 @@
+(15) A central counterparty (CCP) is defined in Regulation (EU) No 648/2012 as a legal person that interposes itself between the parties to the contracts traded on one or more financial markets, becoming the buyer to every seller and the seller to every buyer. CCPs are not covered by the term OTF as defined in this Directive.

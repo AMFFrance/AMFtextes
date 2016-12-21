@@ -1,0 +1,1 @@
+(116) The introduction of approved publication arrangements (APAs) should improve the quality of trade transparency information published in the OTC space and contribute significantly to ensuring that such data is published in a way facilitating its consolidation with data published by trading venues.

@@ -1,0 +1,1 @@
+(94) The provisions of this Directive that provide that costs of execution should include an investment firm’s own commissions or fees charged to the client for the provision of an investment service should not apply for the purpose of determining what execution venues should be included in the firm’s execution policy for the purposes of Article 27(5) of this Directive.

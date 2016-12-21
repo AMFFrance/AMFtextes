@@ -1,0 +1,1 @@
+(107) Investment firms should all have the same opportunities of joining or having access to regulated markets throughout the Union. Regardless of the manner in which transactions are at present organised in the Member States, it is important to abolish the technical and legal restrictions on access to regulated markets.

@@ -1,0 +1,1 @@
+(19) The communiqué of the G20 finance ministers and central bank governors of 15 April 2011 states that participants on commodity derivatives markets should be subject to appropriate regulation and supervision and therefore certain exemptions from Directive 2004/39/EC are to be modified.

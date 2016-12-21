@@ -1,0 +1,1 @@
+(169) The obligation to transpose this Directive into national law should be confined to those provisions which represent a substantive amendment as compared to the earlier Directives. The obligation to transpose the provisions which are unchanged arises under the earlier Directives.

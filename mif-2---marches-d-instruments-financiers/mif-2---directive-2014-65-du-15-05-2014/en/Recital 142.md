@@ -1,0 +1,1 @@
+(142) In particular, competent authorities should be empowered to impose fines which are sufficiently high to offset the benefits that can be expected and to be dissuasive even for larger institutions and their managers.

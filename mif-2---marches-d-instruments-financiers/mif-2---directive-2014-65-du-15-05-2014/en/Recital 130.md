@@ -1,0 +1,1 @@
+(130) While the methodology used for calculation of position limits should not create barriers to the development of new commodity derivatives, ESMA should ensure when determining the methodology for calculation that the development of new commodity derivatives cannot be used to circumvent the position limits regime.

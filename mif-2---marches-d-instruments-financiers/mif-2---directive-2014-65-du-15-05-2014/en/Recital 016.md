@@ -1,0 +1,1 @@
+(16) Persons having access to regulated markets or MTFs are referred to as members or participants. Both terms may be used interchangeably. Those terms do not include users who only access the trading venues via direct electronic access.

@@ -1,0 +1,3 @@
+(2) Council Directive 93/22/EEC (6) sought to establish the conditions under which authorised investment firms and banks could provide specified services or establish branches in other Member States on the basis of home country authorisation and supervision. To that end, that Directive aimed to harmonise the initial authorisation and operating requirements for investment firms including conduct of business rules. It also provided for the harmonisation of some conditions governing the operation of regulated markets.
+
+%%% (6)  Council Directive 93/22/EEC of 10 May 1993 on investment services in the securities field (OJ L 141, 11.6.1993, p. 27).

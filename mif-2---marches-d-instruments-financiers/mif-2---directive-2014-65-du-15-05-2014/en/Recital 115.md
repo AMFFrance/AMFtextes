@@ -1,0 +1,1 @@
+(115) The provision of core market data services which are pivotal for users to be able to obtain a desired overview of trading activity across Union financial markets and for competent authorities to receive accurate and comprehensive information on relevant transactions should be subject to authorisation and regulation to ensure the necessary level of quality.

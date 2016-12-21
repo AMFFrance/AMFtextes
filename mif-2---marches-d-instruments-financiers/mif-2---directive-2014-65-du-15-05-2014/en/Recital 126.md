@@ -1,0 +1,1 @@
+(126) The powers made available to competent authorities should be complemented with explicit powers to obtain information from any person regarding the size and purpose of a position in derivative contracts relating to commodities and to request the person to take steps to reduce the size of the position in the derivative contracts.

@@ -1,0 +1,1 @@
+(34) It is necessary to exclude from the scope of this Directive collective investment undertakings and pension funds whether or not coordinated at Union level, and the depositaries or managers of such undertakings, since they are subject to specific rules directly adapted to their activities.

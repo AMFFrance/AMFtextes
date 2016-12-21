@@ -1,0 +1,1 @@
+(43) Where an investment firm provides one or more investment services not covered by its authorisation, or performs one or more investment activities not covered by its authorisation, on a non-regular basis it should not need an additional authorisation under this Directive.

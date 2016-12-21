@@ -1,0 +1,1 @@
+(88) In order to align the rules pertaining to conflicts of interests, general principles and information to customers and to allow Member States to place restrictions on the remuneration of insurance intermediaries, Directive 2002/92/EC should be amended accordingly.

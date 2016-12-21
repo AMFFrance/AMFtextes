@@ -1,0 +1,1 @@
+(165) Given the increase of tasks conferred on ESMA by this Directive and by Regulation (EU) No 600/2014, the European Parliament, the Council and the Commission should ensure that adequate human and financial resources are made available.

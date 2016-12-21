@@ -1,0 +1,1 @@
+(25) The execution of orders in financial instruments as an ancillary activity between two persons whose main business, on a group basis, is neither the provision of investment services within the meaning of this Directive nor of banking activities within the meaning of Directive 2013/36/EU should not be considered to be dealing on own account when executing client orders.

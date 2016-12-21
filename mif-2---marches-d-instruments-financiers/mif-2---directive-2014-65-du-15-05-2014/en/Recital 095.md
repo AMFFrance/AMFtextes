@@ -1,0 +1,1 @@
+(95) An investment firm should be considered to be structuring or charging its commissions in a way which discriminates unfairly between execution venues if it charges a different commission or spread to clients for execution on different execution venues and that difference does not reflect actual differences in the cost to the firm of executing on those venues.

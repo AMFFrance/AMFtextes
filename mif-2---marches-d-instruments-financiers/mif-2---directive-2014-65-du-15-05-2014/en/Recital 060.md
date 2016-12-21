@@ -1,0 +1,3 @@
+(60) Investment firms that engage in algorithmic trading pursuing a market making strategy should have in place appropriate systems and controls for that activity. Such an activity should be understood in a way specific to its context and purpose. The definition of such an activity is therefore independent from definitions such as that of ‘market making activities’ in Regulation (EU) No 236/2012 of the European Parliament and of the Council (27).
+
+%%% (27)  Regulation (EU) No 236/2012 of the European Parliament and of the Council of 14 March 2012 on short selling and certain aspects of credit default swaps (OJ L 86, 24.3.2012, p. 1).
