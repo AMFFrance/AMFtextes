@@ -1,0 +1,1 @@
+(38) Afin de donner aux initiateurs de produits d’investissement packagés de détail et fondés sur l’assurance et aux personnes qui fournissent des conseils au sujet de ces produits ou les vendent un délai suffisant pour se préparer à l’application concrète des exigences du présent règlement, celui-ci ne devrait devenir applicable que deux ans après sa date d’entrée en vigueur.

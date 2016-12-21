@@ -1,0 +1,5 @@
+(9) Pour clarifier le lien entre les obligations établies par le présent règlement et celles établies par d’autres actes législatifs exigeant la communication d’informations aux investisseurs, notamment, mais pas exclusivement, les directives du Parlement européen et du Conseil 2003/71/CE (9) et 2009/138/CE (10), il convient de préciser que ces actes législatifs continuent de s’appliquer en sus du présent règlement.
+
+%%% (9)  Directive 2003/71/CE du Parlement européen et du Conseil du 4 novembre 2003 concernant le prospectus à publier en cas d’offre au public de valeurs mobilières ou en vue de l’admission de valeurs mobilières à la négociation, et modifiant la directive 2001/34/CE (JO L 345 du 31.12.2003, p. 64).
+
+%%% (10)  Directive 2009/138/CE du Parlement européen et du Conseil du 25 novembre 2009 sur l’accès aux activités de l’assurance et de la réassurance et leur exercice (solvabilité II) (JO L 335 du 17.12.2009, p. 1).

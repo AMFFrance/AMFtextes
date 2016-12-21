@@ -1,0 +1,4 @@
+# Article 31 - null
+
+
+Lorsque la Commission adopte des normes techniques de réglementation en vertu de l’article 8, paragraphe 5, de l’article 10, paragraphe 2, ou de l’article 13, paragraphe 5, qui sont identiques aux projets de normes techniques de réglementation soumis par les autorités européennes de surveillance, la période pendant laquelle le Parlement européen et le Conseil peuvent exprimer des objections à l’égard de ces normes techniques de réglementation est, par dérogation à l’article 13, paragraphe 1, deuxième alinéa, du règlement (UE) no 1093/2010, du règlement (UE) no 1094/2010 et du règlement (UE) no 1095/2010 et afin de tenir compte de la complexité et du nombre de questions traitées dans ces dernières, de deux mois à compter de la date de notification. Ce délai est prolongé d’un mois à l’initiative du Parlement européen ou du Conseil.

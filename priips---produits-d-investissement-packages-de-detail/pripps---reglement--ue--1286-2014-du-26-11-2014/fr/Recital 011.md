@@ -1,0 +1,1 @@
+(11) Toutes les informations nécessaires devraient être mises à la disposition des autorités compétentes sur demande, y compris préalablement, pour qu’elles vérifient le contenu des documents d’informations clés, qu’elles évaluent leur conformité avec le présent règlement et qu’elles assurent la protection des clients et des investisseurs sur les marchés financiers.

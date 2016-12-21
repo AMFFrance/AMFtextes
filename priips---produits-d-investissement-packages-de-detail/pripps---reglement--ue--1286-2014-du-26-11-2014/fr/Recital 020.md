@@ -1,0 +1,1 @@
+(20) Le document d’informations clés devrait pouvoir être distingué clairement des communications commerciales et en être séparé.

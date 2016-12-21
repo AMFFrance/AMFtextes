@@ -1,0 +1,5 @@
+(5) S’il est essentiel, pour rétablir la confiance des investisseurs de détail dans les marchés financiers, d’améliorer les informations à fournir sur les produits d’investissement packagés de détail et fondés sur l’assurance, il est tout aussi important de réglementer efficacement le processus de vente de ces produits. Le présent règlement complète les mesures relatives à la distribution prévues par la directive 2014/65/UE du Parlement européen et du Conseil (4). Il complète aussi les mesures relatives à la distribution des produits d’assurance prévues par la directive 2002/92/CE du Parlement européen et du Conseil (5).
+
+%%% (4)  Directive 2014/65/UE du Parlement européen et du Conseil du 15 mai 2014 concernant les marchés d’instruments financiers et modifiant la directive 2002/92/CE et la directive 2011/61/UE (JO L 173 du 12.6.2014, p. 349).
+
+%%% (5)  Directive 2002/92/CE du Parlement européen et du Conseil du 9 décembre 2002 sur l’intermédiation en assurance (JO L 9 du 15.1.2003, p. 3).
