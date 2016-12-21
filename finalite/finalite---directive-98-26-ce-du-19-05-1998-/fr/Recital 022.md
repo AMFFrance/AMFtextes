@@ -1,0 +1,1 @@
+(22) considérant qu'il est souhaitable que les États membres s'efforcent d'établir des liens suffisants entre tous les systèmes de règlement des opérations sur titres visés par la présente directive, en vue de promouvoir une transparence et une sécurité juridique maximales des transactions portant sur des titres;

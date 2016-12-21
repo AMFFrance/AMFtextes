@@ -1,0 +1,1 @@
+(6) considérant que la présente directive vise à couvrir tant les systèmes intérieurs de paiement et de règlement des opérations sur titres que ceux à vocation transfrontalière; qu'elle est applicable aux systèmes communautaires et aux garanties constituées par leurs participants, communautaires ou originaires de pays tiers, dans le cadre de leur participation à ces systèmes;

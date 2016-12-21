@@ -1,0 +1,1 @@
+(15) considérant qu'il est nécessaire qu'un État membre notifie immédiatement aux autres États membres l'ouverture d'une procédure d'insolvabilité à l'encontre d'un participant à un système;

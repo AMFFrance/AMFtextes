@@ -1,0 +1,1 @@
+(19) considérant que les dispositions de l'article 9, paragraphe 2, ne s'appliquent qu'à un registre, à un compte ou à un système de dépôt centralisé établissant l'existence de droits de propriété sur les titres concernés ou de droits relatifs à la remise ou au transfert de ces titres;

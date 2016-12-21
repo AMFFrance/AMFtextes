@@ -1,0 +1,1 @@
+(12) considérant que les dispositions relatives au caractère définitif de la compensation n'empêchent pas les systèmes de procéder à des essais avant que la compensation ne soit effectuée afin de déterminer si les ordres qui ont été introduits dans le système sont conformes aux règles de fonctionnement de Ce système et permettent le règlement de celui-ci;

@@ -1,0 +1,1 @@
+(7) considérant que les États membres peuvent appliquer les dispositions de la présente directive à leurs propres institutions qui participent directement à des systèmes de pays tiers et aux garanties constituées dans le cadre de la participation à de tels systèmes;

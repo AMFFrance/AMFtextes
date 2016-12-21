@@ -1,0 +1,1 @@
+(16) considérant que les procédures d'insolvabilité ne devraient pas avoir un effet rétroactif sur les droits et obligations des participants à un système;

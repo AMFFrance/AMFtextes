@@ -1,0 +1,1 @@
+(18) considérant que les garanties devraient être soustraites aux effets de la législation sur l'insolvabilité applicable au participant insolvable;

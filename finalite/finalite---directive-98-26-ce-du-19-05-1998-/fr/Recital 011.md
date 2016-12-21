@@ -1,0 +1,1 @@
+(11) considérant que les ordres de transfert et leur compensation nette devraient produire leurs effets en droit dans tous les États membres et être opposables aux tiers;

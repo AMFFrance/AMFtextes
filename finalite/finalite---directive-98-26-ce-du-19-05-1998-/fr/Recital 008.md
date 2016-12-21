@@ -1,0 +1,1 @@
+(8) considérant que les États membres devraient être autorisés à désigner en tant que système relevant de la présente directive un système dont l'activité principale est le règlement des opérations sur titres, même si le système traite aussi, dans une mesure limitée, des instruments dérivés sur matières premières;

@@ -1,0 +1,1 @@
+(4) considérant qu'il est souhaitable que la législation des États membres tende à limiter à un minimum les perturbations occasionnées à un système par une procédure d'insolvabilité contre un participant à ce système;

@@ -1,0 +1,1 @@
+(17) considérant que la présente directive vise en outre à déterminer, en cas d'ouverture d'une procédure d'insolvabilité à l'encontre d'un participant à un système, quelle est la législation sur l'insolvabilité qui est applicable aux droits et obligations de ce participant, qui découlent de sa participation à un système;
