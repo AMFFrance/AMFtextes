@@ -1,0 +1,1 @@
+(31) La résolution adoptée par le Conseil européen de Stockholm, en mars 2001, a avalisé le rapport final du Comité des sages et sa proposition d'approche à quatre niveaux, en vue de rendre le processus d'élaboration de la législation communautaire dans le domaine des valeurs mobilières plus efficace et plus transparent.

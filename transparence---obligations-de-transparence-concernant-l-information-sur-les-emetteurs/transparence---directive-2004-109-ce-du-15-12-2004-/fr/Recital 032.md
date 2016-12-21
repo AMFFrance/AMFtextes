@@ -1,0 +1,1 @@
+(32) Selon cette résolution, les mesures d'exécution devraient servir plus fréquemment, afin de garantir l'actualisation des dispositions techniques par rapport à l'évolution des marchés et des pratiques en matière de surveillance, et des dates limites devraient être fixées pour toutes les étapes des travaux relatifs aux mesures d'exécution.

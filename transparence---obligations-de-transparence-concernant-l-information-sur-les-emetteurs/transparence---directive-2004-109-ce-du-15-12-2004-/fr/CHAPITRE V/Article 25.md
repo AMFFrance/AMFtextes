@@ -1,0 +1,10 @@
+# Article 25 - Secret professionnel et coopération entre les États membres
+
+
+1.   L'obligation de secret professionnel s'applique à tous ceux qui travaillent ou qui ont travaillé pour l'autorité compétente et pour les entités auxquelles les autorités compétentes ont éventuellement délégué certaines tâches. Les informations couvertes par le secret professionnel ne peuvent être révélées à aucune autre personne ou autorité sauf en vertu des dispositions législatives, réglementaires ou administratives d'un État membre.
+
+2.   Les autorités compétentes des États membres coopèrent entre elles chaque fois que cela est nécessaire pour accomplir les missions et exercer les prérogatives qui leur sont conférées soit par la présente directive, soit par les dispositions de droit interne adoptées en application de la présente directive. Les autorités compétentes prêtent leur concours aux autorités compétentes des autres États membres.
+
+3.   Le paragraphe 1 n'empêche pas les autorités compétentes de s'échanger des informations confidentielles. Les informations ainsi échangées sont couvertes par l'obligation de secret professionnel incombant aux personnes employées ou précédemment employées par les autorités compétentes qui reçoivent les informations.
+
+4.   Les États membres peuvent conclure des accords de coopération prévoyant l'échange d'informations avec les autorités ou organismes compétents de pays tiers habilités par leur propre législation à accomplir n'importe quelle tâche assignée par la présente directive aux autorités compétentes conformément à l'article 24. Cet échange d'informations est soumis à des garanties de secret professionnel au moins équivalentes à celles visées au présent article. Cet échange d'informations est destiné à l'exécution des missions de surveillance des autorités ou des organismes susmentionnés. Lorsqu'elles proviennent d'un autre État membre, les informations ne peuvent être divulguées sans l'accord exprès des autorités compétentes qui les ont communiquées et, le cas échéant, aux seules fins pour lesquelles elles ont donné leur accord.

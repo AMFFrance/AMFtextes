@@ -1,0 +1,1 @@
+(40) La présente directive respecte les droits fondamentaux et observe les principes qui sont reconnus, notamment, par la Charte des droits fondamentaux de l'Union européenne.

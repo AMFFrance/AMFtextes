@@ -1,0 +1,1 @@
+(11) La présente directive prévoit l'établissement de rapports financiers semestriels plus complets pour les émetteurs de titres admis à la négociation sur un marché réglementé. Cela devrait permettre aux investisseurs d'apprécier en meilleure connaissance de cause la situation de l'émetteur.
