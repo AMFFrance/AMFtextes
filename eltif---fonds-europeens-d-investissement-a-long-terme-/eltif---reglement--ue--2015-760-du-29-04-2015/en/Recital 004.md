@@ -1,0 +1,1 @@
+(4) The focus of this Regulation is to boost European long-term investments in the real economy. Long- term investments in projects, undertakings, and infrastructure in third countries can also bring capital to ELTIFs and thereby benefit the European economy. Therefore, such investments should not be prevented.

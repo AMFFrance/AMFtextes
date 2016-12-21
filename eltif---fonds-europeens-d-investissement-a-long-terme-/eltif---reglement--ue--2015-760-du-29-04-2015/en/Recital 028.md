@@ -1,0 +1,1 @@
+(28) In order to prevent the exercise of significant influence by an investing ELTIF over the management of another ELTIF or of an issuing body, it is necessary to avoid excessive concentration by an ELTIF in the same investment.

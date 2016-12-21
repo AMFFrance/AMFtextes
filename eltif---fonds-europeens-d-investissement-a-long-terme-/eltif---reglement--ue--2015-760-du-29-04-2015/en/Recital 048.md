@@ -1,0 +1,1 @@
+(48) The competent authority of the ELTIF should verify on an on-going basis whether an ELTIF complies with this Regulation. As the competent authorities are already provided with extensive powers under Directive 2011/61/EU, it is necessary to extend those powers having regard to this Regulation.

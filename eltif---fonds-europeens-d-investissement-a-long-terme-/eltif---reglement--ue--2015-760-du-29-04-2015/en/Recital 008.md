@@ -1,0 +1,3 @@
+(8) The new rules on ELTIFs are closely linked to Directive 2011/61/EU of the European Parliament and of the Council (4), since that Directive forms the legal framework governing the management and marketing of alternative investment funds (AIFs) in the Union. By definition, ELTIFs are EU AIFs that are managed by alternative investment fund managers (AIFMs) authorised in accordance with Directive 2011/61/EU.
+
+%%% (4)  Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers and amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010 (OJ L 174, 1.7.2011, p. 1).

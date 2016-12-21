@@ -1,0 +1,3 @@
+(27) In order to limit risk-taking by ELTIFs, it is essential to reduce counterparty risk by subjecting the portfolio of ELTIFs to clear diversification requirements. All over-the-counter (OTC) derivatives should be subject to Regulation (EU) No 648/2012 of the European Parliament and of the Council (7).
+
+%%% (7)  Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (OJ L 201, 27.7.2012, p. 1).

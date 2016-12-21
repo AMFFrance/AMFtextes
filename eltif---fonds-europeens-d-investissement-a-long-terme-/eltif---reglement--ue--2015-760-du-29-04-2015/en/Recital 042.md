@@ -1,0 +1,3 @@
+(42) ELTIFs may be attractive to investors, such as municipalities, churches, charities and foundations, which should be able to request to be treated as professional clients in circumstances where they meet the conditions of Section II of Annex II of Directive 2014/65/EU of the European Parliament and of the Council (12).
+
+%%% (12)  Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349).

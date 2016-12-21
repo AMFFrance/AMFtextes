@@ -1,0 +1,1 @@
+(39) It should be possible for an ELTIF to reduce its capital on a pro rata basis in the event that it has divested itself of one of its assets, in particular in the case of an infrastructure investment.

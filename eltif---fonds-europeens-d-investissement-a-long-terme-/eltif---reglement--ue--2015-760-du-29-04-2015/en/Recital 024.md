@@ -1,0 +1,1 @@
+(24) Categories of long-term assets within the meaning of this Regulation should therefore comprise unlisted undertakings that issue equity or debt instruments for which there might not be a readily identifiable buyer, and listed undertakings with a maximum capitalisation of EUR 500 000 000.

@@ -1,0 +1,1 @@
+(47) Under exceptional circumstances specified in the rules or instruments of incorporation of an ELTIF, the life of the ELTIF could be extended or reduced to allow for more flexibility where, for instance, a project is completed later or earlier than expected, in order to bring it into line with its long-term investment strategy.

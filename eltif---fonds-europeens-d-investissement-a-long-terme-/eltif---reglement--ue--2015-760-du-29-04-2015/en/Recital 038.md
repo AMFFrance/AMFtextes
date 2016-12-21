@@ -1,0 +1,3 @@
+(38) In order to broaden retail investors' access to ELTIFs, a UCITS is able to invest in units or shares issued by an ELTIF to the extent that the ELTIF's units or shares are eligible under Directive 2009/65/EC of the European Parliament and of the Council (8).
+
+%%% (8)  Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) (OJ L 302, 17.11.2009, p. 32).

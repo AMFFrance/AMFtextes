@@ -1,0 +1,1 @@
+(45) When an ELTIF is marketed to retail investors, the depositary of the ELTIF should comply with the provisions of Directive 2009/65/EC as regards the eligible entities that are permitted to act as depositaries, the ‘no discharge of liability’ rule, and the reuse of assets.

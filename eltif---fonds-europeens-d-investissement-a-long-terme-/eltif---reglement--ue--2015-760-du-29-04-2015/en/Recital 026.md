@@ -1,0 +1,1 @@
+(26) In order to allow managers of ELTIFs a certain degree of flexibility in the investment of their funds, trading in assets other than long-term investments should be permitted up to a maximum threshold of 30 % of the capital of the ELTIF.

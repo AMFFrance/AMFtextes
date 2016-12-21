@@ -1,0 +1,1 @@
+(16) An ELTIF should be allowed to invest in assets other than eligible investment assets as may be necessary to manage its cash flow efficiently, but only so long as this is consistent with the ELTIF's long-term investment strategy.
