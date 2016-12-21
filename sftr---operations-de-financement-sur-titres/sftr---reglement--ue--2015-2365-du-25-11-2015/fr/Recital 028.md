@@ -1,0 +1,1 @@
+(28) Les dispositions du présent règlement relatives à la demande d’enregistrement des référentiels centraux et au retrait de l’enregistrement sont sans incidence sur les voies de recours prévues au chapitre V du règlement (UE) no 1095/2010.

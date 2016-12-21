@@ -1,0 +1,1 @@
+(27) Le pouvoir d’infliger des sanctions conféré aux autorités compétentes devrait être sans préjudice de la compétence exclusive de la BCE, en vertu de l’article 4, paragraphe 1, point a), du règlement (UE) no 1024/2013, de retirer les agréments des établissements de crédit à des fins de surveillance prudentielle.

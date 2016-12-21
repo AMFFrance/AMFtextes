@@ -1,0 +1,5 @@
+(17) Les nouvelles règles relatives à la transparence des opérations de financement sur titres et des contrats d’échange sur rendement global sont étroitement liées aux directives du Parlement européen et du Conseil 2009/65/CE (11) et 2011/61/UE (12), étant donné que lesdites directives constituent le cadre juridique régissant l’établissement, la gestion et la commercialisation des organismes de placement collectif.
+
+%%% (11)  Directive 2009/65/CE du Parlement européen et du Conseil du 13 juillet 2009 portant coordination des dispositions législatives, réglementaires et administratives concernant certains organismes de placement collectif en valeurs mobilières (OPCVM) (JO L 302 du 17.11.2009, p. 32).
+
+%%% (12)  Directive 2011/61/UE du Parlement européen et du Conseil du 8 juin 2011 sur les gestionnaires de fonds d’investissement alternatifs et modifiant les directives 2003/41/CE et 2009/65/CE ainsi que les règlements (CE) no 1060/2009 et (UE) no 1095/2010 (JO L 174 du 1.7.2011, p. 1).
