@@ -1,0 +1,3 @@
+(6) Supervision of an issuer of shares, or of debt securities the denomination per unit of which is less than EUR 1 000, for the purposes of this Directive, would be best effected by the Member State in which the issuer has its registered office. In that respect, it is vital to ensure consistency with Directive 2003/71/EC of the European Parliament and of the Council of 4 November 2003 on the prospectus to be published when securities are offered to the public or admitted to trading. (4) Along the same lines, some flexibility should be introduced allowing third country issuers and Community companies issuing only securities other than those mentioned above a choice of home Member State.
+
+%%% (4)  OJ L 345, 31.12.2003, p. 64.

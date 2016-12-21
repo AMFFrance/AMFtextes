@@ -1,0 +1,1 @@
+(23) Removal of barriers and effective enforcement of new Community information requirements also require adequate control by the competent authority of the home Member State. This Directive should at least provide for a minimum guarantee for the timely availability of such information. For this reason, at least one filing and storage system should exist in each Member State.

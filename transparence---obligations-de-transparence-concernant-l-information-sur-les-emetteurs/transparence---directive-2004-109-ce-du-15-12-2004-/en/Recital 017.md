@@ -1,0 +1,1 @@
+(17) Appropriate liability rules, as laid down by each Member State under its national law or regulations, should be applicable to the issuer, its administrative, management or supervisory bodies, or persons responsible within the issuer. Member States should remain free to determine the extent of the liability.

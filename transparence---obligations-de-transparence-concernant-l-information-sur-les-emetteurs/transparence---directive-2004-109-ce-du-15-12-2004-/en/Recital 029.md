@@ -1,0 +1,1 @@
+(29) Increasing cross-border activities require improved cooperation between national competent authorities, including a comprehensive set of provisions for the exchange of information and for precautionary measures. The organisation of the regulatory and supervisory tasks in each Member State should not hinder efficient cooperation between the competent national authorities.
