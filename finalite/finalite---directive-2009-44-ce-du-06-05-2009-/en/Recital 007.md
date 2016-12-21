@@ -1,0 +1,1 @@
+(7) Member States have made no use of the possibility under Article 4(3) of Directive 2002/47/EC to opt out of the right of appropriation of the collateral taker. That provision should therefore be deleted.

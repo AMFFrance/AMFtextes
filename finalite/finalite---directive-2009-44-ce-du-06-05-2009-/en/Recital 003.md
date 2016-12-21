@@ -1,0 +1,3 @@
+(3) The main change, however, is the increasing number of linkages between systems, which, at the time when Directive 98/26/EC was drafted, used to operate almost exclusively on a national and independent basis. This change is one of the results of Directive 2004/39/EC of the European Parliament and of the Council of 21 April 2004 on markets in financial instruments (5), and the European Code of conduct for clearing and settlement. In order to adapt to those developments, the concept of an interoperable system and the responsibility of system operators should be clarified.
+
+%%% (5)  OJ L 145, 30.4.2004, p. 1.
