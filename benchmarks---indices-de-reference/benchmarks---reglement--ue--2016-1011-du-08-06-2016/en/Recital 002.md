@@ -1,0 +1,9 @@
+(2) Directive 2014/65/EU of the European Parliament and of the Council (4) contains certain requirements with respect to the reliability of benchmarks used to price a listed financial instrument. Directive 2003/71/EC of the European Parliament and of the Council (5) contains certain requirements on benchmarks used by issuers. Directive 2009/65/EC of the European Parliament and of the Council (6) contains certain requirements on the use of benchmarks by undertakings for collective investment in transferable securities (UCITS). Regulation (EU) No 1227/2011 of the European Parliament and of the Council (7) contains certain provisions which prohibit the manipulation of benchmarks that are used for wholesale energy products. However, those legislative acts only cover certain aspects of certain benchmarks and they neither address all the vulnerabilities in the provision of all benchmarks, nor do they cover all uses of financial benchmarks in the financial industry.
+
+%%% (4)  Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349).
+
+%%% (5)  Directive 2003/71/EC of the European Parliament and of the Council of 4 November 2003 on the prospectus to be published when securities are offered to the public or admitted to trading and amending Directive 2001/34/EC (OJ L 345, 31.12.2003, p. 64).
+
+%%% (6)  Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) (OJ L 302, 17.11.2009, p. 32).
+
+%%% (7)  Regulation (EU) No 1227/2011 of the European Parliament and of the Council of 25 October 2011 on wholesale energy market integrity and transparency (OJ L 326, 8.12.2011, p. 1).

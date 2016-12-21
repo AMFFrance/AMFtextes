@@ -1,0 +1,1 @@
+(17) An index is calculated using a formula or some other methodology on the basis of underlying values. There exists a degree of discretion in constructing the formula, performing the necessary calculation and determining the input data which creates a risk of manipulation. Therefore, all benchmarks sharing that characteristic of discretion should be covered by this Regulation.

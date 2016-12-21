@@ -1,0 +1,1 @@
+(58) This Regulation should not limit the ability of Member States to provide for higher levels of administrative sanctions and should be without prejudice to any provisions in the law of Member States relating to criminal sanctions.

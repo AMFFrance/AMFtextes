@@ -1,0 +1,1 @@
+(31) Contributors are potentially subject to conflicts of interest and are able to exercise discretion in the determination of input data. Therefore, it is necessary for contributors to be subject to governance arrangements in order to ensure that those conflicts are managed and that the input data is accurate, conforms to the administrator's requirements and can be validated.

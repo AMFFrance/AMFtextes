@@ -1,0 +1,1 @@
+(68) The Commission should also be empowered to adopt implementing technical standards developed by ESMA establishing templates for the compliance statements, procedures and forms for exchange of information between competent authorities and ESMA, by means of implementing acts pursuant to Article 291 TFEU and in accordance with Article 15 of Regulation (EU) No 1095/2010.

@@ -1,0 +1,1 @@
+(70) Given the urgency of the need to restore confidence in benchmarks and promote fair and transparent financial markets, this Regulation should enter into force on the day following that of its publication.

@@ -1,0 +1,1 @@
+(29) Employees of the administrator can identify possible infringements of this Regulation or potential vulnerabilities that could lead to manipulation or attempted manipulation. This Regulation should therefore put in place a framework to enable employees to alert administrators confidentially of possible infringements of this Regulation.

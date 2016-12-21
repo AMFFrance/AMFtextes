@@ -1,0 +1,1 @@
+(15) Furthermore, public authorities, including national statistics agencies, should not be subject to this Regulation where they contribute data to, provide or have control over the provision of, benchmarks for public policy purposes, including measures of employment, economic activity, and inflation.

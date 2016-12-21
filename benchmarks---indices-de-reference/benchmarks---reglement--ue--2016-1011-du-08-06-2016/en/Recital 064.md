@@ -1,0 +1,1 @@
+(64) In cases where this Regulation captures or potentially captures supervised entities and markets covered by Regulation (EU) No 1227/2011, the Agency for the Cooperation of Energy Regulators (ACER) would need to be consulted by ESMA in order to draw upon ACER's expertise in energy markets and to mitigate any dual regulation.

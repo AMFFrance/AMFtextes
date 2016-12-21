@@ -1,0 +1,1 @@
+(6) Therefore, in order to ensure the proper functioning of the internal market and improve the conditions of its functioning, in particular with regard to financial markets, and to ensure a high level of consumer and investor protection, it is appropriate to lay down a regulatory framework for benchmarks at Union level.

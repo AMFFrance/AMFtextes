@@ -1,0 +1,1 @@
+(54) The rights of defence of the persons concerned should be fully respected. In particular, persons subject to proceedings should be provided with access to the findings upon which the competent authorities has based the decision and should be given the right to be heard.

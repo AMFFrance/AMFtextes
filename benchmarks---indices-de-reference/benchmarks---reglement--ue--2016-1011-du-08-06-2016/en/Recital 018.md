@@ -1,0 +1,1 @@
+(18) However, where a single price or value is used as a reference to a financial instrument, for example where the price of a single security is the reference price for an option or future, there is no calculation, input data or discretion. Therefore single price or single value reference prices should not be considered to be benchmarks for the purposes of this Regulation.

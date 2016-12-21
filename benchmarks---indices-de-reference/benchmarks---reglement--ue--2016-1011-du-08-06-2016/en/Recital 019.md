@@ -1,0 +1,1 @@
+(19) Reference prices or settlement prices produced by central counterparties (CCPs) should not be considered to be benchmarks because they are used to determine settlement, margins and risk management and thus do not determine the amount payable under a financial instrument or the value of a financial instrument.
