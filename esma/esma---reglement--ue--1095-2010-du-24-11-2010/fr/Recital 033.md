@@ -1,0 +1,1 @@
+(33) La crise a montré que le système actuel de coopération entre des autorités nationales dont la compétence s’arrête aux frontières des États membres est insuffisant face à des établissements financiers qui opèrent dans un contexte transfrontalier.
