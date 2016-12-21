@@ -1,0 +1,1 @@
+(20) In relation to uncovered short selling of sovereign debt, the fact that a short sale will be covered by the purchase of the sovereign debt during the same day can be considered as an example of offering a reasonable expectation that settlement can be effected when it is due.

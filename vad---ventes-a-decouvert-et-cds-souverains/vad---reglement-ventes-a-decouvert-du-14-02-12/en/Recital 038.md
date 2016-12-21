@@ -1,0 +1,1 @@
+(38) ESMA should be given power to conduct an inquiry into an issue or practice relating to short selling or the use of credit default swaps to assess whether that issue or practice poses any potential threat to financial stability or to market confidence. ESMA should publish a report setting out its findings where it conducts such an inquiry.

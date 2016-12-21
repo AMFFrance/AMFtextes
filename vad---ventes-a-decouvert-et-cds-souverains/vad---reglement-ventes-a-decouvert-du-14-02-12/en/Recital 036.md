@@ -1,0 +1,1 @@
+(36) Powers of intervention of competent authorities and ESMA to restrict short selling, credit default swaps and other transactions should be only of a temporary nature and should be exercised only for such a period and to the extent necessary to deal with the specific threat.

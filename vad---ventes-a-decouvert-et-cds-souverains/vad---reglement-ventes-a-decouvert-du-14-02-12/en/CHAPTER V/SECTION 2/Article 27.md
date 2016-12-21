@@ -1,0 +1,10 @@
+# Article 27 - Coordination by ESMA
+
+
+1.   ESMA shall perform a facilitation and coordination role in relation to measures taken by the competent authorities under Section 1. In particular ESMA shall ensure that a consistent approach is taken by competent authorities regarding measures taken, especially regarding where it is necessary to use powers of intervention, the nature of any measures imposed and the commencement and duration of such measures.
+
+2.   After receiving notification under Article 26 of any measure that is to be imposed or renewed under Article 18, 19, 20 or 21, ESMA shall within 24 hours issue an opinion on whether it considers the measure or proposed measure is necessary to address the exceptional circumstances. The opinion shall state whether ESMA considers that adverse events or developments have arisen which constitute a serious threat to financial stability or to market confidence in one or more Member States, whether the measure or proposed measure is appropriate and proportionate to address the threat and whether the proposed duration of any such measure is justified. If ESMA considers that the taking of any measure by the other competent authorities is necessary to address the threat, it shall also state this in its opinion. The opinion shall be published on ESMA’s website.
+
+3.   Where a competent authority proposes to take or takes measures contrary to an ESMA opinion under paragraph 2 or declines to take measures contrary to an ESMA opinion under that paragraph, it shall publish on its website within 24 hours of receiving ESMA’s opinion a notice fully explaining its reasons for doing so. Where such a situation arises ESMA shall consider whether the conditions are satisfied and it is an appropriate case for the use of its powers of intervention under Article 28.
+
+4.   ESMA shall review measures under this Article regularly and in any event at least every 3 months. If the measure is not renewed by the end of such a 3-month period, it shall automatically expire.

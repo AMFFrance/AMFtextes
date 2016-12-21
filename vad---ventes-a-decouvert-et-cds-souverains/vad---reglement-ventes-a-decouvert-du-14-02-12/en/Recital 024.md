@@ -1,0 +1,1 @@
+(24) Measures relating to sovereign debt and sovereign credit default swaps including increased transparency and restrictions on uncovered short selling should impose requirements which are proportionate and at the same time avoid an adverse impact on the liquidity of sovereign bond markets and sovereign bond repurchase markets.

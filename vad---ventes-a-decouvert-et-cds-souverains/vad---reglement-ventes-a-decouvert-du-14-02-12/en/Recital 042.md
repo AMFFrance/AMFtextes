@@ -1,0 +1,3 @@
+(42) In order to ensure uniform conditions for the implementation of this Regulation, implementing powers should be conferred on the Commission. Those powers should be exercised in accordance with Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission’s exercise of implementing powers (9). The Commission should keep the European Parliament informed of progress relating to decisions determining the equivalence of third-country legal and supervisory frameworks with requirements of this Regulation.
+
+%%% (9)  OJ L 55, 28.2.2011, p. 13.

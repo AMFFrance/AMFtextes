@@ -1,0 +1,1 @@
+(15) To enable ongoing monitoring of positions, the transparency regime should also include notification or disclosure where a change in a net short position results in an increase or decrease above or below certain thresholds.

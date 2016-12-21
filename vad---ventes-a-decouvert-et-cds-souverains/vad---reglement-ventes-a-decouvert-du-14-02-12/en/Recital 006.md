@@ -1,0 +1,1 @@
+(6) References in this Regulation to natural and legal persons should include registered business associations without legal personality.

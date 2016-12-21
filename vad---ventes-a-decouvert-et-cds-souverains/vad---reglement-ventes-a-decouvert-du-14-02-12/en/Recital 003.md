@@ -1,0 +1,3 @@
+(3) It is appropriate and necessary for those rules to take the legislative form of a regulation in order to ensure that provisions directly imposing obligations on private parties to notify and disclose net short positions relating to certain instruments and regarding uncovered short selling are applied in a uniform manner throughout the Union. A regulation is also necessary to confer powers on the European Supervisory Authority (European Securities and Markets Authority) (ESMA) established by Regulation (EU) No 1095/2010 of the European Parliament and of the Council (4) to coordinate measures taken by competent authorities or to take measures itself.
+
+%%% (4)  OJ L 331, 15.12.2010, p. 84.

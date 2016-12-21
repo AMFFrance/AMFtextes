@@ -1,0 +1,3 @@
+(13) In addition to the transparency regime provided for in this Regulation, the Commission should consider, in the context of its revision of Directive 2004/39/EC of the European Parliament and of the Council of 21 April 2004 on markets in financial instruments (5), whether inclusion by investment firms of information about short sales in transaction reports to competent authorities would provide useful supplementary information to enable competent authorities to monitor levels of short selling.
+
+%%% (5)  OJ L 145, 30.4.2004, p. 1.
