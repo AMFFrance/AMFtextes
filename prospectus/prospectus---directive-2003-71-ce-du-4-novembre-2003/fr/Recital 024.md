@@ -1,0 +1,1 @@
+(24) Le contenu d'un prospectus de base devrait, en particulier, tenir compte de la souplesse nécessaire en ce qui concerne les informations à fournir sur les valeurs mobilières.

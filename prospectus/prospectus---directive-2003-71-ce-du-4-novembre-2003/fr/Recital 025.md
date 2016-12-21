@@ -1,0 +1,1 @@
+(25) Dans certaines circonstances, afin d'éviter des situations susceptibles de nuire aux intérêts des émetteurs, ceux-ci devraient pouvoir omettre certaines informations sensibles normalement incluses dans un prospectus, moyennant une dérogation accordée par l'autorité compétente.

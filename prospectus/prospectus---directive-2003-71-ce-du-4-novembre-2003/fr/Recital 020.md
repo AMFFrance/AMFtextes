@@ -1,0 +1,1 @@
+(20) Des informations suffisantes et aussi objectives que possible sur la situation financière de l'émetteur et les droits attachés aux valeurs mobilières devraient être fournies sous une forme aisément compréhensible et analysable. L'harmonisation du contenu informatif des prospectus devrait garantir un degré équivalent de protection des investisseurs dans la Communauté.

@@ -1,0 +1,1 @@
+(34) Tout fait nouveau pouvant influer sur l'évaluation de l'investissement et survenant entre la publication du prospectus et la clôture de l'offre ou l'ouverture de la négociation sur un marché réglementé devrait pouvoir être évalué correctement par les investisseurs et requiert, par conséquent, l'approbation et la diffusion d'un supplément au prospectus.

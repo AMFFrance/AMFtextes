@@ -1,0 +1,1 @@
+(39) Les autorités compétentes des États membres devraient coopérer aux fins de l'exercice de leurs fonctions.

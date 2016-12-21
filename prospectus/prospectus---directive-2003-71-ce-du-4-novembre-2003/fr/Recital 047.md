@@ -1,0 +1,1 @@
+(47) En vue des futurs développements de la présente directive, il y a lieu de réfléchir au mécanisme d'approbation à adopter afin de renforcer encore l'application uniforme de la législation communautaire en matière de prospectus, y compris à la mise en place éventuelle d'un organe européen des valeurs mobilières.

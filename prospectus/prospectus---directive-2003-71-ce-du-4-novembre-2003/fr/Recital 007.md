@@ -1,0 +1,1 @@
+(7) Le Conseil européen de Stockholm des 23 et 24 mars 2001 a avalisé le rapport final du comité des sages, et notamment sa proposition d'approche à quatre niveaux, en vue de rendre le processus d'élaboration de la législation communautaire dans le domaine des valeurs mobilières plus efficace et plus transparent.

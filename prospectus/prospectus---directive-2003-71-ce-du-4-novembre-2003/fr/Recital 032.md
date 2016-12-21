@@ -1,0 +1,1 @@
+(32) Le prospectus devrait être déposé auprès de l'autorité compétente concernée et rendu public par l'émetteur, l'offrant ou la personne demandant l'admission à négocier sur un marché réglementé, sous réserve des dispositions de l'Union européenne en matière de protection des données.

@@ -1,0 +1,1 @@
+(3) Pour des raisons de cohérence, il convient cependant de regrouper ensemble les dispositions de la directive 2001/34/CE qui proviennent de la directive 80/390/CEE avec celles de la directive 89/298/CEE et par conséquent de modifier la directive 2001/34/CE.

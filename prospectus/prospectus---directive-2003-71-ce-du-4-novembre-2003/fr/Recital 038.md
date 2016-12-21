@@ -1,0 +1,1 @@
+(38) En dotant les autorités compétentes d'un minimum de pouvoirs communs, on garantira l'efficacité de la surveillance qu'elles exercent. L'information continue aux marchés exigée par la directive 2001/34/CE devrait être assurée et les autorités compétentes devraient prendre des mesures contre les infractions.

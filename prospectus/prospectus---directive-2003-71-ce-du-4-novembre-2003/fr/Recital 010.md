@@ -1,0 +1,1 @@
+(10) La présente directive et ses mesures d'exécution ont pour objet de garantir la protection des investisseurs et l'efficacité des marchés, conformément aux normes réglementaires exigeantes édictées par les enceintes internationales compétentes.
