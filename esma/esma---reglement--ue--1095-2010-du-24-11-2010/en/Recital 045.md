@@ -1,0 +1,5 @@
+(45) The Authority should serve as an independent advisory body to the European Parliament, the Council, and the Commission in the area of its competence. Without prejudice to the competencies of the competent authorities concerned, the Authority should be able to provide its opinion on the prudential assessment of mergers and acquisitions under Directive 2004/39/EC of the European Parliament and of the Council of 21 April 2004 on markets in financial instruments (23), as amended by Directive 2007/44/EC (33) in those cases in which that Directive requires consultation between competent authorities from two or more Member States.
+
+%%% (23)  OJ L 145, 30.4.2004, p. 1.
+
+%%% (33)  Directive 2007/44/EC of the European Parliament and of the Council of 5 September 2007 amending Council Directive 92/49/EEC and Directives 2002/83/EC, 2004/39/EC, 2005/68/EC and 2006/48/EC as regards procedural rules and evaluation criteria for the prudential assessment of acquisitions and increase of holdings in the financial sector (OJ L 247, 21.9.2007, p. 1).

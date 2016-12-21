@@ -1,0 +1,1 @@
+(13) The Authority should take due account of the impact of its activities on competition and innovation within the internal market, on the Union’s global competitiveness, on financial inclusion, and on the Union’s new strategy for jobs and growth.

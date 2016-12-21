@@ -1,0 +1,1 @@
+(16) Cross-border risk includes all risks caused by economic imbalances or financial failures in all or parts of the Union that have the potential to have significant negative consequences for the transactions between economic operators of two or more Member States, for the functioning of the internal market or for the public finances of the Union or any of its Member States.

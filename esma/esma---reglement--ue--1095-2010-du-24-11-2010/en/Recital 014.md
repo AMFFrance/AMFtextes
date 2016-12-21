@@ -1,0 +1,1 @@
+(14) In order to fulfil its objectives, the Authority should have legal personality as well as administrative and financial autonomy.

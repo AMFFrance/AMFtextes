@@ -1,0 +1,1 @@
+(56) The management of the Authority should be entrusted to an Executive Director, who should have the right to participate in meetings of the Board of Supervisors and the Management Board without the right to vote.

@@ -1,0 +1,1 @@
+(49) Members of the Securities and Markets Stakeholder Group representing non-profit organisations or academics should receive adequate compensation in order to allow persons that are neither well-funded nor industry representatives to take part fully in the debate on financial regulation.

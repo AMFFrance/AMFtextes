@@ -1,0 +1,3 @@
+(59) In order to guarantee its full autonomy and independence, the Authority should be granted an autonomous budget with revenues mainly from obligatory contributions from national supervisory authorities and from the General Budget of the European Union. Union financing of the Authority is subject to an agreement by the budgetary authority in accordance with Point 47 of the Interinstitutional Agreement between the European Parliament, the Council and the Commission of 17 May 2006 on budgetary discipline and sound financial management (36). The Union budgetary procedure should be applicable. The auditing of accounts should be undertaken by the Court of Auditors. The overall budget is subject to the discharge procedure.
+
+%%% (36)  OJ C 139, 14.6.2006, p. 1.

@@ -1,0 +1,1 @@
+(69) In order to enable the Authority to be established on 1 January 2011, this Regulation should enter into force on the day following its publication in the Official Journal of the European Union,
