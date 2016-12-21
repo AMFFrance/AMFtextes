@@ -1,0 +1,7 @@
+(106) Les États membres devraient assurer le respect du droit à la protection des données à caractère personnel conformément à la directive 95/46/CE du Parlement européen et du Conseil (31) et à la directive 2002/58/CE du Parlement européen et du Conseil (32), qui régissent le traitement des données à caractère personnel effectué en application de la présente directive. Le traitement des données à caractère personnel effectué par l’AEMF en application de la présente directive est soumis aux dispositions du règlement (UE) no 45/2001 du Parlement européen et du Conseil (33).
+
+%%% (31)  Directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données (JO L 281 du 23.11.1995, p. 31).
+
+%%% (32)  Directive 2002/58/CE du Parlement européen et du Conseil du 12 juillet 2002 concernant le traitement des données à caractère personnel et la protection de la vie privée dans le secteur des communications électroniques (directive vie privée et communications électroniques) (JO L 201 du 31.7.2002, p. 37).
+
+%%% (33)  Règlement (CE) no 45/2001 du Parlement européen et du Conseil du 18 décembre 2000 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel par les institutions et organes communautaires et à la libre circulation de ces données (JO L 8 du 12.1.2001, p. 1).

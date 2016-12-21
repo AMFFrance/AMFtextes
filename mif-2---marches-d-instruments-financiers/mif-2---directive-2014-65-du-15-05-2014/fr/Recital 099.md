@@ -1,0 +1,1 @@
+(99) Les personnes fournissant des services d’investissement pour le compte de plusieurs entreprises d’investissement ne devraient pas être considérées comme des agents liés, mais comme des entreprises d’investissement lorsqu’elles relèvent de la définition prévue à la présente directive, à l’exception de certaines personnes qui peuvent être exemptées.

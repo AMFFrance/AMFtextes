@@ -1,0 +1,1 @@
+(16) Les personnes ayant accès aux marchés réglementés ou aux MTF sont appelées membres ou participants. Les deux termes peuvent être utilisés indifféremment. Ces termes n’englobent pas les utilisateurs qui accèdent aux plates-formes de négociation uniquement au moyen d’un accès électronique direct.

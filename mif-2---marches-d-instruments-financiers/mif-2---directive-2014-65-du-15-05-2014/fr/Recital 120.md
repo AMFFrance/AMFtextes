@@ -1,0 +1,1 @@
+(120) Le droit de l’Union sur les exigences de fonds propres devrait fixer les exigences minimales de capital auxquelles les marchés réglementés devraient satisfaire pour pouvoir être agréés et, ce faisant, devrait tenir compte de la nature spécifique des risques associés à ces marchés.

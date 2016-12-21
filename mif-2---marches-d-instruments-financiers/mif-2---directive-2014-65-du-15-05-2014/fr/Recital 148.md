@@ -1,0 +1,1 @@
+(148) La présente directive devrait faire référence aussi bien aux sanctions qu’aux mesures, afin d’englober tous les actes consécutifs à une violation et visant à en prévenir de nouvelles, que ces actes constituent des sanctions ou de simples mesures en droit national.

@@ -1,0 +1,1 @@
+(113) Eu égard à l’importance que revêt l’apport de liquidité pour le fonctionnement ordonné et efficace des marchés, les entreprises d’investissement recourant au trading algorithmique afin d’appliquer une stratégie de tenue de marché devraient conclure avec les plates-formes de négociation des accords écrits précisant leurs obligations de fournir de la liquidité au marché.

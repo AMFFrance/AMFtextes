@@ -1,0 +1,1 @@
+(44) Aux fins de la présente directive, l’activité de réception et de transmission d’ordres devrait également comprendre la mise en relation de deux ou plusieurs investisseurs permettant ainsi la réalisation d’une transaction entre ces investisseurs.

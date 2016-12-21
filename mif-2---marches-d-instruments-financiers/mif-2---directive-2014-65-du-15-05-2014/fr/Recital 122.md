@@ -1,0 +1,5 @@
+(122) Les dispositions de la présente directive relatives à l’admission d’instruments financiers à la négociation conformément aux règles appliquées par un marché réglementé devraient être sans préjudice de l’application de la directive 2001/34/CE du Parlement européen et du Conseil (34) et de la directive 2003/71/CE du Parlement européen et du Conseil (35). Un marché réglementé ne devrait pas être empêché d’appliquer des exigences plus strictes que celles prévues dans la présente directive aux émetteurs d’instruments financiers dont il envisage l’admission à la négociation.
+
+%%% (34)  Directive 2001/34/CE du Parlement européen et du Conseil du 28 mai 2001 concernant l’admission de valeurs mobilières à la cote officielle et l’information à publier sur ces valeurs (JO L 184 du 6.7.2001, p. 1).
+
+%%% (35)  Directive 2003/71/CE du Parlement européen et du Conseil du 4 novembre 2003 concernant le prospectus à publier en cas d’offre au public de valeurs mobilières ou en vue de l’admission de valeurs mobilières à la négociation (JO L 345 du 31.12.2003, p. 64).

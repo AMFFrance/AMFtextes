@@ -1,0 +1,1 @@
+(140) Compte tenu de l’importance et de la part de marché considérables acquises par divers MTF, il convient de veiller à ce que des dispositifs de coopération appropriés soient établis entre l’autorité compétente du MTF et celle du territoire sur lequel le MTF fournit des services. Afin d’anticiper toute évolution similaire, il y a lieu d’étendre cette disposition aux OTF.

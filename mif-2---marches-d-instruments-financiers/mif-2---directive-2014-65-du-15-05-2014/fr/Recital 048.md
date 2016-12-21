@@ -1,0 +1,1 @@
+(48) Une entreprise d’investissement agréée dans son État membre d’origine devrait être autorisée à fournir des services d’investissement ou à exercer des activités d’investissement dans toute l’Union sans avoir à demander un agrément distinct de l’autorité compétente de l’État membre dans lequel elle souhaite fournir de tels services ou exercer de telles activités.

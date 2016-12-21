@@ -1,0 +1,1 @@
+(43) Si une entreprise d’investissement fournit ponctuellement un ou plusieurs services d’investissement ou exerce ponctuellement une ou plusieurs activités d’investissement non couverts par son agrément, elle ne devrait pas avoir besoin d’un agrément supplémentaire dans le cadre de la présente directive.

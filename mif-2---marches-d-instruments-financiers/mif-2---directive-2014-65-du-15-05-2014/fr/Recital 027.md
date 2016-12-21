@@ -1,0 +1,3 @@
+(27) Il y a lieu d’exclure du champ d’application de la présente directive les entreprises d’assurance dont les activités font l’objet d’une surveillance appropriée par des autorités compétentes en matière de contrôle prudentiel et qui relèvent de la directive 2009/138/CE du Parlement européen et du Conseil (14) lorsqu’elles exercent les activités visées dans ladite directive.
+
+%%% (14)  Directive 2009/138/CE du Parlement européen et du Conseil du 25 novembre 2009 sur l’accès aux activités de l’assurance et de la réassurance et leur exercice (solvabilité II) (JO L 335 du 17.12.2009, p. 1).

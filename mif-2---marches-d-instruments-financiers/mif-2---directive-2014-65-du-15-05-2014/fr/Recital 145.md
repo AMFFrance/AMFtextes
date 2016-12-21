@@ -1,0 +1,1 @@
+(145) Afin de garantir une application uniforme des sanctions dans l’Union, il y a lieu de contraindre les États membres à veiller à ce que les autorités compétentes prennent en considération toutes les circonstances pertinentes lorsqu’elles déterminent le type de sanctions ou de mesures et le montant des amendes administratives.

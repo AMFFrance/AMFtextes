@@ -1,0 +1,34 @@
+# Article 3 - Exemptions optionnelles
+
+
+1.   Les États membres peuvent choisir de ne pas appliquer la présente directive aux personnes dont ils sont l’État membre d’origine, à condition que les activités de ces personnes soient autorisées et réglementées au niveau national, et que ces personnes:
+
+a) ne soient pas autorisées à détenir des fonds ou des titres de clients et que, pour cette raison, elles ne risquent à aucun moment d’être débitrices vis-à-vis de ceux-ci;
+
+b) ne soient pas autorisées à fournir des services d’investissement à l’exception de la réception et de la transmission des ordres concernant des valeurs mobilières et des parts d’organismes de placement collectif et/ou de la fourniture de conseils en investissement en liaison avec ces instruments financiers; et
+
+c) dans le cadre de la fourniture de ce service, sont autorisées à transmettre les ordres uniquement aux: i) entreprises d’investissement agréées conformément à la présente directive; ii) établissements de crédit agréés conformément à la directive 2013/36/UE; iii) succursales d’entreprises d’investissement ou d’établissements de crédit qui sont agréées dans un pays tiers et sont soumises et satisfont à des règles prudentielles considérées par les autorités compétentes comme étant au moins aussi strictes que celles établies dans la présente directive, dans le règlement (UE) no 575/2013 ou dans la directive 2013/36/UE; iv) organismes de placement collectif autorisés en vertu du droit d’un État membre à vendre des parts au public et aux gestionnaires de ces organismes; ou v) sociétés d’investissement à capital fixe, définies à l’article 17, paragraphe 7, de la directive 2012/30/UE du Parlement européen et du Conseil (42), dont les titres sont cotés ou négociés sur un marché réglementé dans un État membre; ou
+
+d) fournissent des services d’investissement portant exclusivement sur des matières premières, des quotas d’émission et/ou des instruments dérivés sur ceux-ci aux seules fins de couvrir les risques commerciaux de leurs clients, lorsque ces clients sont exclusivement des entreprises locales d’électricité au sens de l’article 2, point 35), de la directive 2009/72/CE et/ou des entreprises de gaz naturel au sens de l’article 2, point 1), de la directive 2009/73/CE, et à condition que ces clients détiennent conjointement 100 % du capital ou des droits de vote de ces personnes, exercent un contrôle conjoint et soient exemptés en vertu de l’article 2, paragraphe 1, point j), de la présente directive s’ils fournissent ces services d’investissement eux-mêmes; ou
+
+e) fournissent des services d’investissement portant exclusivement sur des quotas d’émission et/ou des instruments dérivés sur ceux-ci aux seules fins de couvrir les risques commerciaux de leurs clients, lorsque ces clients sont exclusivement des exploitants au sens de l’article 3, point f), de la directive 2003/87/CE, et à condition que ces clients détiennent conjointement 100 % du capital ou des droits de vote de ces personnes, exercent un contrôle conjoint et soient exemptés en vertu de l’article 2, paragraphe 1, point j), de la présente directive s’ils fournissent ces services d’investissement eux-mêmes.
+
+2.   Les réglementations des États membres soumettent les personnes visées au paragraphe 1 à des exigences au moins analogues aux exigences ci-après prévues par la présente directive:
+
+a) les conditions et procédures d’agrément et de surveillance continue établies à l’article 5, paragraphes 1 et 3, et aux articles 7 à 10, 21, 22 et 23 et les actes délégués correspondants adoptés par la Commission en conformité avec l’article 89;
+
+b) les règles de conduite établies à l’article 24, paragraphes 1, 3, 4, 5, 7 et 10, à l’article 25, paragraphes 2, 5 et 6, et à l’article 29 dans les cas où les réglementations nationales autorisent ces personnes à faire appel à des agents liés, ainsi que dans les mesures d’exécution correspondantes;
+
+c) les exigences organisationnelles telles qu’énoncées à l’article 16, paragraphe 3, premier, sixième et septième alinéas, et à l’article 16, paragraphes 6 et 7, et les actes délégués correspondants adoptés par la Commission en conformité avec l’article 89.
+
+Les États membres exigent des personnes exemptées du champ d’application de la présente directive en vertu du paragraphe 1 du présent article qu’elles soient couvertes par un système d’indemnisation des investisseurs reconnu conformément à la directive 97/9/CE. Les États membres peuvent autoriser les entreprises d’investissement à ne pas être couvertes par un tel système à condition qu’elles soient titulaires d’une assurance de responsabilité civile professionnelle lorsque, compte tenu de la taille, du profil de risque et de la forme juridique des personnes exemptées conformément au paragraphe 1 du présent article, une protection équivalente est garantie à leurs clients.
+
+Par dérogation au second alinéa du présent paragraphe, les États membres qui disposent déjà de telles dispositions législatives, réglementaires ou administratives avant le 2 juillet 2014 peuvent exiger, avant le 3 juillet 2019, que, lorsque les personnes exemptées du champ d’application de la présente directive en vertu du paragraphe 1 du présent article fournissent les services d’investissement consistant en la réception et la transmission des ordres et/ou en la fourniture de conseils en investissement portant sur des parts d’organismes de placement collectif et agissent en tant qu’intermédiaire avec une société de gestion au sens de la directive 2009/65/CE, ces personnes soient conjointement et solidairement responsables avec la société de gestion de tout dommage subi par le client en rapport avec ces services.
+
+3.   Les personnes qui sont exemptées du champ d’application de la présente directive en vertu du paragraphe 1 ne bénéficient pas de la liberté de fournir des services ou d’exercer des activités ni de celle d’établir des succursales tel que prévu aux articles 34 et 35 respectivement.
+
+4.   Les États membres notifient à la Commission et à l’AEMF le recours à l’option prévue par le présent article et veillent à ce que chaque autorisation accordée conformément au paragraphe 1 mentionne qu’il l’est conformément au présent article.
+
+5.   Les États membres communiquent à l’AEMF les dispositions de droit national analogues aux exigences de la présente directive énumérées au paragraphe 2.
+
+%%% (42)  Directive 2012/30/UE du Parlement européen et du Conseil du 25 octobre 2012 tendant à coordonner, pour les rendre équivalentes, les garanties qui sont exigées dans les États membres des sociétés au sens de l’article 54, deuxième alinéa, du traité sur le fonctionnement de l’Union européenne, en vue de la protection des intérêts tant des associés que des tiers, en ce qui concerne la constitution de la société anonyme ainsi que le maintien et les modifications de son capital (JO L 315 du 14.11.2012, p. 74).

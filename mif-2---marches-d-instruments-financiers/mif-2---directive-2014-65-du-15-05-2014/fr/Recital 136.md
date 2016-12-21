@@ -1,0 +1,1 @@
+(136) Les informations confidentielles reçues par le point de contact d’un État membre par l’intermédiaire du point de contact d’un autre État membre ne devraient pas être traitées comme s’il s’agissait d’informations à caractère purement national.

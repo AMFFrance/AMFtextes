@@ -1,0 +1,3 @@
+(60) Les entreprises d’investissement qui recourent au trading algorithmique dans le cadre d’une stratégie de tenue de marché devraient disposer de systèmes et de contrôles efficaces pour cette activité. Une telle activité devrait s’entendre dans un sens propre à son contexte et à son objet. La définition d’une telle activité est donc indépendante d’autres définitions, par exemple celle d’«activités de tenue de marché» dans le règlement (UE) no 236/2012 du Parlement européen et du Conseil (27).
+
+%%% (27)  Règlement (UE) no 236/2012 du Parlement européen et du Conseil du 14 mars 2012 sur la vente à découvert et certains aspects des contrats d’échange sur risque de crédit (JO L 86 du 24.3.2012, p. 1).

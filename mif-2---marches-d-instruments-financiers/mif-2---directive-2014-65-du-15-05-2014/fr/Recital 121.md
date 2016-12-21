@@ -1,0 +1,1 @@
+(121) Les exploitants d’un marché réglementé devraient aussi pouvoir exploiter un MTF ou un OTF conformément aux dispositions pertinentes de la présente directive.

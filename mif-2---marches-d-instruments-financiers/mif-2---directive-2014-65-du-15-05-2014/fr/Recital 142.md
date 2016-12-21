@@ -1,0 +1,1 @@
+(142) Les autorités compétentes devraient notamment pouvoir infliger des amendes suffisamment élevées pour contrebalancer les avantages attendus et avoir un effet dissuasif même pour les établissements de plus grande taille et leurs dirigeants.

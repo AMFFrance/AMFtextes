@@ -1,0 +1,1 @@
+(116) L’introduction de dispositifs de publication agréés («approved publication arrangements» ou APA) devrait améliorer la qualité des rapports de négociation publiés dans le contexte du gré- à gré et faire en sorte qu’il sera plus facile de consolider ces informations avec les données publiées par les plates-formes de négociation.

@@ -1,0 +1,1 @@
+(88) Il y a lieu de modifier la directive 2002/92/CE de manière à aligner les règles concernant les conflits d’intérêts, les principes généraux et l’information des clients et de manière à permettre aux États membres d’imposer des restrictions à la rémunération des intermédiaires d’assurance.

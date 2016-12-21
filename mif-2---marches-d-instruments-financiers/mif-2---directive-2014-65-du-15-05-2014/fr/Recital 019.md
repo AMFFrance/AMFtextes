@@ -1,0 +1,1 @@
+(19) Le communiqué des ministres des finances et des gouverneurs des banques centrales du G20 du 15 avril 2011 déclare qu’il est nécessaire que les intervenants sur les marchés dérivés de matières premières soient soumis à une régulation et à une supervision appropriées; dès lors, il y a lieu de modifier certaines exemptions prévues dans la directive 2004/39/CE.
