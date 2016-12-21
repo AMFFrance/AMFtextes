@@ -1,0 +1,1 @@
+(21) This Act complies with the fundamental rights and follows the principles laid down in particular in the Charter of Fundamental Rights of the European Union.
