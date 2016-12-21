@@ -1,0 +1,1 @@
+(16) La présente directive ne devrait pas s’appliquer aux gestionnaires dans la mesure où ils gèrent des FIA dont les seuls investisseurs sont les gestionnaires eux-mêmes ou leur entreprise mère, leurs filiales ou d’autres filiales de leur entreprise mère, et dans la mesure où ces investisseurs ne sont pas eux-mêmes des FIA.

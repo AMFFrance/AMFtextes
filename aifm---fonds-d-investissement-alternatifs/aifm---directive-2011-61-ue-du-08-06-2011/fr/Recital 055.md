@@ -1,0 +1,1 @@
+(55) La Commission est invitée à étudier la nécessité et les possibilités de modifier les obligations d’information et de communication, applicables en cas de contrôle de sociétés non cotées ou d’émetteurs, prévues par la présente directive sur un plan général, quel que soit le type d’investisseur.

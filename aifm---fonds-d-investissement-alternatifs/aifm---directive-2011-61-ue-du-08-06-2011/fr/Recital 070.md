@@ -1,0 +1,1 @@
+(70) La présente directive ne devrait pas affecter la situation actuelle dans laquelle un investisseur professionnel établi dans l’Union est autorisé à investir de sa propre initiative dans des FIA, quel que soit le lieu d’établissement du gestionnaire et/ou du FIA.

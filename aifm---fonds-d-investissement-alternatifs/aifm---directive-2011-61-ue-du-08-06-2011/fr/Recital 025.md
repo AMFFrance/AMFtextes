@@ -1,0 +1,1 @@
+(25) Les principes qui régissent les politiques de rémunération devraient admettre que les gestionnaires peuvent appliquer ces politiques différemment, en fonction de leur taille et de la taille des FIA qu’ils gèrent, de leur organisation interne et de la nature, de la gamme et de la complexité de leurs activités.

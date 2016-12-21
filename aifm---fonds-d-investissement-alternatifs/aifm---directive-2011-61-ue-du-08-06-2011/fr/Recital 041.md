@@ -1,0 +1,3 @@
+(41) Confier la conservation des actifs à l’opérateur d’un système de règlement désigné aux fins de la directive 98/26/CE du Parlement européen et du Conseil du 19 mai 1998 concernant le caractère définitif du règlement dans les systèmes de paiement et de règlement des opérations sur titres (12) ou confier la fourniture de services similaires à des systèmes de règlement des opérations sur titres de pays tiers ne devrait pas être considéré comme une délégation des fonctions de conservation.
+
+%%% (12)  JO L 166 du 11.6.1998, p. 45.

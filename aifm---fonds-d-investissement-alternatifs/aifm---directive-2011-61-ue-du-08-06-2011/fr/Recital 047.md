@@ -1,0 +1,1 @@
+(47) La présente directive ne devrait pas affecter les dispositions législatives qui pourraient être arrêtées concernant le dépositaire dans la directive 2009/65/CE, puisque les OPCVM et les FIA diffèrent tant par les stratégies d’investissement qu’ils suivent que par le type d’investisseurs auxquels ils s’adressent.

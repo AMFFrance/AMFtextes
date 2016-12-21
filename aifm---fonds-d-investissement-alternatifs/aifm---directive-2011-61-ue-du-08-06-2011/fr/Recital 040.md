@@ -1,0 +1,1 @@
+(40) Un tiers auquel est déléguée la garde des actifs du dépositaire devrait pouvoir tenir un compte distinct commun pour plusieurs FIA, dénommé «compte omnibus».

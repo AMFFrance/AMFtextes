@@ -1,0 +1,1 @@
+(18) Aucun gestionnaire établi dans l’Union ne devrait pouvoir gérer et/ou commercialiser des FIA de l’Union auprès d’investisseurs professionnels dans l’Union sans avoir été agréé conformément à la présente directive. Un gestionnaire agréé en vertu de la présente directive devrait remplir en permanence les conditions d’agrément prévues par la présente directive.

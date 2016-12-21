@@ -1,0 +1,1 @@
+(66) En outre, un gestionnaire établi dans un pays tiers qui prévoit de gérer des FIA de l’Union et/ou de commercialiser des FIA dans l’Union avec un passeport devrait se conformer à une procédure d’agrément spécifique et devrait respecter certaines exigences particulières concernant le pays tiers dans lequel le gestionnaire est établi et, le cas échéant, le pays tiers du FIA.

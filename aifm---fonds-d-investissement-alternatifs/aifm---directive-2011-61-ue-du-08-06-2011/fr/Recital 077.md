@@ -1,0 +1,3 @@
+(77) Afin d’assurer des conditions uniformes d’exécution de la présente directive, il convient de conférer des compétences d’exécution à la Commission. Ces compétences devraient être exercées en conformité avec le règlement (UE) no 182/2011 du Parlement européen et du Conseil du 16 février 2011 établissant les règles et principes généraux relatifs aux modalités de contrôle par les États membres de l’exercice des compétences d’exécution de la Commission (20).
+
+%%% (20)  JO L 55 du 28.2.2011, p. 13.

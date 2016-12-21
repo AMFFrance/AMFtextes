@@ -1,0 +1,1 @@
+(14) La présente directive prévoit des exigences quant à la manière dont les gestionnaires devraient gérer les FIA dont ils sont responsables. Pour les gestionnaires établis dans un pays tiers, ces exigences se limitent à la gestion des FIA de l’Union et d’autres FIA dont les parts ou les actions sont également commercialisées auprès des investisseurs professionnels dans l’Union.

@@ -1,0 +1,1 @@
+(73) La présente directive prévoit également de conférer à l’AEMF un rôle général de coordination et la possibilité de recourir aux procédures de médiation obligatoires présidées par l’AEMF pour résoudre les litiges entre les autorités compétentes.

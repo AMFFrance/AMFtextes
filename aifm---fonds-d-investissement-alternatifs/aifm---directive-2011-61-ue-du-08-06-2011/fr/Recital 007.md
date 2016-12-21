@@ -1,0 +1,1 @@
+(7) Les organismes de placement, tels que les véhicules d’investissement des family office, qui investissent le patrimoine privé d’investisseurs sans lever de fonds extérieurs, ne devraient pas être considérés comme des FIA au sens de la présente directive.

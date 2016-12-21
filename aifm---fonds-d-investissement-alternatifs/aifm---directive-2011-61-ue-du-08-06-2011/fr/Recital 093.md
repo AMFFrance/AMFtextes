@@ -1,0 +1,1 @@
+(93) Au terme de son examen, la Commission devrait présenter au Parlement européen et au Conseil un rapport contenant, le cas échéant, des propositions de modifications tenant compte des objectifs de la présente directive et de leurs conséquences éventuelles sur les investisseurs, les FIA ou les gestionnaires, dans l’Union et dans les pays tiers.

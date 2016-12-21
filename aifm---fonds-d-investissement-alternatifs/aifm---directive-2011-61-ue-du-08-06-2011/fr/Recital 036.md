@@ -1,0 +1,1 @@
+(36) La Commission est invitée à étudier les possibilités de présenter une proposition législative appropriée, à caractère horizontal, qui précise les responsabilités et les obligations d’un dépositaire et réglemente le droit d’un dépositaire opérant dans un État membre de fournir ses services dans un autre État membre.

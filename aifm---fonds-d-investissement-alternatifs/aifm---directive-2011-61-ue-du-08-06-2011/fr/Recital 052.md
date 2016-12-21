@@ -1,0 +1,1 @@
+(52) Il est nécessaire de garantir que les autorités compétentes de l’état membre d’origine du gestionnaire, les sociétés sur lesquelles les FIA gérés par un gestionnaire exercent un contrôle et les employés de ces sociétés reçoivent certaines informations nécessaires pour que ces sociétés puissent évaluer l’incidence de ce contrôle sur leur situation.

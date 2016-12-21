@@ -1,0 +1,1 @@
+(68) L’AEMF devrait procéder, chaque année, à un examen par les pairs des activités de surveillance des autorités compétentes quant à l’agrément et à la surveillance des gestionnaires établis dans un pays tiers, afin de renforcer la cohérence des résultats de surveillance, conformément à l’article 30 du règlement (UE) no 1095/2010.

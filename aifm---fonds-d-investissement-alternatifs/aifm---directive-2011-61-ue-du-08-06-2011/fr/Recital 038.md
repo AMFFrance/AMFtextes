@@ -1,0 +1,1 @@
+(38) Un dépositaire devrait agir de manière honnête, loyale, professionnelle, indépendante et dans l’intérêt du FIA ou des investisseurs du FIA.
