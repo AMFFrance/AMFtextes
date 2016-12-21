@@ -1,0 +1,1 @@
+(56) The arrangements provided for in this Regulation do not constitute a precedent for other legislation on the supervision and oversight of financial market infrastructures, in particular with regard to the voting modalities for referrals to ESMA.

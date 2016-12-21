@@ -1,0 +1,1 @@
+(63) The participation requirements for a CCP should be transparent, proportionate, and non-discriminatory and should allow for remote access to the extent that this does not expose the CCP to additional risks.

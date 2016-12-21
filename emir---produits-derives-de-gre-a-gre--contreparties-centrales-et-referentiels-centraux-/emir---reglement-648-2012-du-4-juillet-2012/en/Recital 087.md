@@ -1,0 +1,1 @@
+(87) ESMA’s decisions imposing fines and periodic penalty payments should be enforceable and their enforcement should be subject to the rules of civil procedure which are in force in the State in the territory of which it is carried out. Rules of civil procedure should not include criminal procedural rules but could include administrative procedural rules.

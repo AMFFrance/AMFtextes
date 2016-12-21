@@ -1,0 +1,1 @@
+(75) Given that regulators, CCPs and other market participants rely on the data maintained by trade repositories, it is necessary to ensure that those trade repositories are subject to strict operational, record-keeping and data-management requirements.

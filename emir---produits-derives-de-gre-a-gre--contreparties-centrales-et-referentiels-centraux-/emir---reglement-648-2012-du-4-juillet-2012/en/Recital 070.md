@@ -1,0 +1,1 @@
+(70) Margins are the primary line of defence for a CCP. Although CCPs should invest the margins received in a safe and prudent manner, they should make particular efforts to ensure adequate protection of margins to guarantee that they are returned in a timely manner to the non-defaulting clearing members or to an interoperable CCP where the CCP collecting these margins defaults.

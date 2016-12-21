@@ -1,0 +1,1 @@
+(67) CCPs’ risk-management strategies should be sufficiently sound so as to avoid risks for the taxpayer.

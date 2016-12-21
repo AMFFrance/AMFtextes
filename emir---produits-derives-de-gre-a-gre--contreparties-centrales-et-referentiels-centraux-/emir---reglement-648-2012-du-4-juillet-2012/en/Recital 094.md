@@ -1,0 +1,1 @@
+(94) As a part of its development of technical guidelines and regulatory technical standards, and in particular when setting the clearing threshold for non-financial counterparties under this Regulation, ESMA should organise public hearings of market participants.

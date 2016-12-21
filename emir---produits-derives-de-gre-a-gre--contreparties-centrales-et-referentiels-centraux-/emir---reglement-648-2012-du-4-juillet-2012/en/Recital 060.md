@@ -1,0 +1,1 @@
+(60) On 16 September 2010, the European Council agreed on the need for the Union to promote its interest and values more assertively and, in a spirit of reciprocity and mutual benefit, in the context of the Union’s external relations and to take steps, inter alia, to secure greater market access for European business and deepen regulatory cooperation with major trade partners.

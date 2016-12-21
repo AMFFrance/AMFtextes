@@ -1,0 +1,1 @@
+(85) Before taking a decision to impose fines or periodic penalty payments, ESMA should give the persons subject to the proceedings the opportunity to be heard in order to respect their rights of defence.

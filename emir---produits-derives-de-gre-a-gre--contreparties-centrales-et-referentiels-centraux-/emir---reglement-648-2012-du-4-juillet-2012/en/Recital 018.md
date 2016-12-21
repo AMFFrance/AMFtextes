@@ -1,0 +1,1 @@
+(18) Where ESMA has identified that an OTC derivative product is standardised and suitable for clearing but no CCP is willing to clear that product, ESMA should investigate the reason for this.

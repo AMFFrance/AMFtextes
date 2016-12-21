@@ -1,0 +1,1 @@
+(22) For an OTC derivative contract to be cleared, both parties to that contract must be subject to a clearing obligation or must consent. Exemptions to the clearing obligation should be narrowly tailored as they would reduce the effectiveness of the obligation and the benefits of CCP clearing and may lead to regulatory arbitrage between groups of market participants.

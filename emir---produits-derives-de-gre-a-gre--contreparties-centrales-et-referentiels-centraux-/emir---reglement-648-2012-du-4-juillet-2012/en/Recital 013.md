@@ -1,0 +1,1 @@
+(13) Incentives to promote the use of CCPs have not proven to be sufficient to ensure that standardised OTC derivative contracts are in fact cleared centrally. Mandatory CCP clearing requirements for those OTC derivative contracts that can be cleared centrally are therefore necessary.

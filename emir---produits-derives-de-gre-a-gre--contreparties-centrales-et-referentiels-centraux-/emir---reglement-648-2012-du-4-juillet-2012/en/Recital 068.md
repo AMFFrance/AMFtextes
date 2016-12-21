@@ -1,0 +1,1 @@
+(68) Margin calls and haircuts on collateral may have procyclical effects. CCPs, competent authorities and ESMA should therefore adopt measures to prevent and control possible procyclical effects in risk-management practices adopted by CCPs, to the extent that a CCP’s soundness and financial security is not negatively affected.

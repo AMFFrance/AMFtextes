@@ -1,0 +1,1 @@
+(44) The ESAs should be provided with adequate resources in order to perform the tasks they are given in this Regulation effectively.

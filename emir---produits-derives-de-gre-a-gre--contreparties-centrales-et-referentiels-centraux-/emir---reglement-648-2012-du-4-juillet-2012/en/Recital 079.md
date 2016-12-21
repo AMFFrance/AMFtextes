@@ -1,0 +1,1 @@
+(79) In order to exercise its supervisory powers effectively, ESMA should be able to conduct investigations and on-site inspections.

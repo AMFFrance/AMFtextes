@@ -1,0 +1,1 @@
+(97) In view of the rules regarding interoperable systems, it was deemed appropriate to amend Directive 98/26/EC to protect the rights of a system operator that provides collateral security to a receiving system operator in the event of insolvency proceedings against that receiving system operator.

@@ -1,0 +1,1 @@
+(43) In order to allow for a comprehensive overview of the market and for assessing systemic risk, both CCP-cleared and non-CCP-cleared derivative contracts should be reported to trade repositories.

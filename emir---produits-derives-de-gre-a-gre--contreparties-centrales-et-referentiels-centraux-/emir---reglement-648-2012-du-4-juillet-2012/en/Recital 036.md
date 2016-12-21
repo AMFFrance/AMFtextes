@@ -1,0 +1,1 @@
+(36) In certain areas within financial services and trading of derivative contracts, commercial and intellectual property rights may also exist. In instances where such property rights relate to products or services which have become, or impact upon, industry standards, licences should be available on proportionate, fair, reasonable and non-discriminatory terms.

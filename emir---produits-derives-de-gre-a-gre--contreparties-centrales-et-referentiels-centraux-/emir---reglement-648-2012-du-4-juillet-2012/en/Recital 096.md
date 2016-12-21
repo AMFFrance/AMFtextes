@@ -1,0 +1,1 @@
+(96) The Commission should monitor and assess the need for any appropriate measures to ensure the consistent and effective application and development of regulations, standards and practices falling within the scope of this Regulation, taking into consideration the outcome of the work performed by relevant international forums.

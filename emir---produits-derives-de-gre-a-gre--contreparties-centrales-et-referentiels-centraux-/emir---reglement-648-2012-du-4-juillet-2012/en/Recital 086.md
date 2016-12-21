@@ -1,0 +1,1 @@
+(86) ESMA should refrain from imposing fines or periodic penalty payments where a prior acquittal or conviction arising from identical facts, or from facts which are substantially the same, has acquired the force of res judicata as a result of criminal proceedings under national law.

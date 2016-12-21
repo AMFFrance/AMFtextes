@@ -1,0 +1,1 @@
+(33) As not all market participants that are subject to the clearing obligation are able to become clearing members of the CCP, they should have the possibility to access CCPs as clients or indirect clients subject to certain conditions.

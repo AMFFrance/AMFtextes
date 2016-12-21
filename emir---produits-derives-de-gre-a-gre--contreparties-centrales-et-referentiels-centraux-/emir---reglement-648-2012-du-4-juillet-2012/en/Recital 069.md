@@ -1,0 +1,1 @@
+(69) Exposure management is an essential part of the clearing process. Access to, and use of, the relevant pricing sources should be granted to provide clearing services in general. Such pricing sources should include those relating to indices that are used as references to derivatives or other financial instruments.

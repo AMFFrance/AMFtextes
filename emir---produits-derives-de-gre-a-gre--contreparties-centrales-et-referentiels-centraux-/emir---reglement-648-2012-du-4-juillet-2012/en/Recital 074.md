@@ -1,0 +1,1 @@
+(74) Trade repositories collect data for regulatory purposes that are relevant to authorities in all Member States. ESMA should assume responsibility for the registration, withdrawal of registration and supervision of trade repositories.

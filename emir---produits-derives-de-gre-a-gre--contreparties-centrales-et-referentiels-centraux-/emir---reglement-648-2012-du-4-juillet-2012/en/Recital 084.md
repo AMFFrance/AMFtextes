@@ -1,0 +1,1 @@
+(84) This Regulation should establish coefficients linked to aggravating and mitigating circumstances in order to give the necessary tools to ESMA to decide on a fine which is proportionate to the seriousness of the infringement committed by a trade repository, taking into account the circumstances under which that infringement has been committed.

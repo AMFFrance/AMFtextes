@@ -1,0 +1,7 @@
+(3) On 23 September 2009, the Commission adopted proposals for three regulations establishing the European System of Financial Supervision, including the creation of three European Supervisory Authorities (ESAs) to contribute to a consistent application of Union legislation and to the establishment of high-quality common regulatory and supervisory standards and practices. The ESAs comprise the European Supervisory Authority (European Banking Authority) (EBA) established by Regulation (EU) No 1093/2010 of the European Parliament and of the Council (4), the European Supervisory Authority (European Insurance and Occupational Pensions Authority) (EIOPA) established by Regulation (EU) No 1094/2010 of the European Parliament and of the Council (5), and the European Supervisory Authority (European Securities and Markets Authority) (ESMA) established by Regulation (EU) No 1095/2010 of the European Parliament and of the Council (6). The ESAs have a crucial role to play in safeguarding the stability of the financial sector. It is therefore essential to ensure continuously that the development of their work is a matter of high political priority and that they are adequately resourced.
+
+%%% (4)  OJ L 331, 15.12.2010, p. 12.
+
+%%% (5)  OJ L 331, 15.12.2010, p. 48.
+
+%%% (6)  OJ L 331, 15.12.2010, p. 84.

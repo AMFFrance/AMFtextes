@@ -1,0 +1,1 @@
+(62) A CCP may outsource functions. The CCP’s risk committee should advise on such outsourcing. Major activities linked to risk management should not be outsourced unless this is approved by the competent authority.

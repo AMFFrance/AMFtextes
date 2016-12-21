@@ -1,0 +1,1 @@
+(32) Members of the ESCB and other Member States’ bodies performing similar functions, other Union public bodies charged with or intervening in the management of the public debt, and the Bank for International Settlements should be excluded from the scope of this Regulation in order to avoid limiting their power to perform their tasks of common interest.

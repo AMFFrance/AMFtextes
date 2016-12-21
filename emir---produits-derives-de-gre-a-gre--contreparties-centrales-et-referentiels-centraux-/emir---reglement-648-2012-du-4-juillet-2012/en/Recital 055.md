@@ -1,0 +1,1 @@
+(55) The very particular situation of CCPs requires that colleges are organised and function in accordance with arrangements that are specific to the supervision of CCPs.

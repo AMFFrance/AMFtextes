@@ -1,0 +1,1 @@
+(15) Ensuring that the clearing obligation reduces systemic risk requires a process of identification of classes of derivatives that should be subject to that obligation. That process should take into account the fact that not all CCP-cleared OTC derivative contracts can be considered suitable for mandatory CCP clearing.
