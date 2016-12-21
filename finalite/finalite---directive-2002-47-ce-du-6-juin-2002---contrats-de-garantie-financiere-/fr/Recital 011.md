@@ -1,0 +1,1 @@
+(11) En outre, la présente directive ne devrait protéger que les contrats de garantie financière qui peuvent être attestés. Ces contrats peuvent être attestés par écrit ou de toute autre manière juridiquement contraignante prévue par la loi qui leur est applicable.
