@@ -1,0 +1,1 @@
+(36) Les pouvoirs d’intervention dont peuvent se prévaloir les autorités compétentes et l’AEMF pour restreindre les ventes à découvert, la conclusion de contrats d’échange sur risque de crédit et d’autres transactions devraient être uniquement de nature temporaire et ne devraient s’exercer que sur la période prévue et dans la mesure nécessaire pour contrer une menace précise.

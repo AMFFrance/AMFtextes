@@ -1,0 +1,1 @@
+(35) Les références aux articles 18 et 38 du règlement (UE) no 1095/2010 dans le présent règlement sont de nature déclaratoire. Ces articles s’appliquent même en l’absence de telles références.

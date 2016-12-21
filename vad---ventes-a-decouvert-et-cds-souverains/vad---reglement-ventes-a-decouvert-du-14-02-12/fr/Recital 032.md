@@ -1,0 +1,1 @@
+(32) Outre cette fonction de coordination de l’action des autorités compétentes, l’AEMF devrait veiller à ce que celles-ci ne prennent des mesures qu’à condition qu’elles soient nécessaires et proportionnées. L’AEMF devrait pouvoir donner un avis aux autorités compétentes quant à l’utilisation de leurs pouvoirs d’intervention.

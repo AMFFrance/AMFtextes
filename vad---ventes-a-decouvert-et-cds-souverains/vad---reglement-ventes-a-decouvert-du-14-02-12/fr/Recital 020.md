@@ -1,0 +1,1 @@
+(20) Pour ce qui est de la vente à découvert non couverte de titres de dette souveraine, le fait qu’une vente à découvert soit couverte par l’acquisition de titres de dette souveraine au cours de la même journée peut constituer un exemple de situation où l’on peut raisonnablement s’attendre à ce que le règlement soit effectué lorsqu’il est dû.

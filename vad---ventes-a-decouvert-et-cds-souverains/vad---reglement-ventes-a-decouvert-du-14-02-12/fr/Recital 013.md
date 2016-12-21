@@ -1,0 +1,3 @@
+(13) Outre le régime de transparence prévu par le présent règlement, la Commission devrait examiner, dans le cadre de sa révision de la directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d’instruments financiers (5), si l’inclusion par les entreprises d’investissement des informations sur les ventes à découvert dans les déclarations d’opérations faites auprès des autorités compétentes apporterait des informations utiles complémentaires permettant aux autorités compétentes de suivre l’évolution du niveau des ventes à découvert.
+
+%%% (5)  JO L 145 du 30.4.2004, p. 1.

@@ -1,0 +1,1 @@
+(6) Les références faites dans le présent règlement aux personnes physiques et morales devraient comprendre les associations d’entreprises enregistrées sans personnalité juridique.
