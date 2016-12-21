@@ -1,0 +1,1 @@
+(12) In order to ensure the safety of settlement, any participant in a securities settlement system buying or selling certain financial instruments, namely transferable securities, money-market instruments, units in collective investment undertakings and emission allowances, should settle its obligation on the intended settlement date.

@@ -1,0 +1,1 @@
+(70) As a body with highly specialised expertise regarding securities and securities markets, it is efficient and appropriate to entrust ESMA with the development of draft regulatory and implementing technical standards which do not involve policy choices, for submission to the Commission. Where specified, ESMA should also closely cooperate with the members of the ESCB and EBA.
