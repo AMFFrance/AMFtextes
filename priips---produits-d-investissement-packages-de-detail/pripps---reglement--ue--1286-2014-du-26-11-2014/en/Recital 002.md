@@ -1,0 +1,3 @@
+(2) Improving the transparency of PRIIPs offered to retail investors is an important investor protection measure and a precondition for rebuilding the confidence of retail investors in the financial market, in particular in the aftermath of the financial crisis. First steps in this direction have already been taken at Union level through the development of the key investor information regime established by Directive 2009/65/EC of the European Parliament and of the Council (3).
+
+%%% (3)  Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) (OJ L 302, 17.11.2009, p. 32).

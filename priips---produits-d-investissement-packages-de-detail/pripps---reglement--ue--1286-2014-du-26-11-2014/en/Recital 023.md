@@ -1,0 +1,1 @@
+(23) Matters concerning the civil liability of a PRIIP manufacturer which are not covered by this Regulation should be governed by the applicable national law. The court competent to decide on a claim for civil liability brought by a retail investor should be determined by the relevant rules on international jurisdiction.

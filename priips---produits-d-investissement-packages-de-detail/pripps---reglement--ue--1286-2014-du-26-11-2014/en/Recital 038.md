@@ -1,0 +1,1 @@
+(38) In order to give PRIIP manufacturers and persons advising on, or selling, PRIIPs sufficient time to prepare for the practical application of the requirements of this Regulation, it should not be applicable until two years after the date of its entry into force.

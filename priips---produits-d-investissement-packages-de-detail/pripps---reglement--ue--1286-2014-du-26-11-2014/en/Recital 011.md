@@ -1,0 +1,1 @@
+(11) The competent authorities should be provided, upon request and including ex ante, with all necessary information to verify the contents of the key information documents, to assess compliance with this Regulation and to ensure the protection of clients and investors in financial markets.

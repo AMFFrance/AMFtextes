@@ -1,0 +1,1 @@
+(28) To ensure the trust of retail investors in PRIIPs and in financial markets as a whole, requirements should be established for appropriate internal procedures which ensure that retail investors receive a substantive response from the PRIIP manufacturer to complaints.

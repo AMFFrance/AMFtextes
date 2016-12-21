@@ -1,0 +1,5 @@
+(9) To provide clarity on the relationship between the obligations established by this Regulation and obligations established by other legislative acts requiring the provision of information to investors, including but not limited to Directive 2003/71/EC of the European Parliament and of the Council (9) and Directive 2009/138/EC of the European Parliament and of the Council (10), it is necessary to establish that those legislative acts continue to apply in addition to this Regulation.
+
+%%% (9)  Directive 2003/71/EC of the European Parliament and of the Council of 4 November 2003 on the prospectus to be published when securities are offered to the public or admitted to trading and amending Directive 2001/34/EC (OJ L 345, 31.12.2003, p. 64).
+
+%%% (10)  Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (OJ L 335, 17.12.2009, p. 1).
