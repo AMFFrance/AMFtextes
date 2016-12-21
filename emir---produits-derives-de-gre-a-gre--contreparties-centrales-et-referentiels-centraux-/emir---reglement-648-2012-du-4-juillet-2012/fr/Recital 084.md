@@ -1,0 +1,1 @@
+(84) Le présent règlement devrait fixer des coefficients correspondant à des circonstances aggravantes ou atténuantes, afin de donner à l'AEMF les outils nécessaires pour décider d'une amende qui soit proportionnée à la gravité de l'infraction commise par le référentiel central, compte tenu des circonstances dans lesquelles celle-ci est commise.

@@ -1,0 +1,1 @@
+(97) Eu égard aux règles d'interopérabilité des systèmes, il a été jugé opportun de modifier la directive 98/26/CE afin de protéger les droits des opérateurs de système ayant fourni une garantie (collateral) à un autre opérateur de système, pour le cas ou ce dernier ferait l'objet d'une procédure d'insolvabilité.

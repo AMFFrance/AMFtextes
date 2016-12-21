@@ -1,0 +1,1 @@
+(82) L'AEMF devrait pouvoir infliger des astreintes dans le but de contraindre les référentiels centraux à mettre fin à une infraction, à fournir les renseignements complets et exacts exigés par l'AEMF ou à se soumettre à une enquête ou à une inspection sur place.

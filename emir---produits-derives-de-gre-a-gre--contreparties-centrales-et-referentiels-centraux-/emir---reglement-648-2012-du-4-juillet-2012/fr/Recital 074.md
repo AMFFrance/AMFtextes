@@ -1,0 +1,1 @@
+(74) Les référentiels centraux collectent, à des fins réglementaires, des données pouvant intéresser les autorités de tous les États membres. La responsabilité de l'enregistrement, du retrait de l'enregistrement et de la surveillance de ces référentiels devrait être confiée à l'AEMF.

@@ -1,0 +1,1 @@
+(43) Pour avoir une vision d'ensemble du marché et pour évaluer le risque systémique, il serait souhaitable que tous les contrats dérivés, qu'ils soient ou non compensés par une contrepartie centrale, soient déclarés aux référentiels centraux.

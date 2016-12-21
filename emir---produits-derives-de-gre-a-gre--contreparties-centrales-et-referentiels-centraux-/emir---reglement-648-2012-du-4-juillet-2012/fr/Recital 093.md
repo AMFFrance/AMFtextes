@@ -1,0 +1,1 @@
+(93) Toute obligation imposée par le présent règlement qui doit être précisée au moyen d'actes délégués ou d'exécution adoptés en vertu des articles 290 ou 291 du traité sur le fonctionnement de l'Union européenne devrait s'entendre comme applicable uniquement à partir de la date de prise d'effet de ces actes.

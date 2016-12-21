@@ -1,0 +1,1 @@
+(86) L'AEMF devrait s'abstenir d'infliger des amendes ou des astreintes dans les cas où un acquittement ou une condamnation, prononcés antérieurement pour des faits identiques ou pour des faits analogues en substance, ont acquis force de chose jugée à l'issue d'une procédure pénale dans le cadre du droit national.

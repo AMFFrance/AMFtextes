@@ -1,0 +1,7 @@
+(3) Le 23 septembre 2009, la Commission a adopté trois propositions de règlements instituant le système européen de surveillance financière, et créant notamment trois Autorités européennes de surveillance (AES) en vue de contribuer à une application cohérente de la législation de l'Union et à l'adoption de normes et de pratiques communes de haute qualité en matière de régulation et de surveillance. Les AES comprennent l'Autorité européenne de surveillance (Autorité bancaire européenne) (ABE) instituée par le règlement (UE) no 1093/2010 du Parlement européen et du Conseil (4), l'Autorité européenne de surveillance (Autorité européenne des assurances et des pensions professionnelles) (AEAPP) instituée par le règlement (UE) no 1094/2010 du Parlement européen et du Conseil (5) et l'Autorité européenne de surveillance (Autorité européenne des marchés financiers) (AEMF) instituée par le règlement (UE) no 1095/2010 du Parlement européen et du Conseil (6). Les AES ont un rôle essentiel à jouer dans la préservation de la stabilité du secteur financier. Il est dès lors essentiel de veiller en permanence à ce que le développement de leurs travaux bénéficie d'un haut degré de priorité politique et qu'elles disposent de moyens suffisants.
+
+%%% (4)  JO L 331 du 15.12.2010, p. 12.
+
+%%% (5)  JO L 331 du 15.12.2010, p. 48.
+
+%%% (6)  JO L 331 du 15.12.2010, p. 84.

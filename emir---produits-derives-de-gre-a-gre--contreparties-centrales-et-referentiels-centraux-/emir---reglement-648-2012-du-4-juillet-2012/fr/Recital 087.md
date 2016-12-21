@@ -1,0 +1,1 @@
+(87) Les décisions de l'AEMF infligeant des amendes et des astreintes devraient être exécutables, et leur exécution devrait être soumise aux règles de procédure civile en vigueur dans l'État sur le territoire duquel elle a lieu. Les règles de procédure civile ne devraient pas inclure de règles de procédure pénale mais pourraient comprendre des règles de procédure administrative.

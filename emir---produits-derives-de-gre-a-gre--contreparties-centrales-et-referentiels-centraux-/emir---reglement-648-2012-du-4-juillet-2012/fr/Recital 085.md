@@ -1,0 +1,1 @@
+(85) Avant de prendre la décision d'infliger une amende ou des astreintes, l'AEMF devrait accorder aux personnes qui font l'objet de la procédure la possibilité d'être entendues afin de respecter les droits de la défense.

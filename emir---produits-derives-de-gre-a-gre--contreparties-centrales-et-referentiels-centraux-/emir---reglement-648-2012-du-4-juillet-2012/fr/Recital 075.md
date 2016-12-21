@@ -1,0 +1,1 @@
+(75) Les autorités de régulation, les contreparties centrales et les autres participants au marché sont tributaires des données détenues par les référentiels centraux; il est donc nécessaire de veiller à ce que ces référentiels soient soumis à des exigences rigoureuses sur le plan opérationnel et sur celui de la conservation des informations et de la gestion de données.

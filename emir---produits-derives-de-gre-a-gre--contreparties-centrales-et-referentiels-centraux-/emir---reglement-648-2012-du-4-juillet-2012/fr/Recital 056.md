@@ -1,0 +1,1 @@
+(56) Les modalités prévues dans le présent règlement ne créent pas un précédent pour d'autres dispositions législatives relatives à la surveillance et au contrôle des infrastructures des marchés financiers, en particulier en ce qui concerne les modalités de vote pour la saisine de l'AEMF.

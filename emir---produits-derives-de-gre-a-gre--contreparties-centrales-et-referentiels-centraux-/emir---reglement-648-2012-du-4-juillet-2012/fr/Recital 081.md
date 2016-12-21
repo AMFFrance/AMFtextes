@@ -1,0 +1,1 @@
+(81) Il y a lieu de veiller à ce que les autorités compétentes puissent demander à l'AEMF d'examiner si les conditions requises pour le retrait de l'enregistrement d'un référentiel central sont remplies. L'AEMF devrait évaluer ces demandes et prendre les mesures appropriées.

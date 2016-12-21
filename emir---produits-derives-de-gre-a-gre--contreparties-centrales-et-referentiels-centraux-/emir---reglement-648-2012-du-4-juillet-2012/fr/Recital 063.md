@@ -1,0 +1,1 @@
+(63) Les règles de participation à une contrepartie centrale devraient être transparentes, proportionnées et non discriminatoires, et autoriser l'accès à distance à cette contrepartie, pour autant que cela ne l'expose pas à des risques supplémentaires.

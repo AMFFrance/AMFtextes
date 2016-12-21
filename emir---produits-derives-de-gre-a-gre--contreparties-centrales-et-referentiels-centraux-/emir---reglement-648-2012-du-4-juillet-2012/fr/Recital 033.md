@@ -1,0 +1,1 @@
+(33) Les participants au marché soumis à l'obligation de compensation ne peuvent pas tous devenir membres compensateurs d'une contrepartie centrale. Ils devraient donc pouvoir y accéder en tant que clients ou clients indirects, sous réserve de certaines conditions.

@@ -1,0 +1,1 @@
+(96) La Commission devrait examiner régulièrement et évaluer la nécessité d'adopter des mesures appropriées pour veiller à l'élaboration et à l'application cohérentes et efficaces de règles, normes et pratiques relevant du champ d'application du présent règlement en tenant compte des résultats des travaux menés dans les enceintes internationales concernées.

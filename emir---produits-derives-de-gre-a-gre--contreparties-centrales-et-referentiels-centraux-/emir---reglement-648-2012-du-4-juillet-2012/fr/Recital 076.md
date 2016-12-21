@@ -1,0 +1,1 @@
+(76) La transparence des prix, des frais et des modèles de gestion des risques afférents aux services fournis par les contreparties centrales, leurs membres et les référentiels centraux est nécessaire pour permettre aux participants au marché de choisir en connaissance de cause.

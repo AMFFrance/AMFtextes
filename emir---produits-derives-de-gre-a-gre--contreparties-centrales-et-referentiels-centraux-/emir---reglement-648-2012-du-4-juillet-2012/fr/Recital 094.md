@@ -1,0 +1,1 @@
+(94) Dans le cadre de l'élaboration d'orientations techniques et de normes techniques de réglementation, notamment pour la fixation du seuil de compensation applicable aux contreparties non financières en vertu du présent règlement, l'AEMF devrait organiser des auditions publiques des participants au marché.

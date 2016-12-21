@@ -1,0 +1,1 @@
+(62) Une contrepartie centrale peut externaliser des fonctions. Le comité des risques de la contrepartie centrale devrait apporter ses conseils concernant cette externalisation. Les principales activités liées à la gestion des risques ne devraient pas être externalisées, sauf si l'autorité compétente a donné son accord.
