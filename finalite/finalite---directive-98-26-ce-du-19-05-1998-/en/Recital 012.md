@@ -1,0 +1,1 @@
+(12) Whereas rules on finality of netting should not prevent systems testing, before the netting takes place, whether orders that have entered the system comply with the rules of that system and allow the settlement of that system to take place;

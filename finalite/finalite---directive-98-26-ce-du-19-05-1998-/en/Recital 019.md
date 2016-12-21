@@ -1,0 +1,1 @@
+(19) Whereas the provisions of Article 9(2) should only apply to a register, account or centralized deposit system which evidences the existence of proprietary rights in or for the delivery or transfer of the securities concerned;

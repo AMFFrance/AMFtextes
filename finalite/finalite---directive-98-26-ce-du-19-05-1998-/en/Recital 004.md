@@ -1,0 +1,1 @@
+(4) Whereas it is desirable that the laws of the Member States should aim to minimise the disruption to a system caused by insolvency proceedings against a participant in that system;

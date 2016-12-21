@@ -1,0 +1,1 @@
+(7) Whereas Member States may apply the provisions of this Directive to their domestic institutions which participate directly in third country systems and to collateral security provided in connection with participation in such systems;

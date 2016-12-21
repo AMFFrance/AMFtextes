@@ -1,0 +1,1 @@
+(8) Whereas Member States should be allowed to designate as a system covered by this Directive a system whose main activity is the settlement of securities even if the system to a limited extent also deals with commodity derivatives;

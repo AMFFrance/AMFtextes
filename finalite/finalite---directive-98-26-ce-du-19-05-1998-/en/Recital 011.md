@@ -1,0 +1,1 @@
+(11) Whereas transfer orders and their netting should be legally enforceable under all Member States' jurisdictions and binding on third parties;

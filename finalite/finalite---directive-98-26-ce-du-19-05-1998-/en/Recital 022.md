@@ -1,0 +1,1 @@
+(22) Whereas it is desirable that Member States endeavour to establish sufficient links between all the securities settlement systems covered by this Directive with a view towards promoting maximum transparency and legal certainty of transactions relating to securities;

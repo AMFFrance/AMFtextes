@@ -1,0 +1,1 @@
+(23) Whereas the adoption of this Directive constitutes the most appropriate way of realising the above-mentioned objectives and does not go beyond what is necessary to achieve them,

@@ -1,0 +1,1 @@
+(6) Whereas this Directive is intended to cover payment and securities settlement systems of a domestic as well as of a cross-border nature; whereas the Directive is applicable to Community systems and to collateral security constituted by their participants, be they Community or third country participants, in connection with participation in these systems;

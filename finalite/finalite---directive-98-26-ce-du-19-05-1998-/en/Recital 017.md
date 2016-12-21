@@ -1,0 +1,1 @@
+(17) Whereas, in the event of insolvency proceedings against a participant in a system, this Directive furthermore aims at determining which insolvency law is applicable to the rights and obligations of that participant in connection with its participation in a system;

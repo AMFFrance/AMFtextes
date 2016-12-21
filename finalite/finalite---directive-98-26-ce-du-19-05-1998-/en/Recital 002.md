@@ -1,0 +1,1 @@
+(2) Whereas it is also of the utmost importance to reduce the risk associated with participation in securities settlement systems, in particular where there is a close connection between such systems and payment systems;

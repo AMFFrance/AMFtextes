@@ -1,0 +1,1 @@
+(15) Whereas it is necessary that a Member State should immediately notify other Member States of the opening of insolvency proceedings against a participant in the system;

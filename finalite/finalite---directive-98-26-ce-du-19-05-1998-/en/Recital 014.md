@@ -1,0 +1,1 @@
+(14) Whereas it is necessary to ensure that transfer orders cannot be revoked after a moment defined by the rules of the system;

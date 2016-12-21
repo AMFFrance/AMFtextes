@@ -1,0 +1,1 @@
+(18) Whereas collateral security should be insulated from the effects of the insolvency law applicable to the insolvent participant;
