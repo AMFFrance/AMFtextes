@@ -1,0 +1,1 @@
+(7) Les États membres n’ont pas eu recours à la possibilité prévue à l’article 4, paragraphe 3, de la directive 2002/47/CE de ne pas accorder de droit d’appropriation au preneur de la garantie. Il convient donc de supprimer cette disposition.

@@ -1,0 +1,3 @@
+(3) Le principal changement réside néanmoins dans la multiplication des liens entre les systèmes qui, à l’époque de la rédaction de la directive 98/26/CE, fonctionnaient presque exclusivement sur une base nationale et indépendante. Cette évolution est l’un des résultats de la directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d’instruments financiers (5) et du code de conduite européen en matière de compensation et de règlement-livraison. Pour s’adapter à cette évolution, il conviendrait de clarifier la notion de système interopérable et la responsabilité des opérateurs de système.
+
+%%% (5)  JO L 145 du 30.4.2004, p. 1.

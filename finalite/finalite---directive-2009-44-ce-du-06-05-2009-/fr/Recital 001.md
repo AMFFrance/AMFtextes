@@ -1,0 +1,3 @@
+(1) La directive 98/26/CE du Parlement européen et du Conseil (4) établit un régime dans lequel le caractère définitif des ordres de transfert et de la compensation, ainsi que l’opposabilité de la garantie, sont assurés tant pour les participants nationaux que pour les participants étrangers dans les systèmes de paiement et de règlement des opérations sur titres.
+
+%%% (4)  JO L 166 du 11.6.1998, p. 45.
