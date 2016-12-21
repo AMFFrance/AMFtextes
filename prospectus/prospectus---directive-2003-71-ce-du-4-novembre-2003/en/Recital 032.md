@@ -1,0 +1,1 @@
+(32) The prospectus should be filed with the relevant competent authority and be made available to the public by the issuer, the offeror or the person asking for admission to trading on a regulated market, subject to European Union provisions relating to data protection.

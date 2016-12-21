@@ -1,0 +1,1 @@
+(47) For future developments of this Directive, consideration should be given to the matter of deciding which approval mechanism should be adopted to enhance further the uniform application of Community legislation on prospectuses, including the possible establishment of a European Securities Unit.

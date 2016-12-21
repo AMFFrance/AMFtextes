@@ -1,0 +1,1 @@
+(17) Issuers, offerors or persons asking for the admission to trading on a regulated market of securities which are exempted from the obligation to publish a prospectus will benefit from the single passport if they comply with this Directive.

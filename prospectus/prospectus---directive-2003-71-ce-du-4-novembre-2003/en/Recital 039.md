@@ -1,0 +1,1 @@
+(39) For the purposes of carrying out their duties, cooperation between competent authorities of the Member States is required.

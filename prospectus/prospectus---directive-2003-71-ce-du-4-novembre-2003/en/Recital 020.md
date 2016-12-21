@@ -1,0 +1,1 @@
+(20) Such information, which needs to be sufficient and as objective as possible as regards the financial circumstances of the issuer and the rights attaching to the securities, should be provided in an easily analysable and comprehensible form. Harmonisation of the information contained in the prospectus should provide equivalent investor protection at Community level.
