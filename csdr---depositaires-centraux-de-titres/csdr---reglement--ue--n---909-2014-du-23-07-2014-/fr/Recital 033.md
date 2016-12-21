@@ -1,0 +1,1 @@
+(33) Lorsqu’un DCT a l’intention d’étendre ses services à des services accessoires de type non bancaire expressément visés dans le présent règlement qui n’impliquent pas d’augmentation de son profil de risque, il devrait être en mesure de le faire après notification à l’autorité compétente de son État membre d’origine.

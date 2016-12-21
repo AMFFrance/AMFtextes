@@ -1,0 +1,1 @@
+(41) Pour faciliter un enregistrement, un règlement et un paiement efficaces, les DCT devraient adapter, dans leurs procédures de communication avec les participants et infrastructures de marché avec lesquels ils sont en relation, les procédures et normes de communication internationales ouvertes pertinentes pour les données de messagerie et de référence.

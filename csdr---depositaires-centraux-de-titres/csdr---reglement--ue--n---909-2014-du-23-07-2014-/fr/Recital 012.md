@@ -1,0 +1,1 @@
+(12) Afin d’assurer la sécurité du règlement, tout participant à un système de règlement de titres achetant ou vendant certains instruments financiers, à savoir des valeurs mobilières, des instruments du marché monétaire, des parts d’organismes de placement collectif et des quotas d’émission, devrait régler son obligation à la date de règlement convenue.
