@@ -1,0 +1,1 @@
+(34) Where appropriate, the Commission should cooperate with third-country authorities in order to explore mutually supportive solutions to ensure consistency between this Regulation and the requirements established by those third countries and thus avoid any possible duplication in this respect.

@@ -1,0 +1,3 @@
+(38) Any exchange or transmission of personal data by competent authorities of the Member States or by trade repositories should be undertaken in accordance with the rules on the transfer of personal data as laid down in Directive 95/46/EC of the European Parliament and of the Council (16). Any exchange or transmission of personal data by ESMA, EBA or EIOPA should be carried out in accordance with the rules on the transfer of personal data as laid down in Regulation (EC) No 45/2001.
+
+%%% (16)  Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (OJ L 281, 23.11.1995, p. 31).

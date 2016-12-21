@@ -1,0 +1,1 @@
+(25) In order to promote international consistency of terminology, the use of the term ‘reuse’ in this Regulation is in line with the FSB Policy Framework. This should not, however, lead to inconsistency within the Union acquis and, in particular, should be without prejudice to the meaning of the term ‘reuse’ employed in Directives 2009/65/EC and 2011/61/EU.

@@ -1,0 +1,1 @@
+(28) Provisions in this Regulation regarding the application for registration of trade repositories and the withdrawal of registration do not affect the remedies provided for in Chapter V of Regulation (EU) No 1095/2010.

@@ -1,0 +1,1 @@
+(39) With the assistance of ESMA, the Commission should monitor and prepare reports to the European Parliament and to the Council on the international application of the reporting obligation laid down in this Regulation. The time provided for submission of the Commission reports should allow for the prior effective application of this Regulation.

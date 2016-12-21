@@ -1,0 +1,1 @@
+(33) Where an implementing act on equivalence is withdrawn, counterparties should automatically be subject again to all of the requirements laid down in this Regulation.

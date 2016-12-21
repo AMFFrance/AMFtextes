@@ -1,0 +1,1 @@
+(27) The powers to impose sanctions conferred on competent authorities should be without prejudice to the exclusive competence of the ECB, pursuant to Article 4(1)(a) of Regulation (EU) No 1024/2013, to withdraw authorisations of credit institutions for prudential supervisory purposes.
