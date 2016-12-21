@@ -1,0 +1,6 @@
+# Article 28 - Modifications et cessation d'un indice de référence
+
+
+1.   Un administrateur publie, parallèlement à la déclaration d'indice de référence visée à l'article 27, une procédure précisant les mesures qu'il prendra en cas de modification ou de cessation d'un indice de référence pouvant être utilisé dans l'Union conformément à l'article 29, paragraphe 1. La procédure peut être rédigée, le cas échéant, pour des familles d'indices de référence, et elle est mise à jour et publiée en cas de modification substantielle.
+
+2.   Les entités surveillées, autres qu'un administrateur visé au paragraphe 1, qui utilisent un indice de référence établissent et tiennent à jour des plans écrits solides décrivant les mesures qu'elles prendraient si cet indice de référence subissait des modifications substantielles ou cessait d'être fourni. Lorsque cela est faisable et approprié, ces plans désignent un ou plusieurs autres indices de référence susceptibles de servir de référence en substitution des indices de référence qui ne sont plus fournis, et indiquent en quoi ces indices de référence constitueraient des substituts appropriés. Les entités surveillées communiquent sur demande ces plans ainsi que toute mise à jour de ces derniers à l'autorité compétente concernée et les répercutent dans la relation contractuelle avec leurs clients.

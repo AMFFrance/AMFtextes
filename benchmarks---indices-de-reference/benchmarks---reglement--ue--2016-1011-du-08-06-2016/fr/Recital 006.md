@@ -1,0 +1,1 @@
+(6) Par conséquent, afin de garantir le bon fonctionnement du marché intérieur et d'en améliorer les conditions, en particulier pour ce qui est des marchés financiers, tout en assurant un niveau élevé de protection des consommateurs et des investisseurs, il convient d'instituer un cadre réglementaire au niveau de l'Union pour les indices de référence.

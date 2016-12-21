@@ -1,0 +1,1 @@
+(70) Compte tenu du caractère urgent du rétablissement de la confiance dans les indices de référence et de la promotion de marchés financiers loyaux et transparents, le présent règlement devrait entrer en vigueur le jour suivant celui de sa publication.

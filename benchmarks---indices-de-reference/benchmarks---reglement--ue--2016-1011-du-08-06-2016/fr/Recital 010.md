@@ -1,0 +1,5 @@
+(10) Nombreux sont les consommateurs ayant souscrit des contrats financiers, notamment des contrats de crédit aux consommateurs garantis par une hypothèque, basés sur des indices de référence présentant les mêmes risques. Le présent règlement devrait dès lors couvrir les contrats de crédit tels qu'ils sont définis dans les directives du Parlement européen et du Conseil 2008/48/CE (8) et 2014/17/UE (9).
+
+%%% (8)  Directive 2008/48/CE du Parlement européen et du Conseil du 23 avril 2008 concernant les contrats de crédit aux consommateurs et abrogeant la directive 87/102/CEE du Conseil (JO L 133 du 22.5.2008, p. 66).
+
+%%% (9)  Directive 2014/17/UE du Parlement européen et du Conseil du 4 février 2014 sur les contrats de crédit aux consommateurs relatifs aux biens immobiliers à usage résidentiel et modifiant les directives 2008/48/CE et 2013/36/UE et le règlement (UE) no 1093/2010 (JO L 60 du 28.2.2014, p. 34).

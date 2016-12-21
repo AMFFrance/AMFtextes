@@ -1,0 +1,1 @@
+(58) Le présent règlement ne devrait pas limiter la faculté des États membres de prévoir des niveaux de sanctions administratives plus élevés et ne devrait pas préjuger des dispositions de droit national régissant les sanctions pénales.

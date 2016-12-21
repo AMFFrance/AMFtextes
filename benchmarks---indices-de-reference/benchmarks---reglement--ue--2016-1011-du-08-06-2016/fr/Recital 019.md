@@ -1,0 +1,1 @@
+(19) Les prix de référence ou les prix de règlement produits par des contreparties centrales ne devraient pas non plus être considérés comme des indices de référence, car, étant utilisés à des fins de règlement, de calcul des marges et de gestion des risques, ils n'influent pas sur le montant dû au titre d'un instrument financier ni sur la valeur de celui-ci.

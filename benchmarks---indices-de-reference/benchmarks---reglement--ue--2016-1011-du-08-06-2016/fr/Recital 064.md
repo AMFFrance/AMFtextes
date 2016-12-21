@@ -1,0 +1,1 @@
+(64) Lorsque le présent règlement s'applique, effectivement ou potentiellement, à des entités surveillées et à des marchés relevant du règlement (UE) no 1227/2011, l'AEMF devrait consulter l'Agence de coopération des régulateurs de l'énergie (ACER) afin de s'appuyer sur son expertise dans les marchés de l'énergie et d'atténuer toute double réglementation.

@@ -1,0 +1,1 @@
+(54) Les droits de la défense des personnes concernées devraient être pleinement respectés. Ainsi, les personnes visées par une procédure devraient avoir accès aux constatations sur lesquelles les autorités compétentes ont fondé leur décision et devraient avoir le droit d'être entendues.

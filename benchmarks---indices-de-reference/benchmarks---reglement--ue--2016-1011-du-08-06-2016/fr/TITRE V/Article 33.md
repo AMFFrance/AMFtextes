@@ -1,0 +1,24 @@
+# Article 33 - Aval d'indices de référence fournis dans un pays tiers
+
+
+1.   Un administrateur situé dans l'Union et agréé ou enregistré conformément à l'article 34, ou toute autre entité surveillée située dans l'Union ayant un rôle clair et bien défini dans le cadre de contrôle ou de responsabilité de l'administrateur situé dans un pays tiers, qui est en mesure de contrôler efficacement la fourniture d'un indice de référence peut demander à l'autorité compétente concernée d'avaliser un indice de référence ou d'une famille d'indices de référence fournis dans un pays tiers en vue de leur utilisation dans l'Union, pour autant que toutes les conditions suivantes soient remplies:
+
+a) l'administrateur ou une autre entité surveillée donnant son aval a vérifié et est en mesure de démontrer sur une base permanente à son autorité compétente que la fourniture de l'indice de référence ou de la famille d'indices de référence à avaliser satisfait, sur une base obligatoire ou volontaire, à des exigences au moins aussi strictes que celles du présent règlement;
+
+b) l'administrateur ou une autre entité surveillée donnant son aval dispose de l'expertise nécessaire pour surveiller efficacement les activités de fourniture d'un indice de référence dans un pays tiers et pour gérer les risques qui y sont associés;
+
+c) il existe une raison objective de fournir l'indice de référence ou la famille d'indices de référence dans un pays tiers et d'avaliser l'indice de référence ou ladite famille d'indices de référence pour son utilisation dans l'Union.
+
+Aux fins du point a), lorsqu'il s'agit d'évaluer si la fourniture de l'indice de référence ou de la famille d'indices de référence à avaliser satisfait à des exigences au moins aussi strictes que celles du présent règlement, l'autorité compétente nationale peut tenir compte du fait que la conformité de la fourniture de l'indice de référence ou de la famille d'indices de référence avec les principes de l'OICV sur les indices de référence financiers ou avec les principes de l'OICV sur les PRA, selon le cas, serait équivalente à la conformité avec les exigences du présent règlement.
+
+2.   Un administrateur ou une autre entité surveillée qui fait la demande d'aval visée au paragraphe 1 fournit toutes les informations nécessaires pour que l'autorité compétente ait l'assurance que, au moment de la demande, toutes les conditions visées audit paragraphe sont réunies.
+
+3.   Dans un délai de quatre-vingt-dix jours ouvrables à compter de la réception de la demande d'aval visée au paragraphe 1, l'autorité compétente concernée examine la demande et adopte soit une décision autorisant l'aval, soit une décision de rejet. L'autorité compétente informe l'AEMF de l'aval d'un indice de référence ou d'une famille d'indices de référence.
+
+4.   Un indice de référence avalisé ou une famille d'indices de référence avalisée sont considérés comme un indice de référence ou une famille d'indices de référence fournis par l'administrateur ou une autre entité surveillée donnant son aval. L'administrateur ou une autre entité surveillée donnant son aval ne peuvent utiliser le mécanisme d'aval dans l'intention de contourner les exigences énoncées dans le présent règlement.
+
+5.   Un administrateur ou une autre entité surveillée ayant avalisé un indice de référence ou une famille d'indices de référence fournis dans un pays tiers demeurent pleinement responsables de cet indice de référence ou de cette famille d'indices de référence ainsi que du respect des obligations découlant du présent règlement.
+
+6.   Lorsque l'autorité compétente de l'administrateur ou d'une autre entité surveillée ayant donné leur aval a des raisons bien fondées d'estimer que les conditions énoncées au paragraphe 1 du présent article ne sont plus remplies, elle a le pouvoir d'exiger que cet administrateur ou cette autre entité surveillée retirent leur aval et en informe l'AEMF. L'article 28 s'applique en cas de cessation de l'aval.
+
+7.   La Commission est habilitée à adopter des actes délégués conformément à l'article 49 en ce qui concerne des mesures visant à déterminer les conditions auxquelles les autorités compétentes concernées peuvent évaluer s'il existe une raison objective à la fourniture d'un indice de référence ou d'une famille d'indices de référence dans un pays tiers et de les avaliser aux fins de leur utilisation dans l'Union. La Commission prend en compte des éléments tels que les spécificités du marché ou de la réalité économique sous-jacents que l'indice de référence est censé mesurer, la nécessité de proximité entre la fourniture de l'indice de référence et un tel marché ou une telle réalité économique, le besoin de proximité entre la fourniture de l'indice de référence et les contributeurs, la disponibilité matérielle des données sous-jacentes du fait des différents fuseaux horaires et les compétences spécifiques requises dans la fourniture de l'indice de référence.
