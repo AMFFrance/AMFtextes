@@ -1,0 +1,1 @@
+(14) L’autorité compétente de la plate-forme de négociation à laquelle la contrepartie centrale a demandé l’accès et l’autorité compétente de la contrepartie centrale doivent effectuer leurs évaluations sur la base des mécanismes existants de prévention de la fragmentation des liquidités sur la plate-forme de négociation.

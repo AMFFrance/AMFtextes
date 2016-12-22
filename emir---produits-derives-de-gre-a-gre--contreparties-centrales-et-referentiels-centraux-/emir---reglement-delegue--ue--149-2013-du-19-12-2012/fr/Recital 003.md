@@ -1,0 +1,1 @@
+(3) Il convient, pour expliciter un nombre limité de notions provenant du règlement (UE) no 648/2012, et pour préciser les termes techniques nécessaires à l’élaboration de la présente norme technique, de définir un certain nombre de termes.

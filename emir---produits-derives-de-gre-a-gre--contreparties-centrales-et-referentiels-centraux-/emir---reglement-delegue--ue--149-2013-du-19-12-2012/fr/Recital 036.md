@@ -1,0 +1,1 @@
+(36) La taille, le volume et la fréquence attendue des transactions intragroupe sur contrats dérivés de gré à gré peuvent être déterminés sur la base de l’historique des transactions intragroupe des contreparties, ainsi que du modèle et de l’activité prévus à l’avenir.

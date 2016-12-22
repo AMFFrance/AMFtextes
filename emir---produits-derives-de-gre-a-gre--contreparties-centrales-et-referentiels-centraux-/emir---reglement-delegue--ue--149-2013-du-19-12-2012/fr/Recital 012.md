@@ -1,0 +1,1 @@
+(12) Le niveau de détail des informations figurant dans le registre des catégories de contrats dérivés de gré à gré soumises à l’obligation de compensation dépend de la pertinence de ces détails pour identifier chacune des catégories. Ainsi, le niveau de détail dans le registre peut être différent pour chaque catégorie de contrats dérivés de gré à gré.

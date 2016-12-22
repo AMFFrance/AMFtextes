@@ -1,0 +1,1 @@
+(34) Pour garantir un niveau approprié de responsabilité, et bien que la conception du modèle utilisé pour la valorisation puisse se faire à l’intérieur ou à l’extérieur de l’entité, l’approbation du modèle relève du conseil d’administration ou d’un comité délégué par celui-ci.
