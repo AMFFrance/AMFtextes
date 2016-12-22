@@ -1,0 +1,1 @@
+(10) Regulation (EU) No 648/2012 only covers trade data and not pre-trade data such as orders to trade as required under Regulation (EU) No 1227/2011. Therefore, trade repositories should not be regarded as the appropriate source of information to ACER in that regard.

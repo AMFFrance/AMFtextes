@@ -1,0 +1,1 @@
+(2) The European Securities and Markets Authority (ESMA) should have access to all the transaction level data held by trade repositories, for the purpose of trade repository supervision, to be able to make information requests, take appropriate supervisory measures and also monitor whether registration as a trade repository should be kept or withdrawn.

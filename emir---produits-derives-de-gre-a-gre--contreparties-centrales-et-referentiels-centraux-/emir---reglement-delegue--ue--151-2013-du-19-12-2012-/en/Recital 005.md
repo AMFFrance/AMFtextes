@@ -1,0 +1,1 @@
+(5) Supervisors and overseers of central counterparties (CCPs) need access to enable the effective exercise of their duties over of such entities, and should therefore have access to all the information necessary for such mandate.

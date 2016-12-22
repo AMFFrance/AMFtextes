@@ -1,0 +1,1 @@
+(7) The relevant Union securities and market authorities have as a main duty investor protection in their respective jurisdictions and should be granted access to transaction data on markets, participants, products and underlyings covered under by their surveillance and enforcement mandates.

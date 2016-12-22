@@ -1,0 +1,1 @@
+(1) It is essential to clearly identify relevant contracts and their respective counterparties. Following a functional approach, entities accessing data held by trade repositories should be considered according to the competences they have and the functions they perform.

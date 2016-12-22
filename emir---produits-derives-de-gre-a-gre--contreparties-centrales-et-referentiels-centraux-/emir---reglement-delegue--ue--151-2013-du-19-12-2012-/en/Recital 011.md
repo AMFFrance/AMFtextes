@@ -1,0 +1,1 @@
+(11) Under a functional approach for accessing data held by trade repositories, prudential supervision is an essential component. Similarly, different authorities might have a prudential supervisory mandate. Therefore, access to the transaction data on the relevant entities should be ensured to all authorities listed under Article 81(3) of Regulation (EU) No 648/2012.

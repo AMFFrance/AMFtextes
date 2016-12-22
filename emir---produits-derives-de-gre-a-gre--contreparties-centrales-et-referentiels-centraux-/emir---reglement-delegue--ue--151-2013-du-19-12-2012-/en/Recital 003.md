@@ -1,0 +1,3 @@
+(3) Given its responsibilities under Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority) (3) and Regulation (EU) No 648/2012, ESMA should be given access on different mandates. The access to data by individual staff members of ESMA should be in line with each of those specific mandates.
+
+%%% (3)  OJ L 331, 15.12.2010, p. 84.
