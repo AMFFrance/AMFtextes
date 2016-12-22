@@ -1,0 +1,1 @@
+(9) Étant donné que les participants au marché et les autorités de régulation sont tributaires des données détenues par les référentiels centraux, la demande d’enregistrement d’un référentiel central devrait faire apparaître de manière explicite des exigences rigoureuses sur le plan opérationnel et sur celui de la conservation des informations.

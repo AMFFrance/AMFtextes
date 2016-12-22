@@ -1,0 +1,3 @@
+(3) L’AEMF, instituée par le règlement (UE) no 1095/2010 du Parlement européen et du Conseil du 24 novembre 2010 instituant une Autorité européenne de surveillance (Autorité européenne des marchés financiers) (3), est chargée de l’enregistrement et de la surveillance des référentiels centraux en vertu du titre VI du règlement (UE) no 648/2012. Afin de permettre à l’AEMF d’évaluer l’honorabilité ainsi que l’expérience et les compétences des instances dirigeantes d’un futur référentiel central, le demandeur devrait fournir les informations nécessaires pour effectuer une telle évaluation.
+
+%%% (3)  JO L 331 du 15.12.2010, p. 84.

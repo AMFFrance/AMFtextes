@@ -1,0 +1,1 @@
+(8) Les tarifs associés aux services fournis par les référentiels centraux constituent des informations importantes pour que les participants au marché puissent choisir en connaissance de cause et devraient donc figurer dans la demande d’enregistrement en tant que référentiel central.

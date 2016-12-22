@@ -1,0 +1,1 @@
+(1) Il convient d’établir des règles précisant les informations à fournir à l’Autorité européenne des marchés financiers (AEMF) lors de demandes d’enregistrement en tant que référentiel central.

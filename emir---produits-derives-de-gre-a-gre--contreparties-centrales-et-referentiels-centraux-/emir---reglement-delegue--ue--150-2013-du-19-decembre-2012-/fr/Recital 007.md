@@ -1,0 +1,1 @@
+(7) Afin que l’AEMF évalue la continuité et le bon fonctionnement des systèmes technologiques d’un référentiel central demandeur, ce dernier devrait fournir à l’AEMF une description de ces systèmes lorsqu’ils sont pertinents, et de leur gestion. Le demandeur devrait également décrire tous les arrangements en matière d’externalisation concernant ses services.

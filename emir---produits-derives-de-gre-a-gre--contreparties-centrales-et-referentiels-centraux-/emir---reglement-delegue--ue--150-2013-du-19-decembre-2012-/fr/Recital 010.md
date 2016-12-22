@@ -1,0 +1,1 @@
+(10) Les modèles de gestion des risques afférents aux services offerts par un référentiel central constituent des éléments qui doivent figurer dans sa demande d’enregistrement pour permettre aux participants au marché de choisir en connaissance de cause.
