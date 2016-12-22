@@ -1,0 +1,1 @@
+(2) Pour éviter toute incohérence entre tableaux de données communes, les contreparties à un contrat dérivé doivent s’accorder sur les données communes déclarées. Un identifiant de transaction unique facilitera le rapprochement des données dans le cas où les contreparties effectuent leur déclaration auprès de référentiels centraux différents.
