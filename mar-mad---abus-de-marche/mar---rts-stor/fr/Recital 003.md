@@ -1,0 +1,3 @@
+(3) Les personnes qui organisent ou exécutent des transactions à titre professionnel en recourant au trading algorithmique et qui sont soumises à la directive 2014/65/UE du Parlement européen et du Conseil (2) devraient établir et maintenir les systèmes visés par le présent règlement et par le règlement (UE) no 596/2014 et rester soumises aux dispositions de l'article 17, paragraphe 1, de la directive 2014/65/UE.
+
+%%% (2)  Directive 2014/65/UE du Parlement européen et du Conseil du 15 mai 2014 concernant les marchés d'instruments financiers et modifiant la directive 2002/92/CE et la directive 2011/61/UE (JO L 173 du 12.6.2014, p. 349).

@@ -1,0 +1,1 @@
+(8) Pour faciliter la transmission d'une STOR, le modèle devrait permettre de joindre les documents et le matériel jugés nécessaires pour étayer la notification, y compris sous la forme d'une annexe énumérant les ordres ou les transactions relevant de la même notification et détaillant leur prix et leur volume.

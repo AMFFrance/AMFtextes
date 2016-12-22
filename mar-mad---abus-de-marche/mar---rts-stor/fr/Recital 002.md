@@ -1,0 +1,1 @@
+(2) Afin de faciliter et de promouvoir une approche et des pratiques cohérentes dans toute l'Union en matière de prévention et de détection des abus de marché, il convient d'établir des dispositions détaillées harmonisant le contenu, le modèle et le délai de déclaration des ordres et transactions suspects.
