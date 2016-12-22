@@ -1,0 +1,1 @@
+(10) The risk management models associated with the services provided by a trade repository are a necessary item in its application for registration so as to enable market participants to make an informed choice.

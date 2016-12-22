@@ -1,0 +1,1 @@
+(1) Rules should be laid down specifying the information to be provided to the European Securities and Markets Authority (ESMA) as part of an application for registration as a trade repository.

@@ -1,0 +1,1 @@
+(8) The fees associated with the services provided by trade repositories are important information for enabling market participants to make an informed choice and should therefore form part of the application for registration as trade repository.

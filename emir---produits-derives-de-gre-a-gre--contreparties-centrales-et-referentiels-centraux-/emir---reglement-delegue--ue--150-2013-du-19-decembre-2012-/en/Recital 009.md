@@ -1,0 +1,1 @@
+(9) Given that market participants and regulators rely on the data maintained by trade repositories, strict operational and record-keeping requirements should be clearly distinguishable in a trade repository’s application for registration.

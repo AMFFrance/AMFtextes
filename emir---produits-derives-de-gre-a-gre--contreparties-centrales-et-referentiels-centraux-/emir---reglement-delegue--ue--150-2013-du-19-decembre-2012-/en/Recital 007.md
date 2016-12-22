@@ -1,0 +1,1 @@
+(7) In order for ESMA to assess the continuity and orderly function of an applicant trade repository’s technological systems, that applicant should provide ESMA with descriptions of those relevant technological systems and how they are managed. The applicant should also describe any outsourcing arrangements that are relevant for its services.

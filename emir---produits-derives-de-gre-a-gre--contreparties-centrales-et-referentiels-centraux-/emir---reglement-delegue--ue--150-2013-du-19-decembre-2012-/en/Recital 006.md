@@ -1,0 +1,1 @@
+(6) It is important for an applicant to provide ESMA with information on ancillary services, or other business lines that the trade repository offers outside its core activity of derivatives reporting, particularly as regards its central core activity of regulatory reporting.

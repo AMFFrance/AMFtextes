@@ -1,0 +1,12 @@
+# Article 21 - Operational risk
+
+
+An application for registration as a trade repository shall contain:
+
+(a) a detailed description of the resources available and procedures designed to identify and mitigate operational risk and any other material risk to which the applicant is exposed to, including a copy of any relevant manuals and internal procedures;
+
+(b) a description of the liquid net assets funded by equity to cover potential general business losses in order to continue providing services as a going concern, and an assessment of the sufficiency of its financial resources with the aim of covering the operational costs of a wind-down or reorganisation of the critical operations and services over at least a six month period;
+
+(c) the applicant’s business continuity plan and an indication of the policy for updating the plan. In particular, the plan shall include: (i) all business processes, escalation procedures and related systems which are critical to ensuring the services of the trade repository applicant, including any relevant outsourced service and including the trade repository strategy, policy and objectives towards the continuity of these processes; (ii) the arrangements in place with other financial market infrastructure providers including other trade repositories; (iii) the arrangements to ensure a minimum service level of the critical functions and the expected timing of the completion of the full recovery of those processes; (iv) the maximum acceptable recovery time for business processes and systems, having in mind the deadline for reporting to trade repositories as provided for in Article 9 of Regulation (EU) No 648/2012 and the volume of data that the trade repository needs to process within that daily period; (v) the procedures to deal with incident logging and reviews; (vi) testing programme and the results of any tests; (vii) the number of alternative technical and operational sites available, their location, the resources when compared with the main site and the business continuity procedures in place in the event that alternate sites need to be used; (viii) information on access to a secondary business site to allow staff to ensure continuity of the service if a main office location is not available;
+
+(d) a description of the arrangements for ensuring the applicant’s trade repository activities in case of disruption and the involvement of trade repository users and other third parties in them.

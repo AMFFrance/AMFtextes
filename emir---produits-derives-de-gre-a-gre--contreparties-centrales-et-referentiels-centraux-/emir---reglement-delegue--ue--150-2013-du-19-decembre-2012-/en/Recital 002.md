@@ -1,0 +1,1 @@
+(2) Any person applying for registration as a trade repository should provide information on the structure of its internal controls and the independence of its governing bodies, in order to enable ESMA to assess whether the corporate governance structure ensures the independence of the trade repository and whether that structure and its reporting routines are adequate.
