@@ -1,0 +1,1 @@
+(3) To facilitate the conduct of investigations by competent authorities on suspected market abuse, disclosing market participants should, for each market sounding, keep a record of the persons who received the market sounding.
