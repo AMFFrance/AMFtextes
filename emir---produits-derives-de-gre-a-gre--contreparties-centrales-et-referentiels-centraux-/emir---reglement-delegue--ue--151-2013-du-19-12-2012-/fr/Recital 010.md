@@ -1,0 +1,1 @@
+(10) Le règlement (UE) no 648/2012 ne couvre que l’accès aux données de transaction, et non aux données de prénégociation telles que les ordres, contrairement au règlement (UE) no 1227/2011. À cet égard, les référentiels centraux ne devraient donc pas être considérés comme la source d’informations appropriée pour l’ACER.

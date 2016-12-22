@@ -1,0 +1,3 @@
+(9) L’Agence de coopération des régulateurs de l’énergie (ACER) devrait avoir accès aux données pour pouvoir surveiller les marchés de gros de l’énergie en vue de détecter et de décourager les abus de marché en coopération avec les autorités de régulation nationales, et pour pouvoir exercer cette surveillance conformément au règlement (UE) no 1227/2011 du Parlement européen et du Conseil du 25 octobre 2011 concernant l’intégrité et la transparence du marché de gros de l’énergie (règlement «REMIT») (5). L’ACER devrait donc avoir accès à toutes les données relatives aux produits dérivés sur l’énergie détenues par les référentiels centraux.
+
+%%% (5)  JO L 326 du 8.12.2011, p. 1.

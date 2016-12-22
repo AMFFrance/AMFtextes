@@ -1,0 +1,1 @@
+(5) Les autorités de surveillance et de contrôle des contreparties centrales ont besoin de pouvoir accéder aux données pour exercer effectivement leurs fonctions à l’égard de ces entités, elles devraient donc disposer d’un accès à toutes les informations nécessaires à un tel mandat.

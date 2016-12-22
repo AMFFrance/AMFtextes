@@ -1,0 +1,3 @@
+(8) Les autorités désignées conformément à l’article 4 de la directive 2004/25/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les offres publiques d’acquisition (4) devraient avoir accès aux données de transactions portant sur des produits dérivés sur actions, lorsque l’émetteur du sous-jacent soit est admis à la négociation sur un marché réglementé de leur ressort, soit a son adresse légale dans leur ressort territorial, soit agit en tant qu’offrant pour une telle entreprise et propose une contrepartie incluant des titres.
+
+%%% (4)  JO L 142 du 30.4.2004, p. 12.

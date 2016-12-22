@@ -1,0 +1,1 @@
+(7) Les autorités des marchés financiers de l’Union compétentes ont pour mission principale de protéger les investisseurs de leurs ressorts respectifs et devraient avoir accès aux données de transaction concernant les marchés, les participants, les produits et les sous-jacents couverts qui relèvent de leurs mandats de surveillance et d’exécution.

@@ -1,0 +1,3 @@
+(3) Compte tenu des responsabilités qui lui incombent en vertu du règlement (UE) no 1095/2010 du Parlement européen et du Conseil du 24 novembre 2010 instituant une Autorité européenne de surveillance (Autorité européenne des marchés financiers) (3) et du règlement (UE) no 648/2012, l’AEMF devrait disposer d’un accès aux données aux fins de ces différents mandats. L’accès individuel de membres du personnel de l’AEMF aux données devrait être conforme à chacun de ces mandats spécifiques.
+
+%%% (3)  JO L 331 du 15.12.2010, p. 84.

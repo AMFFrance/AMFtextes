@@ -1,0 +1,1 @@
+(1) Il est essentiel d’identifier clairement les contrats concernés et leurs contreparties respectives. Dans une optique fonctionnelle, il convient d’envisager les entités ayant accès aux données détenues par les référentiels centraux en fonction de leurs compétences et des fonctions qu’elles exercent.
