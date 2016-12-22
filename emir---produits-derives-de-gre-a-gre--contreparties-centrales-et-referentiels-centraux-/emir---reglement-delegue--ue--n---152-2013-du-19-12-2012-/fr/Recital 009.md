@@ -1,0 +1,3 @@
+(9) L’Autorité bancaire européenne (ABE) a collaboré étroitement avec le Système européen de banques centrales (SEBC) et a consulté l’Autorité européenne des marchés financiers (AEMF) avant de soumettre les projets de normes techniques sur lesquelles se fonde le présent règlement. Elle a aussi procédé à des consultations publiques sur les projets de normes techniques de réglementation, analysé les coûts et avantages potentiels connexes et sollicité l’avis du groupe des parties intéressées au secteur bancaire institué conformément à l’article 37 du règlement (UE) no 1093/2010 du Parlement européen et du Conseil (6).
+
+%%% (6)  JO L 331 du 15.12.2010, p. 12.

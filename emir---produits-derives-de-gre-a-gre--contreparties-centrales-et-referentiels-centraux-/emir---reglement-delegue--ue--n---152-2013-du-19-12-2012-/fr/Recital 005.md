@@ -1,0 +1,3 @@
+(5) La directive 2006/48/CE et la directive 2006/49/CE du Parlement européen et du Conseil du 14 juin 2006 sur l’adéquation des fonds propres des entreprises d’investissement et des établissements de crédit (5) constituent une référence appropriée pour l’établissement des exigences de capital destinées à couvrir les risques de crédit, de contrepartie et de marché non couverts par des ressources financières spécifiques, puisque ces risques sont similaires à ceux encourus par les établissements de crédit ou entreprises d’investissement.
+
+%%% (5)  JO L 177 du 30.6.2006, p. 201.

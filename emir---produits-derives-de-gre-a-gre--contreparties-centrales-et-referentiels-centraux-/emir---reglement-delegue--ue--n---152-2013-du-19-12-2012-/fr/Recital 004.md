@@ -1,0 +1,3 @@
+(4) Nonobstant les difficultés que présente la quantification de l’exposition au risque opérationnel, c’est la directive 2006/48/CE du Parlement européen et du Conseil du 14 juin 2006 concernant l’accès à l’activité des établissements de crédit et son exercice (4) qui constitue la référence pour l’établissement des exigences de capital des contreparties centrales. Conformément à cette directive, la définition du risque opérationnel, dans le cadre des normes techniques concernant les exigences de capital applicables aux contreparties centrales, englobe le risque juridique.
+
+%%% (4)  JO L 177 du 30.6.2006, p. 1.
