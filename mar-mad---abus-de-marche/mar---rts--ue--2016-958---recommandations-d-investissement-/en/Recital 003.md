@@ -1,0 +1,1 @@
+(3) The identity of the persons producing recommendations, their competent authority, if any, and the dates and times when the recommendations were completed and then disseminated should be disclosed, since they may be valuable information for investors in relation to their investment decisions.
