@@ -1,0 +1,1 @@
+(36) The anticipated size, volumes and frequency of intragroup OTC derivative contracts may be determined on the basis of the historical intragroup transactions of the counterparties as well as the anticipated model and activity expected for the future.

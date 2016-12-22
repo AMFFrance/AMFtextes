@@ -1,0 +1,1 @@
+(14) The assessment of the competent authority of the trading venue to which a CCP has requested access and of the competent authority of the CCP should be based on the mechanisms available to prevent liquidity fragmentation within a trading venue.

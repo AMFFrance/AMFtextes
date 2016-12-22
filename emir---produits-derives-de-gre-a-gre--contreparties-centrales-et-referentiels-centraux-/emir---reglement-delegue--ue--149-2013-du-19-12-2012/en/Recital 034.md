@@ -1,0 +1,1 @@
+(34) Although the design of the model used for the marking-to-model may be developed internally or externally, in order to ensure appropriate accountability, the approval of the model is the responsibility of the board of directors or the delegated committee of such board.

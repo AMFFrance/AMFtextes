@@ -1,0 +1,1 @@
+(26) For those OTC derivative contracts that are not cleared, risk mitigation techniques such as timely confirmation should apply. The confirmation of OTC derivative contracts may refer to one or more master agreements, master confirmation agreements, or other standard terms. It may take the form of an electronically executed contract or a document signed by both counterparties.

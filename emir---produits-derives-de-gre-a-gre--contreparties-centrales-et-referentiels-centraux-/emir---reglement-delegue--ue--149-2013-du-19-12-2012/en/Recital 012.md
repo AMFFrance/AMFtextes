@@ -1,0 +1,1 @@
+(12) The level of details available in the register of classes of OTC derivative contracts subject to the clearing obligation depends on the relevance of these details to identify each class of OTC derivative contracts. As a result the level of details in the register may differ for different classes of OTC derivative contracts.

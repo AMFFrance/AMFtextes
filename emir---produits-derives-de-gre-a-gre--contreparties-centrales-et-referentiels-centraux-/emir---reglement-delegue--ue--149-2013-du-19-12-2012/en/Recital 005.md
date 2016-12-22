@@ -1,0 +1,3 @@
+(5) Regulation (EU) No 648/2012 requires a CCP to be a designated system under Directive 98/26/EC of the European Parliament and of the Council of 19 May 1998 on settlement finality in payment and securities settlement systems (3). This implies that clearing members of CCPs should qualify as participants within the meaning of that Directive. Therefore to ensure an equivalent level of protection to indirect clients as granted to clients under Regulation (EU) No 648/2012, it is necessary to ensure that clients providing indirect clearing services are credit institutions, investment firms, or equivalent third country credit institutions or investment firms.
+
+%%% (3)  OJ L 166, 11.6.1998, p. 45.

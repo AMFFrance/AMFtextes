@@ -1,0 +1,1 @@
+(32) For the purpose of specifying market conditions that prevent marking-to-market, it is necessary to specify inactive markets. A market may be inactive for several reasons including when there are no regularly occurring market transactions on an arm’s length basis, where an arm’s length basis should have the same meaning as for accounting purposes.

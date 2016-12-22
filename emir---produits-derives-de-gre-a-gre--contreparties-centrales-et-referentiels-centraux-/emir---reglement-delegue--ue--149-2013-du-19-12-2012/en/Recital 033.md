@@ -1,0 +1,3 @@
+(33) This Regulation applies to financial counterparties and non-financial counterparties above the clearing threshold and takes into consideration Directive 2006/49/EC of the European Parliament and of the Council of 14 June 2006 on capital adequacy of investment firms and credit institutions (4), which also sets requirements to be complied with when marking-to-model.
+
+%%% (4)  OJ L 177, 30.6.2006, p. 201.

@@ -1,0 +1,1 @@
+(3) In order to clearly identify a limited number of concepts stemming from Regulation (EU) No 648/2012, as well as to specify technical terms necessary for developing this technical standard, a number of terms should be defined.
