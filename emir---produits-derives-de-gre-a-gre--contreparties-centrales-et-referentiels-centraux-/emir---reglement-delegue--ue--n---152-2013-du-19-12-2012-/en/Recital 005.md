@@ -1,0 +1,3 @@
+(5) Directive 2006/48/EC and Directive 2006/49/EC of the European Parliament and of the Council of 14 June 2006 on the capital adequacy of investment firms and credit institutions (5) are an appropriate benchmark for the purpose of establishing capital requirements to cover credit, counterparty and market risks non covered by specific financial resources, since they are similar to those carried out by credit institutions or investment firms.
+
+%%% (5)  OJ L 177, 30.6.2006, p. 201.

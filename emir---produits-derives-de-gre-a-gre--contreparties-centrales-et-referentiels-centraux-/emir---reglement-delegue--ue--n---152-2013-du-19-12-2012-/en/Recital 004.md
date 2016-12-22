@@ -1,0 +1,3 @@
+(4) Notwithstanding the difficulties in quantifying the exposure to operational risk, Directive 2006/48/EC of the European Parliament and of the Council of 14 June 2006 relating to the taking up and pursuit of the business of credit institutions (4) is the relevant benchmark for the purpose of establishing the capital requirement for CCPs. Consistently with Directive 2006/48/EC, the definition of operational risk should include legal risk in respect of technical standards on capital requirements for central counterparties.
+
+%%% (4)  OJ L 177, 30.6.2006, p. 1.

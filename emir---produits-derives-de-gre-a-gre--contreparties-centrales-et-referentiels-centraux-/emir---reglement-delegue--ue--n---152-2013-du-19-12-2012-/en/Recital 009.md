@@ -1,0 +1,3 @@
+(9) The European Banking Authority (EBA) has worked in close cooperation with the European System of Central Banks (ESCB) and has consulted the European Securities and Markets Authority (ESMA) before submitting the draft technical standards on which this Regulation is based. It has also conducted open public consultations on the draft regulatory technical standards, analysed the potential related costs and benefits and requested the opinion of the Banking Stakeholder Group established in accordance with Article 37 of Regulation (EU) No 1093/2010 of the European Parliament and of the Council (6).
+
+%%% (6)  OJ L 331, 15.12.2010, p. 12.
