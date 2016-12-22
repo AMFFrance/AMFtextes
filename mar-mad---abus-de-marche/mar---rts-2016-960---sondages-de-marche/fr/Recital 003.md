@@ -1,0 +1,1 @@
+(3) En vue de faciliter la réalisation d'enquêtes par les autorités compétentes en cas de suspicion d'abus de marché, le participant au marché communicant devrait tenir, pour chaque sondage de marché, un registre des personnes visées par le sondage de marché.
