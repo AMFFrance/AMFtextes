@@ -1,0 +1,1 @@
+(2) To avoid inconsistencies in the Common Data tables, each counterparty to a derivative contract should ensure that the Common Data reported is agreed between both parties to the trade. A unique trade identifier will help with the reconciliation of the data in the case that the counterparties are reporting to different trade repositories.

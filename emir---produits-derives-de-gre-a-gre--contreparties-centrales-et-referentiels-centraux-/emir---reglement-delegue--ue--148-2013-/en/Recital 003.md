@@ -1,0 +1,1 @@
+(3) To avoid duplicate reporting and to reduce the reporting burden, where one counterparty or CCP reports on behalf of both counterparties, the counterparty or CCP should be able to send one report to the trade repository containing the relevant information.

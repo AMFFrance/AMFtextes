@@ -1,0 +1,3 @@
+(7) ESMA has consulted the relevant authorities and the members of the European System of Central Banks (ESCB) before submitting the draft regulatory technical standards on which this Regulation is based. In accordance with Article 10 of Regulation (EU) No 1095/2010, of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority) (3), ESMA has also conducted open public consultations on such draft regulatory technical standards, analysed the potential related costs and benefits and requested the opinion of the ESMA Securities and Markets Stakeholder Group established in accordance with Article 37 of that Regulation,
+
+%%% (3)  OJ L 331, 15.12.2010, p. 84.
