@@ -1,0 +1,1 @@
+(3) L'identité des personnes produisant des recommandations, leur autorité compétente, le cas échéant, et les dates et les heures auxquelles les recommandations ont été terminées et diffusées devraient être mentionnées, étant donné qu'il peut s'agir d'informations importantes pour les investisseurs dans le contexte de leurs décisions d'investissement.
