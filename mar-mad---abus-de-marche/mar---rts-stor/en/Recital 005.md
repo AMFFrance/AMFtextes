@@ -1,0 +1,1 @@
+(5) Trading venues should have appropriate trading rules contributing to the prevention of insider dealing and market manipulation or attempted insider dealing or market manipulation. Trading venues should also have facilities to replay the order book in order to analyse the activity of a trading session in a context of algorithmic trading including high frequency trading.

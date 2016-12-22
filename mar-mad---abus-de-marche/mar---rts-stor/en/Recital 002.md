@@ -1,0 +1,1 @@
+(2) In order to facilitate and promote a consistent approach and practices across the Union in relation to prevention and detection of market abuse, it is appropriate to lay down detailed provisions harmonising the content of, the template for and the timing of the reporting of suspicious orders and transactions.

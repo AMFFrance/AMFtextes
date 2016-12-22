@@ -1,0 +1,1 @@
+(8) To facilitate the submission of a STOR, the template should allow for the attachment of documents and materials considered necessary to support the notification made, including in the form of an annex listing the orders or transactions relevant for the same report and detailling their prices and volumes.

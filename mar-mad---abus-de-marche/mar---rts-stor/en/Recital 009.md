@@ -1,0 +1,1 @@
+(9) Market operators and investment firms operating a trading venue and persons professionally arranging or executing transactions should not notify all orders received or transactions conducted that have triggered an internal alert. Such a requirement would be inconsistent with the requirement to assess on a case-by-case basis whether there are reasonable grounds for suspicion.
