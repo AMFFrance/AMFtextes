@@ -1,0 +1,1 @@
+(3) In order to ensure consistency and legal certainty for market participants and competent authorities, the date of application of this Regulation should be the same as that of Regulation (EU) No 236/2012 and Delegated Regulation (EU) No 918/2012.

@@ -1,0 +1,3 @@
+(1) The method of calculation of the significant fall in value of financial instruments contained in Section C of Annex I to Directive 2004/39/EC of the European Parliament and Council of 21 April 2004 on markets in financial instruments (2) should be adapted to the various ways in which that fall is reflected depending on the type of financial instrument concerned. That method can take the form of an actual fall in price of the financial instrument, of an increase in the yield of a debt instrument issued by a corporate issuer or an increase in the yield across the yield curve for debt instruments issued by sovereign issuers.
+
+%%% (2)  OJ L 145, 30.4.2004, p. 1.

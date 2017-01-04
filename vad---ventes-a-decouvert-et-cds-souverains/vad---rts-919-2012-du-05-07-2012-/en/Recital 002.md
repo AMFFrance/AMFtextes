@@ -1,0 +1,3 @@
+(2) This Regulation should be read in conjunction with Commission Delegated Regulation (EU) No 918/2012 (3), which defines thresholds for the significant fall in value of illiquid shares, debt instruments issued by sovereign and corporate issuers, exchange-traded funds, money market instruments and derivatives whose sole underlying financial instrument is traded on a trading venue. This Regulation should therefore restrict itself to specifying the method of calculation of the significant fall in value of these instruments.
+
+%%% (3)  See page 1 of this Official Journal.
