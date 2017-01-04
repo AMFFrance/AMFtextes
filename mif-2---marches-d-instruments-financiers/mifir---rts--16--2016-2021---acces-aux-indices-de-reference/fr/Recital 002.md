@@ -1,0 +1,1 @@
+(2) En raison de la diversité des indices de référence et des usages répertoriés qui en sont faits, il n'est pas opportun de suivre une approche uniforme ni de viser une harmonisation poussée du contenu des accords de licence. Limiter les conditions d'octroi de l'accès selon des critères prédéterminés et exhaustifs pourrait en effet être préjudiciable à toutes les parties.

@@ -1,0 +1,1 @@
+(6) De nouvelles séries d'indices de référence sont publiées périodiquement, par exemple pour les indices de référence des contrats d'échange sur risque de crédit. Dans ce cas, l'indice nouvellement publié s'inscrit dans la continuité de la série précédente et ne devrait donc pas être considéré comme un nouvel indice de référence.

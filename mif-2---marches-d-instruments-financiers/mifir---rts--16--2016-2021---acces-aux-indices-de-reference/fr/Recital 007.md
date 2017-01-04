@@ -1,0 +1,1 @@
+(7) Par souci de cohérence et afin d'assurer le bon fonctionnement des marchés financiers, il est nécessaire que les dispositions du présent règlement et celles du règlement (UE) no 600/2014 s'appliquent à partir de la même date.
