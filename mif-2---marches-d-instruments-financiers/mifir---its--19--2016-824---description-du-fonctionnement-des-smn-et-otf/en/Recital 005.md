@@ -1,0 +1,1 @@
+(5) Since OTFs are distinguished from MTFs in that the trading process may involve the use of discretionary rules by the operator and because the operator of an OTF will owe responsibilities to users of the system, OTFs should provide additional information.

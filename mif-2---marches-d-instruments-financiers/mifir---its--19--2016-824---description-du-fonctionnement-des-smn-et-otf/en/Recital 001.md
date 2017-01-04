@@ -1,0 +1,1 @@
+(1) It is important to recognise the need for competent authorities to receive complete information about the purpose, structure and organisation of multilateral trading facilities (MTFs) and organised trading facilities (OTFs) that they will be required to supervise in order to ensure the efficient and orderly functioning of financial markets.

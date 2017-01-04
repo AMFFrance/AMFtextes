@@ -1,0 +1,1 @@
+(7) To facilitate the publication by the European Securities and Markets Authority (ESMA) of the list of all MTFs and OTFs in the Union accompanied by information on the services they provide and the unique code identifying them, a standard template for that information should be used.

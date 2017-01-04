@@ -1,0 +1,3 @@
+(9) Any personal data provided under this Regulation should be for specified, explicit and legitimate purposes and not further processed in a way incompatible with those purposes. In accordance with Article 6 of Directive 95/46/EC of the European Parliament and of the Council (3) any personal data should be retained for no longer than necessary for the purpose of the exercising the supervisory function, and a maximum period of retention should be indicated.
+
+%%% (3)  Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (OJ L 281, 23.11.1995, p. 31).

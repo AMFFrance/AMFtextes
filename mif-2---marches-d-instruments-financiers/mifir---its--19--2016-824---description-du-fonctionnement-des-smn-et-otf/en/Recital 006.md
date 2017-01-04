@@ -1,0 +1,1 @@
+(6) To ensure efficient processing, the information required should be provided in electronic format.

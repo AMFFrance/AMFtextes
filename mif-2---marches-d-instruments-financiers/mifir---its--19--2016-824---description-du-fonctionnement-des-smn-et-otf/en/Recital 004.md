@@ -1,0 +1,1 @@
+(4) Since SME growth markets are distinguished from other MTFs in that they are subject to additional rules under Directive 2014/65/EU, it is necessary that SME growth markets provide additional information.
