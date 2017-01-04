@@ -1,0 +1,1 @@
+(3) It is important that the technical means for delaying the disclosure of inside information allow for the maintenance of the key information of the process for delaying the disclosure of inside information, so that issuers and emission allowance market participants are able to fulfil their obligation to notify the competent authorities.
