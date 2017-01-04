@@ -1,0 +1,1 @@
+(4) Le présent règlement se fonde sur les projets de normes techniques d'exécution soumis à la Commission par l'Autorité européenne des marchés financiers.

@@ -1,0 +1,1 @@
+(1) Afin de favoriser l'efficacité du processus de notification des transactions effectuées par les personnes exerçant des responsabilités dirigeantes et de fournir au public des informations comparables, il convient de prévoir des règles uniformes sur la manière de notifier et de rendre publiques les informations demandées, au moyen d'un modèle unique.
