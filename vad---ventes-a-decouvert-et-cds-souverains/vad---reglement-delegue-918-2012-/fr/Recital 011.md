@@ -1,0 +1,3 @@
+(11) Le présent règlement précise quels sont les pouvoirs d’intervention des autorités compétentes pertinentes et de l’Autorité européenne des marchés financiers (AEMF), qui a été créée et exerce ses pouvoirs conformément aux dispositions du règlement (UE) no 1095/2010 du Parlement européen et du Conseil (3), en cas d’événements ou d’évolutions défavorables. Il est nécessaire de dresser une liste de ces événements pour assurer une certaine cohérence et pour que des mesures appropriées puissent être prises en cas d’événements ou d’évolutions imprévus.
+
+%%% (3)  JO L 331 du 15.12.2010, p. 84.
