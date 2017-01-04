@@ -1,0 +1,1 @@
+(3) La liste des notifications d'instruments financiers devrait être publiée par l'AEMF sous une forme électronique, lisible par machine et téléchargeable, afin de favoriser l'utilisation et l'échange optimaux des données.
