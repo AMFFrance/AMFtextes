@@ -1,0 +1,1 @@
+(13) When calculating the exposure, all positions of the AIF should initially be included, including short and long assets and liabilities, borrowings, derivative instruments and any other method increasing the exposure where the risks and rewards of assets or liabilities are with the AIF, and all other positions that make up the net asset value.

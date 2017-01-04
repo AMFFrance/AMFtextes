@@ -1,0 +1,1 @@
+(128) Where the AIF issues units, transfers of any assets to side pockets should be calculated, at the time of transfer, based on the number of units allocated on transfer of assets multiplied by the price per unit. The valuation basis should be clearly disclosed in all circumstances and include the date at which the valuation was performed.

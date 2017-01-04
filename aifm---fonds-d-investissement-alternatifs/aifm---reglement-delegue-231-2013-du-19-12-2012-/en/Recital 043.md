@@ -1,0 +1,1 @@
+(43) To ensure that the relevant activities are performed properly, AIFMs should employ personnel with the necessary skills, knowledge and expertise to carry out tasks assigned to them.

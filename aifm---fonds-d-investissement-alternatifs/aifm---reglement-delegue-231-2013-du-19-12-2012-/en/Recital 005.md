@@ -1,0 +1,1 @@
+(5) The total value of assets under management needs to be calculated at least annually and using up-to-date information. The value of assets should therefore be determined in the 12 months preceding the date of calculation of the total value of assets under management and as close as possible to such a date.

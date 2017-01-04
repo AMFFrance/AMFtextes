@@ -1,0 +1,1 @@
+(88) Based on the obligations laid down in Directive 2011/61/EU, AIFMs should always act in the best interests of the AIFs or the investors in the AIFs they manage. Therefore, delegation should be admissible only if it does not prevent the AIFM from acting or managing the AIF in the best interests of the investors.

@@ -1,0 +1,1 @@
+(14) Borrowing arrangements entered into by the AIF should be excluded if they are temporary in nature and relate to and are fully covered by capital commitments from investors. Revolving credit facilities should not be considered being temporary in nature.

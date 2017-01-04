@@ -1,0 +1,1 @@
+(115) A financial instrument is deemed no longer to exist for instance when it has disappeared following an accounting error that cannot be corrected, or if it never existed, when the AIF’s ownership was registered on the basis of falsified documents. Situations where the loss of financial instruments is caused by fraudulent conduct should be deemed a loss.

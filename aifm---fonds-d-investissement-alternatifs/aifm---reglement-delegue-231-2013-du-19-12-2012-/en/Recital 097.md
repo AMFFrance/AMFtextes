@@ -1,0 +1,1 @@
+(97) In order for the depositary to have a clear overview of all inflows and outflows of cash of the AIF in all instances, the AIFM should ensure that the depositary receives without undue delay accurate information related to all cash flows, including from any third party with which an AIF’s cash account is opened.

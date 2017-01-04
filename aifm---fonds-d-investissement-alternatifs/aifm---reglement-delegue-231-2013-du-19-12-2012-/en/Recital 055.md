@@ -1,0 +1,1 @@
+(55) Although Directive 2011/61/EU does not impose any investment restrictions on AIFs, the risks incurred by each AIF cannot be managed effectively if the risk limits have not been set in advance by AIFMs. The risk limits should be in line with the risk profile of the AIF, and should be disclosed to investors in accordance with Directive 2011/61/EU.

@@ -1,0 +1,3 @@
+(49) In line with the approach considered in Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) (5) for UCITS management companies and in Directive 2004/39/EC for investment firms, AIFMs should adopt procedures and measures to ensure that relevant persons engaged in different business activities that could involve conflicts of interest carry out these activities at an independent level, appropriate to the size and activities of the AIFM.
+
+%%% (5)  OJ L 302, 17.11.2009, p. 32.

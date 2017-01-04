@@ -1,0 +1,1 @@
+(129) In order to manage liquidity AIFMs should be permitted to enter into borrowing arrangements on behalf of AIFs they manage. Those arrangements can be short term or more permanent. In the latter case it is more likely that such an arrangement would be a special arrangement for the purpose of managing illiquid assets.

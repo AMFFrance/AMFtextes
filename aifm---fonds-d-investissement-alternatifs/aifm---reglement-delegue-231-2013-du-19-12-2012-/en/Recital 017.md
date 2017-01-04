@@ -1,0 +1,1 @@
+(17) When calculating exposure according to the commitment method, AIFMs should be allowed to consider hedging and netting arrangements provided they fulfil the criteria relating to the commitment method.

@@ -1,0 +1,3 @@
+(44) AIFMs that provide the service of individual portfolio management have to comply with inducement rules laid down in Commission Directive 2006/73/EC of 10 August 2006 implementing Directive 2004/39/EC of the European Parliament and of the Council as regards organisational requirements and operating conditions for investment firms and defined terms for the purposes of that Directive (3). For reasons of consistency, those principles should extend to AIFMs that provide the service of collective portfolio management, and marketing. The existence, nature and amount of the fee, commission or benefit, or, where the amount cannot be ascertained, the method of calculating the amount, should be disclosed in the AIFM’s annual report.
+
+%%% (3)  OJ L 241, 2.9.2006, p. 26.

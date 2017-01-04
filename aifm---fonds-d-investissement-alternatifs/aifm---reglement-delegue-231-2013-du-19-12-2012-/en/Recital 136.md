@@ -1,0 +1,1 @@
+(136) In order to allow competent authorities, AIFMs and depositaries to adapt to the new requirements contained in this Regulation so that they can be applied in an efficient and effective manner, the starting date of application of this Regulation should be aligned with the transposition date of Directive 2011/61/EU,

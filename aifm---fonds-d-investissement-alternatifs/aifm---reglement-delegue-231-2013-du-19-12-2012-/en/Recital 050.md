@@ -1,0 +1,1 @@
+(50) It is essential to provide for a general framework according to which conflicts of interest, if they occur, should be managed and disclosed. The detailed steps and procedures to be followed in such situations should be clarified in the conflicts of interest policy to be established by the AIFM.

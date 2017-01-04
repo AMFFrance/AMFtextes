@@ -1,0 +1,1 @@
+(130) In line with the principle of differentiation, and recognising the diversity of types of AIFs, the disclosure to investors required of an AIFM should vary according to the type of AIF and would depend on other factors such as investment strategy and the portfolio composition.

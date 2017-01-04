@@ -1,0 +1,1 @@
+(25) A strategy, which aims to hedge a long position in a stock or bond with purchased credit protection on the same issuer, relates to two different asset classes and therefore should not be considered as a hedging arrangement.
