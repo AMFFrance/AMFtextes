@@ -1,0 +1,1 @@
+(15) Pour renforcer l'intégrité du marché tout en évitant une publication excessive, il convient de fixer les seuils minimaux à un niveau qui exempte les entreprises qui sont peu susceptibles de détenir des informations privilégiées.

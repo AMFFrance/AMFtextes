@@ -1,0 +1,1 @@
+(9) Aux fins de l'établissement de la liste d'exemples de pratiques se rapportant aux indicateurs de manipulations de marché visés à l'annexe I du règlement (UE) no 596/2014, les renvois croisés à l'annexe II du présent règlement comprennent à la fois l'exemple de pratique concerné et l'indicateur supplémentaire associé avec cet exemple.

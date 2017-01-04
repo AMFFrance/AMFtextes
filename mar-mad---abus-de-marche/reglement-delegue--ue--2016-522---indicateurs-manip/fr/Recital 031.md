@@ -1,0 +1,1 @@
+(31) Les dispositions pertinentes et les habilitations prévues dans le règlement (UE) no 596/2014 ne commenceront à s'appliquer qu'à partir du 3 juillet 2016. Par conséquent, il est important que les règles fixées par le présent règlement soient elles aussi applicables à compter de cette même date.
