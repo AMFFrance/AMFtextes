@@ -1,0 +1,1 @@
+(2) To ensure that the information communicated is consistently recorded also where market soundings take place during unrecorded meetings or telephone conversations, a uniform template should be drawn up for the written minutes or notes to be taken by the disclosing market participant of those meetings and conversations.

@@ -1,0 +1,1 @@
+(3) To ensure that the information communicated is consistently recorded, disclosing market participants should keep records of the written communications to inform the persons who received the market soundings when the information disclosed in the course of the market sounding has ceased to be inside information.
