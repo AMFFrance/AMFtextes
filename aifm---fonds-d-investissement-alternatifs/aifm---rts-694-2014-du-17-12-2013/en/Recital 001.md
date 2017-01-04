@@ -1,0 +1,1 @@
+(1) It is important that regulatory technical standards determining types of AIFMs supplement the rules in Directive 2011/61/EU so that certain requirements of the Directive are applied to AIFMs in a uniform manner.

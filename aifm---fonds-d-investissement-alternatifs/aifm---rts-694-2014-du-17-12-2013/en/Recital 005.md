@@ -1,0 +1,1 @@
+(5) An AIFM that manages one or more open-ended AIFs and one or more closed-ended AIFs at the same time should apply to each AIF the specific rules relating to the relevant type of AIF.

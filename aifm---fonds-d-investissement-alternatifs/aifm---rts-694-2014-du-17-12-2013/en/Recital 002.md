@@ -1,0 +1,1 @@
+(2) It is desirable to distinguish whether an AIFM is managing AIFs of the open-ended or closed-ended type or both in order to apply correctly the rules on liquidity management and the valuation procedures of Directive 2011/61/EU to AIFMs.
