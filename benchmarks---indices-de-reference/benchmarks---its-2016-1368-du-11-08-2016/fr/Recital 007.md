@@ -1,0 +1,1 @@
+(7) Compte tenu de l'importance cruciale d'EURIBOR pour les prêts et les crédits hypothécaires dans l'Union, il convient que le présent règlement entre en vigueur d'urgence.

@@ -1,0 +1,1 @@
+(6) Par conséquent, la valeur des instruments et contrats financiers utilisant cet indice de référence dans l'Union dépasse largement le seuil de 500 milliards d'EUR.
