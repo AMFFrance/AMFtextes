@@ -1,0 +1,1 @@
+(4) In order to ensure the publicity of this information to the market, in addition to disclosure on the central website operated or supervised by a competent authority, it should be possible to make available the details of a net short position to the public in other ways.

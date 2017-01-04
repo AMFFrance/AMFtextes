@@ -1,0 +1,1 @@
+(2) To ensure the uniform application of Regulation (EU) No 236/2012 in relation to the information to be provided to ESMA by competent authorities and to achieve the efficient processing of that information, it should be exchanged electronically in a secure way using a standard template.

@@ -1,0 +1,1 @@
+(9) In defining time limited confirmation arrangements, it is important to specify the timeframe for covering a short sale through purchases in a way compatible with different settlement cycles in different jurisdictions.

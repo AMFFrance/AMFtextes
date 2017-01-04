@@ -1,0 +1,6 @@
+# ANNEX II
+
+## Format of the information to be provided to ESMA on quarterly basis (Article 3)
+
+Information Format 1. Issuer identification   For shares: full name of the company that has shares admitted to trading on a trading venue   For sovereign debt: full name of the issuer   For uncovered sovereign credit default swaps: full name of the underlying sovereign issuer 2. ISIN For shares only: ISIN of the main class of ordinary shares of the issuer. If there are no ordinary shares admitted to trading, the ISIN of the class of preference shares (or of the main class of preference shares admitted to trading if there are several classes of such shares) 3. Country code Two letter code for the sovereign issuer country in accordance with ISO standard 3166-1 4. Position date Date for which the position is reported. Format in accordance with ISO standard 8601:2004 (yyyy-mm-dd) 5. Daily aggregated net short position on main national index shares Percentage figure rounded to 2 decimal places 6. End of quarter aggregated net short position on other shares Percentage figure rounded to 2 decimal places 7. Daily aggregated net short positions in sovereign debt Figure of equivalent nominal amount in Euros 8. Daily aggregated uncovered positions on credit default swaps of a sovereign issuer Figure of equivalent nominal amount in Euros
+
