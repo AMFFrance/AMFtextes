@@ -1,0 +1,1 @@
+(5) Un gestionnaire gérant en même temps un ou plusieurs FIA de type ouvert et un ou plusieurs FIA de type fermé devrait appliquer à chacun de ces FIA les règles spécifiques au type auquel celui-ci appartient.

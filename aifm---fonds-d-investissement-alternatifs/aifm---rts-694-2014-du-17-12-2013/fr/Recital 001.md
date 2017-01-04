@@ -1,0 +1,1 @@
+(1) Il importe de compléter les règles de la directive 2011/61/UE par des normes techniques de réglementation déterminant des types de gestionnaires de fonds d'investissement alternatifs (FIA), de manière que certaines exigences de la directive soient appliquées de manière uniforme à ces derniers.

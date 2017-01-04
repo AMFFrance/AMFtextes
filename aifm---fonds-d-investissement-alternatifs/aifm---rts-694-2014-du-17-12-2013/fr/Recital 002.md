@@ -1,0 +1,1 @@
+(2) Il est souhaitable de déterminer si un gestionnaire gère des FIA de type ouvert, de type fermé, ou les deux, afin que les règles relatives à la gestion de la liquidité et les procédures d'évaluation prévues par la directive 2011/61/UE lui soient appliquées correctement.
