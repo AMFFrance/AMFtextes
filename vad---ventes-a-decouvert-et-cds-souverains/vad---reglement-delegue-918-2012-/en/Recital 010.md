@@ -1,0 +1,3 @@
+(10) No threshold for a significant fall in the value of the unit price of a listed UCITS, except for exchange-traded funds that are UCITS, is specified in this Regulation as although the price may vary freely in the trading venue, it is subject to a rule in Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) (2) which keeps the prices close to the net asset value of the UCITS. No threshold for a significant fall in the value of derivatives is specified other than those specified in this Regulation.
+
+%%% (2)  OJ L 302, 17.11.2009, p. 32.

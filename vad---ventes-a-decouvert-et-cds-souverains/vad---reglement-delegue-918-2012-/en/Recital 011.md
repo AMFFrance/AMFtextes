@@ -1,0 +1,3 @@
+(11) This Regulation clarifies the intervention powers of both the relevant competent authorities and the European Securities Markets Authority (ESMA) established and exercising its powers in accordance with Regulation (EU) No 1095/2010 of the European Parliament and of the Council (3) as regards adverse events or developments. A list of these events is required to ensure a consistent approach while permitting appropriate action to be taken where unforeseen adverse events or developments occur.
+
+%%% (3)  OJ L 331, 15.12.2010, p. 84.

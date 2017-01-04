@@ -1,0 +1,16 @@
+# Article 8 - Net short position in sovereign debt — long positions
+
+
+1.   For the purposes of this Article and Annex II, pricing shall mean the yield, or where there is no yield for one of the relevant assets or liabilities or the yield is an inappropriate comparator between the relevant assets or liabilities, it shall mean the price. The holding of a sovereign debt instrument through a long position in a basket of sovereign debt instruments of different sovereign issuers shall in relation to that sovereign debt, also be taken into account to the extent that that sovereign debt is represented in that basket.
+
+2.   For the purpose of Article 3(2)(b) of Regulation (EU) No 236/2012, any exposure through an instrument other than the sovereign debt which confers a financial advantage in the event of an increase in the price of the sovereign debt means any exposure through any one or more of the instruments listed in Annex I, Part 2 provided always that their value depends on the value of the sovereign debt in respect of which a net short position has to be calculated, and which confers a financial advantage in the event of an increase in the price or value of the sovereign debt.
+
+3.   Provided always that they are highly correlated in accordance with Article 3(5) of Regulation (EU) No 236/2012 and with paragraphs 4 and 5, all net holdings of sovereign debt of a sovereign issuer which is highly correlated with the pricing of the sovereign debt in any short position shall be included in the calculation of the long position. Sovereign debt instruments from issuers located outside the Union shall not be included.
+
+4.   For assets with a liquid market price, a high correlation between the pricing of a debt instrument of another sovereign issuer and the pricing of the debt of the given sovereign issuer shall be measured on a historical basis using daily accumulated weighted data for the 12-month period preceding the position in the sovereign debt. For assets for which there is no liquid market or where the price history is less than 12 months, an appropriate proxy of similar duration shall be used.
+
+5.   For the purposes of Article 3(5) of Regulation (EU) No 236/2012, a debt instrument and a issued sovereign debt shall be considered to be highly correlated where the Pearson’s correlation coefficient is at least 80 % between the pricing of the debt instrument of another sovereign issuer and the pricing of the given sovereign debt for the relevant period.
+
+6.   If the position subsequently ceases to be highly correlated based on a rolling 12-month time-frame, then the sovereign debt of the previously highly correlated sovereign issuer shall no longer be taken into account when calculating a long position. However, positions shall not be deemed to cease to be highly correlated where there is a temporary fall in the level of correlation of the sovereign debt for no more than three months below the level set out in paragraph 4, provided that the correlation coefficient is at least of 60 % throughout this three-month period.
+
+7.   In calculating net short positions, it shall be irrelevant whether a cash settlement or physical delivery of underlying assets has been agreed.
