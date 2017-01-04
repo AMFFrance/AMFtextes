@@ -1,0 +1,1 @@
+(1) Pursuant to Article 18 of Regulation (EU) No 596/2014, issuers, emission allowance market participants, auction platforms, auctioneers and auction monitor, or any other persons acting on their behalf or on their account are required to draw up insider lists and keep them up to date in accordance with a precise format.

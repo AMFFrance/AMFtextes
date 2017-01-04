@@ -1,0 +1,1 @@
+(5) The insider list should in principle contain personal data that facilitates the identification of the insiders. Such information should include the date of birth, the personal address and, where applicable, the national identification number of the individuals concerned.
