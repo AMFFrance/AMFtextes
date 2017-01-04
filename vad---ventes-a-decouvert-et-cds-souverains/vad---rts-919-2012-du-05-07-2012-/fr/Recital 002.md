@@ -1,0 +1,3 @@
+(2) Le présent règlement doit être lu conjointement avec le règlement délégué (UE) no 918/2012 de la Commission (3), qui définit le seuil d’une baisse de valeur significative pour les actions non liquides, les titres de créance émis par des émetteurs souverains ou privés, les fonds négociés en bourse, les instruments du marché monétaire et les instruments dérivés dont le seul instrument financier sous-jacent est admis à la négociation sur une plate-forme de négociation. Le présent règlement devrait donc se limiter à préciser la méthode de calcul de la baisse de valeur significative de tels instruments.
+
+%%% (3)  Voir page 1 du présent Journal officiel.

@@ -1,0 +1,3 @@
+(1) La méthode de calcul d’une baisse de valeur significative pour les instruments financiers qui figurent à l’annexe I, section C, de la directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d’instruments financiers (2) doit être adaptée aux différentes façons dont cette baisse se traduit, en fonction du type d’instrument financier concerné. Cette méthode peut reposer sur une baisse réelle du prix de l’instrument financier, ou une augmentation du rendement d’un titre de créance émis par un émetteur privé, ou une hausse de la courbe des taux des titres de créance émis par un émetteur souverain.
+
+%%% (2)  JO L 145 du 30.4.2004, p. 1.
