@@ -1,0 +1,3 @@
+(4) Aux fins de l'exercice des missions que lui assignent le présent règlement et le règlement (UE) no 1095/2010 du Parlement européen et du Conseil du 24 novembre 2010 instituant une Autorité européenne de surveillance (Autorité européenne des marchés financiers) (2), les autorités compétentes sont tenues de transmettre chaque trimestre à l’AEMF des informations sur les notifications de positions courtes nettes détenues sur des actions, des titres de dette souveraine ou des contrats d'échange sur défaut souverain non couverts et, si elle le demande, lui fournir des informations supplémentaires sur les positions courtes nettes.
+
+%%% (2)  JO L 331 du 15.12.2010, p. 84.

@@ -1,0 +1,1 @@
+(11) L’AEMF a procédé à des consultations publiques sur le projet de normes techniques de réglementation sur lequel se fonde le présent règlement, analysé ses coûts et ses avantages potentiels et sollicité l’avis du groupe des parties intéressées au secteur financier institué par l’article 37 du règlement (UE) no 1095/2010,
