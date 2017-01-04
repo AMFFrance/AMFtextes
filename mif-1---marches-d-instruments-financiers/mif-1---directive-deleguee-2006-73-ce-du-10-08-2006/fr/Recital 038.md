@@ -1,0 +1,3 @@
+(38) Les exigences imposées par la présente directive, y compris celles ayant trait aux transactions personnelles, à la réalisation de transactions en ayant connaissance de recherches en investissements et à la production ou à la diffusion de recherches en investissements, s'appliquent sans préjudice des autres obligations prévues par les directives 2004/39/CE et 2003/6/CE du Parlement européen et du Conseil du 28 janvier 2003 sur les opérations d'initiés et les manipulations de marché (abus de marché) (4) et leurs mesures d'application respectives.
+
+%%% (4)  JO L 96 du 12.4.2003, p. 16.

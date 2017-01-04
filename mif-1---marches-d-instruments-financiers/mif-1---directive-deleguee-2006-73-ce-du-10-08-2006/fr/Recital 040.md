@@ -1,0 +1,1 @@
+(40) La présente directive n'autorise les entreprises d'investissement à accorder ou à recevoir certains avantages qu'à certaines conditions et sous réserve que le client en soit informé, ou lorsqu'ils sont donnés ou reçus par le client lui-même ou par une personne agissant en son nom.

@@ -1,0 +1,1 @@
+(23) Lorsqu'une entreprise d'investissement dépose des fonds qu'elle détient pour le compte d'un client auprès d'un fonds du marché monétaire qualifié, les parts de ce fonds du marché monétaire devront être détenues conformément aux exigences fixées pour la détention d'instruments financiers appartenant à des clients.

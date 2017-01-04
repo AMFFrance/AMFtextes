@@ -1,0 +1,1 @@
+(85) Les mesures prévues par la présente directive sont conformes à l'avis du comité européen des valeurs mobilières.

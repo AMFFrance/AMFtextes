@@ -1,0 +1,3 @@
+(52) La fourniture au client par l'entreprise d'investissement d'une copie d'un prospectus qui a été élaboré et publié conformément à la directive 2003/71/CE du Parlement européen et du Conseil du 4 novembre 2003 concernant le prospectus à publier en cas d'offre au public de valeurs mobilières ou en vue de l'admission de valeurs mobilières à la négociation et modifiant la directive 2001/34/CE (5) ne doit pas être assimilée à la fourniture à un client par l'entreprise des informations requises aux fins des conditions d'exercice par la directive 2001/34/CE qui portent sur la qualité et le contenu de ces informations, si l'entreprise n'est pas responsable en vertu de ladite directive de l'information donnée dans le prospectus.
+
+%%% (5)  JO L 345 du 31.12.2003, p. 64.

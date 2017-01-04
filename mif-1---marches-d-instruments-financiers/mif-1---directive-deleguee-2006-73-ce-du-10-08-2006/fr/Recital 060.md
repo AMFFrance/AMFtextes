@@ -1,0 +1,1 @@
+(60) Il convient que toute recommandation, requête ou conseil adressé par un gestionnaire de portefeuille à un client en vue que ce client donne un mandat à ce gestionnaire définissant sa marge discrétionnaire dans la gestion du portefeuille, ou modifie un tel mandat, soit considéré comme une recommandation au sens de l'article 19, paragraphe 4, de la directive 2004/39/CE.

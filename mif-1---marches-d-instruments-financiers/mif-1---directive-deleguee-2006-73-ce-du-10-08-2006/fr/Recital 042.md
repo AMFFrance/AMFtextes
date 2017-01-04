@@ -1,0 +1,1 @@
+(42) La présente directive ne définit des exigences concernant les informations publicitaires qu'en ce qui concerne l'obligation, énoncée à l'article 19, paragraphe 2, de la directive 2004/39/CE, selon laquelle les informations adressées à des clients, y compris publicitaires, doivent être correctes, claires et non trompeuses.

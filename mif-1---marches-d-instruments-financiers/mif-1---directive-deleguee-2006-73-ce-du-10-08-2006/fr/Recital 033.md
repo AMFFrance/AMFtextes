@@ -1,0 +1,1 @@
+(33) La notion de diffusion de la recherche en investissements aux clients et au public ne doit pas inclure la diffusion exclusivement destinée à des personnes appartenant au groupe de l'entreprise d'investissement.

@@ -1,0 +1,1 @@
+(9) Toute obligation supplémentaire qui serait maintenue ou imposée par les États membres en conformité avec la présente directive ne devra pas restreindre ou affecter les droits des entreprises d'investissement au titre des articles 31 et 32 de la directive 2004/39/CE.

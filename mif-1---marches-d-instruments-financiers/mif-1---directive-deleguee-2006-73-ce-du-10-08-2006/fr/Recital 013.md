@@ -1,0 +1,1 @@
+(13) Les exigences organisationnelles énoncées par la directive 2004/39/CE ne préjugent pas des régimes instaurés par le droit national pour l'enregistrement des personnes physiques travaillant dans des entreprises d'investissement.

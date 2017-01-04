@@ -1,0 +1,3 @@
+(16) Certaines dispositions de la directive 2004/39/CE exigent des entreprises d'investissement qu'elles collectent et conservent des informations relatives aux clients et aux services fournis aux clients. Lorsque ces exigences supposent la collecte et la conservation de données à caractère personnel, les entreprises doivent s'assurer qu'elles le font en conformité avec les mesures nationales de transposition de la directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 (2) relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données.
+
+%%% (2)  JO L 281 du 23.11.1995, p. 31. Directive modifiée par le règlement (CE) no 1882/2003 (JO L 284 du 31.10.2003, p. 1).

@@ -1,0 +1,1 @@
+(6) La forme de la directive est nécessaire pour permettre l'adaptation des mesures d'exécution aux spécificités des marchés et des systèmes juridiques propres à chaque État membre.

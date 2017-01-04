@@ -1,0 +1,1 @@
+(75) La présente directive n'a pas pour objet d'exiger une duplication des efforts en matière de meilleure exécution dans les cas où une entreprise d'investissement qui fournit le service de réception et de transmission d'ordres ou de gestion de portefeuille transmet ses ordres pour exécution à une autre entreprise d'investissement.

@@ -1,0 +1,3 @@
+(54) En ce qui concerne les parts d'organismes de placement collectif relevant de la directive 85/611/CEE du Conseil du 20 décembre 1985 portant coordination des dispositions législatives, réglementaires et administratives concernant certains organismes de placement collectif en valeurs mobilières (OPCVM) (6), la présente directive n'a pas pour objet de réglementer le contenu du prospectus simplifié tel qu'il est défini à l'article 28 de la directive 85/611/CEE. Nulle information supplémentaire ne doit être ajoutée au prospectus simplifié du fait de l'application de la présente directive.
+
+%%% (6)  JO L 375 du 31.12.1985, p. 3. Directive modifiée en dernier lieu par la directive 2005/1/CE du Parlement européen et du Conseil (JO L 79 du 24.3.2005, p. 9).
