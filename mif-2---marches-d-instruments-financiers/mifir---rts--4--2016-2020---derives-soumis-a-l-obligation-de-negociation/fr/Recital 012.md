@@ -1,0 +1,1 @@
+(12) Pour des raisons de cohérence et de sécurité juridique, il convient que les dispositions du présent règlement et les dispositions de la directive 2014/65/UE et du règlement (UE) no 600/2014 s'appliquent à partir de la même date.
