@@ -1,0 +1,1 @@
+(2) Pour garantir que les informations communiquées soient systématiquement enregistrées même lorsque les sondages de marchés sont réalisés au cours de réunions ou de conversations téléphoniques non enregistrées, un modèle uniforme devrait être élaboré pour les comptes rendus ou les notes du participant au marché communicant sur ces réunions et conversations.
