@@ -1,0 +1,1 @@
+(10) Le règlement (CE) no 809/2004 contient des dispositions relatives à la publication du prospectus et à la diffusion de communications à caractère promotionnel. Pour éviter les doublons, il convient de supprimer certaines dispositions du règlement (CE) no 809/2004.

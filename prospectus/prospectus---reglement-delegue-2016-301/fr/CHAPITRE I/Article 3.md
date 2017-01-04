@@ -1,0 +1,10 @@
+# Article 3 - Modifications apportées au projet de prospectus
+
+
+1.   Si, après la remise du premier projet de prospectus à l'autorité compétente de l'État membre d'origine, l'émetteur, l'offreur ou la personne qui sollicite l'admission à la négociation sur un marché réglementé soumet des projets ultérieurs, ceux-ci doivent comporter un marquage mettant en évidence toutes les modifications apportées au précédent projet exempt de marquage soumis à cette autorité. Si les modifications apportées sont limitées, la remise d'extraits du projet pourvus d'un marquage montrant toutes les modifications apportées par rapport au projet précédent est jugée acceptable. Tout projet de prospectus pourvu d'un marquage mettant en évidence toutes les modifications apportées est systématiquement accompagné du même projet exempt de marquage.
+
+Si l'émetteur, l'offreur ou la personne qui sollicite l'admission à la négociation sur un marché réglementé n'est pas en mesure de respecter l'exigence énoncée au premier alinéa en raison de difficultés techniques liées au marquage du prospectus, chaque modification apportée au précédent projet de prospectus est signalée par écrit à l'autorité compétente de l'État membre d'origine.
+
+2.   Si, conformément à l'article 5, paragraphe 2, du présent règlement, l'autorité compétente de l'État membre d'origine a informé l'émetteur, l'offreur ou la personne qui sollicite l'admission à la négociation sur un marché réglementé qu'elle estime que le projet de prospectus ne satisfait pas au critère selon lequel il doit être complet et constitué d'informations cohérentes et compréhensibles, le projet remis ensuite est accompagné d'explications sur la façon dont les lacunes relevées par l'autorité compétente ont été corrigées.
+
+Si les modifications apportées à un précédent projet de prospectus n'appellent pas d'explication ou visent de toute évidence à corriger les lacunes relevées par l'autorité compétente, l'indication des endroits où ont été apportées les modifications destinées à corriger ces lacunes est jugée suffisante.

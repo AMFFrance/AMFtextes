@@ -1,0 +1,12 @@
+# Article 5 - Réception et traitement de la demande
+
+
+1.   L'autorité compétente de l'État membre d'origine accuse réception, par écrit et par voie électronique, de la demande initiale d'approbation d'un prospectus, dès que possible et au plus tard avant la clôture des activités le deuxième jour ouvrable après la réception. L'accusé de réception indique à l'émetteur, à l'offreur ou à la personne qui sollicite l'admission à la négociation sur un marché réglementé le numéro de référence de la demande d'approbation et lui indique un point de contact, au sein de l'autorité compétente, auquel peuvent être adressées les questions relatives à la demande. La date de l'accusé de réception est sans effet sur la date de présentation du projet de prospectus, au sens de l'article 13, paragraphe 2, de la directive 2003/71/CE, à compter de laquelle le délai de notification commence à courir.
+
+2.   Si l'autorité compétente de l'État membre d'origine considère, sur le fondement de motifs raisonnables, que les documents qui lui ont été remis ne sont pas complets, ou qu'un complément d'information est nécessaire, par exemple du fait d'incohérences ou du caractère incompréhensible de certaines informations, elle informe l'émetteur, l'offreur ou la personne qui sollicite l'admission à la négociation sur un marché réglementé de la nécessité de lui fournir un complément d'information, et lui en indique les raisons.
+
+3.   Si l'autorité compétente de l'État membre d'origine considère que les informations manquantes sont d'importance mineure ou que le respect des délais prime, elle peut en informer oralement l'émetteur, l'offreur ou la personne qui sollicite l'admission à la négociation, auquel cas le délai d'approbation du prospectus visé à l'article 13, paragraphe 4, de la directive 2003/71/CE n'est pas suspendu.
+
+4.   Si l'émetteur, l'offreur ou la personne qui sollicite l'admission à la négociation sur un marché réglementé ne peut ou ne souhaite pas fournir le complément d'information demandé en vertu du paragraphe 2, l'autorité compétente de l'État membre d'origine est habilitée à refuser d'approuver le prospectus et à mettre fin au processus d'examen.
+
+5.   L'autorité compétente de l'État membre d'origine informe l'émetteur, l'offreur ou la personne qui sollicite l'admission à la négociation sur un marché réglementé de sa décision quant à l'approbation du processus, par écrit et par voie électronique, le jour même de la décision. En cas de refus d'approbation du prospectus, la décision de l'autorité compétente motive son refus.

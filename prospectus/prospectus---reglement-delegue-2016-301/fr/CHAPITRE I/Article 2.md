@@ -1,0 +1,16 @@
+# Article 2 - Présentation d'une demande d'approbation
+
+
+1.   L'émetteur, l'offreur ou la personne qui sollicite l'admission à la négociation sur un marché réglementé remet tous les projets de prospectus à l'autorité compétente, par voie électronique et sous une forme électronique consultable. Un point de contact, auquel l'autorité compétente peut adresser toutes ses notifications écrites par voie électronique, lui est indiqué lors de la remise du premier projet de prospectus.
+
+2.   Lors de la remise du premier projet de prospectus à l'autorité compétente, ou pendant le processus d'examen du prospectus, l'émetteur, l'offreur ou la personne qui sollicite l'admission à la négociation sur un marché réglementé remet aussi, sous une forme électronique consultable:
+
+a) sur demande de l'autorité compétente de l'État membre d'origine en vertu de l'article 25, paragraphe 4, du règlement (CE) no 809/2004, ou de sa propre initiative, un tableau de correspondances indiquant également tout élément visé aux annexes I à XXX du règlement (CE) no 809/2004 qui n'a pas été inclus dans le prospectus parce qu'il n'était pas applicable en raison de la nature de l'émetteur, de l'offreur ou de la personne sollicitant l'admission à la négociation, ou de la nature des valeurs mobilières offertes au public ou admises à la négociation. Si aucun tableau de correspondances n'est remis et si les éléments du projet de prospectus ne sont pas présentés dans le même ordre que les informations prévues aux annexes du règlement (CE) no 809/2004, le projet de prospectus comporte des annotations en marge qui indiquent quelles sections du prospectus correspondent aux exigences d'information en question. Tout prospectus annoté en marge est accompagné d'un document indiquant tous les éléments visés aux annexes pertinentes du règlement (CE) no 809/2004 qui n'ont pas été inclus dans le prospectus parce qu'ils n'étaient pas applicables en raison de la nature de l'émetteur, de l'offreur ou de la personne sollicitant l'admission à la négociation, ou de la nature des valeurs mobilières offertes au public ou admises à la négociation;
+
+b) si l'émetteur, l'offreur ou la personne qui sollicite l'admission à la négociation sur un marché réglementé demande à l'autorité compétente de l'État membre d'origine d'autoriser l'omission d'informations dans le prospectus conformément à l'article 8, paragraphe 2, de la directive 2003/71/CE, une demande motivée à cet effet;
+
+c) si l'émetteur, l'offreur ou la personne qui sollicite l'admission à la négociation sur un marché réglementé demande à l'autorité compétente de l'État membre d'origine de remettre à l'autorité compétente d'un État membre d'accueil, après approbation du prospectus, un certificat d'approbation conformément à l'article 18, paragraphe 1, de la directive 2003/71/CE, une demande à cet effet;
+
+d) toute information incluse par référence dans le prospectus, sauf si cette information a déjà été approuvée par la même autorité compétente ou déposée auprès de celle-ci conformément à l'article 11 de la directive 2003/71/CE;
+
+e) toute autre information dont l'autorité compétente de l'État membre d'origine, sur le fondement de motifs raisonnables, estime avoir besoin pour son examen et qu'elle réclame expressément à cette fin.
