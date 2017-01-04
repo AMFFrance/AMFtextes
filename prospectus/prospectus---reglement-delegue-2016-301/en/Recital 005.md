@@ -1,0 +1,3 @@
+(5) Where disclosure items contained in the relevant annexes to Commission Regulation (EC) No 809/2004 (2) are not applicable or, given the nature of the issue or issuer, are not relevant in the case of a specific prospectus, those disclosure items should be identified to the national competent authority in order to minimise any delays in the review process.
+
+%%% (2)  Commission Regulation (EC) No 809/2004 of 29 April 2004 implementing Directive 2003/71/EC of the European Parliament and of the Council as regards information contained in prospectuses as well as the format, incorporation by reference and publication of such prospectuses and dissemination of advertisements (OJ L 149, 30.4.2004, p. 1).

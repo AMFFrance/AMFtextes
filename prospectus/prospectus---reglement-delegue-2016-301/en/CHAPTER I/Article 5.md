@@ -1,0 +1,12 @@
+# Article 5 - Receipt and processing of the application
+
+
+1.   The competent authority of the home Member State shall acknowledge receipt of the initial application for approval of a prospectus in writing via electronic means as soon as possible and no later than by close of business on the second working day following the receipt. The acknowledgement shall inform the issuer, offerer or person asking for admission to trading on a regulated market of any reference number of the application for approval and of the contact point within the competent authority to which queries regarding the application may be addressed. The date of acknowledgement shall not affect the date of submission of the draft prospectus, within the meaning of Article 13(2) of Directive 2003/71/EC, from which the time limits for notifications commence.
+
+2.   Where the competent authority of the home Member State considers, on reasonable grounds, that the documents submitted to it are incomplete or that supplementary information is needed, for instance due to inconsistencies or incomprehensibility of certain information provided, it shall notify the issuer, offerer or person asking for admission to trading of the need for supplementary information and the reasons therefor, in writing, via electronic means.
+
+3.   Where the competent authority of the home Member State considers the incompleteness to be of a minor nature or timing to be of utmost importance, the competent authority may notify the issuer, offerer or person asking for admission to trading orally, in which case there shall be no interruption of the time limits for approval of the prospectus as referred to in Article 13(4) of Directive 2003/71/EC..
+
+4.   Where the issuer, offerer or person asking for admission to trading on a regulated market is unable or unwilling to provide the supplementary information requested in accordance with paragraph 2, the competent authority of the home Member State shall be entitled to refuse the approval of the prospectus and terminate the review process.
+
+5.   The competent authority of the home Member State shall notify the issuer, offerer or person asking for admission to trading on a regulated market of its decision regarding the approval of the prospectus in writing, via electronic means, on the day of the decision. In the case of a refusal to approve the prospectus, the decision of the competent authority shall contain the reasons for such refusal.

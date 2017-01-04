@@ -1,0 +1,1 @@
+(6) To ensure an efficient use of resources, where it becomes evident to the national competent authority that the issuer, offerer or person asking for admission to trading is not in a position to comply with the requirements of the prospectus regime, the national competent authority should have the right to terminate the review process without approving the prospectus.

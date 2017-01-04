@@ -1,0 +1,1 @@
+(10) Regulation (EC) No 809/2004 contains provisions regarding publication of the prospectus and dissemination of advertisements. To avoid duplication of requirements, certain provisions of Regulation (EC) No 809/2004 should be deleted.
