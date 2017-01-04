@@ -1,0 +1,1 @@
+(5) La liste d'initiés devrait en principe contenir des données à caractère personnel qui facilitent l'identification des initiés. Ces informations devraient notamment être la date de naissance, l'adresse privée et, le cas échéant, le numéro d'identification national des personnes concernées.
