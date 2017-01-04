@@ -1,0 +1,1 @@
+(90) Les exigences s’appliquant à la délégation de l’exercice de fonctions pour le compte du gestionnaire doivent s’appliquer mutatis mutandis lorsque le délégataire sous-délègue des fonctions qui lui ont été déléguées ainsi que pour tout niveau ultérieur de sous-délégation.

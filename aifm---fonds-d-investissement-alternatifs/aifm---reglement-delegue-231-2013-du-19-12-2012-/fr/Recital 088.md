@@ -1,0 +1,1 @@
+(88) Selon les obligations prévues par la directive 2011/61/UE, les gestionnaires doivent toujours agir dans l’intérêt des FIA ou des investisseurs des FIA qu’ils gèrent. Par conséquent, la délégation ne doit pouvoir être admise que si elle n’empêche pas le gestionnaire d’agir ou de gérer le FIA dans l’intérêt des investisseurs.

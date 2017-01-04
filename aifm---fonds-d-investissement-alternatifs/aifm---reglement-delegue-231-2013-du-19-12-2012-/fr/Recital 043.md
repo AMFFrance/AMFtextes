@@ -1,0 +1,1 @@
+(43) Pour garantir une exécution adéquate des activités, les gestionnaires doivent employer un personnel possédant les compétences, les connaissances et l’expertise nécessaires pour s’acquitter des tâches qui lui sont confiées.

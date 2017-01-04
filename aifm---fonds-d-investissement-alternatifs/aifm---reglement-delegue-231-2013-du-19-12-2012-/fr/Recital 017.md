@@ -1,0 +1,1 @@
+(17) Lors du calcul de l’exposition selon la méthode de l’engagement, les gestionnaires doivent être autorisés à prendre en compte les dispositions de couverture et de compensation si ces dernières répondent aux critères relatifs à la méthode de l’engagement.

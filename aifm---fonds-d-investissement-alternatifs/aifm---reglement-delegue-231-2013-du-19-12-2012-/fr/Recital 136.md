@@ -1,0 +1,1 @@
+(136) Pour permettre aux autorités compétentes, aux gestionnaires et aux dépositaires de s’adapter aux nouvelles exigences contenues dans le présent règlement afin que ces dernières puissent être appliquées de manière effective et efficace, la date d’entrée en vigueur dudit règlement doit correspondre à la date de transposition de la directive 2011/61/UE,

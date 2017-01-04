@@ -1,0 +1,1 @@
+(129) Pour pouvoir assurer la gestion de la liquidité, les gestionnaires doivent être autorisés à conclure des accords d’emprunt pour le compte des FIA qu’ils gèrent. Il peut s’agir d’accords à court terme ou à caractère plus permanent. Dans ce dernier cas, il est probable qu’un tel accord corresponde à un traitement spécial aux fins de la gestion des actifs illiquides.

@@ -1,0 +1,1 @@
+(130) Conformément au principe de différentiation et pour tenir compte de la diversité des types de FIA, la communication d’informations aux investisseurs requise de la part d’un gestionnaire doit dépendre du type de FIA ainsi que d’autres facteurs, tels que sa stratégie d’investissement et la composition de son portefeuille.

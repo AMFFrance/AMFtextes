@@ -1,0 +1,1 @@
+(25) Une stratégie qui vise à couvrir une position longue sur une action ou sur une obligation en achetant une protection contre le risque de crédit relative au même émetteur porte sur deux classes d’actifs différentes et ne doit donc pas être considérée comme une disposition de couverture.

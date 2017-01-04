@@ -1,0 +1,1 @@
+(11) Pour garantir une application uniforme de l’obligation faite aux gestionnaires de fournir un aperçu objectif de l’effet de levier employé, il est nécessaire de prévoir deux méthodes de calcul de l’effet de levier. Des études de marché ont montré que les meilleurs résultats étaient obtenus en associant la méthode dite «brute» à celle dite «de l’engagement».

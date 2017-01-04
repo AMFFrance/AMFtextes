@@ -1,0 +1,1 @@
+(97) Pour que le dépositaire puisse avoir en toutes situations une vue d’ensemble de tous les flux de liquidités entrants et sortants du FIA, le gestionnaire doit s’assurer que celui-ci reçoive dans les meilleurs délais des informations exactes concernant tous les flux de liquidités, notamment de la part de tiers auprès desquels un compte de liquidités du FIA est ouvert.

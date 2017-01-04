@@ -1,0 +1,4 @@
+# Article 87 - Obligations liées aux souscriptions
+
+
+Le gestionnaire veille à ce que le dépositaire reçoive les informations relatives aux paiements effectués par les investisseurs ou pour leur compte lors de la souscription de parts ou d’actions d’un FIA à la clôture de chaque jour ouvrable lors duquel le gestionnaire, le FIA ou tout tiers agissant pour son compte, par exemple un agent de transfert, reçoit de tels paiements ou un ordre d’un investisseur. Le gestionnaire veille à ce que le dépositaire reçoive toutes les autres informations pertinentes dont il a besoin pour s’assurer que les paiements sont ensuite comptabilisés sur des comptes de liquidités ouverts au nom du FIA, au nom du gestionnaire pour le compte du FIA ou au nom du dépositaire, conformément aux dispositions de l’article 21, paragraphe 7, de la directive 2011/61/UE.

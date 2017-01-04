@@ -1,0 +1,1 @@
+(5) La valeur totale des actifs gérés doit être calculée au moins une fois par an et à partir d’informations à jour. La valeur des actifs doit par conséquent être déterminée au cours des douze mois précédant la date du calcul de la valeur totale des actifs gérés, et à un moment aussi proche que possible de ladite date.

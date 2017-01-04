@@ -1,0 +1,1 @@
+(50) Il est essentiel de prévoir un cadre général selon lequel les conflits d’intérêts éventuels doivent être gérés et communiqués. Les mesures et procédures à suivre dans de telles situations doivent être clairement indiquées dans la politique en matière de conflits d’intérêts établie par le gestionnaire.

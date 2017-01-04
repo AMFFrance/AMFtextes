@@ -1,0 +1,1 @@
+(14) Les accords d’emprunt contractés par le FIA ne doivent pas être pris en considération s’ils revêtent un caractère temporaire et s’ils sont en rapport avec des promesses d’apport de capitaux de la part d’investisseurs et sont entièrement couverts par ces dernières. Les lignes de crédit renouvelable ne doivent pas être considérées comme revêtant un caractère temporaire.

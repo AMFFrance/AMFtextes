@@ -1,0 +1,3 @@
+(49) Conformément à l’approche suivie pour les sociétés de gestion d’OPCVM dans la directive 2009/65/CE du Parlement européen et du Conseil du 13 juillet 2009 portant coordination des dispositions législatives, réglementaires et administratives concernant certains organismes de placement collectif en valeurs mobilières (OPCVM) (5) et pour les entreprises d’investissement dans la directive 2004/39/CE, les gestionnaires doivent adopter des procédures et des mesures garantissant que les personnes se livrant à différentes activités commerciales susceptibles de comporter des conflits d’intérêts exercent lesdites activités à un niveau indépendant, adapté à la taille et aux activités du gestionnaire.
+
+%%% (5)  JO L 302 du 17.11.2009, p. 32.
