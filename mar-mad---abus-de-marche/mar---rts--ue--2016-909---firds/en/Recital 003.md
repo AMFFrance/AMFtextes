@@ -1,0 +1,1 @@
+(3) The list of notifications of financial instruments should be published by ESMA in an electronic, machine-readable and downloadable form in order to facilitate efficient use and exchange of the data.
