@@ -1,0 +1,1 @@
+(6) New series of benchmarks are released on a periodic basis, such as credit default swaps benchmarks. In those cases, the newly released benchmark is a continuation of the previous series and should therefore not be considered a new benchmark.

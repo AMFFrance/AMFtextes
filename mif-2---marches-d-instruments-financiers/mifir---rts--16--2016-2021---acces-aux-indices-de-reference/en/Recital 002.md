@@ -1,0 +1,1 @@
+(2) The diversity of benchmarks and the different uses identified render a one size fits all approach inappropriate and a high degree of harmonisation on the content of licence agreements unsuitable. Limiting the conditions under which access is granted on predetermined and exhaustive terms might therefore be detrimental to all parties.
