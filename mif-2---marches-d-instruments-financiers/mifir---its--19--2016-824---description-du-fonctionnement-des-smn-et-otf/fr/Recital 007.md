@@ -1,0 +1,1 @@
+(7) Pour faciliter la publication par l'Autorité européenne des marchés financiers (AEMF) de la liste de tous les MTF et OTF de l'Union, accompagnée d'informations sur les services qu'ils fournissent et des codes uniques qui les identifient, un modèle standard devrait être utilisé pour la fourniture de ces informations.

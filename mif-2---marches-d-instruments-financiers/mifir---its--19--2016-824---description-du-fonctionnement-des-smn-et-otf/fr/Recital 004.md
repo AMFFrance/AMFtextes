@@ -1,0 +1,1 @@
+(4) Étant donné que les marchés de croissance des petites et moyennes entreprises (PME) sont distingués des autres MTF en ce sens qu'ils sont soumis à des règles supplémentaires au titre de la directive 2014/65/UE, il est nécessaire que lesdits marchés fournissent des informations supplémentaires.

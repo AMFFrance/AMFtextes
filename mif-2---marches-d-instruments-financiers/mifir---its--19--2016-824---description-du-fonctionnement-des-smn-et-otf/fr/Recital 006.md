@@ -1,0 +1,1 @@
+(6) Les informations requises devraient être fournies sous un format électronique, afin de permettre leur traitement efficient.

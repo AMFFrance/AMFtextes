@@ -1,0 +1,1 @@
+(1) Il importe de reconnaître que les autorités compétentes ont besoin d'informations complètes sur la finalité, la structure et l'organisation des systèmes multilatéraux de négociation (MTF) et des systèmes organisés de négociation (OTF) qu'elles seront tenues de surveiller afin d'assurer le fonctionnement efficace et ordonné des marchés financiers.

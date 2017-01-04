@@ -1,0 +1,1 @@
+(5) Étant donné que les OTF sont distingués des MTF en ce sens que le processus de négociation peut impliquer le recours à des règles discrétionnaires par l'opérateur de marché, et parce que l'opérateur d'un OTF sera responsable devant les utilisateurs du système, il convient que les OTF fournissent des informations supplémentaires.
