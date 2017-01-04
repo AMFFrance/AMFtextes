@@ -1,0 +1,1 @@
+(64) For the purposes of the provisions on reporting to clients, a reference to the type of the order should be understood as referring to its status as a limit order, market order, or other specific type of order.

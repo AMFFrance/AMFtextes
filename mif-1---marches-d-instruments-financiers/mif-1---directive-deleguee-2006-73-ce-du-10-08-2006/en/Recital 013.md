@@ -1,0 +1,1 @@
+(13) The organisational requirements established under Directive 2004/39/EC are without prejudice to systems established by national law for the registration of individuals working within investment firms.

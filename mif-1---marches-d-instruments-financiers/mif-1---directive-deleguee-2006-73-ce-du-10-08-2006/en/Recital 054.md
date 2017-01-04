@@ -1,0 +1,3 @@
+(54) As regards collective investment undertakings covered by Council Directive 85/611/EEC of 20 December 1985 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) (6), it is not the purpose of this Directive to regulate the content of the simplified prospectus as defined by Article 28 of Directive 85/611/EEC. No information should be added to the simplified prospectus as a result of the implementation of this Directive.
+
+%%% (6)  OJ L 375, 31.12.1985, p. 3. Directive as last amended by Directive 2005/1/EC of the European Parliament and of the Council (OJ L 79, 24.3.2005, p. 9).

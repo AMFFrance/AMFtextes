@@ -1,0 +1,3 @@
+(38) Requirements imposed by this Directive, including those relating to personal transactions, to dealing with knowledge of investment research and to the production or dissemination of investment research, apply without prejudice to other requirements of Directive 2004/39/EC and Directive 2003/6/EC of the European parliament and of the Council of 28 January 2003 on insider dealing and market manipulation (market abuse) (4) and their respective implementing measures.
+
+%%% (4)  OJ L 96, 12.4.2003, p. 16.

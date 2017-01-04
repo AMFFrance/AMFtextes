@@ -1,0 +1,1 @@
+(34) Current recommendations should be considered to be those recommendations contained in investment research which have not been withdrawn and which have not lapsed.

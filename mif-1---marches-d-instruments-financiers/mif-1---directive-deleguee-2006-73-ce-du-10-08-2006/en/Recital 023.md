@@ -1,0 +1,1 @@
+(23) Where an investment firm deposits funds it holds on behalf of a client with a qualifying money market fund, the units in that money market fund should be held in accordance with the requirements for holding financial instruments belonging to clients.

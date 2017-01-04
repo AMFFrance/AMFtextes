@@ -1,0 +1,1 @@
+(50) In cases where an investment firm is required to provide information to a client before the provision of a service, each transaction in respect of the same type of financial instrument should not be considered as the provision of a new or different service.

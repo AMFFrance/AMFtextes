@@ -1,0 +1,1 @@
+(47) For the purposes of Directive 2004/39/EC and of this Directive, information should be considered to be misleading if it has a tendency to mislead the person or persons to whom it is addressed or by whom it is likely to be received, whether or not the person who provides the information considers or intends it to be misleading.

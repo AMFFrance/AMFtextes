@@ -1,0 +1,1 @@
+(9) Any additional requirements retained or imposed by Member States in conformity with this Directive must not restrict or otherwise affect the rights of investment firms under Articles 31 and 32 of Directive 2004/39/EC.

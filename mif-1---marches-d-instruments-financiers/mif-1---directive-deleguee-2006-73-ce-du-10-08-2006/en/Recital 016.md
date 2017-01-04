@@ -1,0 +1,3 @@
+(16) A number of the provisions of Directive 2004/39/EC require investment firms to collect and maintain information relating to clients and services provided to clients. Where those requirements involve the collection and processing of personal data, firms should ensure that they comply with national measures implementing Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 (2) on the protection of individuals with regard to the processing of personal data and on the free movement of such data.
+
+%%% (2)  OJ L 281, 23.11.1995, p. 31. Directive as amended by Regulation (EC) No 1882/2003 (OJ L 284, 31.10.2003, p. 1).

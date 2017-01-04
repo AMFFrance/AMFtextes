@@ -1,0 +1,3 @@
+(52) The provision by an investment firm to a client of a copy of a prospectus that has been drawn up and published in accordance with Directive 2003/71/EC of the European Parliament and of the Council of 4 November 2003 on the prospectus to be published when securities are offered to the public or admitted to trading (5) should not be treated as the provision by the firm of information to a client for the purposes of the operating conditions under Directive 2004/39/EC which relate to the quality and contents of such information, if the firm is not responsible under that directive for the information given in the prospectus.
+
+%%% (5)  OJ L 345, 31.12.2003, p. 64.

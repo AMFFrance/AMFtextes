@@ -1,0 +1,1 @@
+(40) This Directive permits investment firms to give or receive certain inducements only subject to specific conditions, and provided they are disclosed to the client, or are given to or by the client or a person on behalf of the client.

@@ -1,0 +1,1 @@
+(35) The same requirements should apply to the substantial alteration of investment research produced by a third party as apply to the production of research.

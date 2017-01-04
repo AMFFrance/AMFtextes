@@ -1,0 +1,1 @@
+(74) The provisions of this Directive as to execution policy are without prejudice to the general obligation of an investment firm under Article 21(4) of Directive 2004/39/EC to monitor the effectiveness of its order execution arrangements and policy and assess the venues in its execution policy on a regular basis.

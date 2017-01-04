@@ -1,0 +1,1 @@
+(55) The simplified prospectus provides, notably, sufficient information in relation to the costs and associated charges in respect to the UCITS itself. However, investment firms distributing units in UCITS should additionally inform their clients about all the other costs and associated charges related to their provision of investment services in relation to units in UCITS.

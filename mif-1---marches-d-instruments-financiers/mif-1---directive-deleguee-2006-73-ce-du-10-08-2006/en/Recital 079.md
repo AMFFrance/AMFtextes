@@ -1,0 +1,1 @@
+(79) Advice about financial instruments given in a newspaper, journal, magazine or any other publication addressed to the general public (including by means of the internet), or in any television or radio broadcast, should not be considered as a personal recommendation for the purposes of the definition of ‘investment advice’ in Directive 2004/39/EC.

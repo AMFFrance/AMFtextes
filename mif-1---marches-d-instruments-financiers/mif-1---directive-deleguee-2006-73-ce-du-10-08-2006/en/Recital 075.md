@@ -1,0 +1,1 @@
+(75) This Directive is not intended to require a duplication of effort as to best execution between an investment firm which provides the service of reception and transmission of order or portfolio management and any investment firm to which that investment firm transmits its orders for execution.

@@ -1,0 +1,1 @@
+(56) It is necessary to make different provision for the application of the suitability test in Article 19(4) of Directive 2004/39/EC and the appropriateness test in Article 19(5) of that Directive. These tests have different scope with regards to the investment services to which they relate, and have different functions and characteristics.

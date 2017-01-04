@@ -1,0 +1,3 @@
+(28) Investment research should be a sub-category of the type of information defined as a recommendation in Commission Directive 2003/125/EC of 22 December 2003 implementing Directive 2003/6/EC of the European Parliament and of the Council as regards the fair presentation of investment recommendations and the disclosure of conflicts of interest (3), but it applies to financial instruments as defined in Directive 2004/39/EC. Recommendations, of the type so defined, which do not constitute investment research as defined in this Directive are nevertheless subject to the provisions of Directive 2003/125/EC as to the fair presentation of investment recommendations and the disclosure of conflicts of interest.
+
+%%% (3)  OJ L 339, 24.12.2003, p. 73.

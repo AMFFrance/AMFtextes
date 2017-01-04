@@ -1,0 +1,1 @@
+(42) This Directive sets out requirements for marketing communications only with respect to the obligation in Article 19(2) of Directive 2004/39/EC that information addressed to clients, including marketing communications, should be fair, clear and not misleading.

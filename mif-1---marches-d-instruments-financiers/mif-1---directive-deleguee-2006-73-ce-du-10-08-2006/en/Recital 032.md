@@ -1,0 +1,1 @@
+(32) Small gifts or minor hospitality below a level specified in the firm's conflicts of interest policy and mentioned in the summary description of that policy that is made available to clients should not be considered as inducements for the purposes of the provisions relating to investment research.

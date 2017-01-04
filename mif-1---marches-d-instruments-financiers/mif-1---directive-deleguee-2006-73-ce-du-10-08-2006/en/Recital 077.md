@@ -1,0 +1,1 @@
+(77) For the purposes of the provisions of this Directive concerning client order handling, the reallocation of transactions should be considered as detrimental to a client if, as an effect of that reallocation, unfair precedence is given to the investment firm or to any particular client.
