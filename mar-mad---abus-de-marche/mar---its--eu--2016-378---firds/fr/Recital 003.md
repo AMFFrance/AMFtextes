@@ -1,0 +1,1 @@
+(3) En vue de permettre l'utilisation efficace et efficiente des données par les autorités compétentes, il convient de veiller à la cohérence des modèles et des formats utilisés pour les notifications d'instruments financiers. Le respect, en ce qui concerne les informations détaillées à fournir dans ces notifications, des normes internationales applicables sert ces objectifs.

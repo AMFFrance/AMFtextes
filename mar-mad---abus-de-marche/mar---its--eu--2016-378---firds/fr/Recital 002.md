@@ -1,0 +1,1 @@
+(2) Afin d'être en mesure, dans un souci d'intégrité du marché, de garantir la qualité des données et l'efficacité de la surveillance du marché, les autorités compétentes et l'Autorité européenne des marchés financiers (AEMF) devraient pouvoir recevoir rapidement des notifications complètes pour chaque journée de négociation.

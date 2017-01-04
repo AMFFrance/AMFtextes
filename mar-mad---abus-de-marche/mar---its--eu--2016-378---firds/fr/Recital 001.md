@@ -1,0 +1,3 @@
+(1) Afin de garantir la cohérence des obligations déclaratives et de réduire les contraintes administratives pour les entités soumises à ces obligations, il convient d'aligner les obligations déclaratives prévues par le présent règlement avec celles prévues par le règlement délégué de la Commission devant être adopté en vertu de l'article 27, paragraphe 3, troisième alinéa, du règlement délégué (UE) no 600/2014 du Parlement européen et du Conseil (2).
+
+%%% (2)  Règlement délégué (UE) no 600/2014 du Parlement européen et du Conseil du 15 mai 2014 concernant les marchés d'instruments financiers et modifiant le règlement (UE) no 648/2012 (JO L 173 du 12.6.2014, p. 84).
