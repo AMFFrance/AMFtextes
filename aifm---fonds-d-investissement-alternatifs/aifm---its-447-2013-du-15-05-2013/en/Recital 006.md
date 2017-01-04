@@ -1,0 +1,1 @@
+(6) Directive 2011/61/EU obliges Member States to apply the laws, regulations and administrative provisions which transpose that Directive from 22 July 2013. The application of this Regulation is therefore also deferred to the same date.

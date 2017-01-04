@@ -1,0 +1,1 @@
+(4) Competent authorities should examine the request to opt in and grant authorisation to that effect under the same conditions and following the same procedure as in the case of AIFMs with assets under management above the relevant thresholds provided in Article 3(2) of Directive 2011/61/EU.
