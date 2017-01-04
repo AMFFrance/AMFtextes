@@ -1,0 +1,1 @@
+(1) In order to foster efficiency in the process of notifying managers' transactions and provide comparable information to the public, it is appropriate to lay down uniform rules regarding how the information requested is to be notified and made public through a single template.
