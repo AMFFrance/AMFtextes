@@ -1,0 +1,1 @@
+(6) La directive 2011/61/UE oblige les États membres à appliquer les dispositions législatives, réglementaires et administratives qui transposent la directive à partir du 22 juillet 2013. L’application du présent règlement est donc également reportée à cette même date.

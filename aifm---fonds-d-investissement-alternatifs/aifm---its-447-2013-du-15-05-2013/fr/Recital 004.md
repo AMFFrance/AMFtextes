@@ -1,0 +1,1 @@
+(4) Les autorités compétentes devraient examiner les demandes présentées dans le cadre de la démarche volontaire et accorder à cette fin des agréments aux mêmes conditions et selon la même procédure que celles applicables aux gestionnaires de FIA dont les actifs gérés sont supérieurs aux seuils pertinents prévus à l’article 3, paragraphe 2, de la directive 2011/61/UE.
