@@ -1,0 +1,3 @@
+(20) L'admission à la négociation sur un marché réglementé de parts d'organismes de placement collectif en valeurs mobilières ne devrait pas permettre de contourner les dispositions pertinentes de la directive 85/611/CEE du Conseil du 20 décembre 1985 portant coordination des dispositions législatives, réglementaires et administratives concernant certains organismes de placement collectif en valeurs mobilières (OPCVM) (3), et notamment ses articles 44 à 48.
+
+%%% (3)  JO L 375 du 31.12.1985, p. 3. Directive modifiée en dernier lieu par la directive 2005/1/CE du Parlement européen et du Conseil (JO L 79 du 24.3.2005, p. 9).

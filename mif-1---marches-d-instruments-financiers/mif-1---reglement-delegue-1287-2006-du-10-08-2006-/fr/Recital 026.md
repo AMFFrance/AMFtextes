@@ -1,0 +1,1 @@
+(26) La notion de «matière première» ne devrait pas englober les services ou autres éléments qui ne sont pas des biens, tels que les monnaies ou les droits immobiliers, ou qui sont totalement incorporels.

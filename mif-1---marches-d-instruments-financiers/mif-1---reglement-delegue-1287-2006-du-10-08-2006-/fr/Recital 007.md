@@ -1,0 +1,1 @@
+(7) Il n'est pas nécessaire à ce stade de préciser ou de prescrire en détail le type, la nature et le degré de complexité des dispositifs d'échange d'informations entre autorités compétentes.

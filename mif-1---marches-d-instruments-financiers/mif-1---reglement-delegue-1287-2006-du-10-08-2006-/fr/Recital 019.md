@@ -1,0 +1,3 @@
+(19) Aux fins des dispositions du présent règlement concernant l'admission à la négociation, sur un marché réglementé, d'une valeur mobilière définie à l'article 4, paragraphe 1, point 18 c), de la directive 2004/39/CE, dans le cas d'une valeur au sens de la directive 2003/71/CE du Parlement européen et du Conseil du 4 novembre 2003 concernant le prospectus à publier en cas d'offre au public de valeurs mobilières ou en vue de l'admission de valeurs mobilières à la négociation, et modifiant la directive 2001/34/CE (2), il faudrait envisager de rendre publiques suffisamment d'informations nécessaires pour évaluer cet instrument financier.
+
+%%% (2)  JO L 345 du 31.12.2003, p. 64.

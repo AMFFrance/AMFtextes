@@ -1,0 +1,1 @@
+(17) L'obligation de rendre publics certains prix proposés, ordres ou transactions telle qu'elle découle des articles 27, 28, 29, 30, 44 et 45 de la directive 2004/39/CE et du présent règlement ne devrait pas empêcher les marchés réglementés et les MTF d'exiger de leurs membres ou participants qu'ils rendent publiques d'autres informations de ce type.

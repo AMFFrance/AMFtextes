@@ -1,0 +1,1 @@
+(10) Il convient de définir les critères déterminant le moment où les activités d'un marché réglementé revêtent une importance considérable dans un État membre d'accueil, ainsi que les conséquences de cet état de fait, de façon à éviter à un marché réglementé de devoir s'adresser ou en référer à plusieurs autorités compétentes dans des cas où il n'en serait autrement pas ainsi.
