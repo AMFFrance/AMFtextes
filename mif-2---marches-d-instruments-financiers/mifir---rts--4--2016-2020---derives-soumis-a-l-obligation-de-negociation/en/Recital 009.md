@@ -1,0 +1,1 @@
+(9) In its assessment, ESMA should remove from its calculations those trades which are clearly identifiable as post-trade risk reduction trades which reduce non-market risks in derivatives portfolios. To include such transactions in the assessment for the trading obligation may otherwise result in an inflated view of the level of third party buying and selling interest.

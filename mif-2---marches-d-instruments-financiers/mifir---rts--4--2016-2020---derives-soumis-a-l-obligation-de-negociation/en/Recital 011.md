@@ -1,0 +1,1 @@
+(11) Criteria should also be set out to enable ESMA to determine whether an existing trading obligation for a class of derivatives or a relevant subset thereof should be amended, suspended or revoked, unless the class of derivatives or a relevant subset thereof is no longer traded on at least one trading venue.

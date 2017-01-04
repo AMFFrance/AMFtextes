@@ -1,0 +1,1 @@
+(12) For reasons of consistency and legal certainty, it is necessary that the provisions of this Regulation and the provisions laid down in Directive 2014/65/EU and Regulation (EU) No 600/2014 apply from the same date.
