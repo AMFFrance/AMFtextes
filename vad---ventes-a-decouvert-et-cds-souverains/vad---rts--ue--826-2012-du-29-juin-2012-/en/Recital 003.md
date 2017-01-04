@@ -1,0 +1,1 @@
+(3) To ensure the proper identification of the position holders, notification should, where available, include a code that can complement the name of the position holder. Until a single, robust and publicly recognised global legal entity identifier is available, it is necessary to rely on existing codes that some position holders may have, such as the Bank Identifier Code.

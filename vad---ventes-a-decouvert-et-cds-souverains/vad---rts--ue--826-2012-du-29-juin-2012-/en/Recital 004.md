@@ -1,0 +1,3 @@
+(4) For the purpose of carrying out its duties under this Regulation and under Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority) (2), ESMA is to be provided with information by competent authorities on a quarterly basis in relation to notification of net short positions on shares, sovereign debt and uncovered sovereign credit default swaps, as well as with additional information on net short positions upon its request.
+
+%%% (2)  OJ L 331, 15.12.2010, p. 84.

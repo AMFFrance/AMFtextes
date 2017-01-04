@@ -1,0 +1,1 @@
+(10) This Regulation is based on the draft regulatory technical standards submitted by ESMA to the Commission.
