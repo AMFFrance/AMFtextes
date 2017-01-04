@@ -1,0 +1,1 @@
+(7) In light of the crucial importance of EURIBOR for credit loans and mortgages in the Union this Regulation should enter into force as a matter of urgency.

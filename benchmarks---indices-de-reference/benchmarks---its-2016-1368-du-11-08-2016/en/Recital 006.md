@@ -1,0 +1,1 @@
+(6) Therefore, the value of financial instruments and financial contracts using that benchmark in the Union exceeds the threshold of EUR 500 billion by far.
