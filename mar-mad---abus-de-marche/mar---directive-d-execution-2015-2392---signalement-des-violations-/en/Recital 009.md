@@ -1,0 +1,3 @@
+(9) Member States should ensure the adequate record-keeping of all reports of infringement and that every report is retrievable within the competent authority and that information received through reports could be used as evidence in enforcement actions where appropriate. Member States should ensure the compliance with Directive 95/46/EC of the European Parliament and of the Council (2) and national legislation transposing Directive 95/46/EC.
+
+%%% (2)  OJ L 281, 23.11.1995, p. 31.
