@@ -1,0 +1,1 @@
+(2) In order to enable the competent authorities and the European Securities and Markets Authority (ESMA) to ensure data quality and effective market monitoring, for the benefit of market integrity, the competent authorities and ESMA should be able to promptly receive complete notifications in respect of each trading day.
