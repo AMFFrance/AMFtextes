@@ -1,0 +1,1 @@
+(4) Pour assurer la diffusion de ces informations auprès du marché, il devrait aussi être possible, outre cette publication sur un site internet central exploité ou supervisé par une autorité compétente, de mettre les détails d'une position courte nette à la disposition du public par d'autres moyens.

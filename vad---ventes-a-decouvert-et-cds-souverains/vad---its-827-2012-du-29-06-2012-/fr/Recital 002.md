@@ -1,0 +1,1 @@
+(2) Pour assurer l'application uniforme du règlement (UE) no 236/2012 en ce qui concerne les informations que les autorités compétentes doivent fournir à l’AEMF, ainsi qu'un traitement efficace de ces informations, celles-ci doivent être transmises par des moyens électroniques sûrs et sous un format standard.

@@ -1,0 +1,1 @@
+(9) Aux fins de la définition des arrangements de confirmation à durée limitée, il est important que la période pendant laquelle une vente à découvert peut être couverte par des achats soit définie de manière compatible avec les différents cycles de règlement des différentes juridictions.
