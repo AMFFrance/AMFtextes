@@ -1,0 +1,1 @@
+(14) Furthermore, the annual carbon dioxide equivalent threshold and the rated thermal input threshold should be taken into consideration cumulatively in order for the requirement not to apply. Therefore, exceeding one of the two thresholds should be sufficient for the disclosure obligations under Article 17(2) of Regulation (EU) No 596/2014 to apply.

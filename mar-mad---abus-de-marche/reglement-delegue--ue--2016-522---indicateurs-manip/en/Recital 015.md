@@ -1,0 +1,1 @@
+(15) To enhance the integrity of the market while avoiding excessive disclosure, it is appropriate to set the minimum thresholds at a level which exempts companies which are unlikely to hold inside information.

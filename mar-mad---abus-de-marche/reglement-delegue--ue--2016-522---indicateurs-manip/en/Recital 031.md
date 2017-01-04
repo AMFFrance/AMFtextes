@@ -1,0 +1,1 @@
+(31) The relevant provisions and empowerments set out in Regulation (EU) No 596/2014 only begin to apply from 3 July 2016. Therefore, it is important that the rules laid down in this Regulation also apply from the same date.

@@ -1,0 +1,1 @@
+(29) Since the scope of the transactions to be covered under the empowerment of Article 19(14) of Regulation (EU) No 596/2014 is broad and cannot be limited to only the three types of transactions explicitly listed in Article 19(7) of that Regulation, it is appropriate to identify a broad non-exhaustive list of particular types of transactions that should be notified.
