@@ -1,0 +1,1 @@
+(11) ISO 10962 (Classification of financial instruments code) is an example of a uniform internationally accepted standard for financial instrument classification.

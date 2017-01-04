@@ -1,0 +1,3 @@
+(19) For the purposes of the provisions of this Regulation as to the admission to trading on a regulated market of a transferable security as defined in Article 4(1)(18)(c) of Directive 2004/39/EC, in the case of a security within the meaning of Directive 2003/71/EC of the European Parliament and of the Council of 4 November 2003 on the prospectus to be published when securities are offered to the public or admitted to trading and amending Directive 2001/34/EC (2), there should be considered to be sufficient information publicly available of a kind needed to value that financial instrument.
+
+%%% (2)  OJ L 345, 31.12.2003, p. 64.

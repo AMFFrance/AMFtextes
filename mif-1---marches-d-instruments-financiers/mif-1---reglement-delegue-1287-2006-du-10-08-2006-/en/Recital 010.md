@@ -1,0 +1,1 @@
+(10) It is appropriate to set the criteria for determining when the operations of a regulated market are of substantial importance in a host Member State and the consequences of that status in such a way as to avoid creating an obligation on a regulated market to deal with or be made subject to more than one competent authority where otherwise there would be no such obligation.

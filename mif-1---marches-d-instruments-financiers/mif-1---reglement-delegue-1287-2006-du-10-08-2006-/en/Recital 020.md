@@ -1,0 +1,3 @@
+(20) The admission to trading on a regulated market of units issued by undertakings for collective investment in transferable securities should not allow the avoidance of the relevant provisions of Council Directive 85/611/EEC of 20 December 1985 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) (3), and in particular Articles 44 to 48 of that Directive.
+
+%%% (3)  OJ L 375, 31.12.1985, p. 3. Directive as last amended by Directive 2005/1/EC of the European Parliament and of the Council (OJ L 79, 24.3.2005, p. 9).

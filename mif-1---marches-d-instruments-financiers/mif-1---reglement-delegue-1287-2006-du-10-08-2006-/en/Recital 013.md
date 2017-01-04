@@ -1,0 +1,1 @@
+(13) It is appropriate to consider that a trading algorithm operated by a regulated market or MTF usually should seek to maximise the volume traded, but other trading algorithms should be possible.

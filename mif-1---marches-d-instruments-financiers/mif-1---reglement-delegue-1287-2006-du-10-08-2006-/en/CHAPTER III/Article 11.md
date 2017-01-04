@@ -1,0 +1,6 @@
+# Article 11 - List of financial instruments
+
+
+The relevant competent authority for one or more financial instruments shall ensure that there is established and maintained an updated list of those financial instruments. That list shall be made available to the single competent authority designated as a contact point by each Member State in accordance with Article 56 of Directive 2004/39/EC. That list shall be made available for the first time on the first trading day in June 2007.
+
+In order to assist competent authorities to comply with the first subparagraph, each regulated market shall submit identifying reference data on each financial instrument admitted to trading in an electronic and standardised format to its home competent authority. This information shall be submitted for each financial instrument before trading commences in that particular instrument. The home competent authority shall ensure the data is transmitted to the relevant competent authority for the financial instrument concerned. The reference data shall be updated whenever there are changes to the data with respect to an instrument. The requirements in this subparagraph may be waived if the relevant competent authority for that financial instrument obtains the relevant reference data by other means.

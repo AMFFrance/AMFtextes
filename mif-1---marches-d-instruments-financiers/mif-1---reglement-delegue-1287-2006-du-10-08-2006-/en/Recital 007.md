@@ -1,0 +1,1 @@
+(7) It is not necessary at this stage to specify or prescribe in detail the type, nature and sophistication of the arrangements for the exchange of information between competent authorities.

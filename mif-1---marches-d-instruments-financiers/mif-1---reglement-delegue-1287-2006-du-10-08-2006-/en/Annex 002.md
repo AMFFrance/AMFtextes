@@ -1,0 +1,19 @@
+# ANNEX II
+
+## Deferred publication thresholds and delays
+
+Information to be made public in accordance with Article 17
+
+Type of system Description of system Summary of information to be made public, in accordance with Article 17 Continuous auction order book trading system A system that by means of an order book and a trading algorithm operated without human intervention matches sell orders with matching buy orders on the basis of the best available price on a continuous basis. The aggregate number of orders and the shares they represent at each price level, for at least the five best bid and offer price levels. Quote-driven trading system A system where transactions are concluded on the basis of firm quotes that are continuously made available to participants, which requires the market makers to maintain quotes in a size that balances the needs of members and participants to deal in a commercial size and the risk to which the market maker exposes itself. The best bid and offer by price of each market maker in that share, together with the volumes attaching to those prices. Periodic auction trading system A system that matches orders on the basis of a periodic auction and a trading algorithm operated without human intervention. The price at which the auction trading system would best satisfy its trading algorithm and the volume that would potentially be executable at that price. Trading system not covered by first three rows A hybrid system falling into two or more of the first three rows or a system where the price determination process is of a different nature than that applicable to the types of system covered by first three rows. Adequate information as to the level of orders or quotes and of trading interest; in particular, the five best bid and offer price levels and/or two-way quotes of each market maker in the share, if the characteristics of the price discovery mechanism so permit.
+
+Orders large in scale compared with normal market size
+
+(in EUR) Class in terms of average daily turnover (ADT) ADT < 500 000 500 000 = ADT < 1 000 000 1 000 000 = ADT < 25 000 000 25 000 000 = ADT < 50 000 000 ADT = 50 000 000 Minimum size of order qualifying as large in scale compared with normal market size 50 000 100 000 250 000 400 000 500 000
+
+Standard market sizes
+
+(in EUR) Class in terms of average value of transact-ions (AVT) AVT < 10 000 10 000 = AVT < 20 000 20 000 = AVT < 30 000 30 000 = AVT < 40 000 40 000 = AVT < 50 000 50 000 = AVT < 70 000 70 000 = AVT < 90 000 Etc. Standard market size 7 500 15 000 25 000 35 000 45 000 60 000 80 000 Etc.
+
+The table below shows, for each permitted delay for publication and each class of shares in terms of average daily turnover (ADT), the minimum qualifying size of transaction that will qualify for that delay in respect of a share of that type.
+
+  Class of shares in terms of average daily turnover (ADT) ADT < EUR 100 000 EUR 100 000 = ADT < EUR 1 000 000 EUR 1 000 000 = ADT < EUR 50 000 000 ADT = EUR 50 000 000 Minimum qualifying size of transaction for permitted delay Permitted delay for publication 60 minutes EUR 10 000 Greater of 5 % of ADT and EUR 25 000 Lower of 10 % of ADT and EUR 3 500 000 Lower of 10 % of ADT and EUR 7 500 000 180 minutes EUR 25 000 Greater of 15 % of ADT and EUR 75 000 Lower of 15 % of ADT and EUR 5 000 000 Lower of 20 % of ADT and EUR 15 000 000 Until end of trading day (or roll-over to noon of next trading day if trade undertaken in final two hours of trading day) EUR 45 000 Greater of 25 % of ADT and EUR 100 000 Lower of 25 % of ADT and EUR 10 000 000 Lower of 30 % of ADT and EUR 30 000 000 Until end of trading day next after trade EUR 60 000 Greater of 50 % of ADT and EUR 100 000 Greater of 50 % of ADT and EUR 1 000 000 100 % of ADT Until end of second trading day next after trade EUR 80 000 100 % of ADT 100 % of ADT 250 % of ADT Until end of third trading day next after trade   250 % of ADT 250 % of ADT  
