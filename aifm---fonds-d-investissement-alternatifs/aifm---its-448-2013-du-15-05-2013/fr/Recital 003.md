@@ -1,0 +1,1 @@
+(3) La directive 2011/61/UE impose aux États membres d’appliquer les dispositions législatives, réglementaires et administratives qui transposent ses dispositions à compter du 22 juillet 2013. Sans préjudice de l’acte délégué requis à l’article 67, paragraphe 6, de la directive 2011/61/UE, l’application du présent règlement est donc également reportée à cette date.
