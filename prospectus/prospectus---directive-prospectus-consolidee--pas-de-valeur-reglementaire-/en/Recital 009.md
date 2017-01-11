@@ -1,0 +1,1 @@
+(9) According to the Stockholm European Council, Level 2 implementing measures should be used more frequently to ensure that technical provisions can be kept up to date with market and supervisory developments and deadlines should be set for all stages of Level 2.

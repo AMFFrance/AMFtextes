@@ -1,0 +1,1 @@
+(3) For reasons of consistency, however, it is appropriate to regroup the provisions of Directive 2001/34/EC which stem from Directive 80/390/EEC together with Directive 89/298/EEC and to amend Directive 2001/34/EC accordingly.

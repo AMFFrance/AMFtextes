@@ -1,0 +1,1 @@
+(7) The Stockholm European Council of 23 and 24 March 2001 endorsed the final report of the Committee of Wise Men and the proposed four-level approach to make the regulatory process for Community securities legislation more efficient and transparent.

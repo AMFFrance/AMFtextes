@@ -1,0 +1,1 @@
+(28) It is necessary for the annual information to be provided by issuers whose securities are admitted to trading on a regulated market to be appropriately monitored by Member States in accordance with their obligations under the provisions of Community and national law concerning the regulation of securities, issuers of securities and securities markets.

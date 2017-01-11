@@ -1,0 +1,1 @@
+(10) The aim of this Directive and its implementing measures is to ensure investor protection and market efficiency, in accordance with high regulatory standards adopted in the relevant international fora.

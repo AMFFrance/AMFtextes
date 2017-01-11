@@ -1,0 +1,1 @@
+(43) Member States should lay down a system of sanctions for breaches of the national provisions adopted pursuant to this Directive and should take all the measures necessary to ensure that these sanctions are applied. The sanctions thus provided for should be effective, proportional and dissuasive.

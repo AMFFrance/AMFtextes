@@ -1,0 +1,1 @@
+(24) The content of a base prospectus should, in particular, take into account the need for flexibility in relation to the information to be provided about the securities.

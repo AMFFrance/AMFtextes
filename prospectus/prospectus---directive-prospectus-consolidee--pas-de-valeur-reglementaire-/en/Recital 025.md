@@ -1,0 +1,1 @@
+(25) Omission of sensitive information to be included in a prospectus should be allowed through a derogation granted by the competent authority in certain circumstances in order to avoid detrimental situations for an issuer.

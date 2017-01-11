@@ -1,0 +1,1 @@
+(26) A clear time limit should be set for the validity of a prospectus in order to avoid outdated information.

@@ -1,0 +1,1 @@
+(14) The grant to the issuer of a single passport, valid throughout the Community, and the application of the country of origin principle require the identification of the home Member State as the one best placed to regulate the issuer for the purposes of this Directive.
