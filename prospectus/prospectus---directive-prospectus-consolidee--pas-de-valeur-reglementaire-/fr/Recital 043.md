@@ -1,0 +1,1 @@
+(43) Les États membres devraient instaurer un système de sanctions applicables aux violations des dispositions nationales adoptées en vertu de la présente directive et prendre toutes les mesures nécessaires pour qu'elles soient appliquées. Ces sanctions devraient être efficaces, proportionnées et dissuasives.

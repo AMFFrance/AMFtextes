@@ -1,0 +1,1 @@
+(14) L'octroi à l'émetteur d'un passeport unique valable dans toute la Communauté et l'application du principe du pays d'origine exigent que ce dernier soit désigné comme étant le mieux placé pour réglementer les opérations de l'émetteur aux fins de la présente directive.

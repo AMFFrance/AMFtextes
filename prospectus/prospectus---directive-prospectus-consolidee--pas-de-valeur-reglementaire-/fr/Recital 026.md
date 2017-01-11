@@ -1,0 +1,1 @@
+(26) La durée de validité des prospectus devrait être clairement fixée, afin d'éviter que ne circulent des informations obsolètes.

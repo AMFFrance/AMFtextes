@@ -1,0 +1,5 @@
+(1) La directive 80/390/CEE du Conseil du 17 mars 1980 portant coordination des conditions d'établissement, de contrôle et de diffusion du prospectus à publier pour l'admission de valeurs mobilières à la cote officielle d'une bourse de valeurs ( 5 ) et la directive 89/298/CEE du Conseil du 17 avril 1989 portant coordination des conditions d'établissement, de contrôle et de diffusion du prospectus à publier en cas d'offre publique de valeurs mobilières ( 6 ) ont été adoptées il y a plusieurs années, introduisant un mécanisme de reconnaissance mutuelle partiel et complexe qui ne permet pas de réaliser l'objectif consistant à instaurer un passeport unique prévu par la présente directive. Ces directives devraient en conséquence être améliorées, actualisées et refondues en un texte unique.
+
+%%% ( 5 ) JO L 100 du 17.4.1980, p. 1. Directive modifiée en dernier lieu par la directive 94/18/CE du Parlement européen et du Conseil (JO L 135 du 31.5.1994, p. 1).
+
+%%% ( 6 ) JO L 124 du 5.5.1989, p. 8.
