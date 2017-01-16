@@ -1,0 +1,3 @@
+(1) Il y a lieu de modifier la directive 2009/65/CE du Parlement européen et du Conseil (3) afin de tenir compte des évolutions du marché et de l’expérience acquise à ce jour par les acteurs des marchés et les autorités de surveillance, notamment pour remédier aux divergences entre les dispositions nationales observées en ce qui concerne les missions et la responsabilité des dépositaires, les politiques de rémunération et les sanctions.
+
+%%% (3)  Directive 2009/65/CE du Parlement européen et du Conseil du 13 juillet 2009 portant coordination des dispositions législatives, réglementaires et administratives concernant certains organismes de placement collectif en valeurs mobilières (OPCVM) (JO L 302 du 17.11.2009, p. 32).

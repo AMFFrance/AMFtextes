@@ -1,0 +1,3 @@
+(30) Le 12 juillet 2010, la Commission a présenté une proposition de modification de la directive 97/9/CE du Parlement européen et du Conseil (12) afin d’assurer une protection élevée aux investisseurs des OPCVM lorsqu’un dépositaire ne peut satisfaire aux obligations qui lui incombent. Ladite proposition est complétée, dans la présente directive, par une clarification des obligations et de la portée de la responsabilité du dépositaire et du tiers auquel les fonctions de garde ont été déléguées.
+
+%%% (12)  Directive 97/9/CE du Parlement européen et du Conseil du 3 mars 1997 relative aux systèmes d’indemnisation des investisseurs (JO L 84 du 26.3.1997, p. 22).

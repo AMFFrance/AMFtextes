@@ -1,0 +1,1 @@
+(13) Dans l’exercice de ses fonctions, un dépositaire devrait agir de manière honnête, loyale, professionnelle et indépendante et dans l’intérêt de l’OPCVM et des investisseurs de l’OPCVM.

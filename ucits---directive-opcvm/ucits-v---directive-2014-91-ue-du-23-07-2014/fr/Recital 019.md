@@ -1,0 +1,1 @@
+(19) Les actifs conservés par le dépositaire ne devraient pas être réutilisés par le dépositaire ou par tout tiers auquel la fonction de conservation a été déléguée, pour son propre compte. Certaines conditions devraient s’appliquer à la réutilisation d’actifs pour le compte de l’OPCVM.

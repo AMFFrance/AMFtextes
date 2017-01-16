@@ -1,0 +1,1 @@
+(7) Les principes en matière de bonnes politiques de rémunération devraient également s’appliquer aux paiements effectués à partir d’OPCVM vers des sociétés de gestion ou des sociétés d’investissement.

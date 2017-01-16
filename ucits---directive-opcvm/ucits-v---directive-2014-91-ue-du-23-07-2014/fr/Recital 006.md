@@ -1,0 +1,1 @@
+(6) La rémunération variable garantie devrait être exceptionnelle, parce qu’elle n’est pas compatible avec une gestion saine des risques ni avec le principe de la rémunération en fonction des résultats, et devrait être limitée à la première année d’engagement.

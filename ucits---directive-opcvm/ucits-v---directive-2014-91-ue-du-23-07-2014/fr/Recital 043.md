@@ -1,0 +1,3 @@
+(43) Dans le cadre du réexamen global du fonctionnement de la directive 2009/65/CE, la Commission, compte tenu du règlement (UE) no 648/2012 du Parlement européen et du Conseil (13), réexaminera les limites d’exposition par contrepartie applicables aux transactions sur produits dérivés, compte tenu de la nécessité d’établir des catégories appropriées pour ces limites, de façon que les produits dérivés présentant des caractéristiques de risque similaires soient traités de la même manière.
+
+%%% (13)  Règlement (UE) no 648/2012 du Parlement européen et du Conseil du 4 juillet 2012 sur les produits dérivés de gré à gré, les contreparties centrales et les référentiels centraux (JO L 201 du 27.7.2012, p. 1).

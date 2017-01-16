@@ -1,0 +1,1 @@
+(22) Un tiers auquel est déléguée la garde d’actifs devrait pouvoir tenir un compte omnibus, à savoir un compte commun distinct pour plusieurs OPCVM.

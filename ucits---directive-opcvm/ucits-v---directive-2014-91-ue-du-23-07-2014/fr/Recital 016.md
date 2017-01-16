@@ -1,0 +1,1 @@
+(16) Afin de prévenir les transferts de liquidités de nature frauduleuse, aucun compte de liquidités en lien avec les opérations de l’OPCVM ne devrait être ouvert à l’insu du dépositaire.

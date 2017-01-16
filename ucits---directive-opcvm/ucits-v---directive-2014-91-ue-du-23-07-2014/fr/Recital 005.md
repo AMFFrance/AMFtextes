@@ -1,0 +1,3 @@
+(5) Lorsqu’ils appliquent les principes en matière de bonnes politiques et pratiques de rémunération établis par la présente directive, les États membres devraient tenir compte des principes figurant dans la recommandation 2009/384/CE de la Commission (4) ainsi que des travaux du Conseil de stabilité financière et des engagements du G20 à atténuer le risque dans le secteur des services financiers.
+
+%%% (4)  Recommandation 2009/384/CE de la Commission du 30 avril 2009 sur les politiques de rémunération dans le secteur des services financiers (JO L 120 du 15.5.2009, p. 22).

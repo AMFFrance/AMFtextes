@@ -1,0 +1,1 @@
+(17) Tout actif conservé pour un OPCVM devrait être distingué des propres actifs du dépositaire et devrait, à tout moment, être identifié comme appartenant audit OPCVM. Cette obligation devrait représenter une protection supplémentaire pour les investisseurs en cas de faillite du dépositaire.

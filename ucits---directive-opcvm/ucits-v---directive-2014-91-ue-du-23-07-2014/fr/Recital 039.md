@@ -1,0 +1,1 @@
+(39) Afin de permettre à l’AEMF de renforcer la cohérence des résultats en matière de surveillance conformément au règlement (UE) no 1095/2010, il convient que toutes les sanctions rendues publiques soient simultanément notifiées à l’AEMF, qui devrait également publier un rapport annuel sur l’ensemble des sanctions imposées.

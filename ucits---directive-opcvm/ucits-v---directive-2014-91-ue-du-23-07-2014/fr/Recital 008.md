@@ -1,0 +1,1 @@
+(8) La Commission est invitée à analyser quels sont, pour les produits d’investissement de détail, les coûts et les frais communs dans les États membres, à évaluer s’il est nécessaire d’harmoniser davantage ces coûts et frais et à soumettre ses conclusions au Parlement européen et au Conseil.
