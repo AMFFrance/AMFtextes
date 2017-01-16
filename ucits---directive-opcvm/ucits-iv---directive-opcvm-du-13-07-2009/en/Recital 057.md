@@ -1,0 +1,1 @@
+(57) Where the competent authorities of the master UCITS home Member State are informed of an irregularity with regard to the master UCITS or detect that the master UCITS does not comply with the provisions of this Directive, they may decide, where appropriate, to take relevant action to ensure that unit-holders of the master UCITS are informed accordingly.

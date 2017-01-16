@@ -1,0 +1,1 @@
+(32) It is particularly important that the unit-holders are adequately informed about the proposed merger and that their rights are sufficiently protected. Although the interests of the unit-holders of the merging UCITS are most concerned by the merger, those of the unit-holders of the receiving UCITS should also be safeguarded.

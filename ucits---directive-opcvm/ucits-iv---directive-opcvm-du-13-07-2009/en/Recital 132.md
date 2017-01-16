@@ -1,0 +1,1 @@
+ANNEX II Functions included in the activity of collective portfolio management

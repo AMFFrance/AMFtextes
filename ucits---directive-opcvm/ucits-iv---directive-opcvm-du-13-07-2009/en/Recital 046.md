@@ -1,0 +1,1 @@
+(46) Operations in derivatives should never be used to circumvent the principles or rules set out in this Directive. With regard to OTC derivatives, additional risk-spreading rules should apply to exposures to a single counterparty or group of counterparties.

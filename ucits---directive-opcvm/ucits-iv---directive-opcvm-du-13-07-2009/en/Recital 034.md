@@ -1,0 +1,1 @@
+(34) The free marketing of the units issued by UCITS authorised to invest up to 100 % of their assets in transferable securities issued by the same body (State, local authority, etc.) should not have the direct or indirect effect of disturbing the functioning of the capital market or the financing of the Member States.

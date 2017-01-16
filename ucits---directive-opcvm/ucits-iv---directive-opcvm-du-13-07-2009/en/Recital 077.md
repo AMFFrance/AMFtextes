@@ -1,0 +1,1 @@
+(77) Where it is stipulated that information may be disclosed only with the express agreement of the competent authorities, these may, where appropriate, make their agreement subject to compliance with strict conditions.

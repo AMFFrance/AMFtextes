@@ -1,0 +1,1 @@
+(63) UCITS should be able to market their units subject to their taking the necessary measures to ensure that facilities are available for making payments to unit-holders, repurchasing or redeeming units and making available the information which UCITS are required to provide.

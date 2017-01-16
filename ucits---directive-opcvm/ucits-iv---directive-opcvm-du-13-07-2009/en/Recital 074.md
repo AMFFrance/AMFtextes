@@ -1,0 +1,1 @@
+(74) Certain behaviour, such as fraud or insider offences, is liable to affect the stability, including integrity, of the financial system, even when involving undertakings other than UCITS or undertakings contributing towards their business activity.

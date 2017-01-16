@@ -1,0 +1,1 @@
+(67) To facilitate the access to the markets of other Member States, it is important that notification fees are disclosed.

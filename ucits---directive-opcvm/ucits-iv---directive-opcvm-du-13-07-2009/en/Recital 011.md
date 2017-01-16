@@ -1,0 +1,1 @@
+(11) By virtue of the principle of home Member State supervision, management companies authorised in their home Member States should be permitted to provide the services for which they have received authorisation throughout the Community by establishing branches or under the freedom to provide services.

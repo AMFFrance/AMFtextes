@@ -1,0 +1,1 @@
+(15) A home Member State should be able, as a general rule, to establish rules stricter than those laid down in this Directive, in particular as regards authorisation conditions, prudential requirements and the rules on reporting and the prospectus.

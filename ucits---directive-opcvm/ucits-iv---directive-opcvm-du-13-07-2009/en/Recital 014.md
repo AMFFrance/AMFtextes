@@ -1,0 +1,1 @@
+(14) The activity of management of individual portfolios of investments is an investment service covered by Directive 2004/39/EC. In order to ensure a homogeneous regulatory framework in this area, it is desirable to subject management companies, the authorisation of which also covers that service, to the operating conditions laid down in that Directive.

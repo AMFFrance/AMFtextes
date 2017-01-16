@@ -1,0 +1,1 @@
+SECTION 3 Key investor information

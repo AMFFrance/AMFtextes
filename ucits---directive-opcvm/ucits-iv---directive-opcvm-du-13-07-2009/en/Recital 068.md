@@ -1,0 +1,1 @@
+(68) Member States should take the necessary administrative and organisational measures to enable cooperation between national authorities and competent authorities of other Member States, including through bilateral or multilateral agreements between those authorities, which could provide for the voluntary delegation of tasks.

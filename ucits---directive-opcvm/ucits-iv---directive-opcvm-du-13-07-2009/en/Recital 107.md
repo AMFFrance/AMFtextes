@@ -1,0 +1,1 @@
+SECTION 3 Obligations regarding the depositary

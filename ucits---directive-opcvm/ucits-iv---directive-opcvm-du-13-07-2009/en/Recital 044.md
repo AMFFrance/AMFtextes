@@ -1,0 +1,5 @@
+(44) It is necessary for measures to address the potential misalignment of interests in products where credit risk is transferred by securitisation, as envisaged with regard to Directive 2006/48/EC of the European Parliament and of the Council of 14 June 2006 relating to the taking up and pursuit of the business of credit institutions (6) and Directive 2006/49/EC of the European Parliament and of the Council of 14 June 2006 on the capital adequacy of investment firms and credit institutions (7), to be consistent and coherent in all relevant financial sector regulation. The Commission will put forward the appropriate legislative proposals, including as regards this Directive, to ensure such consistency and coherence, after duly considering the impact of such proposals.
+
+%%% (6)  OJ L 177, 30.6.2006, p. 1.
+
+%%% (7)  OJ L 177, 30.6.2006, p. 201.

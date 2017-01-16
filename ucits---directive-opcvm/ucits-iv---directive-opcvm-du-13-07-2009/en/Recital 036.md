@@ -1,0 +1,1 @@
+(36) Money market instruments comprise transferable instruments which are normally dealt in on the money market rather than on the regulated markets, for example treasury and local authority bills, certificates of deposit, commercial papers, medium-term notes and bankers’ acceptances.

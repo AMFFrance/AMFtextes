@@ -1,0 +1,1 @@
+(83) This Directive should not affect national rules on taxation, including arrangements that may be imposed by Member States to ensure compliance with those rules in their territory.

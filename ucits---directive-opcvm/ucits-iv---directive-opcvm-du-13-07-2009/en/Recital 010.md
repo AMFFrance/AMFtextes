@@ -1,0 +1,1 @@
+(10) It is necessary, for the protection of investors, to guarantee the internal overview of every management company in particular by means of a two-person management system and by adequate internal control mechanisms.

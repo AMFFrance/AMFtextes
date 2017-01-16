@@ -1,0 +1,1 @@
+SECTION 3 Operating conditions

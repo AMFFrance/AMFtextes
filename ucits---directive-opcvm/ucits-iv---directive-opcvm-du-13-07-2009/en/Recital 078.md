@@ -1,0 +1,1 @@
+(78) Exchanges of information between the competent authorities on the one hand and central banks, bodies with a function similar to central banks, in their capacity as monetary authorities, or, where appropriate, other public authorities responsible for supervising payment systems on the other, should also be authorised.

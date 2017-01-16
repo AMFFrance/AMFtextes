@@ -1,0 +1,1 @@
+(25) To safeguard shareholders’ interests and secure a level playing field in the market for harmonised collective investment undertakings, initial capital is required for investment companies. Investment companies which have designated a management company will, however, be covered through the management company’s additional amount of own funds.

@@ -1,0 +1,1 @@
+SECTION 6 Obligations and competent authorities

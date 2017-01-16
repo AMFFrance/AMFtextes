@@ -1,0 +1,1 @@
+(17) In order to ensure a level playing field and appropriate supervision in the long term, it should be possible for the Commission to examine the possibilities for harmonising delegation arrangements at Community level.

@@ -1,0 +1,1 @@
+(86) As regards mergers, the Commission should be empowered to adopt measures designed to specify detailed content, format and way to provide information to unit-holders.

@@ -1,0 +1,1 @@
+(4) Having regard to those objectives, it is desirable to provide for common basic rules for the authorisation, supervision, structure and activities of UCITS established in the Member States and the information that they are required to publish.

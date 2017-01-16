@@ -1,0 +1,1 @@
+(42) For prudential reasons it is necessary to avoid excessive concentration by a UCITS in investments which expose it to counterparty risk to the same entity or to entities belonging to the same group.

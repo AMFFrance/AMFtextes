@@ -1,0 +1,1 @@
+SECTION 2 Common provisions for feeder UCITS and master UCITS

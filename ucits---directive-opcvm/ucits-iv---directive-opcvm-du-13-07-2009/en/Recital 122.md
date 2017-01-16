@@ -1,0 +1,1 @@
+SECTION 2 Publication of other information

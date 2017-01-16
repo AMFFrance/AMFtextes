@@ -1,0 +1,1 @@
+(89) As regards notification, the Commission should be empowered to adopt measures designed to specify the scope of the information on the applicable local rules to be published by host Member State competent authorities and the technical details on access by host Member State competent authorities to stored and updated UCITS documents.

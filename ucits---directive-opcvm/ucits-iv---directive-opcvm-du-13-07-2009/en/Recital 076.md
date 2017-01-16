@@ -1,0 +1,1 @@
+(76) It is necessary to specify the conditions under which such exchanges of information are authorised.

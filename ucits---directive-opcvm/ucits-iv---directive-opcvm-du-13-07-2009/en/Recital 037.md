@@ -1,0 +1,1 @@
+(37) The concept of regulated market in this Directive corresponds to that in Directive 2004/39/EC.

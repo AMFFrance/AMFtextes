@@ -1,0 +1,1 @@
+(60) The competent authorities of each Member State may make available to the public, in a dedicated section of their website, key investor information concerning all UCITS authorised in that Member State.

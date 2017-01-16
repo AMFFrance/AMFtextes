@@ -1,0 +1,1 @@
+(45) With regard to over-the-counter (OTC) derivatives, requirements should be set in terms of the eligibility of counterparties and instruments, liquidity and ongoing assessment of the position. The purpose of such requirements is to ensure an adequate level of investor protection, close to that which they obtain when they acquire derivatives dealt in on regulated markets.

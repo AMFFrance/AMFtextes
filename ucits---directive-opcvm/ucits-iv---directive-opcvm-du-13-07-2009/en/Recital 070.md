@@ -1,0 +1,1 @@
+(70) It is necessary to reinforce provisions on exchange of information between national competent authorities and to strengthen the duties of assistance and cooperation between them.

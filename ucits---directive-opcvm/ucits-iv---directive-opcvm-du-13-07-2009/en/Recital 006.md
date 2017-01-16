@@ -1,0 +1,1 @@
+(6) Where a provision of this Directive requires that UCITS take action, that provision should be understood to refer to the management company in cases where the UCITS is constituted as a common fund managed by a management company and where a common fund is not in a position to act by itself because it has no legal personality of its own.

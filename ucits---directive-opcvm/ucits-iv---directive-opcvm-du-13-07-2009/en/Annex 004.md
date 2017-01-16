@@ -1,0 +1,7 @@
+# ANNEX III
+
+## (referred to in Article 117)
+
+Council Directive 85/611/EEC (OJ L 375, 31.12.1985, p. 3)   Council Directive 88/220/EEC (OJ L 100, 19.4.1988, p. 31)   Directive 95/26/EC of the European Parliament and of the Council (OJ L 168, 18.7.1995, p. 7) Article 1, fourth indent, Article 4(7) and Article 5, fifth indent only Directive 2000/64/EC of the European Parliament and of the Council (OJ L 290, 17.11.2000, p. 27) Article 1 only Directive 2001/107/EC of the European Parliament and of the Council (OJ L 41, 13.2.2002, p. 20)   Directive 2001/108/EC of the European Parliament and of the Council (OJ L 41, 13.2.2002, p. 35)   Directive 2004/39/EC of the European Parliament and of the Council (OJ L 145, 30.4.2004, p. 1) Article 66 only Directive 2005/1/EC of the European Parliament and of the Council (OJ L 79, 24.3.2005, p. 9) Article 9 only Directive 2008/18/EC of the European Parliament and of the Council (OJ L 76, 19.3.2008, p. 42)  
+
+Directive Time limit for transposition Date of application 85/611/EEC 1 October 1989 — 88/220/EEC 1 October 1989 — 95/26/EC 18 July 1996 — 2000/64/EC 17 November 2002 — 2001/107/EC 13 August 2003 13 February 2004 2001/108/EC 13 August 2003 13 February 2004 2004/39/EC — 30 April 2006 2005/1/EC 13 May 2005 —

@@ -1,0 +1,1 @@
+(61) Key investor information should be produced for all UCITS. Management companies or, where applicable, investment companies should provide key investor information to the relevant entities, in accordance with the distribution method used (direct sales or intermediated sales). Intermediaries should provide key investor information to clients and potential clients.

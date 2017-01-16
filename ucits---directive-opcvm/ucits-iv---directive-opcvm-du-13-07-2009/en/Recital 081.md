@@ -1,0 +1,1 @@
+(81) Having regard to the aim in this Directive, it is desirable for Member States to provide that such a duty should apply in all circumstances where such facts are discovered by an auditor during the performance of his tasks in an undertaking which has close links with a UCITS or an undertaking which contributes towards its business activity.
