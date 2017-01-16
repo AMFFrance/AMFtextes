@@ -1,0 +1,3 @@
+(1) Directive 2009/65/EC of the European Parliament and of the Council (3) should be amended in order to take into account market developments and the experiences of market participants and supervisors gathered so far, in particular to address discrepancies between national provisions in respect of the duties and liability of depositaries, remuneration policy and sanctions.
+
+%%% (3)  Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) (OJ L 302, 17.11.2009, p. 32).

@@ -1,0 +1,1 @@
+(39) In order to enable ESMA to strengthen consistency in supervisory outcomes further in accordance with Regulation (EU) No 1095/2010, all publicly disclosed sanctions should be simultaneously reported to ESMA, which should also publish an annual report on all sanctions imposed.

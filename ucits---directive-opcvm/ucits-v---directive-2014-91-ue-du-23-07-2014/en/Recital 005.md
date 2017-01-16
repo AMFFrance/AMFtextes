@@ -1,0 +1,3 @@
+(5) When applying the principles regarding sound remuneration policies and practices established by this Directive, Member States should take into account the principles set out in Commission Recommendation 2009/384/EC (4), the work of the Financial Stability Board and G-20 commitments to mitigate risk in the financial services sector.
+
+%%% (4)  Commission Recommendation 2009/384/EC of 30 April 2009 on remuneration policies in the financial services sector (OJ L 120, 15.5.2009, p. 22).

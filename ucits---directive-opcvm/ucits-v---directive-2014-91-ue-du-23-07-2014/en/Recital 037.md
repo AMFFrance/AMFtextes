@@ -1,0 +1,1 @@
+(37) In order to ensure a consistent application across Member States, when determining the type of administrative penalties or measures and the level of administrative pecuniary penalties, Member States should be required to ensure that their competent authorities take into account all relevant circumstances.

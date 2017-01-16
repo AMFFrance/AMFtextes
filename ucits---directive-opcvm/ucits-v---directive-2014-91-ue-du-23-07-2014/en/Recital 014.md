@@ -1,0 +1,1 @@
+(14) In order to ensure a harmonised approach to the performance of depositaries’ duties in all Member States irrespective of the legal form taken by the UCITS, it is necessary to introduce a uniform list of oversight duties that are incumbent on depositaries in relation to UCITS with a corporate form (an investment company) and UCITS in a contractual form.

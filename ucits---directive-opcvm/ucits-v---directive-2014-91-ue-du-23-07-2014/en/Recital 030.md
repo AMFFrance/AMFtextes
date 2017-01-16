@@ -1,0 +1,3 @@
+(30) On 12 July 2010, the Commission proposed amendments to Directive 97/9/EC of the European Parliament and of the Council (12) in order to provide a high level of protection for UCITS investors where a depositary cannot meet its obligations. That proposal is supplemented by a clarification of the obligations and scope of the liability of the depositary and the third party to which the safekeeping functions have been delegated in this Directive.
+
+%%% (12)  Directive 97/9/EC of the European Parliament and of the Council of 3 March 1997 on investor-compensation schemes (OJ L 84, 26.3.1997, p. 22).

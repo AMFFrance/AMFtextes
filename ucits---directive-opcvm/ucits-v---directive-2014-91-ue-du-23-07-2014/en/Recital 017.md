@@ -1,0 +1,1 @@
+(17) Any asset held in custody for a UCITS should be distinguished from the depositary’s own assets, and should at all times be identified as belonging to that UCITS. Such a requirement should confer an additional layer of protection for investors in the event that the depositary defaults.

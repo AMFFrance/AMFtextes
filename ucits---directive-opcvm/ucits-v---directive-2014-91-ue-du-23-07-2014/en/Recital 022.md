@@ -1,0 +1,1 @@
+(22) A third party to which the safekeeping of assets is delegated should be able to maintain an omnibus account, as a common segregated account for multiple UCITS.

@@ -1,0 +1,3 @@
+(43) As part of its overall review of the functioning of Directive 2009/65/EC, the Commission, taking into account Regulation (EU) No 648/2012 of the European Parliament and of the Council (13), will review counterparty exposure limits applicable to derivatives transactions, taking into account the need to establish appropriate categorisations for such limits so that derivatives with similar risk characteristics are treated in the same way.
+
+%%% (13)  Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (OJ L 201, 27.7.2012, p. 1).

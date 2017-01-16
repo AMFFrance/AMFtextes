@@ -1,0 +1,1 @@
+(3) Provided that management companies of UCITS and investment companies apply all the principles governing remuneration policies, they should be able to apply those policies in different ways according to their size, the size of the UCITS that they manage, their internal organisation, and the nature, scope and complexity of their activities.

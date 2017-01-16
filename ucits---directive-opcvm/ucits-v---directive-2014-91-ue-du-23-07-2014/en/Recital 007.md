@@ -1,0 +1,1 @@
+(7) The principles regarding sound remuneration policies should also apply to payments made from UCITS to management companies or investment companies.

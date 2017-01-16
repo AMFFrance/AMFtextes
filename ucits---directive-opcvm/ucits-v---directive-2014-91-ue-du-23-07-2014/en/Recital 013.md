@@ -1,0 +1,1 @@
+(13) In performing its tasks, a depositary should act honestly, fairly, professionally, independently and in the interest of the UCITS and of the investors of the UCITS.

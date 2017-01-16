@@ -1,0 +1,1 @@
+(47) Directive 2009/65/EC should therefore be amended accordingly,

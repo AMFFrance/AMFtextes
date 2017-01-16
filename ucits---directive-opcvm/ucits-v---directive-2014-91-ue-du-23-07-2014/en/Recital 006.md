@@ -1,0 +1,1 @@
+(6) Guaranteed variable remuneration should be exceptional because it is not consistent with sound risk management or the pay-for-performance principle and should be limited to the first year of engagement.

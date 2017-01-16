@@ -1,0 +1,1 @@
+(23) Where custody is delegated to a third party, it is also necessary to ensure that the third party is subject to specific requirements on effective prudential regulation and supervision. In addition, in order to ensure that the financial instruments are in the possession of the third party to which custody was delegated, periodic external audits should be performed.

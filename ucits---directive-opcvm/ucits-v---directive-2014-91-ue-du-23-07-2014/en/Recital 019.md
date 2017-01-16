@@ -1,0 +1,1 @@
+(19) The assets held in custody by the depositary should not be reused by the depositary, or by a third party to which the custody function has been delegated, for their own account. Certain conditions should apply to the reuse of assets for the account of the UCITS.

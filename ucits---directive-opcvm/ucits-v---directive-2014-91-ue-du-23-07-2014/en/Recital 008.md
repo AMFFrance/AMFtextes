@@ -1,0 +1,1 @@
+(8) The Commission is invited to analyse what the common costs and expenses of retail investment products in the Member States are, and whether further harmonisation of those costs and expenses is needed, and to submit its findings to the European Parliament and to the Council.

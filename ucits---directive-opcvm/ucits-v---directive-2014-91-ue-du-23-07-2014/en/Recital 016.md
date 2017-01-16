@@ -1,0 +1,1 @@
+(16) In order to prevent fraudulent cash transfers, no cash account associated with the transactions of the UCITS should be opened without the depositary’s knowledge.
