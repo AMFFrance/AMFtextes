@@ -1,0 +1,1 @@
+(74) Certains agissements, tels que les fraudes ou les délits d’initiés, sont de nature, même lorsqu’ils concernent des entreprises autres que les OPCVM ou les entreprises qui concourent à leur activité, à affecter la stabilité du système financier, y compris son intégrité.

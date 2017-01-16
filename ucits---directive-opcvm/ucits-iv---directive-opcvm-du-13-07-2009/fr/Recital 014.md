@@ -1,0 +1,1 @@
+(14) L’activité de gestion de portefeuilles d’investissement individuels est un service d’investissement régi par la directive 2004/39/CE. Afin d’assurer un cadre réglementaire homogène dans ce domaine, il est souhaitable de soumettre les sociétés de gestion dont l’agrément couvre aussi ce service aux conditions d’exercice énoncées dans ladite directive.

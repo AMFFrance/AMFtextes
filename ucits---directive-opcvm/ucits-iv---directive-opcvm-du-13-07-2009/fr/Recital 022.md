@@ -1,0 +1,1 @@
+(22) L’État membre d’origine de l’OPCVM devrait avoir la possibilité d’arrêter des règles quant au contenu du registre des porteurs de parts de l’OPCVM. L’organisation de la tenue de ce registre et sa localisation devraient toutefois relever des modalités d’organisation de la société de gestion.

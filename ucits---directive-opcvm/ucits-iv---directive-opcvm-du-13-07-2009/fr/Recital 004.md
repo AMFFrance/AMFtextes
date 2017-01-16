@@ -1,0 +1,1 @@
+(4) Eu égard à ces objectifs, il est souhaitable de prévoir, pour les OPCVM établis dans les États membres, des règles minimales communes en ce qui concerne leur agrément, leur contrôle, leur structure, leur activité et les informations qu’ils doivent publier.

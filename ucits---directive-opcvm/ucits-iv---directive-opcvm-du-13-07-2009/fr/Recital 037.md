@@ -1,0 +1,1 @@
+(37) La notion de «marché réglementé» utilisée dans la présente directive correspond à celle utilisée dans la directive 2004/39/CE.

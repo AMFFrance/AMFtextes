@@ -1,0 +1,1 @@
+(67) Afin de faciliter l’accès aux marchés des autres États membres, il importe que les frais de notification soient publiés.

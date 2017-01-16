@@ -1,0 +1,1 @@
+(70) Il est nécessaire de renforcer les dispositions concernant l’échange d’informations entre les autorités nationales compétentes ainsi que les obligations réciproques de ces autorités en matière d’assistance et de coopération.

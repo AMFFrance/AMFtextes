@@ -1,0 +1,1 @@
+(89) En ce qui concerne la notification, il convient d’habiliter la Commission à arrêter les mesures qui visent à préciser le champ des informations concernant les règles locales applicables à publier par les autorités compétentes de l’État membre d’accueil et les détails techniques concernant l’accès de ces autorités aux documents enregistrés et actualisés sur les OPCVM.

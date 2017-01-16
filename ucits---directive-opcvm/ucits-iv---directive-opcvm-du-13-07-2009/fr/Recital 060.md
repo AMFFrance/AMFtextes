@@ -1,0 +1,1 @@
+(60) Les autorités compétentes de chaque État membre peuvent mettre à la disposition du public, en y consacrant une section de leur site Internet, les informations clés pour l’investisseur au sujet de tous les OPCVM agréés dans cet État membre.

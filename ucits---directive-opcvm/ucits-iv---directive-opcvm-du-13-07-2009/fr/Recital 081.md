@@ -1,0 +1,1 @@
+(81) Eu égard à l’objectif poursuivi par la présente directive, il est souhaitable que les États membres prévoient que cette obligation s’applique en toute hypothèse lorsque de tels faits sont constatés par un contrôleur légal des comptes dans l’exercice de sa mission auprès d’une entreprise qui a des liens étroits avec un OPCVM ou une entreprise qui concourt à son activité.

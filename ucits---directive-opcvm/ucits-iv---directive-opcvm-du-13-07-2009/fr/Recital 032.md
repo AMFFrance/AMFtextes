@@ -1,0 +1,1 @@
+(32) Il est particulièrement important que les porteurs de parts soient adéquatement informés de la fusion proposée et que leurs droits soient suffisamment protégés. Bien que les intérêts des porteurs de parts de l’OPCVM absorbé soient les plus concernés par la fusion, il convient aussi de protéger ceux des porteurs de parts de l’OPCVM absorbeur.

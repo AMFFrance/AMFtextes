@@ -1,0 +1,1 @@
+SECTION 4 Informations obligatoires et publicitaires de l’OPCVM nourricier

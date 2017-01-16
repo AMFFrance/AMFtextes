@@ -1,0 +1,1 @@
+(78) Il convient également d’autoriser les échanges d’informations entre les autorités compétentes, d’une part, et les banques centrales, les organismes ayant une vocation similaire à celle des banques centrales, en tant qu’autorités monétaires, ou, le cas échéant, d’autres autorités publiques chargées de la surveillance des systèmes de paiement, d’autre part.

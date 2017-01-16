@@ -1,0 +1,1 @@
+(90) La Commission devrait aussi être habilitée, entre autres, à clarifier les définitions et à aligner la terminologie ainsi qu’à formuler des définitions en fonction des actes ultérieurs relatifs aux OPCVM et aux matières connexes.

@@ -1,0 +1,4 @@
+# Article 77 - null
+
+
+Toutes les communications publicitaires destinées aux investisseurs sont clairement identifiables en tant que telles. Elles sont correctes, claires et non trompeuses. En particulier, une communication publicitaire assortie d’une invitation à acheter des parts d’OPCVM, qui comprend des informations spécifiques concernant un OPCVM, ne peut pas comporter de mentions qui soient en contradiction avec les informations fournies par le prospectus et avec les informations clés pour l’investisseur visées à l’article 78, ou qui atténuent la portée de ces informations. Elle mentionne l’existence du prospectus et la disponibilité des informations clés pour l’investisseur visées à l’article 78. Elle précise où et dans quelle langue les investisseurs et les investisseurs potentiels peuvent obtenir ces informations et documents ou comment ils peuvent y avoir accès.

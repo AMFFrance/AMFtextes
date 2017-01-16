@@ -1,0 +1,1 @@
+(17) Afin d’assurer des conditions de concurrence équitables et une surveillance appropriée sur le long terme, la Commission devrait pouvoir examiner les possibilités d’une harmonisation des modalités de délégation au niveau communautaire.

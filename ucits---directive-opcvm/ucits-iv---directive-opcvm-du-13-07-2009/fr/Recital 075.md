@@ -1,0 +1,1 @@
+(75) Il convient de prévoir la possibilité d’échanges d’informations entre les autorités compétentes et des autorités ou organismes qui contribuent, de par leur fonction, à renforcer la stabilité du système financier. Toutefois, pour préserver le caractère confidentiel des informations transmises, il convient de limiter strictement les destinataires de ces échanges.

@@ -1,0 +1,1 @@
+SECTION 3 Informations clés pour l’investisseur

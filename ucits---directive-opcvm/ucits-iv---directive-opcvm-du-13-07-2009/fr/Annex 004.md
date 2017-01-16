@@ -1,0 +1,7 @@
+# ANNEXE III
+
+## (visés à l’article 117)
+
+Directive 85/611/CEE du Conseil (JO L 375 du 31.12.1985, p. 3).   Directive 88/220/CEE du Conseil (JO L 100 du 19.4.1988, p. 31).   Directive 95/26/CE du Parlement européen et du Conseil (JO L 168 du 18.7.1995, p. 7). Article 1er, quatrième tiret, article 4, paragraphe 7, et article 5, cinquième tiret, uniquement Directive 2000/64/CE du Parlement européen et du Conseil (JO L 290 du 17.11.2000, p. 27). Article 1er uniquement Directive 2001/107/CE du Parlement européen et du Conseil (JO L 41 du 13.2.2002, p. 20).   Directive 2001/108/CE du Parlement européen et du Conseil (JO L 41 du 13.2.2002, p. 35).   Directive 2004/39/CE du Parlement européen et du Conseil (JO L 145 du 30.4.2004, p. 1). Article 66 uniquement Directive 2005/1/CE du Parlement européen et du Conseil (JO L 79 du 24.3.2005, p. 9). Article 9 uniquement Directive 2008/18/CE du Parlement européen et du Conseil (JO L 76 du 19.3.2008, p. 42).  
+
+Directive Délai de transposition Date d’application 85/611/CEE 1er octobre 1989 — 88/220/CEE 1er octobre 1989 — 95/26/CE 18 juillet 1996 — 2000/64/CE 17 novembre 2002 — 2001/107/CE 13 août 2003 13 février 2004 2001/108/CE 13 août 2003 13 février 2004 2004/39/CE — 30 avril 2006 2005/1/CE 13 mai 2005 —

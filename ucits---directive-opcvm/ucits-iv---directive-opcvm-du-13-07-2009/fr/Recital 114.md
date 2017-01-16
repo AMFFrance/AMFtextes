@@ -1,0 +1,1 @@
+SECTION 1 Champ d’application et autorisation

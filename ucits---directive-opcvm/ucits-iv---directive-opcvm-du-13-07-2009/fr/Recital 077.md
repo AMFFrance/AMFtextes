@@ -1,0 +1,1 @@
+(77) Lorsqu’il est prévu que des informations ne peuvent être divulguées qu’avec l’accord explicite des autorités compétentes, celles-ci peuvent, le cas échéant, subordonner leur accord au respect de conditions strictes.

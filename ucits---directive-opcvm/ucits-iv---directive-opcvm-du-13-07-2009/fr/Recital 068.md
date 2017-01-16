@@ -1,0 +1,1 @@
+(68) Les États membres devraient prendre les mesures administratives et organisationnelles requises pour permettre une collaboration entre les autorités nationales et les autorités compétentes des autres États membres, notamment au moyen d’accords bilatéraux ou multilatéraux entre ces autorités, qui pourraient prévoir des délégations volontaires de compétences.

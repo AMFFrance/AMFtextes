@@ -1,0 +1,1 @@
+(36) Les instruments du marché monétaire incluent les instruments transférables qui sont normalement négociés sur le marché monétaire plutôt que sur les marchés réglementés, par exemple les bons du Trésor et des collectivités publiques territoriales, les certificats de dépôt, les billets de trésorerie, les bons à moyen terme et les acceptations bancaires.

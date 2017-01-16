@@ -1,0 +1,1 @@
+(93) L’obligation de transposer la présente directive en droit national devrait être limitée aux dispositions qui apportent une modification de fond par rapport aux directives qu’elle refond. L’obligation de transposer les dispositions inchangées résulte des directives précédentes.

@@ -1,0 +1,1 @@
+(42) Pour des raisons prudentielles, il est nécessaire d’éviter qu’un OPCVM concentre de manière excessive ses placements l’exposant à un risque de contrepartie sur une même entité ou sur un ensemble d’entités appartenant à un même groupe.

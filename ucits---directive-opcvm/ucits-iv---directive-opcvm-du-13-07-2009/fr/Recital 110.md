@@ -1,0 +1,1 @@
+SECTION 2 Contrôle des tiers, information des porteurs de parts et autres droits des porteurs de parts

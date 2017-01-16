@@ -1,0 +1,1 @@
+(86) En ce qui concerne les fusions, la Commission devrait être habilitée à arrêter les mesures visant à préciser le contenu détaillé, la forme et le mode de fourniture des informations destinées aux porteurs de parts.

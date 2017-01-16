@@ -1,0 +1,1 @@
+(71) Aux fins de la prestation transfrontalière de services, des compétences claires devraient être attribuées aux diverses autorités compétentes, de manière à éliminer toute lacune ou tout chevauchement, conformément au droit applicable.

@@ -1,0 +1,6 @@
+# Article 45 - null
+
+
+1.   Le droit des États membres prévoit que les porteurs de parts, tant de l’OPCVM absorbé que de l’OPCVM absorbeur, ont le droit d’exiger, sans frais autres que ceux retenus par l’OPCVM pour couvrir les coûts de désinvestissement, le rachat ou le remboursement de leurs parts ou, lorsque c’est possible, leur conversion en parts d’un autre OPCVM poursuivant une politique de placement similaire et géré par la même société de gestion ou par toute autre société avec laquelle la société de gestion est liée dans le cadre d’une communauté de gestion ou de contrôle ou par une importante participation directe ou indirecte. Ce droit devient effectif au moment où les porteurs de parts de l’OPCVM absorbé et ceux de l’OPCVM absorbeur ont été informés de la fusion proposée conformément à l’article 43 et expire cinq jours ouvrables avant la date de calcul du ratio d’échange visée à l’article 47, paragraphe 1.
+
+2.   Sans préjudice du paragraphe 1, pour les fusions entre OPCVM et par dérogation à l’article 84, paragraphe 1, les États membres peuvent permettre aux autorités compétentes d’imposer ou d’autoriser la suspension temporaire de la souscription, du rachat ou du remboursement des parts, à condition qu’une telle suspension soit justifiée par le souci de protéger les porteurs de parts.

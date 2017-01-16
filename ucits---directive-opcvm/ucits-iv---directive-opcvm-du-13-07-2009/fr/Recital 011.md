@@ -1,0 +1,1 @@
+(11) Le principe de la surveillance exercée par l’État membre d’origine devrait permettre aux sociétés de gestion agréées dans leur État membre d’origine de fournir les services pour lesquels elles ont reçu l’agrément dans toute la Communauté, par la création de succursales ou au titre de la libre prestation de services.

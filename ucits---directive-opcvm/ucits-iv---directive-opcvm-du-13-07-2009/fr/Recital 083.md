@@ -1,0 +1,1 @@
+(83) La présente directive ne devrait pas porter atteinte aux règles nationales en matière fiscale, notamment aux dispositifs que les États membres peuvent imposer afin d’assurer le respect de ces règles sur leur territoire.

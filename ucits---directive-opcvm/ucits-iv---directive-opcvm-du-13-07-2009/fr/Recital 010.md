@@ -1,0 +1,1 @@
+(10) Il est nécessaire, afin de protéger les investisseurs, d’assurer le contrôle interne de toute société de gestion, en particulier grâce à un système de direction bicéphale et à des mécanismes de contrôle interne appropriés.

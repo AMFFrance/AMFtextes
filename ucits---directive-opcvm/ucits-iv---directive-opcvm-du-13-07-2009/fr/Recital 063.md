@@ -1,0 +1,1 @@
+(63) Les OPCVM devraient pouvoir commercialiser leurs parts à condition de prendre les mesures nécessaires pour garantir l’existence des mécanismes permettant d’effectuer les paiements aux porteurs de parts, le rachat ou le remboursement des parts, ainsi que la diffusion des informations qui incombe aux OPCVM.

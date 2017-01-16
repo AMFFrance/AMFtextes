@@ -1,0 +1,5 @@
+(44) Il est nécessaire que les mesures visant à remédier au décalage potentiel entre les intérêts dans le cas des produits pour lesquels le risque de crédit est transféré par titrisation, comme cela est envisagé en ce qui concerne la directive 2006/48/CE du Parlement européen et du Conseil du 14 juin 2006 concernant l’accès à l’activité des établissements de crédit et son exercice (6) et la directive 2006/49/CE du Parlement européen et du Conseil du 14 juin 2006 sur l’adéquation des fonds propres des entreprises d’investissement et des établissements de crédit (7), soient cohérentes et accordées dans toutes les réglementations régissant le secteur financier. La Commission présentera les propositions législatives appropriées, y compris en ce qui concerne la présente directive, pour garantir cette cohérence et cet accord, après avoir dûment étudié l’impact de ces propositions.
+
+%%% (6)  JO L 177 du 30.6.2006, p. 1.
+
+%%% (7)  JO L 177 du 30.6.2006, p. 201.

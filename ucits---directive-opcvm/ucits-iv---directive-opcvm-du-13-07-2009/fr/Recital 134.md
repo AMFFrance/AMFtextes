@@ -1,0 +1,1 @@
+Partie A Directive abrogée avec la liste de ses modifications successives

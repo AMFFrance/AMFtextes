@@ -1,0 +1,1 @@
+SECTION 2 Dispositions communes aux OPCVM maîtres et nourriciers
