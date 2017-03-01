@@ -1,0 +1,1 @@
+(45) Lorsque des conseils sont fournis avant la vente d’un produit d’assurance, outre le devoir de recueillir les exigences et les besoins du client, il y a lieu de fournir au client une recommandation personnalisée expliquant pourquoi un produit particulier correspondrait le mieux à ses exigences et à ses besoins en matière d’assurance.

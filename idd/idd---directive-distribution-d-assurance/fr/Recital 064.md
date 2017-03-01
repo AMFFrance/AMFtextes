@@ -1,0 +1,1 @@
+(64) Aux fins de la détection des infractions potentielles, les autorités compétentes devraient être dotées des pouvoirs d’enquête nécessaires et mettre en place des mécanismes efficaces pour permettre le signalement des infractions effectives ou supposées.

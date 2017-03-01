@@ -1,0 +1,1 @@
+(62) Afin de garantir une application cohérente des sanctions dans l’ensemble de l’Union, il convient que les États membres veillent à ce que les autorités compétentes tiennent compte de toutes les circonstances pertinentes lorsqu’elles déterminent le type de sanction ou d’autres mesures administratives et le niveau de sanction pécuniaire administrative à appliquer.

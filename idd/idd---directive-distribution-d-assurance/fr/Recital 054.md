@@ -1,0 +1,1 @@
+(54) Les dispositions de la présente directive relatives à la vente croisée devraient être sans préjudice de l’application des actes législatifs de l’Union qui définissent les règles régissant la vente croisée en ce qui concerne certaines catégories de biens ou de services.

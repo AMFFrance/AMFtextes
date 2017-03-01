@@ -1,0 +1,1 @@
+(11) La présente directive devrait s’appliquer aux personnes dont l’activité consiste à fournir à des tiers des services de distribution d’assurances ou de réassurances.

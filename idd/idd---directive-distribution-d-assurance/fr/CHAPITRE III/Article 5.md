@@ -1,0 +1,14 @@
+# Article 5 - Manquement à des obligations dans le cadre de l’exercice de la libre prestation de services
+
+
+1.   Si l’autorité compétente de l’État membre d’accueil a des raisons d’estimer qu’un intermédiaire d’assurance ou de réassurance ou un intermédiaire d’assurance à titre accessoire qui exerce des activités sur son territoire au titre de la libre prestation de services enfreint l’une quelconque des obligations prévues par la présente directive, elle communique ces éléments à l’autorité compétente de l’État membre d’origine.
+
+Après avoir examiné les informations reçues en vertu du premier alinéa, l’autorité compétente de l’État membre d’origine prend, le cas échéant, et dès que possible lorsqu’elle en prend, les mesures appropriées pour remédier à la situation. Elle informe l’autorité compétente de l’État membre d’accueil de toute mesure prise.
+
+Si, en dépit des mesures prises par l’État membre d’origine, ou parce que ces mesures s’avèrent insuffisantes ou qu’elles font défaut, l’intermédiaire d’assurance ou de réassurance ou l’intermédiaire d’assurance à titre accessoire persiste à agir d’une manière clairement préjudiciable à grande échelle aux intérêts des consommateurs de l’État membre d’accueil ou au bon fonctionnement des marchés de l’assurance et de la réassurance, l’autorité compétente de l’État membre d’accueil peut, après en avoir informé l’autorité compétente de l’État membre d’origine, prendre les mesures appropriées pour prévenir de nouvelles irrégularités, y compris, pour autant que cela soit absolument nécessaire, empêcher l’intermédiaire concerné de continuer d’exercer de nouvelles activités sur son territoire.
+
+En outre, l’autorité compétente de l’État membre d’origine ou de l’État membre d’accueil peut saisir l’AEAPP et lui demander de lui prêter assistance conformément à l’article 19 du règlement (UE) no 1094/2010. Dans ce cas, l’AEAPP peut agir conformément aux pouvoirs qui lui sont conférés par ledit article.
+
+2.   Le paragraphe 1 est sans préjudice du pouvoir de l’État membre d’accueil de prendre des mesures appropriées pour prévenir ou sanctionner les irrégularités commises sur son territoire dans une situation dans laquelle il est nécessaire d’engager une action immédiate pour protéger les droits des consommateurs. Ce pouvoir comprend notamment la possibilité d’empêcher les intermédiaires d’assurance ou de réassurance et les intermédiaires d’assurance à titre accessoire d’exercer de nouvelles activités sur son territoire.
+
+3.   Toute mesure adoptée par les autorités compétentes de l’État membre d’accueil au titre du présent article est communiquée à l’intermédiaire d’assurance ou de réassurance ou à l’intermédiaire d’assurance à titre accessoire concerné dans un document dûment motivé et notifiée sans retard injustifié à l’autorité compétente de l’État membre d’origine, à l’AEAPP et à la Commission.

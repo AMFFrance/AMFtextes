@@ -1,0 +1,1 @@
+(51) Il est moins nécessaire d’exiger que ces informations soient données lorsque le client cherche à réassurer ou à assurer des risques commerciaux et industriels ou, uniquement à des fins de distribution de produits d’investissement fondés sur l’assurance, lorsque le client est un client professionnel au sens de la directive 2014/65/UE.

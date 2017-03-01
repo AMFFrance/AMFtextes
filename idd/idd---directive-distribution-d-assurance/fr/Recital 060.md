@@ -1,0 +1,1 @@
+(60) En particulier, les autorités compétentes devraient avoir le pouvoir d’imposer des sanctions pécuniaires d’un montant suffisamment élevé pour neutraliser les profits réalisés ou espérés et exercer un effet dissuasif, y compris sur les établissements de grande taille et leurs dirigeants.

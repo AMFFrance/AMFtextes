@@ -1,0 +1,3 @@
+(73) Il convient de revoir la présente directive cinq ans après la date de son entrée en vigueur, afin de tenir compte de l’évolution du marché, ainsi que de l’évolution dans d’autres domaines du droit de l’Union et de l’expérience acquise par les États membres dans la mise en œuvre du droit de l’Union, en particulier en ce qui concerne les produits relevant de la directive 2003/41/CE du Parlement européen et du Conseil (10).
+
+%%% (10)  Directive 2003/41/CE du Parlement européen et du Conseil du 3 juin 2003 concernant les activités et la surveillance des institutions de retraite professionnelle (JO L 235 du 23.9.2003, p. 10).

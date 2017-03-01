@@ -1,0 +1,1 @@
+(65) Il convient que la présente directive fasse référence à la fois aux sanctions et aux autres mesures administratives, indépendamment de leur qualification en tant que sanction ou en tant qu’autre mesure en droit national.

@@ -1,0 +1,1 @@
+(19) L’incapacité des intermédiaires d’assurance d’opérer librement dans l’ensemble de l’Union entrave le bon fonctionnement du marché intérieur de l’assurance. La présente directive constitue un pas important vers un niveau accru de protection des consommateurs et d’intégration du marché.

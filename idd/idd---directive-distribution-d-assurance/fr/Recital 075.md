@@ -1,0 +1,1 @@
+(75) L’obligation de transposer la présente directive en droit national devrait se limiter aux dispositions qui modifient la directive 2002/92/CE sur le fond. L’obligation de transposer les dispositions qui ne sont pas modifiées découle de ladite directive.

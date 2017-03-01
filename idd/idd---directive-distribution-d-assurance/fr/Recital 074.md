@@ -1,0 +1,1 @@
+(74) Il convient d’abroger la directive 2002/92/CE vingt-quatre mois après l’entrée en vigueur de la présente directive. Toutefois, le chapitre III bis de la directive 2002/92/CE devrait être abrogé dès l’entrée en vigueur de la présente directive.

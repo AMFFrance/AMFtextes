@@ -1,0 +1,1 @@
+(39) Le champ toujours plus vaste des activités exercées simultanément par un grand nombre d’intermédiaires et d’entreprises d’assurance a accru le risque de conflits d’intérêts entre ces différentes activités et les intérêts de leurs clients. Il est donc nécessaire de prévoir des règles visant à empêcher que ces conflits d’intérêts ne portent atteinte aux intérêts du client.

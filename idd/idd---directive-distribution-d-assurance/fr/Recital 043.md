@@ -1,0 +1,1 @@
+(43) La présente directive visant à renforcer la protection des consommateurs, certaines de ses dispositions ne sont applicables que dans le cadre d’une relation «entreprise à consommateur», et notamment les dispositions relatives aux règles de conduite applicables aux intermédiaires d’assurance et aux autres vendeurs de produits d’assurance.

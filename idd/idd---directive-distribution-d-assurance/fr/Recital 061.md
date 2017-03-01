@@ -1,0 +1,1 @@
+(61) Afin de garantir une protection harmonisée des investisseurs et d’éviter le risque d’arbitrage réglementaire, il importe, en cas d’infraction liée à la distribution d’un produit d’investissement fondé sur l’assurance, que les sanctions et les autres mesures administratives adoptées par les États membres soient alignées sur celles prévues par le règlement (UE) no 1286/2014.

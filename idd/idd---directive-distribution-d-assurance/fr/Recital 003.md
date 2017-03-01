@@ -1,0 +1,1 @@
+(3) Toutefois, la présente directive vise une harmonisation minimale et ne devrait dès lors pas faire obstacle au maintien ou à l’adoption, par les États membres, de dispositions plus strictes visant à protéger les consommateurs, à condition que ces dispositions soient compatibles avec le droit de l’Union, y compris la présente directive.
