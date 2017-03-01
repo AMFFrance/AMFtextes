@@ -1,0 +1,1 @@
+(45) Where advice is provided prior to the sale of an insurance product, in addition to the duty to specify the customers’ demands and needs, a personalised recommendation should be provided to the customer explaining why a particular product best meets the customer’s insurance demands and needs.

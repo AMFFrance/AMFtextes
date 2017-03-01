@@ -1,0 +1,3 @@
+(73) A review of this Directive should be carried out five years after the date on which it enters into force in order to take account of market developments as well as developments in other areas of Union law or Member States’ experiences in the implementation of Union law, in particular with regard to products covered by Directive 2003/41/EC of the European Parliament and of the Council (10).
+
+%%% (10)  Directive 2003/41/EC of the European Parliament and of the Council of 3 June 2003 on the activities and supervision of institutions for occupational retirement provision (OJ L 235, 23.9.2003, p. 10).

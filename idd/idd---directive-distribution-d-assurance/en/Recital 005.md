@@ -1,0 +1,1 @@
+(5) Various types of persons or institutions, such as agents, brokers and ‘bancassurance’ operators, insurance undertakings, travel agents and car rental companies can distribute insurance products. Equality of treatment between operators and customer protection requires that all those persons or institutions be covered by this Directive.

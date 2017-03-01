@@ -1,0 +1,1 @@
+(13) This Directive should not apply to mere introducing activities consisting of the provision of data and information on potential policyholders to insurance or reinsurance intermediaries or undertakings or of information about insurance or reinsurance products or an insurance or reinsurance intermediary or undertaking to potential policyholders.

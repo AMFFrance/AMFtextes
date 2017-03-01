@@ -1,0 +1,1 @@
+(72) This Directive should not be too burdensome for small and medium-sized insurance and reinsurance distributors. One of the tools by which to achieve that objective is the proper application of the proportionality principle. That principle should apply both to the requirements imposed on the insurance and reinsurance distributors and to the exercise of supervisory powers.

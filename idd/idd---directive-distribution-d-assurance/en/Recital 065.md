@@ -1,0 +1,1 @@
+(65) This Directive should refer to both administrative sanctions and other measures irrespective of their qualification as a sanction or other measure under national law.

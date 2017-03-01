@@ -1,0 +1,1 @@
+(75) The obligation to transpose this Directive into national law should be confined to those provisions which represent an amendment of the substance of Directive 2002/92/EC. The obligation to transpose the provisions which are unchanged arises under that Directive.

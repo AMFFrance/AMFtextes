@@ -1,0 +1,1 @@
+(51) There is less of a need to require that such information be disclosed when the customer is seeking reinsurance or insurance cover for commercial and industrial risks, or solely for the purposes of distributing insurance-based investment products, when the customer is a professional client as defined in Directive 2014/65/EU.

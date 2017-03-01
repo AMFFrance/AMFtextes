@@ -1,0 +1,1 @@
+(74) Directive 2002/92/EC should be repealed 24 months after the entry into force of this Directive. However, Chapter IIIA of Directive 2002/92/EC should be deleted with effect from the date of entry into force of this Directive.

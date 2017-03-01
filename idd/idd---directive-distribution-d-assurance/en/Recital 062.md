@@ -1,0 +1,1 @@
+(62) In order to ensure a consistent application of sanctions across the Union, Member States should ensure that, when determining the type of administrative sanctions or other measures and the level of administrative pecuniary sanctions, the competent authorities take into account all relevant circumstances.

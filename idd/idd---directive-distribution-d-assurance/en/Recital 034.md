@@ -1,0 +1,1 @@
+(34) The coordination of national provisions on professional requirements and registration of persons taking up and pursuing the activity of insurance or reinsurance distribution can contribute both to the completion of the internal market for financial services and to the enhancement of consumer protection in this field.

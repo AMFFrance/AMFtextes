@@ -1,0 +1,5 @@
+(70) Directive 95/46/EC of the European Parliament and of the Council (8) and Regulation (EC) No 45/2001 of the European Parliament and of the Council (9) should govern the processing of personal data carried out by EIOPA within the framework of this Directive, under the supervision of the European Data Protection Supervisor.
+
+%%% (8)  Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (OJ L 281, 23.11.1995, p. 31).
+
+%%% (9)  Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the EU institutions and bodies and on the free movement of such data (OJ L 8, 12.1.2001, p. 1).

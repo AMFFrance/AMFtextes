@@ -1,0 +1,1 @@
+(11) This Directive should apply to persons whose activity consists of providing insurance or reinsurance distribution services to third parties.

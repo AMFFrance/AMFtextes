@@ -1,0 +1,1 @@
+(39) The expanding range of activities that many insurance intermediaries and undertakings carry on simultaneously has increased potential for conflicts of interest between those different activities and the interests of their customers. It is therefore necessary to provide for rules to ensure that such conflicts of interest do not adversely affect the interests of the customer.

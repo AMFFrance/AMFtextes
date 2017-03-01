@@ -1,0 +1,1 @@
+(54) The provisions of this Directive concerning cross-selling should be without prejudice to the application of Union legislative acts providing for rules applicable to cross-selling practices in relation to certain categories of goods or services.

@@ -1,0 +1,1 @@
+(53) Cross-selling practices are a common strategy used by insurance distributors throughout the Union. They can provide benefits to customers but can also represent practices where the interests of customers are not adequately considered. This Directive should not prevent the distribution of multi-risk insurance policies.

@@ -1,0 +1,1 @@
+(71) This Directive respects the fundamental rights and observes the principles recognised in the Charter of Fundamental Rights of the European Union, as enshrined in the Treaties.

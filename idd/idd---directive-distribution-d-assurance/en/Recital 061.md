@@ -1,0 +1,1 @@
+(61) In order to deliver consistent investor protection and avoid the risk of regulatory arbitrage, it is important that, in the event of breaches related to the distribution of an insurance-based investment product, administrative sanctions and other measures set out by Member States are aligned to those set out in Regulation (EU) No 1286/2014.

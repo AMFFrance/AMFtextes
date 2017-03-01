@@ -1,0 +1,1 @@
+(9) There are still substantial differences between national provisions which create barriers to the taking-up and pursuit of the activities of insurance and reinsurance distribution in the internal market. There is a need to strengthen further the internal market and promote a true internal market for life and non-life insurance products and services.

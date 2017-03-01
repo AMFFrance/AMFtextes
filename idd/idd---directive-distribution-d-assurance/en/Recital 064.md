@@ -1,0 +1,1 @@
+(64) In order to detect potential breaches, the competent authorities should have the necessary investigatory powers, and should establish effective mechanisms, to enable reporting of potential or actual breaches.

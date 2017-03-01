@@ -1,0 +1,1 @@
+(60) In particular, the competent authorities should be empowered to impose pecuniary sanctions which are sufficiently high to offset the actual or potential profits, and to be dissuasive even for larger institutions and their managers.

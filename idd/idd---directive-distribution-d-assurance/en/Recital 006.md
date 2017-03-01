@@ -1,0 +1,1 @@
+(6) Consumers should benefit from the same level of protection despite the differences between distribution channels. In order to guarantee that the same level of protection applies and that the consumer can benefit from comparable standards, in particular in the area of the disclosure of information, a level playing field between distributors is essential.
