@@ -1,0 +1,1 @@
+(10) To ensure that the tick size regime can operate effectively and that market participants have sufficient time to implement the new requirements, it is appropriate to provide for the collection of certain data and for an early publication of the average daily number of transactions for each financial instrument covered by this Regulation.

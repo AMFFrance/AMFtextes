@@ -1,0 +1,3 @@
+(7) The meaning of the term ‘most relevant market in terms of liquidity’ should be clarified for the purposes of this Regulation, since Regulation (EU) No 600/2014 of the European Parliament and of the Council (2) uses this term for both the purpose of the reference price waiver and for the purpose of transaction reporting.
+
+%%% (2)  Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012 (OJ L 173, 12.6.2014, p. 84).

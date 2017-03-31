@@ -1,0 +1,1 @@
+(6) It is important that all exchange-traded funds covered by this Regulation have the same tick size regime based on a single liquidity band, regardless of their average daily number of transactions, so that the risk of circumvention of the tick size regime in relation to those instruments is reduced.

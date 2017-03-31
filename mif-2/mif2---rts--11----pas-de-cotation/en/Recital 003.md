@@ -1,0 +1,1 @@
+(3) In particular, certificates are only traded in certain Member States. In view of the characteristics of those financial instruments and the liquidity, scale and nature of the markets on which they are traded, a mandatory tick size regime is not necessary to prevent the occurrence of disorderly trading conditions.

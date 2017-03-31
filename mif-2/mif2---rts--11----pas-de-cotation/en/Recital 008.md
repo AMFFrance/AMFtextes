@@ -1,0 +1,1 @@
+(8) The tick size regime only determines the minimum difference between two price levels of orders sent in relation to a financial instrument in the order-book. It should therefore be applied equally, regardless of the currency of the financial instrument.

@@ -1,0 +1,1 @@
+(4) Non-equity financial instruments and fixed income products are largely traded over the counter, with only a limited number of transactions being executed on trading venues. Due to the specific characteristics of the liquidity of those instruments on electronic platforms and their fragmentation, no mandatory tick size regime for those instruments is deemed necessary either.

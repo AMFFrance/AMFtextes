@@ -1,0 +1,6 @@
+# ANNEX
+
+## Tick size table
+
+  Liquidity bands Price ranges 0 = Average daily number of transactions < 10 10 = Average daily number of transactions < 80 80 = Average daily number of transactions < 600 600 = Average daily number of transactions < 2 000 2 000 = Average daily number of transactions < 9 000 9 000 = Average daily number of transactions 0 = price < 0,1 0,0005 0,0002 0,0001 0,0001 0,0001 0,0001 0,1 = price < 0,2 0,001 0,0005 0,0002 0,0001 0,0001 0,0001 0,2 = price < 0,5 0,002 0,001 0,0005 0,0002 0,0001 0,0001 0,5 = price < 1 0,005 0,002 0,001 0,0005 0,0002 0,0001 1 = price < 2 0,01 0,005 0,002 0,001 0,0005 0,0002 2 = price < 5 0,02 0,01 0,005 0,002 0,001 0,0005 5 = price < 10 0,05 0,02 0,01 0,005 0,002 0,001 10 = price < 20 0,1 0,05 0,02 0,01 0,005 0,002 20 = price < 50 0,2 0,1 0,05 0,02 0,01 0,005 50 = price < 100 0,5 0,2 0,1 0,05 0,02 0,01 100 = price < 200 1 0,5 0,2 0,1 0,05 0,02 200 = price < 500 2 1 0,5 0,2 0,1 0,05 500 = price < 1 000 5 2 1 0,5 0,2 0,1 1 000 = price < 2 000 10 5 2 1 0,5 0,2 2 000 = price < 5 000 20 10 5 2 1 0,5 5 000 = price < 10 000 50 20 10 5 2 1 10 000 = price < 20 000 100 50 20 10 5 2 20 000 = price < 50 000 200 100 50 20 10 5 50 000 = price 500 200 100 50 20 10
+
