@@ -1,0 +1,1 @@
+(12) In order to provide competent authorities and ESMA with accurate data, trading venues, APAs and CTPs should ensure that their reports include single-counted transactions only.
