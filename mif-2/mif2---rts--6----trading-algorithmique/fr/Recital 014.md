@@ -1,0 +1,1 @@
+(14) Il devrait être tenu de se conformer aux dispositions du présent règlement quand bien même il ne recourt pas au trading algorithmique, dès lors que ses clients pourraient utiliser l'accès électronique direct pour y recourir eux-mêmes.

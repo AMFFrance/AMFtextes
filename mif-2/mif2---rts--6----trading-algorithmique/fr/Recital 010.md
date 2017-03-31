@@ -1,0 +1,3 @@
+(10) Les entreprises d'investissement recourant au trading algorithmique devraient contrôler que leurs systèmes de négociation ne peuvent être utilisés à aucune fin contraire au règlement (UE) no 596/2014 du Parlement européen et du Conseil (2) ou aux règles d'une plateforme de négociation à laquelle elles sont connectées. Les ordres ou les transactions suspects devraient être signalés aux autorités compétentes conformément à ce règlement.
+
+%%% (2)  Règlement (UE) no 596/2014 du Parlement européen et du Conseil du 16 avril 2014 sur les abus de marché (règlement relatif aux abus de marché) et abrogeant la directive 2003/6/CE du Parlement européen et du Conseil et les directives 2003/124/CE, 2003/125/CE et 2004/72/CE de la Commission (JO L 173 du 12.6.2014, p. 1).

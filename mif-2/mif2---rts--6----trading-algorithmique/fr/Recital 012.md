@@ -1,0 +1,1 @@
+(12) L'émission d'alertes résultant d'un suivi en temps réel devrait être aussi immédiate que techniquement possible. Toute mesure consécutive à ce suivi devrait être engagée le plus rapidement possible par rapport à un niveau raisonnable d'efficacité et de coûts pour les personnes et les systèmes concernés.

@@ -1,0 +1,1 @@
+(16) Il conviendrait de prescrire le contenu et le format des formulaires que les entreprises d'investissement recourant à la technique du trading à haute fréquence doivent utiliser pour communiquer à leurs autorités compétentes les enregistrements de leurs ordres passés, ainsi que la durée durant laquelle ces enregistrements devraient être conservés.

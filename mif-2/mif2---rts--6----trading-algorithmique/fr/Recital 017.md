@@ -1,0 +1,3 @@
+(17) Afin de garantir la cohérence avec l'obligation générale de conservation des enregistrements des ordres qui incombe aux entreprises d'investissement, il conviendrait d'aligner la durée de conservation obligatoire des enregistrements à respecter par les entreprises d'investissement recourant au trading algorithmique à haute fréquence sur celle prescrite à l'article 25, paragraphe 1, du règlement (UE) no 600/2014 du Parlement européen et du Conseil (3).
+
+%%% (3)  Règlement (UE) no 600/2014 du Parlement européen et du Conseil du 15 mai 2014 concernant les marchés d'instruments financiers et modifiant le règlement (UE) no 648/2012 (JO L 173 du 12.6.2014, p. 84).

@@ -1,0 +1,1 @@
+(9) Une entreprise d'investissement devrait pouvoir retirer tout ou partie de ses ordres si nécessaire (mécanisme de coupe-circuit ou «kill functionality»). Pour qu'un tel retrait soit efficace, elle devrait toujours être en mesure de savoir quels algorithmes de négociation, traders ou clients sont à l'origine d'un ordre.

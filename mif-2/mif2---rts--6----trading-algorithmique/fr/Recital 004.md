@@ -1,0 +1,1 @@
+(4) Les entreprises d'investissement devraient être tenues de conduire des tests de conformité leur permettant de vérifier que leurs systèmes de négociation communiquent et interagissent correctement avec ceux de la plateforme de négociation ou du fournisseur d'accès direct au marché avec lesquels elles traitent et que les données de marché sont traitées correctement.
