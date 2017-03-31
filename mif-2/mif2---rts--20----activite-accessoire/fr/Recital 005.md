@@ -1,0 +1,1 @@
+(5) Étant donné que la taille, le nombre de participants au marché et le niveau de liquidité, entre autres caractéristiques, varient fortement d'un marché de matières premières à l'autre, le test visant à déterminer la taille de l'activité de négociation devrait donner lieu à l'application de seuils différents aux différentes catégories d'actifs.
