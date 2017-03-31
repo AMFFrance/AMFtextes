@@ -1,0 +1,1 @@
+(1) Pour permettre aux autorités compétentes de procéder à une analyse efficace des données, une cohérence des normes et des formats utilisés pour les déclarations de transactions serait nécessaire.

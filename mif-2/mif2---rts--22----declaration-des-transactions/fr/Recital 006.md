@@ -1,0 +1,1 @@
+(6) Pour que les entreprises d'investissement responsables de l'exécution des transactions puissent être identifiées de manière efficace et sûre, elles devraient veiller à être identifiées, dans la déclaration de transaction envoyée conformément à leur obligation de déclaration, par un code LEI (identifiant unique d'entité juridique) validé, publié et dûment renouvelé.

@@ -1,0 +1,1 @@
+(3) La notion de transaction ne devrait pas inclure les actes ou événements qu'il n'est pas nécessaire de déclarer aux autorités compétentes aux fins de la surveillance des marchés. Pour garantir l'absence d'informations concernant ces actes et ces faits dans les déclarations de transactions, ceux-ci devraient être spécifiquement exclus de la notion de transaction.

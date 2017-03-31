@@ -1,0 +1,1 @@
+(8) Afin de faciliter la surveillance des marchés, l'identification des clients devrait être cohérente, unique et fiable. Toute déclaration de transaction devrait ainsi comporter les nom, prénom et date de naissance des clients qui sont des personnes physiques et désigner les clients qui sont des entités juridiques par leur LEI.

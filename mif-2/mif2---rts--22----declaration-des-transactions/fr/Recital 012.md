@@ -1,0 +1,1 @@
+(12) Les ventes à découvert devraient être spécifiquement signalées en tant que telles, que ces transactions constituent une vente à découvert complète ou partielle.
