@@ -1,0 +1,1 @@
+(18) Pour que la nouvelle réglementation en matière de transparence puisse produire tous ses effets, il convient de prévoir la collecte de certaines données et la publication rapide du marché le plus pertinent en termes de liquidité, de la taille des ordres d'une taille élevée, des seuils de publication différée et des tailles normales de marché.
