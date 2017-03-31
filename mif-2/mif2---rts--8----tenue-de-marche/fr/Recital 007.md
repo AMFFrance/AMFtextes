@@ -1,0 +1,1 @@
+(7) Les plates-formes de négociation censées disposer de systèmes de tenue de marché conformément au présent règlement devraient être tenues de réexaminer leurs accords existants pour s'assurer que leurs dispositions concernant les traders recourant aux algorithmes dans le cadre d'une stratégie de tenue de marché sont conformes au présent règlement.
