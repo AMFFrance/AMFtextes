@@ -1,0 +1,1 @@
+(3) Il convient de permettre aux autorités compétentes de s'échanger également des informations utiles pour surveiller efficacement les établissements de crédit qui fournissent des services d'investissement ou exercent des activités d'investissement.
