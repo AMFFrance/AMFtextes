@@ -1,0 +1,1 @@
+(5) As commodity markets differ significantly in terms of size, number of market participants, level of liquidity and other characteristics, different thresholds shall apply for different asset classes in relation to the test on the size of the trading activity.
