@@ -1,0 +1,1 @@
+(23) S'il conviendrait qu'une fois remplie la condition d'amélioration de la qualité, les entreprises d'investissement maintiennent le meilleur niveau de qualité atteint, cela ne devrait pas leur imposer pour autant d'assurer une qualité de service toujours croissante.

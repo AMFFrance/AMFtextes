@@ -1,0 +1,1 @@
+(30) Cependant, tout avantage non pécuniaire qui suppose l'allocation de ressources importantes par un tiers à l'entreprise d'investissement n'est pas considéré comme mineur et est réputé compromettre le respect, par l'entreprise d'investissement, de son obligation d'agir au mieux des intérêts de ses clients.

@@ -1,0 +1,1 @@
+(16) Les entités qui ne sont pas soumises aux exigences de la directive 2014/65/UE, mais qui peuvent être autorisées à fournir des services d'investissement en vertu de cette directive, devraient aussi se conformer, pour ces services, aux exigences en matière de gouvernance des produits qu'elle prévoit.

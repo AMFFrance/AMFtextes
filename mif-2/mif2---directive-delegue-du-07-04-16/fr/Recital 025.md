@@ -1,0 +1,1 @@
+(25) Afin que les clients bénéficient d'informations pertinentes complètes sur les services qui leur sont fournis, les entreprises d'investissement devraient les informer des droits, commissions ou autres avantages pécuniaires qui leur sont transférés.

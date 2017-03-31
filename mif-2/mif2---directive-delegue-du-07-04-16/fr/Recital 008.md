@@ -1,0 +1,1 @@
+(8) Si certaines opérations de financement sur titres peuvent exiger le transfert de la propriété d'actifs de clients, les entreprises d'investissement ne devraient pas être en mesure, dans ce contexte, de prendre des arrangements interdits en vertu de l'article 16, paragraphe 10, de la directive 2014/65/UE.
