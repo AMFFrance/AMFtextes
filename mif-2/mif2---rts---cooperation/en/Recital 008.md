@@ -1,0 +1,1 @@
+(8) ESMA did not conduct public consultations on these draft regulatory technical standards as these relate to the exchange of information between competent authorities when cooperating in supervisory activities, on-the-spot verifications and investigations and this was considered disproportionate in relation to the scope and impact,

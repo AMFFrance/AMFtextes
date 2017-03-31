@@ -1,0 +1,1 @@
+(3) It is important to enable competent authorities to also exchange relevant information for the effective monitoring of credit institutions where they provide investment services or perform investment activities.
