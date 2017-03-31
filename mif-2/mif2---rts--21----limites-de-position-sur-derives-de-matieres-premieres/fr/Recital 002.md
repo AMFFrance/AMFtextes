@@ -1,0 +1,1 @@
+(2) Afin d'identifier clairement un petit nombre de notions découlant de la directive 2014/65/UE et de préciser les termes techniques nécessaires aux fins du présent règlement, il y a lieu de définir un certain nombre de termes dans le but d'assurer une application uniforme.
