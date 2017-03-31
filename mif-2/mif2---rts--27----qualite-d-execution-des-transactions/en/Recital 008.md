@@ -1,0 +1,1 @@
+(8) In order to have complete transparency on the quality of execution for transactions in relation to price, it is appropriate that the information provided in relation to price should exclude all commissions or accrued interest, where relevant.

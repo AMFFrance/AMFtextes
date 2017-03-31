@@ -1,0 +1,1 @@
+(14) In order to compare the quality of execution for orders of different size, execution venues should be required to report on transactions within several size ranges. The thresholds for these ranges should be dependent on the type of financial instrument and its liquidity to ensure that they provide an adequate sample of executions in a size that is typical in that instrument.

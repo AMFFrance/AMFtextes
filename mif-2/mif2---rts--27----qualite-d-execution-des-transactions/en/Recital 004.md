@@ -1,0 +1,1 @@
+(4) To avoid inappropriate comparison between execution venues and ensure the relevance of collected data, execution venues should submit separate reports corresponding to segments that operate different order books or that are regulated differently or use different market segment identifiers.

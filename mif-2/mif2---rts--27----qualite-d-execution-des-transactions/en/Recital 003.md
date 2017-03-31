@@ -1,0 +1,1 @@
+(3) Differences in the type of execution venue and financial instruments require that the content of reporting should vary depending on several factors. It is appropriate to differentiate the amount and nature of reported data according to trading systems, trading modes and trading platforms to provide a proper context for the quality of execution obtained.

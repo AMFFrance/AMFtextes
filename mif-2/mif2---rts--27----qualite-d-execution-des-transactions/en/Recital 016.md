@@ -1,0 +1,1 @@
+(16) The reports by execution venues should be complemented by the output of a consolidated tape provider established by Directive 2014/65/EU thus allowing for the development of enhanced measures of execution quality.

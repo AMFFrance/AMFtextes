@@ -1,0 +1,1 @@
+(15) It is important that execution venues collect data throughout the normal hours of their operation. Reporting should therefore be made without charge in a machine readable electronic format via an internet website to enable the public to download, search, sort and analyse all the provided data.

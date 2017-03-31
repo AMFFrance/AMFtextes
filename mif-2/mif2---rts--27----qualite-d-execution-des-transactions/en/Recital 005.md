@@ -1,0 +1,1 @@
+(5) To ensure an accurate picture of the quality of execution that effectively occurred, trading venues should not publish among executed orders those traded over the counter and reported onto the trading venue.
