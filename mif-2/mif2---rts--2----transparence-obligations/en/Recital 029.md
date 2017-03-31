@@ -1,0 +1,1 @@
+(29) Likewise, the trade percentiles used to determine the size specific to the instrument which allow for the pre-trade transparency obligations for non-equity instruments to be waived, should be gradually adapted.

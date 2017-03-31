@@ -1,0 +1,1 @@
+(30) For this purpose, ESMA should, on an annual basis, submit to the Commission an assessment of the waiver thresholds and, where appropriate, submit a revised regulatory standard to adapt the waiver thresholds applicable to non-equity instruments.

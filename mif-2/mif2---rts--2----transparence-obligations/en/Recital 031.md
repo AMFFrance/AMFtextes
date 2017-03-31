@@ -1,0 +1,3 @@
+(31) For the purpose of the transparency calculations, reference data is necessary to determine the sub-asset class to which each financial instrument belongs. Therefore, it is necessary to require trading venues to provide additional reference data to that required by Commission Delegated Regulation (EU) 2017/585 (4).
+
+%%% (4)  Commission Delegated Regulation (EU) 2017/585 of 14 July 2016 supplementing Regulation (EU) No 600/2014 of the European Parliament and of the Council with regard to regulatory technical standards for the data standards and formats for financial instrument reference data and technical measures in relation to arrangements to be made by the European Securities and Markets Authority and competent authorities (see page 368 of this Official Journal).

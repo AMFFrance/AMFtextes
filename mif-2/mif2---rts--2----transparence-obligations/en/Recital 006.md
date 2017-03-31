@@ -1,0 +1,1 @@
+(6) Exchange-traded-commodities (ETCs) and exchange-traded notes (ETNs) subject to this Regulation should be considered as debt instruments due to their legal structure. However, since they are traded in a similar fashion to ETFs, a similar transparency regime as that of ETFs should be applied.

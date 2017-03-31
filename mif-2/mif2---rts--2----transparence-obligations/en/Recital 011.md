@@ -1,0 +1,3 @@
+(11) Investment firms should make public the details of transactions executed outside a trading venue through an APA. This Regulation should set out the way investment firms report their transactions to APAs and should apply in conjunction with Commission Delegated Regulation (EU) 2017/571 (2).
+
+%%% (2)  Commission Delegated Regulation (EU) 2017/571 of 2 June 2016 supplementing Directive 2014/65/EU of the European Parliament and of the Council with regard to regulatory technical standards on the authorisation, organisational requirements and the publication of transactions for data reporting services providers (see page 126 of this Official Journal).

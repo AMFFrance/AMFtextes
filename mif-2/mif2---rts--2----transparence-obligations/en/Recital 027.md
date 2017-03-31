@@ -1,0 +1,1 @@
+(27) In order to ensure a smooth implementation of the new transparency requirements, it is appropriate to phase-in the transparency provisions. The liquidity threshold 'average daily number of trades' used for the determination of bonds for which there is a liquid market should be adapted in a gradual manner.
