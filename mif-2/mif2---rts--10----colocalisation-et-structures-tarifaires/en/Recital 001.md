@@ -1,0 +1,1 @@
+(1) It is important to adopt detailed regulatory technical standards to clearly identify conditions when co-location and fee structures used by trading venues may be considered fair and non-discriminatory.

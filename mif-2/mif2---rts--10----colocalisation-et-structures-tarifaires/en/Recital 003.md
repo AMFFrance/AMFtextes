@@ -1,0 +1,1 @@
+(3) In order to ensure harmonised conditions, common requirements should apply to all types of co-location services and to trading venues that organise their own data centres or that use data centres owned or managed by third parties.

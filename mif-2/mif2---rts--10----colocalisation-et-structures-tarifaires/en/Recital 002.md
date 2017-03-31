@@ -1,0 +1,1 @@
+(2) Directive 2014/65/EU extends the requirements relating to co-location and fee structures to multilateral trading facilities and organised trading facilities. It is therefore important to ensure that those venues are also within the scope of this Regulation.
