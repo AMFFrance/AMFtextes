@@ -1,0 +1,3 @@
+(10) An investment firm engaged in algorithmic trading should monitor that its trading systems cannot be used for any purpose that is contrary to Regulation (EU) No 596/2014 of the European Parliament and of the Council (2) or to the rules of a trading venue to which it is connected. Suspicious transactions or orders should be reported to the competent authorities in accordance with that Regulation.
+
+%%% (2)  Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC (OJ L 173, 12.6.2014, p. 1).

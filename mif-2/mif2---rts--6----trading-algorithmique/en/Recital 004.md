@@ -1,0 +1,1 @@
+(4) Conformance testing should be made in order to verify that the trading systems of an investment firm communicate and interact properly with the trading systems of the trading venue or of the direct market access (DMA) provider and that market data are processed correctly.

@@ -1,0 +1,1 @@
+(9) An investment firm should be able to withdraw all or some of its orders where this becomes necessary (‘kill functionality’). For such a withdrawal to be effective, an investment firm should always be in a position to know which trading algorithms, traders or clients are responsible for an order.

@@ -1,0 +1,3 @@
+(17) To ensure consistency with the general obligation for an investment firm to keep records of orders, the required record keeping periods for an investment firm engaging in high-frequency algorithmic trading technique should be aligned with the ones laid down in Article 25(1) of Regulation (EU) No 600/2014 of the European Parliament and of the Council (3).
+
+%%% (3)  Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012 (OJ L 173, 12.6.2014, p. 84).

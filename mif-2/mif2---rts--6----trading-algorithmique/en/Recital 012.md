@@ -1,0 +1,1 @@
+(12) The generation of alerts following real time monitoring should be done as instantaneously as technically possible. Any actions following that monitoring should be undertaken as soon as possible having regard to a reasonable level of efficiency and expenditure of the persons and systems concerned.

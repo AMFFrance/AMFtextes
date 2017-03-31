@@ -1,0 +1,1 @@
+(1) Systems and risk controls used by an investment firm engaged in algorithmic trading, providing direct electronic access or acting as general clearing members, should be efficient, resilient and have adequate capacity, having regard to the nature, scale and complexity of the business model of that investment firm.

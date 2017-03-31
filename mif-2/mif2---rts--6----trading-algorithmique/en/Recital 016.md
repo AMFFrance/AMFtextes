@@ -1,0 +1,1 @@
+(16) The content and format of the forms to be used by an investment firm engaged in high frequency trading technique for submitting to the competent authorities the records of its placed orders and the length of time that those records should be kept should be laid down.
