@@ -1,0 +1,1 @@
+(14) Les plates-formes de négociation et leurs membres devraient être tenus de disposer des dispositifs adéquats pour annuler les ordres non exécutés en cas d'urgence dans des circonstances exceptionnelles.

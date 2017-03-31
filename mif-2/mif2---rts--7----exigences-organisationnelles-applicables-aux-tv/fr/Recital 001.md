@@ -1,0 +1,1 @@
+(1) Il importe de faire en sorte que les plates-formes de négociation qui permettent le recours au trading algorithmique disposent de systèmes et de contrôles suffisants.

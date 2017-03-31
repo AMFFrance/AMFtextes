@@ -1,0 +1,1 @@
+(4) Les dispositifs de gouvernance, le rôle de la fonction de vérification de la conformité, la dotation en personnel et l'externalisation devraient être réglementés dans le cadre des exigences organisationnelles afin de garantir la résilience des systèmes de négociation électroniques.

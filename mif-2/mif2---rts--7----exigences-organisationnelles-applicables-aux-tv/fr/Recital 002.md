@@ -1,0 +1,1 @@
+(2) Conformément à l'article 18, paragraphe 5, de la directive 2014/65/UE, les dispositions du présent règlement devraient s'appliquer non seulement aux marchés réglementés, mais aussi aux systèmes de négociation multilatérale et aux systèmes organisés de négociation.
