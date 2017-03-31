@@ -1,0 +1,1 @@
+(7) Trading venues for which it is considered appropriate to have market making schemes in place in accordance with this Regulation should be required to review their existing agreements to ensure that the provisions of those agreements concerning algorithmic traders pursuing a market making strategy comply with this Regulation.
