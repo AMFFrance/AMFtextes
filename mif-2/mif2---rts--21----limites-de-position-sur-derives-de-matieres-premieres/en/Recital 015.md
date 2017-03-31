@@ -1,0 +1,1 @@
+(15) For certain agricultural commodity derivatives, which have a material impact on consumer food prices, the methodology enables a competent authority to set a baseline and position limit beneath the minimum of the general range where it finds evidence of speculative activity impacting significantly on prices.

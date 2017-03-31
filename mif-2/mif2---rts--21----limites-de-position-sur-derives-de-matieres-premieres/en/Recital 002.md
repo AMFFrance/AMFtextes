@@ -1,0 +1,1 @@
+(2) In order to clearly identify a limited number of concepts stemming from Directive 2014/65/EU, as well as to specify technical terms necessary for this Regulation, a number of terms should be defined to ensure uniform application.

@@ -1,0 +1,1 @@
+(21) With the same objective of limiting disorderly markets as the spot month approaches because of large discrepancies between calculations of deliverable supply and open interest, deliverable supply is defined to include any substitute grades or types of a commodity that can be delivered in settlement of a commodity derivative contract under the terms of that contract.
