@@ -1,0 +1,1 @@
+(1) Il importe d'adopter des normes techniques de réglementation pour définir clairement les conditions dans lesquelles les services de colocalisation et les structures tarifaires utilisés par les plates-formes de négociation peuvent être considérés comme équitables et non discriminatoires.

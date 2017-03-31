@@ -1,0 +1,1 @@
+(3) Pour assurer des conditions harmonisées, les exigences communes devraient s'appliquer à tous les types de services de colocalisation et aux plates-formes de négociation qui mettent en place leurs propres centres de données ou qui utilisent de tels centres détenus ou gérés par des tiers.

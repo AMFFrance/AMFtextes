@@ -1,0 +1,1 @@
+(2) La directive 2014/65/UE étend les exigences relatives à la colocalisation et aux structures tarifaires aux systèmes multilatéraux de négociation et aux systèmes organisés de négociation. Il faut donc veiller à ce que ces plates-formes entrent également dans le champ d'application du présent règlement.
