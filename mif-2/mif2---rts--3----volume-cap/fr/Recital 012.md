@@ -1,0 +1,1 @@
+(12) Afin de fournir aux autorités compétentes et à l'AEMF des données exactes, les plates-formes de négociation, les APA et les CTP devraient veiller à ce que les transactions figurant dans leurs déclarations n'aient été prises en compte qu'une seule fois.
