@@ -1,0 +1,1 @@
+(19) For reasons of consistency and in order to ensure the smooth functioning of the financial markets, it is necessary that the provisions laid down in this Regulation and the provisions laid down in Regulation (EU) No 600/2014 apply from the same date.

@@ -1,0 +1,1 @@
+(6) In order to ensure certain and efficient identification of investment firms responsible for execution of transactions, those firms should ensure that they are identified in the transaction report submitted pursuant to their transaction reporting obligation using validated, issued and duly renewed legal entity identifiers (LEIs).

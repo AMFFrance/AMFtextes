@@ -1,0 +1,1 @@
+(1) For the purposes of effective data analysis by competent authorities, there should be consistency in the standards and formats used when reporting transactions.

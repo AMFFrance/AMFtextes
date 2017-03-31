@@ -1,0 +1,1 @@
+(17) In order to be able to track the cancellations or corrections, the investment firm should retain the details of the corrections and cancellations provided to it by the ARM in the case where the ARM, in accordance with instructions from the investment firm, cancels or corrects a transaction report submitted on behalf of an investment firm.

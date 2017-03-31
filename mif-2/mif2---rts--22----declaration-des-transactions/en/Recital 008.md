@@ -1,0 +1,1 @@
+(8) In order to facilitate market surveillance, client identification should be consistent, unique and robust. Transaction reports should therefore include the full name and date of birth of clients that are natural persons and should identify clients that are legal entities by their LEIs.

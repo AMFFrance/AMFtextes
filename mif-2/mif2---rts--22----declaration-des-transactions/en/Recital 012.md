@@ -1,0 +1,1 @@
+(12) Short Sale transactions should be specifically flagged as such regardless of whether these transactions constitute a full or partial short sale transaction.
