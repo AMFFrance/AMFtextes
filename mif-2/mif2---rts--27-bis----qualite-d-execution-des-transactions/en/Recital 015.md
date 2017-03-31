@@ -1,0 +1,1 @@
+(15) Investment firms should not be prevented from adopting an additional level of reporting which is more granular, provided that in such case the additional report complements and does not replace what is required under this Regulation.

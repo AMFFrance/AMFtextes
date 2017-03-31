@@ -1,0 +1,1 @@
+(14) Information on identity of execution venues and on the quality of execution should be published annually and should refer to order execution behaviour for each class of financial instruments in order to capture relevant changes within the preceding calendar year.

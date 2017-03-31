@@ -1,0 +1,3 @@
+(13) It is also appropriate to determine the scope of such publication and its essential features, including the use that investment firms make of the data on execution quality available from execution venues under Commission Delegated Regulation (EU) 2017/575 (2).
+
+%%% (2)  Commission Delegated Regulation (EU) 2017/575 of 8 June 2016 supplementing Directive 2014/65/EU of the European Parliament and of the Council on markets in financial instruments with regard to regulatory technical standards concerning the data to be published by execution venues on the quality of execution of transactions (see page 152 of this Official Journal).
