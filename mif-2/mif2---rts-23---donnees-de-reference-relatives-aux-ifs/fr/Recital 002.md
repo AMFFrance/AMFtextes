@@ -1,0 +1,1 @@
+(2) La communication et la publication des données de référence sous une forme électronique, lisible par machine et téléchargeable facilitent l'utilisation et l'échange efficaces de ces données.

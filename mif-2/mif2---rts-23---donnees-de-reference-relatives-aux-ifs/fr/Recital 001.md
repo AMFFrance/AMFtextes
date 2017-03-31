@@ -1,0 +1,1 @@
+(1) Afin de permettre aux autorités compétentes de surveiller efficacement le marché, les données de référence relatives aux instruments financiers doivent être communiquées dans un format cohérent et selon des normes uniformes.
