@@ -1,0 +1,1 @@
+(14) Les renseignements concernant l'identité des plates-formes d'exécution et la qualité de l'exécution devraient être publiés tous les ans et traiter des comportements en matière d'exécution des ordres pour chaque catégorie d'instruments financiers, afin de faire ressortir les changements pertinents survenus durant l'année civile précédente.

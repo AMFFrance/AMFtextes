@@ -1,0 +1,3 @@
+(13) Il importe en outre de déterminer l'étendue de cette publication et ses caractéristiques essentielles, y compris l'utilisation que les entreprises d'investissement font des données sur la qualité d'exécution disponibles auprès des plates-formes d'exécution en application du règlement délégué (UE) 2017/575 de la Commission (2)
+
+%%% (2)  Règlement délégué (UE) 2017/575 de la Commission du 8 juin 2016 complétant la directive 2014/65/UE du Parlement européen et du Conseil concernant les marchés d'instruments financiers par des normes techniques de réglementation relatives aux données que doivent publier les plates-formes d'exécution sur la qualité d'exécution des transactions (voir page 152 du présent Journal officiel).

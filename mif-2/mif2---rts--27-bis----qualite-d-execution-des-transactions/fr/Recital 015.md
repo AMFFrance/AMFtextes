@@ -1,0 +1,1 @@
+(15) Les entreprises d'investissement ne devraient pas être empêchées de se plier à des obligations d'information supplémentaires plus détaillées, à condition que ce rapport supplémentaire complète mais ne remplace pas ce qui est exigé en vertu du présent règlement.
