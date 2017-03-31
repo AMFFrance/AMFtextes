@@ -1,0 +1,1 @@
+(1) Pour éviter les distorsions de concurrence, les contreparties centrales et les plates-formes de négociation ne devraient pouvoir refuser une demande d'accès à une contrepartie centrale ou une plate-forme de négociation que si elles ont déployé tous les efforts raisonnables pour gérer le risque lié à l'octroi de cet accès et que le risque reste néanmoins excessif.

@@ -1,0 +1,4 @@
+# Article 8 - Conditions auxquelles l'octroi de l'accès est réputé mettre en péril le fonctionnement harmonieux et ordonné des marchés ou accentuer le risque systémique
+
+
+Outre la fragmentation des liquidités au sens de l'article 2, paragraphe 1, point 45, du règlement (UE) no 600/2014, aux fin de l'article 35, paragraphe 4, point b), et de l'article 36, paragraphe 4, point b), dudit règlement, l'octroi de l'accès est réputé mettre en péril le fonctionnement harmonieux et ordonné des marchés ou accentuer le risque systémique si l'autorité peut motiver le refus, y compris par des éléments montrant que les procédures de gestion des risques d'une ou des deux parties à la demande d'accès ne suffisent pas à empêcher l'octroi de l'accès d'entraîner des risques excessifs pour des tiers, et qu'il n'est pas possible d'atténuer suffisamment ces risques.
