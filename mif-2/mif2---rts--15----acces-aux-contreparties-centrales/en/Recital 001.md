@@ -1,0 +1,1 @@
+(1) To prevent distortion of competition, central counterparties (CCPs) as well as trading venues should only be able to deny a request for access to a CCP or a trading venue where they have made all reasonable efforts to manage the risk arising from granting that access but significant undue risk remains.

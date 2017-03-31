@@ -1,0 +1,1 @@
+(12) It is important for trading venues to be consistent about calculating their notional amount for the purposes of Regulation (EU) No 600/2014 so that the access provisions can be applied fairly by trading venues. This is particularly relevant for certain types of exchange-traded derivatives, traded in units, such as barrels or tons.
