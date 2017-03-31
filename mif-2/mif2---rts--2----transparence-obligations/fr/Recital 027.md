@@ -1,0 +1,1 @@
+(27) Afin de garantir une mise en œuvre régulière des nouvelles obligations en matière de transparence, il convient d'introduire progressivement les dispositions relatives à la transparence. Le seuil de liquidité «nombre de transactions quotidien moyen» utilisé pour déterminer les obligations pour lesquelles il existe un marché liquide doit être adapté de manière progressive.

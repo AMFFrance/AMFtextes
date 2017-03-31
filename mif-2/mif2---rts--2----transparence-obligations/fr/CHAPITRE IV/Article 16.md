@@ -1,0 +1,10 @@
+# Article 16 - Suspension temporaire des obligations en matière de transparence
+
+
+1.   Pour les instruments financiers pour lesquels il existe un marché liquide conformément à la méthode établie à l'article 13, une autorité compétente peut temporairement suspendre les obligations fixées aux articles 8 et 10 du règlement (UE) no 600/2014 lorsque, pour une catégorie d'obligations, de produits financiers structurés, de quotas d'émission ou d'instruments dérivés, le volume total tel que défini dans le tableau 4 de l'annexe II calculé pour les 30 jours calendaires précédents représente moins de 40 % du volume moyen mensuel calculé pour les 12 mois calendaires pleins précédant ces 30 jours calendaires.
+
+2.   Pour les instruments financiers pour lesquels il n'existe pas de marché liquide conformément à la méthode établie à l'article 13, une autorité compétente peut temporairement suspendre les obligations visées aux articles 8 et 10 du règlement (UE) no 600/2014 lorsque, pour une catégorie d'obligations, de produits financiers structurés, de quotas d'émission ou d'instruments dérivés, le volume total tel que défini dans le tableau 4 de l'annexe II calculé pour les 30 jours calendaires précédents représente moins de 20 % du volume moyen mensuel calculé pour les 12 mois calendaires pleins précédant ces 30 jours calendaires.
+
+3.   Pour les calculs visés aux paragraphes 1 et 2, les autorités compétentes prennent en considération les transactions exécutées sur toutes les plates-formes de négociation dans l'Union pour la catégorie d'obligations, produits financiers structurés, quotas d'émission ou instruments dérivés concernée. Les calculs sont réalisés au niveau de la catégorie des instruments financiers à laquelle s'applique le test de liquidité visé à l'article 13.
+
+4.   Avant de décider de suspendre les obligations en matière de transparence, les autorités compétentes s'assurent que le déclin significatif de la liquidité sur l'ensemble des plates-formes de négociation n'est pas le résultat d'effets saisonniers de la catégorie d'instruments financiers sur la liquidité.

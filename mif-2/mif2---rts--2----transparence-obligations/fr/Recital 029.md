@@ -1,0 +1,1 @@
+(29) De même, les percentiles transactions utilisés pour déterminer la taille spécifique à l'instrument qui permettent d'accorder des dérogations aux obligations en matière de transparence pré-négociation pour les instruments autres que des actions et instruments assimilés doivent être adaptés progressivement.
