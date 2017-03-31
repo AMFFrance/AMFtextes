@@ -1,0 +1,1 @@
+(16) Where sponsored access is permitted by a trading venue, prospective sponsored access clients should be subjected to a process of authorisation by the trading venue. Trading venues should also be allowed to decide that the provision of direct market access services by their members is subject to authorisation.

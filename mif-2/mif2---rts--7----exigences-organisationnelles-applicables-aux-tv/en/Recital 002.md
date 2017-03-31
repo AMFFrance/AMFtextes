@@ -1,0 +1,1 @@
+(2) The provisions of this Regulation should apply not only to regulated markets but also to multilateral trading facilities and organised trading facilities as determined by Article 18(5) of Directive 2014/65/EU.

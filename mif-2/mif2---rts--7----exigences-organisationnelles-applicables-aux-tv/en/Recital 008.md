@@ -1,0 +1,1 @@
+(8) The minimum period for keeping records of the self-assessment and the due diligence of members for the purpose of this Regulation should be the same as the general record-keeping obligations established in Directive 2014/65/EU.

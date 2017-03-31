@@ -1,0 +1,1 @@
+(14) Trading venues and their members should be required to be adequately equipped to cancel unexecuted orders as an emergency measure if unexpected circumstances arise.

@@ -1,0 +1,1 @@
+(10) Testing facilities offered by trading venues should not pose risks to orderly trading. To that end, trading venues should be required to establish an adequate fair usage policy, ensure a strict separation between the testing environment and the production environment or permit testing only out of trading hours.

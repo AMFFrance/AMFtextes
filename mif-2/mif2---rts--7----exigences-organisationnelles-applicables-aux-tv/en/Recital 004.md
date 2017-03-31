@@ -1,0 +1,1 @@
+(4) Governance arrangements, the role of the compliance function, staffing and outsourcing should be regulated as part of the organisational requirements to ensure the resilience of electronic trading systems.

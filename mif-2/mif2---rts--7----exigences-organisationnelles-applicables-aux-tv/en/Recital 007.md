@@ -1,0 +1,1 @@
+(7) The specific organisational requirements for trading venues have to be determined by means of a robust self-assessment where a number of parameters have to be assessed. That self-assessment should include any other circumstances not expressly set out that may have an impact on their organisation.
