@@ -1,0 +1,1 @@
+(1) For the purpose of effective market monitoring by competent authorities, reference data for financial instruments should be reported in a consistent format and according to uniform standards.

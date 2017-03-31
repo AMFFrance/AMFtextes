@@ -1,0 +1,1 @@
+(2) Reporting and publication of reference data in electronic, machine-readable and downloadable form and format facilitates the efficient use and exchange of that data.

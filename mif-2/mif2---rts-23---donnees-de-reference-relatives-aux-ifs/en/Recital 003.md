@@ -1,0 +1,1 @@
+(3) Promptly receiving reference data in respect of all financial instruments that are admitted to trading or that are traded on a trading venue or via a systematic internaliser, enables competent authorities and the European Securities and Markets Authority (ESMA) to ensure data quality and effective market monitoring and thus contributing to market integrity.
