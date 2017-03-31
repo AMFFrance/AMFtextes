@@ -1,0 +1,3 @@
+(7) Il convient de préciser le sens du terme «marché le plus pertinent en termes de liquidité» aux fins du présent règlement, étant donné qu'il est employé dans le règlement (UE) no 600/2014 du Parlement européen et du Conseil (2) aussi bien à propos de la dérogation relative au prix de référence que de la déclaration des transactions.
+
+%%% (2)  Règlement (UE) no 600/2014 du Parlement européen et du Conseil du 15 mai 2014 concernant les marchés d'instruments financiers et modifiant le règlement (UE) no 648/2012 (JO L 173 du 12.6.2014, p. 84).

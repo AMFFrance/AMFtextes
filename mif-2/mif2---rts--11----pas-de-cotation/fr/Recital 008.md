@@ -1,0 +1,1 @@
+(8) Le régime de pas de cotation fixe uniquement l'écart minimal entre deux niveaux de prix pour les ordres portant sur un instrument financier inscrits dans le carnet d'ordres. Il doit dès lors s'appliquer uniformément quelle que soit la monnaie dans laquelle est libellé l'instrument financier.

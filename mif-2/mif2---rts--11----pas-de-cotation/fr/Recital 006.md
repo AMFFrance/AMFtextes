@@ -1,0 +1,1 @@
+(6) Il importe que tous les fonds cotés régis par le présent règlement aient le même régime de pas de cotation fondé sur une tranche de liquidité unique, quel que soit leur nombre quotidien moyen de transactions, de manière à réduire le risque de contournement du régime de pas de cotation pour ces instruments.

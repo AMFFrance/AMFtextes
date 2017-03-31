@@ -1,0 +1,6 @@
+# ANNEXE
+
+## Tableau des pas de cotation
+
+  Tranches de liquidité Fourchettes de prix 0 = nombre quotidien moyen de transactions < 10 10 = nombre quotidien moyen de transactions < 80 80 = nombre quotidien moyen de transactions < 600 600 = nombre quotidien moyen de transactions < 2 000 2 000 = nombre quotidien moyen de transactions < 9 000 9 000 = nombre quotidien moyen de transactions 0 = prix < 0,1 0,0005 0,0002 0,0001 0,0001 0,0001 0,0001 0,1 = prix < 0,2 0,001 0,0005 0,0002 0,0001 0,0001 0,0001 0,2 = prix < 0,5 0,002 0,001 0,0005 0,0002 0,0001 0,0001 0,5 = prix < 1 0,005 0,002 0,001 0,0005 0,0002 0,0001 1 = prix < 2 0,01 0,005 0,002 0,001 0,0005 0,0002 2 = prix < 5 0,02 0,01 0,005 0,002 0,001 0,0005 5 = prix < 10 0,05 0,02 0,01 0,005 0,002 0,001 10 = prix < 20 0,1 0,05 0,02 0,01 0,005 0,002 20 = prix < 50 0,2 0,1 0,05 0,02 0,01 0,005 50 = prix < 100 0,5 0,2 0,1 0,05 0,02 0,01 100 = prix < 200 1 0,5 0,2 0,1 0,05 0,02 200 = prix < 500 2 1 0,5 0,2 0,1 0,05 500 = prix < 1 000 5 2 1 0,5 0,2 0,1 1 000 = prix < 2 000 10 5 2 1 0,5 0,2 2 000 = prix < 5 000 20 10 5 2 1 0,5 5 000 = prix < 10 000 50 20 10 5 2 1 10 000 = prix < 20 000 100 50 20 10 5 2 20 000 = prix < 50 000 200 100 50 20 10 5 50 000 = prix 500 200 100 50 20 10
+

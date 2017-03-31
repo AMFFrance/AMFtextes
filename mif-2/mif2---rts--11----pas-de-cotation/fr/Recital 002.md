@@ -1,0 +1,1 @@
+(2) En ce qui concerne les autres instruments financiers, compte tenu de leur nature et de la microstructure des marchés sur lesquels ils sont échangés, on ne saurait présumer qu'un régime de pas de cotation contribuerait efficacement au bon fonctionnement des marchés. Par conséquent, il n'y a pas lieu de les soumettre à un régime de pas de cotation.
