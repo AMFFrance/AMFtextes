@@ -1,0 +1,1 @@
+(13) Investment firms should make public the details of transactions executed outside a trading venue through an APA. Therefore, the way investment firms report the details of the transactions to APAs should be laid down and those provisions should apply in conjunction with the requirements applicable to APAs specified in Delegated Regulation (EU) 2017/571.

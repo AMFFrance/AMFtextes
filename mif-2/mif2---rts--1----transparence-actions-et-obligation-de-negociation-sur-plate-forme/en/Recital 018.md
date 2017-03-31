@@ -1,0 +1,1 @@
+(18) To ensure that the new transparency regulatory regime can operate effectively, it is appropriate to provide for the collection of certain data and for an early publication of the most relevant markets in terms of liquidity, the sizes of orders that are large in scale, the deferred publication thresholds and standard market sizes.

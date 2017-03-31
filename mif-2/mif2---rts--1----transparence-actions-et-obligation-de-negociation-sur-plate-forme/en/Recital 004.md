@@ -1,0 +1,1 @@
+(4) Where competent authorities grant waivers in relation to pre-trade transparency requirements or authorise the deferral of post-trade transparency obligations, they should treat all regulated markets, multilateral trading facilities and investment firms trading outside of trading venues equally and in a non-discriminatory manner.
