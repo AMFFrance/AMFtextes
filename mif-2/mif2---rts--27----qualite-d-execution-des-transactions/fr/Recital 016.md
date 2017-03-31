@@ -1,0 +1,1 @@
+(16) Ces déclarations des plates-formes d'exécution devraient être complétées par des éléments provenant d'un fournisseur de système consolidé de publication au sens de la directive 2014/65/UE, en vue de permettre de mieux mesurer la qualité d'exécution.

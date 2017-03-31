@@ -1,0 +1,1 @@
+(7) Il y a lieu de considérer que les autres fournisseurs de liquidité devraient comprendre les entreprises qui se tiennent disposées à négocier pour leur propre compte et qui fournissent de la liquidité dans le cadre de leurs activités normales, qu'elles aient ou non passé des accords formels en ce sens ou qu'elles s'engagent ou non à fournir de la liquidité de manière continue.

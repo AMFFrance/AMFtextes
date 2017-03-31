@@ -1,0 +1,1 @@
+(4) Afin d'éviter toute comparaison inopportune entre plates-formes d'exécution et d'assurer la pertinence des données collectées, il conviendrait que les plates-formes d'exécution remettent des déclarations séparées pour les segments qui gèrent des carnets d'ordres différents, relèvent de réglementations différentes ou utilisent des identifiants de segment de marché différents.

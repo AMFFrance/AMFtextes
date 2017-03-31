@@ -1,0 +1,1 @@
+(15) Il est important que les plates-formes d'exécution collectent des données tout au long de leurs heures normales de fonctionnement. Leurs déclarations devraient donc être transmises sans frais, sous une forme électronique lisible par machine et via un site web, pour permettre au public de télécharger, de rechercher, de trier et d'analyser toutes les données fournies.

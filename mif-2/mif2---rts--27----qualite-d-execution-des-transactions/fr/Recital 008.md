@@ -1,0 +1,1 @@
+(8) Afin d'obtenir une transparence totale sur la qualité d'exécution des transactions par rapport au prix, les informations fournies sur les prix ne devraient inclure aucune commission et aucun intérêt couru.

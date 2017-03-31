@@ -1,0 +1,1 @@
+(5) Pour donner une image fidèle de la qualité effective d'exécution, les plates-formes de négociation ne devraient pas publier parmi les ordres exécutés les transactions effectuées de gré à gré qui leur sont ensuite déclarées.
