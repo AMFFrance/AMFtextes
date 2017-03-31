@@ -1,0 +1,1 @@
+(30) In particular, any non-monetary benefit that involves a third party allocating valuable resources to the investment firm shall not be considered as minor and shall be judged to impair compliance with the investment firm's duty to act in their client's best interest.

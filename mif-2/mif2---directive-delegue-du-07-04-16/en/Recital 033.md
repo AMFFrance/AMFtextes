@@ -1,0 +1,1 @@
+(33) In order to allow competent authorities and investment firms to adapt to the new requirements contained in this Directive so that they can be applied in an efficient and effective manner, the date of transposition as well as date of application of this Directive should be aligned respectively with the transposition and entry into application dates of Directive 2014/65/EU,

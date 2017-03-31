@@ -1,0 +1,1 @@
+(16) Entities which are not subject to the requirements of Directive 2014/65/EU but which may be authorised to perform investment services under that Directive, should also comply, as regards such services, with the product governance requirements set out under Directive 2014/65/EU.

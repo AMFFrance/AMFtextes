@@ -1,0 +1,1 @@
+(25) In order to ensure clients receive a comprehensive overview of the relevant information in respect of the services provided, investment firms should inform clients about the fees, commissions or any monetary benefits transferred to them.

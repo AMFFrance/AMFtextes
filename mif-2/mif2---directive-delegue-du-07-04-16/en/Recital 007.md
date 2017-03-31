@@ -1,0 +1,3 @@
+(7) Demonstrating a robust link between collateral transferred under a TTCA and client's liability should not preclude taking appropriate security against a client's obligation. Investment firms could thus continue to require a sufficient collateral and where appropriate, to do so by a TTCA. That obligation should not prevent compliance with requirements under Regulation (EU) No 648/2012 of the European Parliament and of the Council (2) and should not prohibit the appropriate use of TTCAs in the context of contingent liability transactions or repos for non-retail clients.
+
+%%% (2)  Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (OJ L 201, 27.7.2012, p. 1).

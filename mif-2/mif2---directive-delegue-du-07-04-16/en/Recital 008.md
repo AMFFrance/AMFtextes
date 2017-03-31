@@ -1,0 +1,1 @@
+(8) While some securities financing transactions may require the transfer of title of clients' assets, in that context investment firms should not be able to effect arrangements prohibited under Article 16(10) of Directive 2014/65/EU.

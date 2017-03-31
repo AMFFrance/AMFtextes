@@ -1,0 +1,1 @@
+(23) While investment firms should, once they have fulfilled the quality enhancement criterion, maintain the enhanced level of quality, this should not imply that they are required to provide for a continuously increasing quality of services over time.
