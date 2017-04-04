@@ -1,0 +1,1 @@
+(3) Directive 2014/65/EU extends the requirements relating to the determination of the ratio of unexecuted orders to transactions to multilateral trading facilities and organised trading facilities. It is therefore important that those venues are also within the scope of this Regulation.

@@ -1,0 +1,1 @@
+(1) Trading venues should have a number of systems, procedures and arrangements in place to ensure that algorithmic trading systems cannot create or contribute to disorderly trading conditions including systems to monitor and, where appropriate, limit the ratio of unexecuted orders to transactions.

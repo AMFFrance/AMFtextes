@@ -1,0 +1,1 @@
+(6) The meaning of certain essential parameters to be used for the calculation of the ratio of unexecuted orders to transactions should be clarified.

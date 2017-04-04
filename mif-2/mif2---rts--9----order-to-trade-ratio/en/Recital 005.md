@@ -1,0 +1,1 @@
+(5) In order to ensure sufficient harmonisation across the Union of the arrangements to prevent disorderly trading conditions through the limitation of the ratio between unexecuted orders and transactions, a clear methodology to calculate the ratio of unexecuted orders to transactions with respect to all market participants should be laid down.

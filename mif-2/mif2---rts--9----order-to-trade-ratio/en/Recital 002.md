@@ -1,0 +1,1 @@
+(2) Taking into account their nature, voice trading systems should be exempt from the scope of this Regulation which should only apply to trading venues operating electronic continuous auction order book or quote-driven or hybrid trading systems.

@@ -1,0 +1,1 @@
+(4) Trading venues should calculate the ratio of unexecuted orders to transactions effectively incurred by their members or participants at the level of each financial instrument traded on them in order to ensure effectively that the ratio does not lead to excessive volatility in that instrument.
