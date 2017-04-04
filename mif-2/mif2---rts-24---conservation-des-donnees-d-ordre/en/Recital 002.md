@@ -1,0 +1,1 @@
+(2) In order to ensure clarity, legal certainty and avoid double storage of the same information this Regulation should cover all data elements relating to orders, including details that are to be reported in accordance with Article 26(1) and (3).

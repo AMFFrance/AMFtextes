@@ -1,0 +1,1 @@
+(7) The record of the precise date and time and of the details of any order placement, modification, cancellation, rejection and execution should be maintained. This allows monitoring the changes to the order throughout its lifetime, which can be significant in detecting and assessing potential market manipulation and front running behaviours.

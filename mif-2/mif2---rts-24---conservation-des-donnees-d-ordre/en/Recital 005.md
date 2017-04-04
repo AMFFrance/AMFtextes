@@ -1,0 +1,1 @@
+(5) Operators of trading venues should not be required to record client identifiers for all clients in the trading chain but only for the client on whose behalf the member or participant submitted the order.

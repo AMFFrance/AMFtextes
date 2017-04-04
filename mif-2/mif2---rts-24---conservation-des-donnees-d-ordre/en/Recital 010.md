@@ -1,0 +1,1 @@
+(10) In order to enable effective market monitoring it is necessary to be able to link orders with their corresponding transactions. Accordingly operators of trading venues should maintain distinctive transaction identification codes linking orders to transactions.
