@@ -1,0 +1,1 @@
+(1) Transferable securities should only be considered freely negotiable if before admission to trading no restrictions exist which prevent the transfer of those securities in a way that would disturb creating a fair, orderly and efficient market.

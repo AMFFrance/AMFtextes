@@ -1,0 +1,3 @@
+(3) Transferable securities which fulfil the requirements for admission to an official list in accordance with Directive 2001/34/EC of the European Parliament and of the Council (3) should be considered freely negotiable and capable of being traded in a fair, orderly and efficient manner.
+
+%%% (3)  Directive 2001/34/EC of the European Parliament and of the Council of 28 May 2001 on the admission of securities to official stock exchange listing and on information to be published on those securities (OJ L 184, 6.7.2001, p. 1).

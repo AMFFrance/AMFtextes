@@ -1,0 +1,1 @@
+(8) Regulated markets should establish procedures for verifying the compliance of issuers of transferable securities with obligations under Union law which should be accessible for issuers and the public. The policy should ensure that compliance checks are efficient and issuers should be made aware of their obligations by the regulated market.
