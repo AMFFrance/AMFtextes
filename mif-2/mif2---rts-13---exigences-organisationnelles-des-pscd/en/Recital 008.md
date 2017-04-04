@@ -1,0 +1,1 @@
+(8) To ensure that the data reporting services provider can provide its services, it should undertake an analysis of which tasks and activities are critical to the delivery of its services and of possible scenarios that may give rise to a disruptive incident, including taking steps to prevent and mitigate those situations.

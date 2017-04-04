@@ -1,0 +1,1 @@
+(17) To facilitate reliable communication between an APA and the investment firm reporting a trade, particularly in relation to cancellations and amendments of specific transactions, an APA should include in the confirmation messages to reporting investment firms the transaction identification code that has been assigned by the APA when making the information public.

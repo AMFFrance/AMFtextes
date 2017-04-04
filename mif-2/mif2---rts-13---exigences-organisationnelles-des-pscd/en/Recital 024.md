@@ -1,0 +1,1 @@
+(24) In order to ensure that each transaction is only included once in the consolidated tape and therefore to strengthen the reliability of the provided information, CTPs should not publish information in relation to a transaction published by an APA which is identified as duplicative.

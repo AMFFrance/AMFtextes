@@ -1,0 +1,3 @@
+(18) To comply with its reporting obligation under Regulation (EU) No 600/2014 of the European Parliament and of the Council (2), an ARM should ensure the smooth flow of information to and from a competent authority, including the ability to transfer reports and deal with rejected reports. The ARM should therefore be able to demonstrate that it can comply with the technical specifications set out by the competent authority regarding the interface between the ARM and the competent authority.
+
+%%% (2)  Regulation (EU) No 600/2014 of the European Parliament and of the Council on markets in financial instruments and amending Regulation (EU) No 648/2012 (OJ L 173, 12.6.2014, p. 84).

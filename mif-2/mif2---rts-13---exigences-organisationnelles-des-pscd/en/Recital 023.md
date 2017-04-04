@@ -1,0 +1,1 @@
+(23) When publishing a transaction, APAs should therefore publish transactions reported by investment firms by including a ‘reprint’ field indicating whether a report is a duplicate. In order to allow for an approach that is neutral in terms of the technology used it is necessary to provide for different possible ways in which an APA can identify duplicates.
