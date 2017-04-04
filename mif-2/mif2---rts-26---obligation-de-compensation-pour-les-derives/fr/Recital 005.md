@@ -1,0 +1,1 @@
+(5) Le temps accordé à une plate-forme de négociation pour traiter une transaction portant sur des dérivés faisant l'objet d'une compensation devrait être plus court pour les transactions négociées par voie électronique que pour les autres, étant donné que le niveau d'automatisation du traitement devrait être plus élevé dans le premier cas.
