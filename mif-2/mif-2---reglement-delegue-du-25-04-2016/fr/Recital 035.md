@@ -1,0 +1,1 @@
+(35) Les exigences organisationnelles énoncées par la directive 2014/65/UE ne doivent pas préjuger des régimes instaurés par le droit national pour l'enregistrement ou le suivi par les autorités compétentes ou les entreprises des personnes physiques travaillant dans des entreprises d'investissement.

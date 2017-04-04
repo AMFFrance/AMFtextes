@@ -1,0 +1,1 @@
+(12) Les contrats de change à terme non livrables sont des contrats portant sur la différence entre un taux de change agréé au préalable et le cours comptant réel à maturité et, par conséquent, ne doivent pas être considérés comme des contrats au comptant, indépendamment de leur période de règlement.

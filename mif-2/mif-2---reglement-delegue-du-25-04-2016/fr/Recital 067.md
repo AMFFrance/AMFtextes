@@ -1,0 +1,1 @@
+(67) Pour garantir la présentation juste et équilibrée des avantages et des risques, les entreprises d'investissement doivent toujours indiquer de façon claire et visible les risques pertinents, y compris les inconvénients et les faiblesses, lorsqu'elles font référence à un quelconque avantage éventuel d'un service ou instrument financier.

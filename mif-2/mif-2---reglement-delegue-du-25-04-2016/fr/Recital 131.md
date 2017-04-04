@@ -1,0 +1,1 @@
+(131) Pour permettre aux autorités compétentes et aux entreprises d'investissement de s'adapter aux nouvelles exigences contenues dans le présent règlement afin que ces dernières puissent être appliquées de manière effective et efficace, la date d'entrée en vigueur dudit règlement doit correspondre à la date d'entrée en vigueur de la directive 2014/65/UE,

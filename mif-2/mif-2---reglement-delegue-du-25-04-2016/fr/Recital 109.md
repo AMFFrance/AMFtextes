@@ -1,0 +1,1 @@
+(109) La réallocation de transactions doit être considérée comme défavorable à un client lorsqu'elle a pour effet de privilégier injustement l'entreprise d'investissement ou tout autre client déterminé.

@@ -1,0 +1,1 @@
+(72) Permettre au même conseiller de fournir à la fois des conseils indépendants et des conseils non indépendants peut créer une certaine confusion pour le client. Afin de garantir que les clients comprennent la nature et la base du conseil en investissement donné, certaines exigences organisationnelles doivent être établies.

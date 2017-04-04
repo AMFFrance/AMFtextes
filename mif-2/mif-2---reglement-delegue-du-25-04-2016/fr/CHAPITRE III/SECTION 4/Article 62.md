@@ -1,0 +1,6 @@
+# Article 62 - Obligations d'information supplémentaires pour les transactions de gestion de portefeuille ou impliquant des passifs éventuels
+
+
+1.   Les entreprises d'investissement fournissant le service de gestion de portefeuille informent le client lorsque la valeur totale du portefeuille, telle que valorisée au début de chaque période de déclaration, a baissé de 10 %, et pour chaque multiple de 10 % par la suite, au plus tard à la fin du jour ouvrable au cours duquel le seuil a été franchi ou, dans le cas où ce seuil n'a pas été franchi au cours d'un jour ouvrable, à la fin du premier jour ouvrable qui suit.
+
+2.   Les entreprises d'investissement qui détiennent le compte d'un client de détail comprenant des positions sur des instruments financiers à effet de levier ou des transactions impliquant des passifs éventuels informent le client lorsque la valeur de chaque instrument a baissé de 10 % par rapport à sa valeur initiale, et pour chaque multiple de 10 % par la suite. Les informations fournies en vertu du présent paragraphe le sont instrument par instrument, sauf s'il en a été autrement convenu avec le client, et au plus tard à la fin du jour ouvrable au cours duquel le seuil a été franchi ou, dans le cas où ce seuil n'a pas été franchi au cours d'un jour ouvrable, à la fin du premier jour ouvrable qui suit.

@@ -1,0 +1,1 @@
+(46) Les dispositions encadrant les conflits d'intérêts ne doivent couvrir que les cas dans lesquels un service d'investissement ou un service auxiliaire est fourni par l'entreprise d'investissement. À cet effet, la prise en compte de la qualité du client — de détail, professionnel ou contrepartie éligible — n'est pas pertinente.

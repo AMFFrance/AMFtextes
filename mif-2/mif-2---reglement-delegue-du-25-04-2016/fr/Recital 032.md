@@ -1,0 +1,1 @@
+(32) Afin d'assurer l'application uniforme des diverses dispositions de la directive 2014/65/UE, il convient de mettre en place un cadre harmonisé d'exigences organisationnelles et de conditions d'exercice régissant les entreprises d'investissement.

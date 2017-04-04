@@ -1,0 +1,1 @@
+(11) La compensation de paiements est essentielle au fonctionnement effectif et efficient des systèmes de règlement des monnaies et, par conséquent, la classification d'un contrat de change en tant que transaction au comptant ne doit pas exiger que chaque contrat de change au comptant soit réglé indépendamment.

@@ -1,0 +1,10 @@
+# Article 16 - Internalisateurs systématiques pour quotas d'émission
+
+
+Une entreprise d'investissement est considérée comme étant un internalisateur systématique au sens de l'article 4, paragraphe 1, point 20), de la directive 2014/65/UE à l'égard des quotas d'émission lorsque, en rapport avec un tel instrument, elle internalise selon les critères suivants:
+
+a) de façon systématique et fréquente, sur un quota d'émission pour lequel il existe un marché liquide au sens de l'article 2, paragraphe 1, point 17 a), du règlement (UE) no 600/2014 si au cours des 6 derniers mois: i) le nombre de transactions de gré à gré qu'elle effectue pour son propre compte en exécution des ordres de clients est supérieur ou égal à 4 % du nombre total de transactions sur le type pertinent de quotas d'émission exécuté dans l'Union sur toute plate-forme de négociation ou de gré à gré au cours de la même période; ii) les transactions de gré à gré qu'elle effectue pour son propre compte en exécution des ordres de clients sur ce type de quotas d'émission sont effectuées, en moyenne, une fois par semaine;
+
+b) de façon systématique et fréquente, sur un quota d'émission pour lequel il n'existe pas de marché liquide au sens de l'article 2, paragraphe 1, point 17 a), du règlement (UE) no 600/2014 si au cours des 6 derniers mois les transactions de gré à gré qu'elle effectue pour son propre compte sur le type pertinent de quota d'émission en exécution des ordres de clients sont effectuées, en moyenne, une fois par semaine;
+
+c) de manière substantielle sur un quota d'émission si le volume de transactions de gré à gré qu'elle effectue pour son propre compte en exécution des ordres de clients est, au cours des 6 derniers mois, égal ou supérieur à: i) 30 % du chiffre d'affaires total pour ce type de quota d'émission exécuté par l'entreprise d'investissement pour son propre compte ou pour le compte de clients et exécuté sur une plate-forme de négociation ou de gré à gré; ii) 2,25 % du chiffre d'affaires total pour ce type de quota d'émission exécuté dans l'Union sur une plate-forme de négociation ou de gré à gré.

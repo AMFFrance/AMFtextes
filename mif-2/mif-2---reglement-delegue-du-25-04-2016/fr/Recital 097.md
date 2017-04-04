@@ -1,0 +1,1 @@
+(97) Aux fins des dispositions relatives aux obligations de compte-rendu aux clients, toute référence au type de l'ordre doit être interprétée comme se référant à sa qualité d'ordre à cours limité, d'ordre au prix du marché ou d'ordre de quelque autre type spécifique.

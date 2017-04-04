@@ -1,0 +1,1 @@
+(96) Aux fins des obligations de compte-rendu concernant la gestion de portefeuille, on entend par «transaction impliquant un passif éventuel» toute transaction qui implique pour le client un engagement réel ou potentiel d'un montant supérieur au coût d'acquisition de l'instrument.

@@ -1,0 +1,1 @@
+(95) Les clients doivent être informés de la performance de leur portefeuille et des moins-values de leurs investissements initiaux. Dans le cas d'une gestion de portefeuille, ce déclencheur peut être fixé à une moins-value de 10 %, puis à des multiples de 10 %, par rapport à la valeur totale du portefeuille global et ne s'applique pas aux participations distinctes.

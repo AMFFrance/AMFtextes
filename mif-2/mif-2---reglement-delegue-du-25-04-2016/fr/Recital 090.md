@@ -1,0 +1,1 @@
+(90) Afin de garantir la sécurité juridique et de permettre au client de mieux comprendre la nature des services fournis, les entreprises d'investissement qui fournissent des services d'investissement ou auxiliaires à un client doivent conclure un contrat de base écrit avec le client, définissant les principaux droits et obligations de l'entreprise et du client.

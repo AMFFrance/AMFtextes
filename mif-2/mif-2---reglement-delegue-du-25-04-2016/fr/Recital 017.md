@@ -1,0 +1,1 @@
+(17) La fourniture d'une recommandation générale concernant une transaction sur un instrument financier ou un type d'instrument financier constitue une prestation de service auxiliaire relevant de l'annexe I, section B, point 5, de la directive 2014/65/UE. Cette directive et les protections qu'elle prévoit s'appliquent donc à la fourniture d'une telle recommandation.

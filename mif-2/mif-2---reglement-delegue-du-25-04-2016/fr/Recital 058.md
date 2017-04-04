@@ -1,0 +1,1 @@
+(58) Les entreprises d'investissement exerçant des activités de prise ferme ou de placement doivent disposer de dispositions appropriées pour garantir que le processus de tarification, y compris le carnet d'ordres, ne porte pas atteinte aux intérêts de l'émetteur.

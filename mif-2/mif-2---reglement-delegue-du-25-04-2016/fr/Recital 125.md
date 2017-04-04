@@ -1,0 +1,1 @@
+(125) Les données de marché doivent être communiquées sur une base non discriminatoire, en vertu de quoi les mêmes prix et autres conditions doivent être proposés à tous les clients faisant partie de la même catégorie selon des critères objectifs publiés.

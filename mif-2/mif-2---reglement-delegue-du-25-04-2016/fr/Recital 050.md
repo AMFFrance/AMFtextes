@@ -1,0 +1,3 @@
+(50) La recherche en investissements est une sous-catégorie du type d'informations défini en tant que recommandation dans le règlement (UE) no 596/2014 du Parlement européen et du Conseil (6) (abus de marché).
+
+%%% (6)  Règlement (UE) no 596/2014 du Parlement européen et du Conseil du 16 avril 2014 sur les abus de marché (règlement relatif aux abus de marché) et abrogeant la directive 2003/6/CE du Parlement européen et du Conseil et les directives 2003/124/CE, 2003/125/CE et 2004/72/CE de la Commission (JO L 173 du 12.6.2014, p. 1)

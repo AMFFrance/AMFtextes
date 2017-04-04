@@ -1,0 +1,1 @@
+(7) La directive 2014/65/UE établit un cadre réglementaire général pour les marchés financiers dans l'Union européenne; son annexe I, section C, dresse la liste des instruments financiers qu'elle couvre. L'annexe I, section C, point 4, de la directive 2014/65/UE inclut les instruments financiers relatifs à une monnaie, lesquels sont par conséquent couverts par cette directive.

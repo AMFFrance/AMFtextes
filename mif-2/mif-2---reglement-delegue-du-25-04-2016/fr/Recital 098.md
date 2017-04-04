@@ -1,0 +1,1 @@
+(98) Aux fins des dispositions relatives aux obligations de compte rendu aux clients, toute référence à la nature de l'ordre doit être interprétée comme se référant à des ordres de souscrire à des valeurs mobilières ou de lever une option ou à des ordres de clients similaires.

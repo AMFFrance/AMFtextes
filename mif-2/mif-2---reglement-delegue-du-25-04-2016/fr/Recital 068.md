@@ -1,0 +1,1 @@
+(68) Une information doit être considérée comme trompeuse si elle tend à induire en erreur la ou les personnes à qui elle est adressée ou qui sont susceptibles de la recevoir, que la personne qui fournit l'information ait ou non envisagé ou projeté qu'elle soit trompeuse.
