@@ -1,0 +1,1 @@
+(2) To ensure that pre-trade and post-trade data offered appropriately matches the demand from market participants, market operators and investment firms operating a trading venue should offer any combination of the disaggregation criteria on a reasonable commercial basis.
