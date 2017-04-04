@@ -1,0 +1,1 @@
+(5) Les opérateurs de plates-formes de négociation ne devraient pas être tenus d'enregistrer les identifiants des clients tout au long de la chaîne de négociation d'un instrument financier, mais uniquement celui du client pour le compte duquel le membre ou le participant a soumis l'ordre de transaction.

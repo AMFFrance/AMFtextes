@@ -1,0 +1,1 @@
+(10) Pour permettre une surveillance efficace du marché, il est nécessaire d'être en mesure de relier les ordres aux transactions correspondantes. En conséquence, les opérateurs de plates-formes de négociation devraient utiliser des codes d'identification de transaction distinctifs reliant les ordres aux transactions.

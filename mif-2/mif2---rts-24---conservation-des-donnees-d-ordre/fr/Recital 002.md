@@ -1,0 +1,1 @@
+(2) Pour des raisons de clarté et de sécurité juridique, et afin d'éviter le stockage en double exemplaire des mêmes informations, le présent règlement devrait couvrir tous les éléments d'information relatifs aux ordres de transaction, notamment les renseignements visés à l'article 26, paragraphes 1 et 3 du règlement MiFIR.
