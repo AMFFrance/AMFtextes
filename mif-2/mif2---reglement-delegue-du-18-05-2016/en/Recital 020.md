@@ -1,0 +1,1 @@
+(20) It is necessary to specify the circumstances under which ESMA can use its position management powers in accordance with Regulation (EU) No 600/2014 in order to ensure a consistent approach while permitting appropriate action to be taken where unforeseen adverse events or developments occur.

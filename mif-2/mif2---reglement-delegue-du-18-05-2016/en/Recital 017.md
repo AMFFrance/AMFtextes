@@ -1,0 +1,1 @@
+(17) To ensure that suitable transparency of portfolio compression performed by counterparties is achieved, it is necessary to specify the information which should be made public.

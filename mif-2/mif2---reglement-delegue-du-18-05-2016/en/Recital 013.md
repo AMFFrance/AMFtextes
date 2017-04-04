@@ -1,0 +1,1 @@
+(13) The criterion specifying that a price falls within a public range close to market conditions reflects the need to ensure that execution by systematic internalisers contribute to price formation whilst not impeding on the possibility for systematic internalisers to offer price improvement in justified cases.

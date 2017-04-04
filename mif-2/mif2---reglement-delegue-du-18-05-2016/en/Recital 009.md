@@ -1,0 +1,1 @@
+(9) This Regulation further specifies the conditions which systematic internalisers must fulfil to comply with the obligation to make quotes public on a regular and continuous basis during normal trading hours and easily accessible to other market participants to ensure that market participants wishing to access the quotes may effectively access them.
