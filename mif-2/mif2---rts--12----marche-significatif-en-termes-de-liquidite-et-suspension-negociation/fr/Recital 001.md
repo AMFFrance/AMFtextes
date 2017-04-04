@@ -1,0 +1,1 @@
+(1) Il est nécessaire de préciser quels marchés réglementés devraient être considérés comme significatifs en termes de liquidité pour chaque type d'instrument financier, afin que ceux-ci mettent en place des systèmes et des procédures adéquats pour notifier les suspensions temporaires de négociation aux autorités compétentes.

@@ -1,0 +1,1 @@
+(2) La directive 2014/65/UE étend les exigences relatives aux suspensions de négociation aux systèmes multilatéraux de négociation comme aux systèmes organisés de négociation, raison pour laquelle il importe de veiller à ce que les instruments financiers négociés sur ces plates-formes entrent également dans le champ d'application des présentes normes techniques de réglementation.
