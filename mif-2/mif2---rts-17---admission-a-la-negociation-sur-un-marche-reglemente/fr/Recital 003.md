@@ -1,0 +1,3 @@
+(3) Les valeurs mobilières qui remplissent les conditions d'admission à une cote officielle conformément à la directive 2001/34/CE du Parlement européen et du Conseil (3) devraient être considérées comme librement négociables et susceptibles de faire l'objet d'une négociation équitable, ordonnée et efficace.
+
+%%% (3)  Directive 2001/34/CE du Parlement européen et du Conseil du 28 mai 2001 concernant l'admission de valeurs mobilières à la cote officielle et l'information à publier sur ces valeurs (JO L 184 du 6.7.2001, p. 1).

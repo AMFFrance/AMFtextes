@@ -1,0 +1,1 @@
+(8) Les marchés réglementés devraient établir des procédures, accessibles aux émetteurs et au public, pour vérifier que les émetteurs de valeurs mobilières se conforment aux obligations qui leur incombent en vertu du droit de l'Union. Ces procédures devraient garantir l'efficacité des contrôles de conformité et la sensibilisation des émetteurs aux obligations qui sont les leurs.

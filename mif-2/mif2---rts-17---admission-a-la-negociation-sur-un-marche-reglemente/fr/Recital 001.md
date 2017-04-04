@@ -1,0 +1,1 @@
+(1) Des valeurs mobilières ne devraient être considérées comme librement négociables que s'il n'existe aucune restriction avant l'admission à la négociation qui, en empêchant le transfert de ces valeurs, serait susceptible de gêner la création d'un marché équitable, ordonné et efficace.
