@@ -1,0 +1,1 @@
+(1) Dans certains cas, l'objectif visé par la suspension ou le retrait de la négociation d'un instrument financier ne pourra être atteint que si un instrument dérivé d'un type visé à l'annexe I, section C, points 4) à 10), de la directive 2014/65/UE qui est lié ou fait référence à cet instrument financier est également suspendu ou retiré de la négociation.
