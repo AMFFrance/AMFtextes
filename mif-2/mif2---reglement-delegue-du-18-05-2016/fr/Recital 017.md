@@ -1,0 +1,1 @@
+(17) Pour que les compressions de portefeuille effectuées par des contreparties présentent toute la transparence voulue, il convient de préciser les informations à publier les concernant.

@@ -1,0 +1,1 @@
+(13) Le critère qui veut qu'un prix s'inscrive dans une fourchette rendue publique et proche des conditions du marché reflète la nécessité de faire en sorte que l'exécution d'ordres par les internalisateurs systématiques contribue à la formation des prix, sans pour autant empêcher ceux-ci d'appliquer un meilleur prix dans des cas justifiés.

@@ -1,0 +1,1 @@
+(20) Il est nécessaire de préciser les circonstances dans lesquelles l'AEMF peut utiliser ses pouvoirs de gestion de positions en vertu du règlement (UE) no 600/2014, afin d'assurer une approche cohérente tout en permettant que des mesures appropriées soient prises en cas d'événements ou d'évolutions défavorables et imprévus.
