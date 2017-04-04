@@ -1,0 +1,3 @@
+(4) Given the intrinsic relationship between this Regulation and Commission Delegated Regulation (EU) No 285/2014 (3), the technical terms necessary for a comprehensive understanding of the technical standards should have the same meaning.
+
+%%% (3)  Commission Delegated Regulation (EU) No 285/2014 of 13 February 2014 supplementing Regulation (EU) No 648/2012 of the European Parliament and of the Council with regard to regulatory technical standards on direct, substantial and foreseeable effect of contracts within the Union and to prevent the evasion of rules and obligations (OJ L 85, 21.3.2014, p. 1).

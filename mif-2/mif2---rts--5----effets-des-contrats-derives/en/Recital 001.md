@@ -1,0 +1,3 @@
+(1) Given the broad variety of over-the-counter (OTC) derivative contracts, in order to determine when an OTC derivative contract may be considered to have a direct, substantial and foreseeable effect within the Union as set out in Article 28(2) of Regulation (EU) No 600/2014 and to specify cases where it is necessary or appropriate to prevent the evasion of rules and obligations arising from any provision of Regulation (EU) No 648/2012 of the European Parliament and the Council (2), a criteria-based approach should be adopted.
+
+%%% (2)  Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (OJ L 201, 27.7.2012, p. 1).

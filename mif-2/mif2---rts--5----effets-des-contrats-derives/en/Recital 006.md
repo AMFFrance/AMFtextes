@@ -1,0 +1,1 @@
+(6) Financial counterparties established in third countries can enter into OTC derivative contracts through their Union branches. Given the impact of the activity of those branches on the Union market, OTC derivative contracts concluded between those Union branches should be considered to have a direct, substantial and foreseeable effect within the Union.
