@@ -1,0 +1,1 @@
+(2) Directive 2014/65/EU extends the requirements relating to trading halts to multilateral trading facilities and organised trading facilities and it is therefore important to ensure that financial instruments traded on those venues are also within the scope of these regulatory technical standards.

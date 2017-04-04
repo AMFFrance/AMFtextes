@@ -1,0 +1,1 @@
+(4) For equity and equity-like financial instruments, the material market in terms of liquidity should be the trading venue that has the highest turnover in the financial instrument concerned within the Union, since that trading venue has the greatest potential for having a market wide impact when trading is halted.
