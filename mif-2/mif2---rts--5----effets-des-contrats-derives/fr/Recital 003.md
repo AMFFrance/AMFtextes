@@ -1,0 +1,1 @@
+(3) Certaines informations concernant les contrats conclus par des entités de pays tiers continueront d'être à la disposition uniquement des autorités compétentes de ces pays tiers. Par conséquent, les autorités compétentes de l'Union devront coopérer étroitement avec ces autorités de façon à garantir l'application et le respect des dispositions pertinentes.

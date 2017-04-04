@@ -1,0 +1,3 @@
+(1) Pour déterminer quand un contrat dérivé de gré à gré peut être considéré comme ayant un effet direct, substantiel et prévisible dans l'Union aux fins de l'article 28, paragraphe 2, du règlement (UE) no 600/2014, et dans quels cas il est nécessaire ou approprié de prévenir le contournement de règles et d'obligations découlant des dispositions du règlement (UE) no 648/2012 du Parlement européen et du Conseil (2), il y a lieu, compte tenu de la grande variété des contrats dérivés de gré à gré, d'adopter une approche fondée sur des critères.
+
+%%% (2)  Règlement (UE) no 648/2012 du Parlement européen et du Conseil du 4 juillet 2012 sur les produits dérivés de gré à gré, les contreparties centrales et les référentiels centraux (JO L 201 du 27.7.2012, p. 1).

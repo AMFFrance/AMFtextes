@@ -1,0 +1,3 @@
+(4) Étant donné le lien intrinsèque existant entre le présent règlement et le règlement délégué (UE) no 285/2014 de la Commission (3), les termes techniques nécessaires à la compréhension globale des normes techniques devraient avoir la même signification.
+
+%%% (3)  Règlement délégué (UE) no 285/2014 de la Commission du 13 février 2014 complétant le règlement (UE) no 648/2012 du Parlement européen et du Conseil par des normes techniques de réglementation concernant l'effet direct, substantiel et prévisible des contrats dans l'Union et la prévention du contournement des règles et obligations (JO L 85 du 21.3.2014, p. 1).
