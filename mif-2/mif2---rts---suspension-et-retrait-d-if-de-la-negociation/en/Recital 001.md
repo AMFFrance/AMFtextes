@@ -1,0 +1,1 @@
+(1) The objective of a suspension or removal from trading of a financial instrument will in some cases not be achieved unless a derivative of a type referred to in points 4 to 10 of Section C of Annex I to Directive 2014/65/EU relating or referenced to that financial instrument is also suspended or removed from trading.
