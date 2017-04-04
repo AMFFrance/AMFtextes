@@ -1,0 +1,1 @@
+(24) Afin de garantir que chaque transaction n'est introduite qu'une seule fois dans le système consolidé de publication et d'accroître ainsi la fiabilité des informations fournies, les CTP ne devraient pas publier les informations relatives à une transaction publiée par un APA qui constitue un double.

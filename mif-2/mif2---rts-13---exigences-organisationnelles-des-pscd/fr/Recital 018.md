@@ -1,0 +1,3 @@
+(18) Pour se conformer à son obligation de déclaration en vertu du règlement (UE) no 600/2014 du Parlement européen et du Conseil (2), un ARM devrait veiller à la fluidité de circulation des informations entre l'autorité compétente et lui, notamment du point de vue des capacités de transfert de rapports et de traitement des rapports rejetés. L'ARM devrait donc être en mesure de démontrer sa capacité à respecter les spécifications techniques définies par l'autorité compétente en ce qui concerne leur interface commune.
+
+%%% (2)  Règlement (UE) no 600/2014 du Parlement européen et du Conseil du 15 mai 2014 concernant les marchés d'instruments financiers et modifiant le règlement (UE) no 648/2012 (JO L 173 du 12.6.2014, p. 84).

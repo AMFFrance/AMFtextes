@@ -1,0 +1,1 @@
+(8) Afin d'être certain de pouvoir fournir ses services, le prestataire de services de communication de données devrait examiner quelles tâches et activités sont indispensables à leur prestation et analyser les scénarios susceptibles de donner lieu à un incident perturbateur, et prendre des mesures pour prévenir ces situations ou y remédier.

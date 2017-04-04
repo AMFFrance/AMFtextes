@@ -1,0 +1,1 @@
+(23) Les APA devraient donc publier les transactions déclarées par les entreprises d'investissement en prévoyant un champ «réédition» permettant de signaler les déclarations qui sont des doubles. Afin de permettre une approche neutre du point de vue de la technologie utilisée, il est nécessaire de prévoir différentes manières possibles pour un APA de repérer les doublons.
