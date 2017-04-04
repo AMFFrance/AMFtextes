@@ -1,0 +1,1 @@
+(86) In order to take market developments into account and ensure the same level of investor protection, it should be clarified that investment firms should remain responsible for undertaking suitability assessments where investment advice or portfolio management services are provided in whole or in part through an automated or semi-automated system.

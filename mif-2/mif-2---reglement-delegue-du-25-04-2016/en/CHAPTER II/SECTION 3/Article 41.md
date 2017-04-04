@@ -1,0 +1,18 @@
+# Article 41 - Additional requirements in relation to advice, distribution and self-placement
+
+
+1.   Investment firms shall have in place systems, controls and procedures to identify and manage the conflicts of interest that arise when providing investment service to an investment client to participate in a new issue, where the investment firm receives commissions, fees or any monetary or non-monetary benefits in relation to arranging the issuance. Any commissions, fees or monetary or non-monetary benefits shall comply with the requirements in Article 24(7), 24(8) and 24(9) of Directive 2014/65/EU and be documented in the investment firm's conflicts of interest policies and reflected in the firm's inducements arrangements.
+
+2.   Investment firms engaging in the placement of financial instruments issued by themselves or by entities within the same group, to their own clients, including their existing depositor clients in the case of credit institutions, or investment funds managed by entities of their group, shall establish, implement and maintain clear and effective arrangements for the identification, prevention or management of the potential conflicts of interest that arise in relation to this type of activity. Such arrangements shall include consideration of refraining from engaging in the activity, where conflicts of interest cannot be appropriately managed so as to prevent any adverse effects on clients.
+
+3.   When disclosure of conflicts of interest is required, investment firms shall comply with the requirements in Article 34(4), including an explanation of the nature and source of the conflicts of interest inherent to this type of activity, providing details about the specific risks related to such practices in order to enable clients to make an informed investment decision.
+
+4.   Investment firms which offer financial instruments issued that are by themselves or other group entities to their clients and that are included in the calculation of prudential requirements specified in Regulation (EU) No 575/2013 of the European Parliament and of the Council (22), Directive 2013/36/EU of the European Parliament and of the Council (23) or Directive 2014/59/EU of the European Parliament and of the Council (24), shall provide those clients with additional information explaining the differences between the financial instrument and bank deposits in terms of yield, risk, liquidity and any protection provided in accordance with Directive 2014/49/EU of the European Parliament and of the Council (25).
+
+%%% (22)  Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1).
+
+%%% (23)  Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338).
+
+%%% (24)  Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC, and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council (OJ L 173, 12.6.2014, p. 190).
+
+%%% (25)  Directive 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on deposit guarantee schemes (OJ L 173, 12.6.2014, p. 149).

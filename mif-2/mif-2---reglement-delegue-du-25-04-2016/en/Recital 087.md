@@ -1,0 +1,1 @@
+(87) In accordance with the suitability assessment requirement under Article 25(2) of Directive 2014/65/EU, it should also be clarified that investment firms should undertake a suitability assessment not only in relation to recommendations to buy a financial instrument are made but for all decisions whether to trade including whether or not to buy, hold or sell an investment.

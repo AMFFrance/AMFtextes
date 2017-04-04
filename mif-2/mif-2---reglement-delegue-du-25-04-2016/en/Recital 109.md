@@ -1,0 +1,1 @@
+(109) The reallocation of transactions should be considered as detrimental to a client if, as an effect of that reallocation, unfair precedence is given to the investment firm or to any particular client.

@@ -1,0 +1,1 @@
+(67) In order to provide a fair and balanced presentation of benefits and risks, investment firms should always give a clear and prominent indication of any relevant risks, including drawbacks and weaknesses, when referencing any potential benefits of a service or financial instrument.

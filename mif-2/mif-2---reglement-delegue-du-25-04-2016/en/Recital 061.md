@@ -1,0 +1,1 @@
+(61) This Regulation sets out requirements regarding information addressed to clients or potential clients, including marketing communications, in order to ensure that such information be fair, clear and not misleading in accordance with Article 24(3) of Directive 2014/65/EU.

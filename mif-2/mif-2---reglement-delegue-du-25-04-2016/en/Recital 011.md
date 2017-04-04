@@ -1,0 +1,1 @@
+(11) Payment netting is essential to the effective and efficient operation of currency settlement systems and therefore the classification of a foreign currency contract as a spot transaction should not require that each foreign currency spot contract is settled independently.

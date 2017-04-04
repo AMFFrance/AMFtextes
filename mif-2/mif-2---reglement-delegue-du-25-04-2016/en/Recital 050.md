@@ -1,0 +1,3 @@
+(50) Investment research should be a sub-category of the type of information defined as a recommendation in Regulation (EU) No 596/2014 of the European Parliament and of the Council (6) (market abuse).
+
+%%% (6)  Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse Regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC (OJ L 173, 12.6.2014, p. 1).

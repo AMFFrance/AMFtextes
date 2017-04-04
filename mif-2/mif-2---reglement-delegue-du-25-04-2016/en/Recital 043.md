@@ -1,0 +1,1 @@
+(43) Competent authorities should not make the authorisation to provide investment services or activities subject to a general prohibition on the outsourcing of one or more critical or important functions. Investment firms should be allowed to outsource such functions if the outsourcing arrangements established by the firm comply with certain conditions.

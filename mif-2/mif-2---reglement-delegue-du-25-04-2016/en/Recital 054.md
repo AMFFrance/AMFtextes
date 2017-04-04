@@ -1,0 +1,3 @@
+(54) Fees, commissions, monetary or non-monetary benefits received by the firm providing investment research from any third party should only be acceptable when they are provided in accordance with requirements specified in Article 24(9) of Directive 2014/65/EU and Article 13 of Commission Delegated Directive (EU) 2017/593 (7).
+
+%%% (7)  Commission Delegated Directive (EU) 2017/593 of 7 April 2016 supplementing Directive 2014/65/EU of the European Parliament and of the Council with regard to safeguarding of financial instruments and funds belonging to clients, product governance obligations and the rules applicable to the provision or reception of fees, commissions or any monetary or non-monetary benefits (see page 500 of this Official Journal).

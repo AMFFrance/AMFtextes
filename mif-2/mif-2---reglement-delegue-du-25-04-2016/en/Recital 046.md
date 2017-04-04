@@ -1,0 +1,1 @@
+(46) Conflicts of interest should be regulated only where an investment service or ancillary service is provided by an investment firm. The status of the client to whom the service is provided — as either retail, professional or eligible counterparty — should be irrelevant for that purpose.

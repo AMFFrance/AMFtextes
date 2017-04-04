@@ -1,0 +1,1 @@
+(125) Market data should be provided on a non-discriminatory basis, which requires that the same price and other terms and conditions should be offered to all customers who are in the same category according to published objective criteria.

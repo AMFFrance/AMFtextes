@@ -1,0 +1,1 @@
+(105) The provisions of this Regulation as to execution policy should be without prejudice to the general obligation of an investment firm under Article 27(7) of Directive 2014/65/EU to monitor the effectiveness of its order execution arrangements and policy and assess the venues in its execution policy on a regular basis.

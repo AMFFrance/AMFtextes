@@ -1,0 +1,1 @@
+(49) Firms should always comply with the inducements rules under Article 24 of Directive 2014/65/EU, including when providing placing services. In particular, fees received by investment firms placing the financial instruments issued to its investment clients should comply with these provisions and laddering and spinning should be considered as abusive practices.

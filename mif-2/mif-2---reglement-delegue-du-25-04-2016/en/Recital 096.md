@@ -1,0 +1,1 @@
+(96) For the purposes of the reporting obligations in respect of portfolio management, a contingent liability transaction should involve any actual or potential liability for the client that exceeds the cost of acquiring the instrument.

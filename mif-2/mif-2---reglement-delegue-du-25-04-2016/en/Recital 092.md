@@ -1,0 +1,5 @@
+(92) The records an investment firm is required to keep should be adapted to the type of business and the range of investment services and activities performed, provided that the record-keeping obligations set out in Directive 2014/65/EU, Regulation (EU) No 600/2014 of the European Parliament and of the Council (11), Regulation (EU) No 596/2014, Directive 2014/57/EU of the European Parliament and of the Council (12) and this Regulation are fulfilled and that competent authorities are able to fulfil their supervisory tasks and perform enforcement actions in view of ensuring both investor protection and market integrity.
+
+%%% (11)  Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012 (OJ L 173, 12.6.2014, p. 84).
+
+%%% (12)  Directive 2014/57/EU of the European Parliament and of the Council of 16 April 2014 on criminal sanctions for market abuse (market abuse directive) (OJ L 173, 12.6.2014, p. 179).

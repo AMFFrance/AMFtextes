@@ -1,0 +1,1 @@
+(60) Requirements imposed by this Regulation, including those relating to personal transactions, to dealing with knowledge of investment research and to the production or dissemination of investment research, should apply without prejudice to requirements of Directive 2014/65/EU and Regulation (EU) No 596/2014 and their respective implementing measures.

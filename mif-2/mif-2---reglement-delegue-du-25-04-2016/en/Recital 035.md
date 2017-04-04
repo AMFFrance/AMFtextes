@@ -1,0 +1,1 @@
+(35) The organisational requirements established under Directive 2014/65/EU should be without prejudice to systems established by national law for the registration or monitoring by competent authorities or firms of individuals working within investment firms.

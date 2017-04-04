@@ -1,0 +1,5 @@
+(66) In order to improve the consistency of information received by investors, investment firms should ensure that the information provided to each client is consistently presented in the same language throughout all forms of information and marketing material provided to that client. However, this should not imply a requirement for firms to translate prospectuses, prepared in accordance with Directive 2003/71/EC of the European Parliament and of the Council (9) or Directive 2009/65/EC of the European Parliament and of the Council (10), provided to clients.
+
+%%% (9)  Directive 2003/71/EC of the European Parliament and of the Council of 4 November 2003 on the prospectus to be published when securities are offered to the public or admitted to trading and amending Directive 2001/34/EC (OJ L 345, 31.12.2003, p. 64).
+
+%%% (10)  Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) (OJ L 302, 17.11.2009, p. 32).

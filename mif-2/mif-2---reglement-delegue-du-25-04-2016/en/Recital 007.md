@@ -1,0 +1,1 @@
+(7) Directive 2014/65/EU establishes the general framework for a regulatory regime for financial markets in the Union, setting out in Section C of Annex I the list of financial instruments covered. Section C(4) of Annex I to Directive 2014/65/EU includes financial instruments relating to a currency which are therefore under the scope of this Directive.

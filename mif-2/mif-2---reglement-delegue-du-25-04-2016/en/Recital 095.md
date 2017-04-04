@@ -1,0 +1,1 @@
+(95) Clients should be informed of the performance of their portfolio and depreciations of their initial investments. In the case of portfolio management, this trigger should be set at the depreciation of 10 %, and thereafter at multiples of 10 %, of the overall value of the overall portfolio and should not apply to individual holdings.

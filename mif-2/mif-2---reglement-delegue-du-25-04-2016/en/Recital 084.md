@@ -1,0 +1,1 @@
+(84) It is necessary to introduce different requirements for the application of the suitability assessment set out in Article 25(2) of Directive 2014/65/EU and the appropriateness assessment set out in Article 25(3) of that Directive. These tests are different in scope with regards to the investment services to which they relate, and have different functions and characteristics.

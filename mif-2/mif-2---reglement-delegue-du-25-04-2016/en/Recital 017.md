@@ -1,0 +1,1 @@
+(17) The provision of a general recommendation about a transaction in a financial instrument or a type of financial instrument constitutes the provision of an ancillary service within Section B(5) of Annex I to Directive 2014/65/EU, and consequently Directive 2014/65/EU and its protections apply to the provision of that recommendation.

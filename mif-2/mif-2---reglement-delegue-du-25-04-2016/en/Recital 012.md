@@ -1,0 +1,1 @@
+(12) Non deliverable forwards are contracts for the difference between an exchange rate agreed before and the actual spot rate at maturity and therefore should not be considered to be spot contracts, regardless of their settlement period.

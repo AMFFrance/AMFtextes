@@ -1,0 +1,1 @@
+(72) Enabling the same adviser to provide both independent and non-independent advice could create confusion for the client. In order to ensure clients' understanding of the nature and basis of investment advice provided, certain organisational requirements should also be established.

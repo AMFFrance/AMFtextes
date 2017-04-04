@@ -1,0 +1,7 @@
+(39) Investment firms are required to collect and maintain information relating to clients and services provided to clients. Where those requirements involve the collection and processing of personal data, the respect of the right to the protection of personal data in accordance with Directive 95/46/EC of the European Parliament and of the Council (3) and Directive 2002/58/EC of the European Parliament and of the Council (4) which govern the processing of personal data carried out in application of this Directive should be ensured. Processing of personal data by the European Securities and Markets Authority (ESMA) in the application of this Regulation is subject to Regulation (EC) No 45/2001 of the European Parliament and of the Council (5).
+
+%%% (3)  Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (OJ L 281, 23.11.1995, p. 31).
+
+%%% (4)  Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector (OJ L 201, 31.7.2002, p. 37).
+
+%%% (5)  Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data (OJ L 8, 12.1.2001, p. 1).

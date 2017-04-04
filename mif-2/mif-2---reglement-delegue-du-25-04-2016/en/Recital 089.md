@@ -1,0 +1,1 @@
+(89) A recommendation or request made, or advice given, by a portfolio manager to a client to the effect that the client should give or alter a mandate to the portfolio manager that defines the limits of the portfolio manager's discretion should be considered a recommendation as referred to in of Article 25(2) of Directive 2014/65/EU.
