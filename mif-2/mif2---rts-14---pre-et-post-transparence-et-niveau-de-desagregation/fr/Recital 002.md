@@ -1,0 +1,1 @@
+(2) Pour que les données pré-négociation et post-négociation fournies correspondent à la demande des acteurs du marché, les opérateurs de marché et les entreprises d'investissement exploitant une plateforme de négociation devraient offrir toutes les combinaisons de critères de désagrégation à des conditions commerciales raisonnables.
