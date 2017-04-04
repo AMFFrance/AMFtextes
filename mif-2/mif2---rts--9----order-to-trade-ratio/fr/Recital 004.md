@@ -1,0 +1,1 @@
+(4) Les plates-formes de négociation devraient calculer, au niveau de chaque instrument financier négocié sur celles-ci, la proportion d'ordres non exécutés par rapport aux transactions effectivement réalisées par leurs membres ou participants, de manière à s'assurer que cette proportion n'entraîne pas une volatilité excessive de l'instrument en question.

@@ -1,0 +1,1 @@
+(5) Afin d'assurer une harmonisation suffisante, dans l'Union, des mécanismes visant à empêcher l'apparition de conditions de négociation perturbatrices par une limitation de la proportion d'ordres non exécutés par rapport aux transactions, il convient de définir une méthode claire de calcul de cette proportion pour tous les participants au marché.

@@ -1,0 +1,1 @@
+(6) La signification de certains paramètres essentiels au calcul de la proportion d'ordres non exécutés par rapport aux transactions devrait être clarifiée.

@@ -1,0 +1,1 @@
+(2) Compte tenu de leur nature, les systèmes de négociation à la criée devraient être exclus du champ d'application du présent règlement, qui ne devrait s'appliquer qu'aux plates-formes de négociation utilisant un carnet d'ordres électronique à enchères continues ou un système de négociation dirigé par les prix ou hybride.

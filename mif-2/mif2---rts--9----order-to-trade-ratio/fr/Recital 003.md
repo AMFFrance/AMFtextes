@@ -1,0 +1,1 @@
+(3) La directive 2014/65/UE étend aux systèmes multilatéraux de négociation et aux systèmes organisés de négociation les obligations relatives au calcul de la proportion d'ordres non exécutés par rapport aux transactions. Il importe donc que ces plates-formes relèvent aussi du champ d'application du présent règlement.
