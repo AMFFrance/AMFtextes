@@ -1,0 +1,1 @@
+(5) The time granted to a trading venue to process a cleared derivative transaction should be shorter for electronically traded cleared derivative transactions than for non-electronically traded cleared derivative transactions as the level of automated processing should be higher in the former case.

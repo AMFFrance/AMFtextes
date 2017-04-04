@@ -1,0 +1,1 @@
+(2) In order to apply scalable technical solutions ensuring that transactions in cleared derivatives can be submitted and accepted for clearing as quickly as technologically practicable, the information needed by a trading venue and a CCP to perform their tasks should be pre-determined and clearly set in the documentation of the trading venue and the CCP.

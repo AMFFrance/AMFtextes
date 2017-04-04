@@ -1,0 +1,1 @@
+(8) In order to manage the credit risks related to cleared derivative transactions that are entered into on a bilateral basis, a CCP should allow clearing members to review the transaction details of their clients and to decide whether to accept it. As the process between a CCP and a clearing member is usually automated, this process should require limited time.
