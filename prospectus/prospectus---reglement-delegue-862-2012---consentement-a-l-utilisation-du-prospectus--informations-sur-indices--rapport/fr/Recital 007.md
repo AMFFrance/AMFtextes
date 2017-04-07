@@ -1,0 +1,1 @@
+(7) La directive 2010/73/UE a remplacé le terme «informations de base» par le terme «informations essentielles» dans certaines dispositions de la directive 2003/71/CE. Les annexes du règlement (CE) no 809/2004 doivent dès lors être adaptées.
