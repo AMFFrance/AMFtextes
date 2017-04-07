@@ -1,0 +1,1 @@
+(12) The financial position or the business of the entity is likely to be affected by a significant financial commitment. Therefore, investors should be entitled to receive additional information on the consequences of that commitment in a supplement to the prospectus.

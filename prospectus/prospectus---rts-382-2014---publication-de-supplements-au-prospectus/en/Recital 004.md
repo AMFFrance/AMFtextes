@@ -1,0 +1,1 @@
+(4) In order to ensure consistent harmonisation, to specify the requirements laid down in Directive 2003/71/EC and to take account of technical developments on financial markets, it is necessary to specify situations where publication of supplements to the prospectus is required.

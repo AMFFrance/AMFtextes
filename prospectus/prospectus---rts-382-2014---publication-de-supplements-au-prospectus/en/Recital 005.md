@@ -1,0 +1,1 @@
+(5) It is not possible to identify all the situations in which a supplement to the prospectus is required as this may depend on the issuer and securities involved. Therefore, it is appropriate to specify the minimum situations where a supplement is required.

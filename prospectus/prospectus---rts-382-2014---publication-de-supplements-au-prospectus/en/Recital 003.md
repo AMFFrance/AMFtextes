@@ -1,0 +1,3 @@
+(3) The provision of full information concerning the securities and the issuers of securities promotes the protection of investors. A supplement should therefore include all material information relating to the specific situations that triggered the supplement and that must be included in the prospectus in accordance with Directive 2003/71/EC and Commission Regulation (EC) No 809/2004 (2).
+
+%%% (2)  Commission Regulation (EC) No 809/2004 of 29 April 2004 implementing Directive 2003/71/EC of the European Parliament and of the Council as regards information contained in prospectuses as well as the format, incorporation by reference and publication of such prospectuses and dissemination of advertisements (OJ L 149, 30.4.2004, p. 1).
