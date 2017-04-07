@@ -1,0 +1,5 @@
+(2) As a consequence of Directive 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market and amending Directive 2001/34/EC (3), the requirement for the issuer to provide annually a document containing or referring to all information published in the 12 months preceding the issuance of the prospectus as laid down in Article 10 of Directive 2003/71/EC was deleted by Directive 2010/73/EU of the European Parliament and of the Council of 24 November 2010 amending Directives 2003/71/EC on the prospectus to be published when securities are offered to the public or admitted to trading and 2004/109/EC on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market (4). This amendment should be reflected in Regulation (EC) No 809/2004.
+
+%%% (3)  OJ L 390, 31.12.2004, p. 38.
+
+%%% (4)  OJ L 327, 11.12.2010, p. 1.

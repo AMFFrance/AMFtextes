@@ -1,0 +1,1 @@
+(16) In consideration of the need to provide issuers with a transitional period to adapt to the new requirements introduced by this Regulation, this Regulation should only apply to prospectuses and base prospectuses which have been approved by a competent authority on the date of or after its entry into force.

@@ -1,0 +1,1 @@
+(15) Advertisements should inform investors when no prospectus is required in accordance with Directive 2003/71/EC unless the issuer, the offeror or the person asking for admission to trading on a regulated market chooses to publish a prospectus that complies with the requirements of Directive 2003/71/EC and this Regulation.

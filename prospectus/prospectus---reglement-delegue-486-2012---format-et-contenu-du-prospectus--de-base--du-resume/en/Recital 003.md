@@ -1,0 +1,1 @@
+(3) The threshold relating to the obligation to publish a prospectus established by Article 3 of Directive 2003/71/EC was increased from EUR 50 000 to EUR 100 000 by Directive 2010/73/EU. This change should also be introduced in Regulation (EC) No 809/2004.

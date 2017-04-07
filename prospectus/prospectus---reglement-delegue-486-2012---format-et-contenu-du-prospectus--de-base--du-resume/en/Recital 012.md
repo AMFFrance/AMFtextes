@@ -1,0 +1,1 @@
+(12) In order to improve the efficiency of the Union’s securities markets and reduce the administrative costs for issuers when raising capital, a proportionate disclosure regime, as required by Article 7(2)(g) of Directive 2003/71/EC, should be introduced for offers of shares to existing shareholders who can either subscribe the shares or sell the right to subscribe the shares.

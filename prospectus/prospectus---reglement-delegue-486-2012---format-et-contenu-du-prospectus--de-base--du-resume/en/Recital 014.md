@@ -1,0 +1,1 @@
+(14) The proportionate disclosure regimes should take into account the need to improve investor protection and the amount of information already disclosed to the markets.

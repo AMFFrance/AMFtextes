@@ -1,0 +1,1 @@
+(10) Provisions on the format and the content of the summary of the prospectus should be laid down so that equivalent information appears in the same position in the summaries and that similar products can be easily compared. Accordingly, where an element is not applicable to a prospectus, that element should appear in the summary with the mention ‘not applicable’.
