@@ -1,0 +1,1 @@
+(3) Le seuil relatif à l’obligation de publier un prospectus fixé à l’article 3 de la directive 2003/71/CE a été porté par la directive 2010/73/UE de 50 000 à 100 000 EUR. Cette modification doit également être introduite dans le règlement (CE) no 809/2004.

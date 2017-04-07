@@ -1,0 +1,1 @@
+(5) Afin d’éviter que les conditions définitives d’un prospectus de base ne contiennent des informations devant être approuvées par les autorités compétentes, le prospectus de base doit contenir toutes les informations connues de l’émetteur lors de l’élaboration du prospectus.
