@@ -1,0 +1,1 @@
+(4) Where securities with warrants or derivative securities give the right to acquire the issuer’s or group’s shares and those shares are not admitted to trading on a regulated market, the relevant information set out in the securities note schedule for derivative securities should be provided to investors.

@@ -1,0 +1,1 @@
+(2) The share registration document schedule should be applicable to shares and other transferable securities equivalent to shares but also to other securities giving access to the capital of the issuer by way of conversion or exchange where the underlying shares are not already admitted to trading on a regulated market.

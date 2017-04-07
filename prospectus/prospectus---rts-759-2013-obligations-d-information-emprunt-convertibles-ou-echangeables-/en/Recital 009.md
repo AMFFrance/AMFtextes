@@ -1,0 +1,1 @@
+(9) The term ‘bonds’ should be replaced by the term ‘debt securities’ in order to ensure consistency of terminology within Regulation (EC) No 809/2004.
