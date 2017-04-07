@@ -1,0 +1,1 @@
+(1) La directive 2003/71/CE harmonise les exigences relatives à l'établissement, à l'approbation et à la diffusion du prospectus à publier en cas d'offre au public de valeurs mobilières ou en vue de l'admission de valeurs mobilières à la négociation sur un marché réglementé situé ou opérant sur le territoire d'un État membre.

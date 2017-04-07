@@ -1,0 +1,1 @@
+(4) Afin de garantir une harmonisation uniforme, de préciser les exigences établies dans la directive 2003/71/CE et de tenir compte de l'évolution technique des marchés financiers, il est nécessaire de préciser les situations dans lesquelles la publication de suppléments au prospectus est requise.

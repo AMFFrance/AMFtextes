@@ -1,0 +1,1 @@
+(13) L'augmentation du montant nominal total d'un programme d'offre fournit des informations sur le besoin de financement de l'émetteur ou sur une hausse de la demande pour les valeurs mobilières de l'émetteur. Par conséquent, lorsque le montant nominal total du programme d'offre figurant dans le prospectus est augmenté, un supplément au prospectus devrait être publié.

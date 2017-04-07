@@ -1,0 +1,1 @@
+(5) Il n'est pas possible de recenser toutes les situations dans lesquelles un supplément au prospectus est requis, car cela peut dépendre de l'émetteur et de la catégorie de valeurs mobilières concernés. Par conséquent, il convient de préciser les situations minimales dans lesquelles un supplément est requis.
