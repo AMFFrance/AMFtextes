@@ -1,0 +1,3 @@
+(1) Le règlement (CE) no 809/2004 de la Commission du 29 avril 2004 mettant en œuvre la directive 2003/71/CE du Parlement européen et du Conseil en ce qui concerne les informations contenues dans les prospectus, la structure des prospectus, l’inclusion d’informations par référence, la publication des prospectus et la diffusion des communications à caractère promotionnel (2) détaille, pour différents types de titres, les informations minimales à inclure dans un prospectus aux fins de l’article 7, paragraphe 1, de la directive 2003/71/CE.
+
+%%% (2)  JO L 149 du 30.4.2004, p. 1.

@@ -1,0 +1,1 @@
+(9) Par souci de cohérence terminologique, le terme «obligations» devrait être remplacé par les termes «titres d’emprunt» dans le règlement (CE) no 809/2004.

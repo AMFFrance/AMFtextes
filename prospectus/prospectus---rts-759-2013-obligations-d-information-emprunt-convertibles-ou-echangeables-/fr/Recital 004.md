@@ -1,0 +1,1 @@
+(4) Lorsque des valeurs mobilières assorties de warrants ou des instruments dérivés confèrent le droit d’acquérir des actions de l’émetteur ou de son groupe et que ces actions ne sont pas admises à la négociation sur un marché réglementé, les informations pertinentes prévues dans le schéma de la note relative aux instruments dérivés devraient être fournies aux investisseurs.
