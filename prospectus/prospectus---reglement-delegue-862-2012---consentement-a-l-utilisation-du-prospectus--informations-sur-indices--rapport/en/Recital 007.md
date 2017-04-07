@@ -1,0 +1,1 @@
+(7) Directive 2010/73/EU replaced the term ‘key information’ by the term ‘essential information’ in a number of provisions of Directive 2003/71/EC. The Annexes to Regulation (EC) No 809/2004 should therefore be adapted.

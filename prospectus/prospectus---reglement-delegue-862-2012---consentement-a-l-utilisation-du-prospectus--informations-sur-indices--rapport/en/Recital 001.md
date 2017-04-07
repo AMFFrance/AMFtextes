@@ -1,0 +1,3 @@
+(1) Commission Regulation (EC) No 809/2004 of 29 April 2004 implementing Directive 2003/71/EC of the European Parliament and of the Council as regards information contained in prospectuses as well as the format, incorporation by reference and publication of such prospectuses and dissemination of advertisements (2) sets out the minimum information to be included in a prospectus for different kinds of securities in order to comply with Article 5(5) and Article 7(1) of Directive 2003/71/EC.
+
+%%% (2)  OJ L 149, 30.4.2004, p. 1.

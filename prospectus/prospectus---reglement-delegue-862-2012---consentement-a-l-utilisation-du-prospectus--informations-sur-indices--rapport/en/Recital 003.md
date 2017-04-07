@@ -1,0 +1,1 @@
+(3) For the purposes of the third subparagraph of Article 3(2) of Directive 2003/71/EC, Regulation (EC) No 809/2004 should specify what information is to be provided where the issuer or the person responsible for drawing up the prospectus consents by means of a written agreement to its use by financial intermediaries.
