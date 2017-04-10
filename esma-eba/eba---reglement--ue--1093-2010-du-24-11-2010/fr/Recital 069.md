@@ -1,0 +1,1 @@
+(69) Afin que l’Autorité puisse être instituée le 1er janvier 2011, le présent règlement devrait entrer en vigueur le jour suivant celui de sa publication au Journal officiel de l’Union européenne,

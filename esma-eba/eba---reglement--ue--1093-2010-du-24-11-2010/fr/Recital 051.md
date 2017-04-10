@@ -1,0 +1,1 @@
+(51) Dans ses procédures décisionnelles, l’Autorité devrait être liée par des règles de l’Union et des principes généraux sur la garantie d’une procédure régulière et transparente. Il convient de respecter pleinement le droit des destinataires des décisions de l’Autorité à être entendus. Les actes de l’Autorité devraient faire partie intégrante du droit européen.
