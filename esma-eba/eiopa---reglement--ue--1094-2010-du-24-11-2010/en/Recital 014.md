@@ -1,0 +1,1 @@
+(14) Based on the work of international bodies, systemic risk should be defined as a risk of disruption in the financial system with the potential to have serious negative consequences for the internal market and the real economy. All types of financial intermediaries, markets and infrastructures may be potentially systemically important to some degree.

@@ -1,0 +1,1 @@
+(34) As the de Larosière Report indicates, ‘[i]n essence, we have two alternatives: the first “chacun pour soi” beggar-thy-neighbour solutions; or the second – enhanced, pragmatic, sensible European cooperation for the benefit of all to preserve an open world economy. This will bring undoubted economic gains’.

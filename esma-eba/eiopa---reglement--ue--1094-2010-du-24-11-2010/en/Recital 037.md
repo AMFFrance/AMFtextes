@@ -1,0 +1,5 @@
+(37) In the current review of Directive 94/19/EC of the European Parliament and the Council of 30 May 1994 on deposit-guarantee schemes (35) and Directive 97/9/EC of the European Parliament and of the Council of 3 March 1997 on investor-compensation schemes (36), the Commission’s intention to pay special attention to the need to ensure further harmonisation throughout the Union is noted. In the insurance sector, the Commission’s intention to examine the possibility of introducing Union rules protecting insurance policy holders in case of a failing insurance company is also noted. The ESAs should play an important role in those areas and appropriate powers concerning the European network of national insurance guarantee schemes should be conferred upon them.
+
+%%% (35)  OJ L 135, 31.5.1994, p. 5.
+
+%%% (36)  OJ L 84, 26.3.1997, p. 22.

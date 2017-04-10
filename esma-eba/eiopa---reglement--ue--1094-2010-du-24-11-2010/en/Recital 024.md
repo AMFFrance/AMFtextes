@@ -1,0 +1,1 @@
+(24) The Commission should also be empowered to adopt implementing technical standards by means of implementing acts under Article 291 TFEU.

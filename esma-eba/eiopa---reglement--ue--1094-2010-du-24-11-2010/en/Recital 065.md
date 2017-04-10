@@ -1,0 +1,1 @@
+(65) Third countries should be allowed to participate in the work of the Authority in accordance with appropriate agreements to be concluded by the Union.

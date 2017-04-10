@@ -1,0 +1,1 @@
+(48) Members of the stakeholder groups representing non-profit organisations or academics should receive adequate compensation in order to allow persons that are neither well-funded nor industry representatives to take part fully in the debate on financial regulation.

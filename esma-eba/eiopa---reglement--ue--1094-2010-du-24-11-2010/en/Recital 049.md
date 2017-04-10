@@ -1,0 +1,1 @@
+(49) The stakeholder groups should be consulted by the Authority and should be able to submit opinions and advice to the Authority on issues related to the optional application to institutions covered by Directive 2002/83/EC or Directive 2003/41/EC.
