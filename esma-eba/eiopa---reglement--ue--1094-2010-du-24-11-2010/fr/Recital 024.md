@@ -1,0 +1,1 @@
+(24) La Commission devrait également être habilitée à adopter des normes techniques d’exécution par voie d’actes d’exécution en vertu de l’article 291 du traité sur le fonctionnement de l’Union européenne.

@@ -1,0 +1,1 @@
+(13) Afin qu’elle puisse atteindre ses objectifs, il convient de doter l’Autorité de la personnalité juridique et d’une autonomie financière et administrative.

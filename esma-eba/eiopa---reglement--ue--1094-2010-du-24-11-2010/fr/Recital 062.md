@@ -1,0 +1,1 @@
+(62) Il est essentiel que soient protégés les secrets d’affaires et autres informations confidentielles. La confidentialité des informations mises à la disposition de l’Autorité et échangées au sein du réseau devrait faire l’objet de règles de confidentialité strictes et effectives.

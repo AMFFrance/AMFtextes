@@ -1,0 +1,1 @@
+(49) Les groupes des parties intéressées devraient être consultés par l’Autorité et devraient pouvoir soumettre à celle-ci des avis et des conseils sur des questions liées à l’application facultative aux institutions relevant de la directive 2002/83/CE ou de la directive 2003/41/CE.

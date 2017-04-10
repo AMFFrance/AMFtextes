@@ -1,0 +1,5 @@
+(37) Dans le cadre du réexamen de la directive 94/19/CE du Parlement européen et du Conseil du 30 mai 1994 relative aux systèmes de garantie des dépôts (35) et de la directive 97/9/CE du Parlement européen et du Conseil du 3 mars 1997 relative aux systèmes d’indemnisation des investisseurs (36) auquel procède actuellement la Commission, il convient de noter que celle-ci a fait part de son intention de se pencher particulièrement sur la nécessité d’assurer une harmonisation accrue dans toute l’Union. Dans le secteur des assurances, il convient de relever également que la Commission a déclaré qu’elle avait l’intention d’examiner la possibilité d’instaurer des règles de l’Union pour protéger les assurés en cas de défaillance de l’assureur. Les AES devraient jouer un rôle important dans ces domaines et des compétences appropriées devraient leur être conférées pour ce qui est du réseau européen des fonds nationaux de garantie des assurances.
+
+%%% (35)  JO L 135 du 31.5.1994, p. 5.
+
+%%% (36)  JO L 84 du 26.3.1997, p. 22.

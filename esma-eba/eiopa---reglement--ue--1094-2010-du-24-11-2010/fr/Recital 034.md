@@ -1,0 +1,1 @@
+(34) Comme le rapport de Larosière le souligne, «nous avons deux possibilités: la première, le chacun pour soi; ou la seconde, une coopération européenne renforcée, pragmatique, raisonnable pour le bien de tous et pour une économie mondiale ouverte. Cette solution offre sans aucun doute des avantages économiques».

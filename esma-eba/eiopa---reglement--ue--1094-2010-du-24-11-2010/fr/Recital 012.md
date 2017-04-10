@@ -1,0 +1,1 @@
+(12) L’Autorité devrait tenir dûment compte de la répercussion de ses activités sur la concurrence et l’innovation sur le marché intérieur, la compétitivité globale de l’Union, l’inclusion financière et la nouvelle stratégie de l’Union en matière d’emploi et de croissance.
