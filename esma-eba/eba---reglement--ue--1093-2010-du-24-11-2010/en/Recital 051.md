@@ -1,0 +1,1 @@
+(51) In its decision-making procedures, the Authority should be bound by Union rules and general principles on due process and transparency. The right of the addressees of the Authority’s decisions to be heard should be fully respected. The Authority’s acts should form an integral part of Union law.

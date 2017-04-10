@@ -1,0 +1,1 @@
+(33) The crisis has proven that the current system of cooperation between national authorities whose powers are limited to individual Member States is insufficient as regards financial institutions that operate across borders.
