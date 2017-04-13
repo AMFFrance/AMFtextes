@@ -1,0 +1,1 @@
+(29) Le présent règlement se fonde sur les projets de normes techniques de réglementation soumis à la Commission par l'Autorité bancaire européenne, l'Autorité européenne des assurances et des pensions professionnelles et l'Autorité européenne des marchés financiers (les «autorités européennes de surveillance»).

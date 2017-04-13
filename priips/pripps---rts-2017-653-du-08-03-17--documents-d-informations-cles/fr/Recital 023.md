@@ -1,0 +1,1 @@
+(23) Pour assurer un traitement cohérent au niveau de l'Union des délais de livraison des documents d'informations clés, les initiateurs de PRIIP devraient être tenus de fournir le document d'informations clés en temps utile avant que ces investisseurs de détail ne soient liés par un contrat ou une offre portant sur le PRIIP concerné.

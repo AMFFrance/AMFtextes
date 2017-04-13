@@ -1,0 +1,1 @@
+(1) Le règlement (UE) no 1286/2014 introduit un nouveau document d'informations clés standardisé afin de permettre à l'investisseur de détail de mieux comprendre les produits d'investissement packagés de détail et fondés sur l'assurance (PRIIP) et de mieux les comparer.

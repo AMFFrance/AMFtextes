@@ -1,0 +1,1 @@
+(2) En vue de fournir aux investisseurs de détail des informations clés qui soient faciles à lire, à comprendre et à comparer, il convient d'établir un modèle commun de document d'informations clés.

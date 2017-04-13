@@ -1,0 +1,1 @@
+(27) L'urgence de la situation, par exemple lorsqu'il est important pour un investisseur de détail d'acheter un PRIIP à un prix donné et que le prix dépend du moment auquel la transaction a lieu, devrait également être prise en considération pour déterminer l'importance du critère d'une fourniture des informations en temps utile.
