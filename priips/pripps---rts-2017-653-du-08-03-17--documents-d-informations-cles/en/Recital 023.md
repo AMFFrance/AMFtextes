@@ -1,0 +1,1 @@
+(23) In order to ensure that the timing of the delivery of key information documents is approached in a consistent way across the Union, PRIIP manufacturers should be required to provide the key information document in good time before those retail investors are bound by any contract or offer relating to that PRIIP.

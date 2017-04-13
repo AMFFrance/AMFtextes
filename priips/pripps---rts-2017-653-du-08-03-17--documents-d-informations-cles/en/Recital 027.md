@@ -1,0 +1,1 @@
+(27) The urgency of the situation, for instance where it is important for a retail investor to buy a PRIIP at a given price and the price is sensitive to the timing of the transaction, should also be considered when determining the extent of the good time criterion.

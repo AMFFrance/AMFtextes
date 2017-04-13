@@ -1,0 +1,1 @@
+(13) Given that the impact of different kinds of cost on returns can vary the key information document should also provide a breakdown of the different kinds of costs. The breakdown of costs should be expressed in standardised terms and as a percentage so that the amounts for different PRIIPs can be easily compared.

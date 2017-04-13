@@ -1,0 +1,1 @@
+(1) Regulation (EU) No 1286/2014 introduces a new standardised key information document to improve the retail investor's understanding of packaged retail and insurance-based investment products (‘PRIIPs’) and the comparability of those products.

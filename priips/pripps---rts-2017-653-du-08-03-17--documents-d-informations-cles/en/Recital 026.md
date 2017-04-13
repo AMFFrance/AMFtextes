@@ -1,0 +1,1 @@
+(26) In order to make an informed investment decision, a retail investor may need additional time to consider the key information document of a complex PRIIP or a PRIIP that is unknown to that investor. Accordingly, such factors should be taken into account when considering what amounts to the provision of the key information document in good time.

@@ -1,0 +1,1 @@
+(15) Given that the key information document is also likely to be used as a summary of the main features of the PRIIP by retail investors, it should contain clear information on how a complaint might be lodged about the product or about the conduct of the PRIIP manufacturer or a person advising on, or selling, the product.

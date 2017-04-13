@@ -1,0 +1,1 @@
+(3) The identity and contact details mentioned in Article 8(3)(a) of Regulation (EU) No 1286/2014 should include the International Securities Identification Number or Unique Product Identifier for the PRIIP, where that identifier is available, in order to make it easier for the retail investor to find additional information about the PRIIP.

@@ -1,0 +1,1 @@
+(10) In order for retail investors to be able to appreciate the risk, the key information document should provide retail investors with information as to potential consequences where a PRIIP manufacturer is not able to pay out. The degree of protection of the retail investor in such cases under investment, insurance or deposit guarantee schemes should be clearly set out.

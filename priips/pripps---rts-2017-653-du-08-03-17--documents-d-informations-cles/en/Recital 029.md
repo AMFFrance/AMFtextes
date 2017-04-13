@@ -1,0 +1,1 @@
+(29) This Regulation is based on the draft regulatory technical standards submitted to the Commission by the European Banking Authority, the European Insurance and Occupational Pensions Authority and the European Securities and Markets Authority (the ‘European Supervisory Authorities’).
