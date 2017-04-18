@@ -1,0 +1,1 @@
+(26) In addition, to identify, understand, manage and mitigate risks at Union level to an even greater degree, Member States should make available the results of their risk assessments to each other, to the Commission and to EBA, EIOPA and ESMA (the ‘ESAs’).

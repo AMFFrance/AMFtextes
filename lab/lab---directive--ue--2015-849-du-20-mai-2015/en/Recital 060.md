@@ -1,0 +1,5 @@
+(60) For the purposes of assessing the appropriateness of persons holding a management function in, or otherwise controlling, obliged entities, any exchange of information about criminal convictions should be carried out in accordance with Council Framework Decision 2009/315/JHA (16) and Council Decision 2009/316/JHA (17), as transposed into national law, and with other relevant provisions of national law.
+
+%%% (16)  Council Framework Decision 2009/315/JHA of 26 February 2009 on the organisation and content of the exchange of information extracted from the criminal record between Member States (OJ L 93, 7.4.2009, p. 23).
+
+%%% (17)  Council Decision 2009/316/JHA of 6 April 2009 on the establishment of the European Criminal Records Information System (ECRIS) in application of Article 11 of Framework Decision 2009/315/JHA (OJ L 93, 7.4.2009, p. 33).

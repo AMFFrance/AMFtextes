@@ -1,0 +1,1 @@
+(25) The results of risk assessments should, where appropriate, be made available to obliged entities in a timely manner to enable them to identify, understand, manage and mitigate their own risks.

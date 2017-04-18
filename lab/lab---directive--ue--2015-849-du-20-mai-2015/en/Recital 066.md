@@ -1,0 +1,1 @@
+(66) In accordance with Article 21 of the Charter, which prohibits discrimination based on any ground, Member States are to ensure that this Directive is implemented, as regards risk assessments in the context of customer due diligence, without discrimination.

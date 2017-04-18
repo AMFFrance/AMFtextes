@@ -1,0 +1,1 @@
+(27) When applying this Directive, it is appropriate to take account of the characteristics and needs of smaller obliged entities which fall under its scope, and to ensure treatment which is appropriate to their specific needs, and the nature of the business.

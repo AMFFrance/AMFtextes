@@ -1,0 +1,1 @@
+(8) As concerns the obliged entities which are subject to this Directive, estate agents could be understood to include letting agents, where applicable.

@@ -1,0 +1,1 @@
+(16) Timely access to information on beneficial ownership should be ensured in ways which avoid any risk of tipping off the company concerned.

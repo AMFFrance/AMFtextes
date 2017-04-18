@@ -1,0 +1,1 @@
+(18) This Directive should also apply to activities of obliged entities which are performed on the internet.
