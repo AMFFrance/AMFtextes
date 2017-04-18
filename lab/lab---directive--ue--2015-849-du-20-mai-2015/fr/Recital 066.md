@@ -1,0 +1,1 @@
+(66) Conformément à l'article 21 de la charte, qui interdit toute discrimination pour quelque motif que ce soit, les États membres doivent veiller à ce que la présente directive soit mise en œuvre de manière non discriminatoire en ce qui concerne les évaluations des risques effectuées dans le cadre des obligations de vigilance à l'égard de la clientèle.

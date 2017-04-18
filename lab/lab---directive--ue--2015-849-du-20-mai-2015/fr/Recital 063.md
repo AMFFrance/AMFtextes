@@ -1,0 +1,1 @@
+(63) Compte tenu des modifications très importantes qu'il serait nécessaire d'apporter aux directives 2005/60/CE et 2006/70/CE à la lumière de la présente directive, il y a lieu de fusionner et de remplacer ces directives dans un souci de clarté et de cohérence.

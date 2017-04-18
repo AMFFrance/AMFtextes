@@ -1,0 +1,1 @@
+(27) Il y a lieu de tenir compte, dans l'application de la présente directive, des caractéristiques et des besoins de plus petites entités assujetties qui entrent dans son champ d'application en leur garantissant un traitement adapté à leurs besoins spécifiques et à la nature de leurs activités.

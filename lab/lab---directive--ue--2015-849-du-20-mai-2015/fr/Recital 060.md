@@ -1,0 +1,5 @@
+(60) Aux fins d'évaluer la qualité des personnes exerçant une fonction de direction dans les entités assujetties ou les contrôlant par d'autres moyens, il convient de procéder aux échanges d'informations sur les condamnations pénales conformément à la décision-cadre 2009/315/JAI du Conseil (16) et à la décision 2009/316/JAI du Conseil (17), telles qu'elles ont été transposées en droit national, et aux autres dispositions applicables du droit national.
+
+%%% (16)  Décision-cadre 2009/315/JAI du Conseil du 26 février 2009 concernant l'organisation et le contenu des échanges d'informations extraites du casier judiciaire entre les États membres (JO L 93 du 7.4.2009, p. 23).
+
+%%% (17)  Décision 2009/316/JAI du Conseil du 6 avril 2009 relative à la création du système européen d'information sur les casiers judiciaires (ECRIS), en application de l'article 11 de la décision-cadre 2009/315/JAI (JO L 93 du 7.4.2009, p. 33).

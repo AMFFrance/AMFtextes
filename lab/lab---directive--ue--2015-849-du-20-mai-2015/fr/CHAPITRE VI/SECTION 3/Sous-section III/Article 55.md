@@ -1,0 +1,6 @@
+# Article 55 - null
+
+
+1.   Les États membres veillent à ce que les informations échangées en vertu des articles 52 et 53 soient utilisées uniquement aux fins pour lesquelles elles ont été demandées ou fournies et à ce que toute dissémination de ces informations par la CRF destinataire à toute autre autorité, agence ou département, ou toute utilisation de ces informations à des fins allant au-delà de celles initialement approuvées, soit subordonnée à l'autorisation préalable de la CRF ayant fourni ces informations.
+
+2.   Les États membres veillent à ce que l'accord préalable de la CRF sollicitée pour la dissémination des informations aux autorités compétentes soit octroyé sans délai et dans la plus large mesure possible. La CRF sollicitée ne refuse pas de donner son accord à cette dissémination, sauf si elle n'entre pas dans le champ d'application de ses dispositions en matière de lutte contre le blanchiment de capitaux et le financement du terrorisme, est susceptible d'entraver une enquête pénale, serait manifestement disproportionnée par rapport aux intérêts légitimes d'une personne physique ou morale ou de l'État membre de la CRF sollicitée ou serait, pour une autre raison, contraire aux principes fondamentaux du droit national dudit État membre. À cet égard, tout refus de donner son accord est dûment expliqué.

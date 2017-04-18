@@ -1,0 +1,12 @@
+# Article 18 - null
+
+
+1.   Dans les cas visés aux articles 19 à 24 et dans le cadre de relations avec des personnes physiques ou des entités juridiques établies dans les pays tiers répertoriés par la Commission comme étant des pays tiers à haut risque, ainsi que dans d'autres cas de risques plus élevés identifiés par les États membres ou les entités assujetties, les États membres exigent des entités assujetties qu'elles appliquent des mesures de vigilance renforcées à l'égard de la clientèle afin de gérer et d'atténuer ces risques de manière adéquate.
+
+Des mesures de vigilance renforcées à l'égard de la clientèle ne doivent pas nécessairement être automatiquement appliquées dans les succursales ou filiales détenues majoritairement, qui sont situées dans des pays tiers à haut risque, d'entités assujetties établies dans l'Union, si ces succursales ou filiales respectent intégralement les politiques et procédures en vigueur à l'échelle du groupe conformément à l'article 45. Les États membres veillent à ce que les entités assujetties traitent ces situations en ayant recours à une approche fondée sur les risques.
+
+2.   Les États membres exigent des entités assujetties qu'elles examinent, dans la mesure du raisonnable, le contexte et la finalité de toute transaction complexe et d'un montant inhabituellement élevé et tous les types inhabituels de transaction, n'ayant pas d'objet économique ou licite apparent. Les entités assujetties renforcent notamment le degré et la nature du contrôle de la relation d'affaires, afin d'apprécier si ces transactions ou activités semblent suspectes.
+
+3.   Lorsqu'ils évaluent les risques de blanchiment de capitaux et de financement du terrorisme, les États membres et les entités assujetties tiennent compte au minimum des facteurs de situations de risque potentiellement plus élevé énoncés à l'annexe III.
+
+4.   Conformément à l'article 16 des règlements (UE) no 1093/2010, (UE) no 1094/2010 et (UE) no 1095/2010, les AES publient, au plus tard le 26 juin 2017, des orientations à l'intention des autorités compétentes et des établissements de crédit et des établissements financiers, concernant les facteurs de risque à prendre en considération et les mesures à prendre dans les situations où des mesures de vigilance renforcées à l'égard de la clientèle sont appropriées. La nature et la taille des activités sont spécifiquement prises en compte et, lorsque cela est approprié et proportionné, des mesures spécifiques sont prévues.

@@ -1,0 +1,1 @@
+(18) La présente directive devrait également s'appliquer aux activités des entités assujetties lorsque ces activités sont exercées sur l'internet.

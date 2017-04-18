@@ -1,0 +1,1 @@
+(16) Il convient d'assurer un accès en temps utile aux informations relatives aux bénéficiaires effectifs selon des modalités permettant d'éviter tout risque d'alerter la société concernée.

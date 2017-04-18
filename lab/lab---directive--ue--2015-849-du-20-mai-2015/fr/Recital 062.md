@@ -1,0 +1,1 @@
+(62) Les projets de normes techniques de réglementation élaborés par les AES en vertu de la présente directive devraient être adoptés par la Commission par voie d'actes délégués conformément à l'article 290 du traité sur le fonctionnement de l'Union européenne et aux articles 10 à 14 des règlements (UE) no 1093/2010, (UE) no 1094/2010 et (UE) no 1095/2010.

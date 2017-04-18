@@ -1,0 +1,1 @@
+(8) S'agissant des entités assujetties qui sont soumises à la présente directive, les agents immobiliers pourraient s'entendre comme incluant les agents de location, le cas échéant.
