@@ -1,0 +1,1 @@
+(2) La communication en temps opportun, dans un délai commun clairement défini, des rapports précédemment publiés par les plates-formes de négociation facilite la publication hebdomadaire centralisée, par l'AEMF, de ces rapports en provenance de toute l'Union.
