@@ -1,0 +1,1 @@
+(2) Timely submission of reports previously published by the respective trading venues within a clear and common deadline facilitates the weekly centralised publication by ESMA of those reports from across the Union.

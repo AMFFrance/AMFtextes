@@ -1,0 +1,1 @@
+(3) For reasons of consistency and in order to ensure the smooth functioning of the financial markets, it is necessary that the provisions laid down in this Regulation and the provisions laid down in Directive 2014/65/EU apply from the same date.
