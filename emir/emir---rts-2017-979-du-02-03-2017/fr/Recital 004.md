@@ -1,0 +1,1 @@
+(4) Les banques centrales et les organismes publics chargés de gérer la dette publique ou intervenant dans sa gestion de l'Australie, du Canada, de Hong Kong, du Mexique, de Singapour et de la Suisse devraient par conséquent être ajoutés à la liste des entités exemptées prévue dans le règlement (UE) no 648/2012.

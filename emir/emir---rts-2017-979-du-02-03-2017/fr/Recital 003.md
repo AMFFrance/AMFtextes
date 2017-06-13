@@ -1,0 +1,1 @@
+(3) À l'issue de cette analyse, la Commission a conclu que les banques centrales et les organismes publics chargés de gérer la dette publique ou intervenant dans sa gestion de l'Australie, du Canada, de Hong Kong, du Mexique, de Singapour et de la Suisse devraient être exemptés des obligations de compensation et de déclaration prévues par le règlement (UE) no 648/2012.
