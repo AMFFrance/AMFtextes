@@ -1,0 +1,1 @@
+(1) La directive 2014/65/UE prévoit, en son article 84, la consultation des autorités compétentes avant l'octroi d'un agrément au titre de son article 7. Elle prévoit également l'établissement de formulaires, modèles et procédures normalisés pour cette consultation.

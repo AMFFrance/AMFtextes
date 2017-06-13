@@ -1,0 +1,1 @@
+(4) Les formulaires, modèles et procédures normalisés devraient permettre de préserver la confidentialité des informations échangées ou communiquées, comme l'exige la directive 2014/65/UE, et de respecter les dispositions du droit de l'Union relatives au traitement des données à caractère personnel et à leur transfert.

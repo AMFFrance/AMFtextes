@@ -1,0 +1,1 @@
+(2) Il conviendrait que les autorités compétentes désignent spécifiquement un point de contact pour leur communication préalable à l'octroi d'un agrément, afin de faciliter cette communication.
