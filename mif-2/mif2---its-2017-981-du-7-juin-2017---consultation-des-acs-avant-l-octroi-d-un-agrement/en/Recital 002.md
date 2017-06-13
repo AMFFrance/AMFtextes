@@ -1,0 +1,1 @@
+(2) To facilitate communication between competent authorities, they should designate a contact point specifically for the purpose of communication prior to granting an authorisation.

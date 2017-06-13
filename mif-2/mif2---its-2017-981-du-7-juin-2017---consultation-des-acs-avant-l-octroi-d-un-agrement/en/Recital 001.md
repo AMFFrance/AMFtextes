@@ -1,0 +1,1 @@
+(1) Article 84 of Directive 2014/65/EU provides for consultation of competent authorities prior to granting an authorisation in accordance with Article 7 of that Directive. Directive 2014/65/EU also provides for establishment of standard forms, templates and procedures for such consultation.

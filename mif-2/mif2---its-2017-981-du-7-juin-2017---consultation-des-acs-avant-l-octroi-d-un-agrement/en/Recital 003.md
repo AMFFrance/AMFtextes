@@ -1,0 +1,1 @@
+(3) In order to ensure that competent authorities are able to consult each other prior to granting an authorisation in an efficient and timely manner it is necessary to lay down the procedures for requests for consultation, acknowledgements of receipt and replies to requests for consultation.
