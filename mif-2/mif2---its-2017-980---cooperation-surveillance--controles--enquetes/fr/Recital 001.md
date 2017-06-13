@@ -1,0 +1,1 @@
+(1) La directive 2014/65/UE établit des obligations pour la coopération et l'échange d'informations entre autorités compétentes. Dans le cadre de cette procédure, une autorité compétente peut requérir la coopération de l'autorité compétente d'un autre État membre aux fins d'une vérification sur place ou d'une enquête.
