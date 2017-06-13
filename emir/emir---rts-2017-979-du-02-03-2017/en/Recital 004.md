@@ -1,0 +1,1 @@
+(4) The central banks and public bodies charged with or intervening in the management of the public debt in Australia, Canada, Hong Kong, Mexico, Singapore, and Switzerland should therefore be added to the list of exempted entities laid down in Regulation (EU) No 648/2012.

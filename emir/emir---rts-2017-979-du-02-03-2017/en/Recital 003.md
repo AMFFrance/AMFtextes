@@ -1,0 +1,1 @@
+(3) The Commission's analysis concluded that central banks and public bodies charged with or intervening in the management of public debt in Australia, Canada, Hong Kong, Mexico, Singapore, and Switzerland should be exempted from the clearing and reporting requirements laid down in Regulation (EU) No 648/2012.
