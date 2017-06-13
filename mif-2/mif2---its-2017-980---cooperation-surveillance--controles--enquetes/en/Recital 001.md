@@ -1,0 +1,1 @@
+(1) Directive 2014/65/EU sets out obligations for the cooperation and exchange of information between competent authorities. As part of that procedure, a competent authority may request the cooperation of the competent authority of another Member State for an on-the-spot verification or in an investigation.
