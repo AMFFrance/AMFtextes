@@ -1,0 +1,1 @@
+(3) Pour les contreparties de la catégorie 3, la date à laquelle l'obligation de compensation prend effet tient compte du fait que la majorité d'entre elles ne peuvent avoir accès à une contrepartie centrale (CCP) qu'en devenant un client ou un client indirect d'un membre compensateur.

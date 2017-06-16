@@ -1,0 +1,7 @@
+(1) Les règlements délégués de la Commission (UE) 2015/2205 (2), (UE) 2016/592 (3) et (UE) 2016/1178 (4) définissent quatre catégories de contreparties pour chacune desquelles l'obligation de compensation prend effet à une date différente. Les contreparties y sont classées en fonction de leur capacité juridique et opérationnelle et de leur activité de négociation en ce qui concerne les dérivés de gré à gré.
+
+%%% (2)  Règlement délégué (UE) 2015/2205 de la Commission du 6 août 2015 complétant le règlement (UE) no 648/2012 du Parlement européen et du Conseil par des normes techniques de réglementation en ce qui concerne l'obligation de compensation (JO L 314 du 1.12.2015, p. 13).
+
+%%% (3)  Règlement délégué (UE) 2016/592 de la Commission du 1er mars 2016 complétant le règlement (UE) no 648/2012 du Parlement européen et du Conseil par des normes techniques de réglementation en ce qui concerne l'obligation de compensation (JO L 103 du 19.4.2016, p. 5).
+
+%%% (4)  Règlement délégué (UE) 2016/1178 de la Commission du 10 juin 2016 complétant le règlement (UE) no 648/2012 du Parlement européen et du Conseil par des normes techniques de réglementation en ce qui concerne l'obligation de compensation (JO L 195 du 20.7.2016, p. 3).

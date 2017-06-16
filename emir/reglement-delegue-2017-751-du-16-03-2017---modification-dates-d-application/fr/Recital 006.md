@@ -1,0 +1,1 @@
+(6) En ce qui concerne les accords de compensation indirecte, en raison de l'absence d'offre, il est actuellement impossible aux contreparties d'avoir accès aux contreparties centrales en devenant un client indirect d'un membre compensateur.

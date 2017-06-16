@@ -1,0 +1,1 @@
+(2) Afin de garantir la bonne application, dans les délais impartis, de l'obligation de compensation, l'entrée en vigueur de cette dernière a été échelonnée dans le temps en fonction de ces différentes catégories de contreparties.
