@@ -1,0 +1,1 @@
+(2) L'échéance est une caractéristique commune essentielle des dérivés de crédit de gré à gré. Elle correspond à une date fixe d'expiration du contrat de dérivé de crédit. Cette caractéristique devrait être prise en compte dans la définition des catégories de dérivés de crédit de gré à gré à soumettre à l'obligation de compensation.
