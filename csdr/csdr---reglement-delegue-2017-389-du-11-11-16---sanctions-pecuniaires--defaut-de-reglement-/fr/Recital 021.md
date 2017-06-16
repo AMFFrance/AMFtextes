@@ -1,0 +1,3 @@
+(21) Il y a lieu de fonder les calculs liés aux évaluations au titre du présent règlement sur des données et méthodologies objectives et fiables. Étant donné que certains calculs exigés au titre du présent règlement sont fondés sur les règles fixées dans le règlement (UE) no 600/2014 du Parlement européen et du Conseil (4), il convient de n'effectuer ces calculs que lorsque le règlement (UE) no 600/2014 sera applicable.
+
+%%% (4)  Règlement (UE) no 600/2014 du Parlement européen et du Conseil du 15 mai 2014 concernant les marchés d'instruments financiers et modifiant le règlement (UE) no 648/2012 (JO L 173 du 12.6.2014, p. 84).

@@ -1,0 +1,10 @@
+# ANNEXE
+
+## Taux de sanction applicables aux défauts de règlement
+
+Type de défaut Taux 1. Défaut de règlement dû à l'absence d'actions ayant un marché liquide au sens de l'article 2, paragraphe 1, point 17), sous b), du règlement (UE) no 600/2014, à l'exclusion des actions visées au point 3 1,0 point de base 2. Défaut de règlement dû à l'absence d'actions n'ayant pas un marché liquide au sens de l'article 2, paragraphe 1, point 17), sous b), du règlement (UE) no 600/2014, à l'exclusion des actions visées au point 3 0,5 point de base 3. Défaut de règlement dû à l'absence d'instruments financiers négociés sur des marchés de croissance des PME, à l'exclusion des titres de dette visés au point 6 0,25 point de base 4. Défaut de règlement dû à l'absence de titres de dette émis ou garantis par: a) un émetteur souverain au sens de l'article 4, paragraphe 1, point 60), de la directive 2014/65/UE; b) un émetteur souverain de pays tiers; c) une administration locale; d) une banque centrale; e) toute banque multilatérale de développement visée à l'article 117, paragraphe 1, deuxième alinéa et à l'article 117, paragraphe 2, du règlement (UE) no 575/2013 du Parlement européen et du Conseil (1); f) le Fonds européen de stabilité financière ou le Mécanisme européen de stabilité. 0,10 point de base 5. Défaut de règlement dû à l'absence de titres de dette autres que ceux visés aux points 4 et 6 0,20 point de base 6. Défaut de règlement dû à l'absence de titres de dette négociés sur des marchés de croissance des PME 0,15 point de base 7. Défaut de règlement dû à l'absence de tous les autres titres de dette non couverts par les points 1 à 6 0,5 point de base 8. Défaut de règlement dû à l'absence d'espèces Taux d'intérêt officiel appliqué au crédit à vingt-quatre heures par la banque centrale émettrice de la monnaie de règlement, assorti d'un taux plancher de 0
+
+
+
+(1)  Règlement (UE) no 575/2013 du Parlement européen et du Conseil du 26 juin 2013 concernant les exigences prudentielles applicables aux établissements de crédit et aux entreprises d'investissement et modifiant le règlement (UE) no 648/2012 (JO L 176 du 27.6.2013, p. 1).
+

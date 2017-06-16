@@ -1,0 +1,1 @@
+(2) Le règlement (UE) no 909/2014 exige des dépositaires centraux de titres (ci-après dénommés les «DCT») qu'ils infligent des sanctions pécuniaires aux participants à leurs systèmes de règlement de titres qui sont à l'origine de défauts de règlement (ci-après dénommés les «participants défaillants»).
