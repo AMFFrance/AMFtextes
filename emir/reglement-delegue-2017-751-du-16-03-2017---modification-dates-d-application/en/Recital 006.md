@@ -1,0 +1,1 @@
+(6) Secondly, in relation to indirect clearing arrangements, as a result of the lack of the offer, counterparties are currently unable to access CCPs by becoming an indirect client of a clearing member.

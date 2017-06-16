@@ -1,0 +1,1 @@
+(2) In order to ensure a timely and orderly application of the clearing obligation, staggered phase-in periods were applied to those different categories of counterparties.

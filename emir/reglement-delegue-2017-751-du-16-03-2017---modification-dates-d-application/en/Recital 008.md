@@ -1,0 +1,1 @@
+(8) In light of the positive consequences arising from the establishment of clearing arrangements and to avoid duplication of efforts regarding the preparations to clear different asset classes subject to the clearing obligation, it is appropriate to align the new dates on which the clearing obligation takes effect for counterparties within Category 3.
