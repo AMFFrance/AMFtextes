@@ -1,0 +1,1 @@
+(11) La date à laquelle l'obligation de compensation prend effet pour les contreparties de la quatrième catégorie devrait tenir compte de leurs capacités juridiques et opérationnelles, et du fait qu'elles ont moins d'expérience des dérivés de gré à gré et de la compensation centrale que les autres catégories de contreparties.

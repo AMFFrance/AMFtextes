@@ -1,0 +1,1 @@
+(8) Une quatrième catégorie devrait inclure les contreparties non financières ne faisant pas partie des autres catégories, eu égard au fait que leur expérience et leur capacité opérationnelle en ce qui concerne les dérivés de gré à gré et la compensation centrale sont plus limitées que celles des autres catégories de contreparties.

@@ -1,0 +1,3 @@
+(20) La Commission a informé l'AEMF de son intention d'adopter, moyennant des modifications, le projet de normes techniques de réglementation présenté par l'AEMF, conformément à la procédure définie à l'article 10, paragraphe 1, cinquième et sixième alinéas, du règlement (UE) no 1095/2010 du Parlement européen et du Conseil (2). L'AEMF a adopté un avis formel sur ces modifications, qu'elle a soumis à la Commission.
+
+%%% (2)  Règlement (UE) no 1095/2010 du Parlement européen et du Conseil du 24 novembre 2010 instituant une Autorité européenne de surveillance (Autorité européenne des marchés financiers), modifiant la décision no 716/2009/CE et abrogeant la décision 2009/77/CE de la Commission (JO L 331 du 15.12.2010, p. 84).
