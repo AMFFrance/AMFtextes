@@ -1,0 +1,1 @@
+(2) Regulation (EU) No 909/2014 requires that central securities depositories (CSDs) impose cash penalties on participants to their securities settlement systems that cause settlement fails (failing participants).

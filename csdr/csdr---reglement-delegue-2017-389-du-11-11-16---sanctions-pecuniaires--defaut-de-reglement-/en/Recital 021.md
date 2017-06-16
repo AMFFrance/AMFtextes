@@ -1,0 +1,3 @@
+(21) Calculations related to assessments under this Regulation should be based on objective and reliable data and methodologies. Given that certain calculations required under this Regulation are based on the rules laid down in Regulation (EU) No 600/2014 of the European Parliament and of the Council (4), such calculations should only be undertaken when Regulation (EU) No 600/2014 is applicable.
+
+%%% (4)  Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012 (OJ L 173, 12.6.2014, p. 84).

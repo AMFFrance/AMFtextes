@@ -1,0 +1,1 @@
+(19) Assessments of operations of CSDs should be conducted with sufficient frequency in order to allow the authorities concerned to establish without undue delay cooperation arrangements from the moment when the operations of relevant CSDs become of substantial importance for the functioning of the securities markets and the protection of investors in host Member States.
