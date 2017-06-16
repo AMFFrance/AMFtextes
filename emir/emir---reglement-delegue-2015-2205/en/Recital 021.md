@@ -1,0 +1,1 @@
+(21) ESMA has conducted open public consultations on the draft regulatory technical standards on which this Regulation is based, analysed the potential related costs and benefits, requested the opinion of the Security and Markets Stakeholder Group established by Article 37 of Regulation (EU) No 1095/2010, and consulted the European Systemic Risk Board,
