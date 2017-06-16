@@ -1,0 +1,1 @@
+(10) The date on which the clearing obligation takes effect for counterparties in the fourth category should take into account their legal and operational capacity, and their more limited experience with OTC derivatives and central clearing than other categories of counterparties.

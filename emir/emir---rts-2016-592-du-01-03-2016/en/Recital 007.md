@@ -1,0 +1,1 @@
+(7) A fourth category should include non-financial counterparties not included in the other categories, given their more limited experience and operational capacity with OTC derivatives and central clearing than the other categories of counterparties.

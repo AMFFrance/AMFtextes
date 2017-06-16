@@ -1,0 +1,1 @@
+(2) The tenor is one common and essential characteristic of credit OTC derivatives. It corresponds to a fixed date on which a credit derivative contract expires. That feature should be taken into account when defining the classes of credit OTC derivatives to be subject to the clearing obligation.
