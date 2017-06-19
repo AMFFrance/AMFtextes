@@ -1,0 +1,1 @@
+(8) Dans un souci de cohérence et afin de garantir le bon fonctionnement des marchés financiers, il convient que les dispositions du présent règlement et les dispositions nationales correspondantes transposant la directive 2014/65/UE s'appliquent à compter de la même date.
