@@ -1,0 +1,1 @@
+(6) Nothing in this act should prejudice the power of the Commission to launch infringement proceedings in accordance with Article 258 of the TFEU, as well as the actions provided for in Article 265 and Article 271(d) of the TFEU.

@@ -1,0 +1,1 @@
+(2) The exclusion of a central bank of issue of a relevant Union currency of financial instruments cleared in the CCP does not affect the rights of such central bank of issue to request and receive information in accordance with Article 18(3) and Article 84 of Regulation (EU) No 648/2012.
