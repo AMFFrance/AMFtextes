@@ -1,0 +1,1 @@
+(37) Lorsqu'une contrepartie notifie l'autorité compétente pertinente de son intention de bénéficier de l'exemption pour transactions intragroupe, afin de permettre à l'autorité compétente de déterminer si les conditions de l'exemption sont remplies, la contrepartie devrait lui fournir un dossier complet contenant tous les renseignements nécessaires à cette évaluation.

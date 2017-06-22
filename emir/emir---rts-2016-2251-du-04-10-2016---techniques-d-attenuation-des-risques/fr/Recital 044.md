@@ -1,0 +1,1 @@
+(44) Pour des raisons de sécurité juridique et afin d'éviter d'éventuelles perturbations des marchés financiers, il y a lieu de clarifier le traitement des contrats existants.

@@ -1,0 +1,3 @@
+(42) Le règlement délégué de la Commission (*1) précise la définition des contrats de change à terme avec règlement par livraison physique au sein de l'Union. Toutefois, à ce stade, cette définition n'est pas en application et ces produits sont définis d'une manière hétérogène dans l'Union. Par conséquent, afin d'éviter les distorsions de concurrence à l'intérieur de l'Union, il est nécessaire que l'application des techniques d'atténuation des risques correspondantes soit alignée sur la date d'application de l'acte délégué concerné. Une date précise à laquelle ces exigences devraient en tout état de cause s'appliquer est également fixée afin d'éviter de trop retarder l'introduction des techniques d'atténuation des risques.
+
+%%% (*1)  C(2016) 2398 final.

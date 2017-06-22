@@ -1,0 +1,1 @@
+(33) Les contreparties concluant des contrats dérivés de gré à gré non compensés de manière centrale devraient en outre conclure un accord sur l'échange de sûretés, afin de garantir la sécurité juridique. Un tel accord devrait préciser tous les droits et obligations matériels des contreparties en ce qui concerne les contrats dérivés de gré à gré non compensés de manière centrale.
