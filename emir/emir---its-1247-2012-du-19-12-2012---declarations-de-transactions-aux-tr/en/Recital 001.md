@@ -1,0 +1,1 @@
+(1) To avoid inconsistencies, all data sent to trade repositories under Article 9 of Regulation (EU) No 648/2012 should follow the same rules, standards and formats for all trade repositories, all counterparties and all types of derivatives. A unique data set should therefore be used for describing a derivatives trade.

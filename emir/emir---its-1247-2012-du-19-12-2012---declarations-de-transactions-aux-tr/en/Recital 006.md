@@ -1,0 +1,1 @@
+(6) This Regulation is based on draft implementing technical standards submitted by the European Securities and Markets Authority (hereinafter ESMA) to the Commission.

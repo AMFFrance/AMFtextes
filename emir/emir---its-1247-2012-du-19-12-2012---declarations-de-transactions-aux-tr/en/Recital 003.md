@@ -1,0 +1,1 @@
+(3) The underlying should be identified by using a single identifier, however there is currently no market wide standardised code to identify the underlying within a basket. Counterparties should therefore be required to indicate at least that the underlying is a basket and use ISINs for standardised indices where possible.
