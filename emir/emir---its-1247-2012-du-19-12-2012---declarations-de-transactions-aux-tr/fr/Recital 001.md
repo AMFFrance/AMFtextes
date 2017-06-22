@@ -1,0 +1,1 @@
+(1) Pour éviter les incohérences, toutes les données envoyées aux référentiels centraux en vertu de l’article 9 du règlement (UE) no 648/2012 doivent respecter les mêmes règles, normes et formats, quels que soient le référentiel central, la contrepartie et le type de dérivé. Un jeu de données unique doit donc être employé pour décrire une transaction sur produits dérivés.
