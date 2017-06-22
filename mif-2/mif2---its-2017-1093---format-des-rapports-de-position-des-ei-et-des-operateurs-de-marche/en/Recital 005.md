@@ -1,0 +1,1 @@
+(5) To facilitate straight through processing and the reduction of costs to market participants, standard formats should be used across investment firms and market operators operating trading venues.

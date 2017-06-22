@@ -1,0 +1,3 @@
+(6) The new legislation of the European Parliament and of the Council on markets in financial instruments set out in Directive 2014/65/EU and Regulation (EU) No 600/2014 of the European Parliament and of the Council (2) applies from 3 January 2018. To ensure consistency and legal certainty, this Regulation should apply from the same date.
+
+%%% (2)  Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012 (OJ L 173, 12.6.2014, p. 84).

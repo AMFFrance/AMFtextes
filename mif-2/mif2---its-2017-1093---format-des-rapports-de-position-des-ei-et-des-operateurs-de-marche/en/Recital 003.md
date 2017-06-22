@@ -1,0 +1,1 @@
+(3) Positions that have arisen as a consequence of buy and sell trades spread between different delivery dates or commodities or as a result of other complex strategies should be reported on a disaggregated basis unless the combination of products is traded as a single financial instrument identified by an ISIN and the positions held in it are subject to a specific limit.
