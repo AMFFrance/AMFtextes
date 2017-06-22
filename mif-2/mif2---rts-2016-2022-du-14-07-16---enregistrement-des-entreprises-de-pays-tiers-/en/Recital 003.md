@@ -1,0 +1,1 @@
+(3) In order to enable ESMA to correctly identify and register the third-country firms, ESMA should be provided with their contact details, their national and international identification codes and proof of their authorisation to provide investment services in the country where the firm is established.
