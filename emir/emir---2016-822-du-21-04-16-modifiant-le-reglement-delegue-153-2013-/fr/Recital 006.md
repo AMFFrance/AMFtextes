@@ -1,0 +1,1 @@
+(6) Le présent règlement se fonde sur les projets de normes techniques de réglementation soumis à la Commission par l'Autorité européenne des marchés financiers (AEMF) après consultation de l'Autorité bancaire européenne et du Système européen de banques centrales.

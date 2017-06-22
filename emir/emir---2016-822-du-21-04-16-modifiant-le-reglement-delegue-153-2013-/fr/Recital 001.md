@@ -1,0 +1,3 @@
+(1) Le règlement délégué (UE) no 153/2013 de la Commission (2) définit des normes techniques de réglementation régissant les exigences applicables aux contreparties centrales en ce qui concerne les horizons temporels pour la période de liquidation à prendre en considération pour les différentes catégories d'instruments financiers. Il est nécessaire d'actualiser ces normes techniques de réglementation en fonction des évolutions réglementaires.
+
+%%% (2)  Règlement délégué (UE) no 153/2013 de la Commission du 19 décembre 2012 complétant le règlement (UE) no 648/2012 du Parlement européen et du Conseil en ce qui concerne les normes techniques de réglementation régissant les exigences applicables aux contreparties centrales (JO L 52 du 23.2.2013, p. 41).

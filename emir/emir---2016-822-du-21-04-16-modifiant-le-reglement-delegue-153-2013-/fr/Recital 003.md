@@ -1,0 +1,1 @@
+(3) Étant donné que la ségrégation individuelle des comptes assure un niveau de protection des clients plus élevé encore que la ségrégation collective, les comptes ségrégués par client devraient bénéficier, pour le calcul des marges, d'une période de liquidation minimale de même longueur que les comptes collectifs bruts (comptes «omnibus»).
