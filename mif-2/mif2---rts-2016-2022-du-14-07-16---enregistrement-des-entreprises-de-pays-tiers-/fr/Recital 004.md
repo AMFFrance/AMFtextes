@@ -1,0 +1,1 @@
+(4) Les entreprises de pays tiers devraient être attentives à la langue et à la présentation utilisées pour fournir les informations aux clients afin que celles-ci soient compréhensibles et claires.

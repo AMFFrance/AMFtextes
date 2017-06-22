@@ -1,0 +1,1 @@
+(3) Pour permettre à l'AEMF d'identifier et d'enregistrer correctement les entreprises de pays tiers, celle-ci devrait recevoir leurs coordonnées, leurs codes d'identification nationaux et internationaux et la preuve de l'agrément accordé pour la fourniture de services d'investissement dans le pays où elles sont établies.

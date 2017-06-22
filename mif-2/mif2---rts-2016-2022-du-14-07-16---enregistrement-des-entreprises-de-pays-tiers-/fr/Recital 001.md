@@ -1,0 +1,1 @@
+(1) Le règlement (UE) no 600/2014 établit un cadre harmonisé pour le traitement des entreprises de pays tiers qui s'implantent dans l'Union dans le but de fournir des services d'investissement et d'exercer des activités d'investissement pour des contreparties éligibles et des clients professionnels.
