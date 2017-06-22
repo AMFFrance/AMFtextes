@@ -1,0 +1,1 @@
+(6) Le présent règlement ne devrait pas porter atteinte à la faculté de la Commission de lancer une procédure d’infraction conformément à l’article 258 du TFUE ou de former un recours prévu par l’article 265 et l’article 271, point d), du TFUE.

@@ -1,0 +1,1 @@
+(1) Afin de garantir un fonctionnement cohérent des collèges dans l’ensemble de l’Union, il est nécessaire de préciser les modalités de participation aux collèges pour contreparties centrales afin de simplifier l’exécution des tâches énoncées dans le règlement (UE) no 648/2012.

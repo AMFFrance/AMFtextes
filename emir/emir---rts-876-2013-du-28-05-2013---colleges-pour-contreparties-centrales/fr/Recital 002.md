@@ -1,0 +1,1 @@
+(2) L’exclusion d’une banque centrale d’émission d’une monnaie de l’Union pertinente dans laquelle sont libellés des instruments financiers compensés par la contrepartie centrale n’affecte pas le droit de ladite banque de demander et de recevoir des informations en vertu de l’article 18, paragraphe 3, et de l’article 84 du règlement (UE) no 648/2012.
