@@ -1,0 +1,3 @@
+(42) Commission Delegated Regulation (*1) specifies the definition of physically settled foreign exchange forwards within the Union. However, at this juncture, that definition is not applicable and those products are defined in a non-homogenous way in the Union. Therefore, in order to avoid creating an un-level playing field within the Union, it is necessary that the application of the corresponding risk mitigation techniques are aligned to the date of application of the relevant Delegated Act. A specific date on which the relevant requirements should in any case apply is also set out to avoid excess delays in the introduction of the risk mitigation techniques.
+
+%%% (*1)  C(2016) 2398 final.

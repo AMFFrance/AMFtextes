@@ -1,0 +1,3 @@
+(4) Since central counterparties (‘CCPs’) might be authorised as a credit institution according to Union legislation, it is necessary to exclude non-centrally cleared OTC derivative contracts that CCPs enter into during a default management process from the requirements of this Regulation since those contracts are already subject to the provisions of Commission Delegated Regulation (EU) No 153/2013 (2) and therefore they are not subject to the provisions of this Regulation.
+
+%%% (2)  Commission Delegated Regulation (EU) No 153/2013 of 19 December 2012 supplementing Regulation (EU) No 648/2012 of the European Parliament and of the Council with regard to regulatory technical standards on requirements for central counterparties (OJ L 52, 23.2.2013, p. 41).

@@ -1,0 +1,1 @@
+(33) An exchange of collateral agreement should be concluded between counterparties entering into non-centrally cleared OTC derivative contracts in order to provide legal certainty. As a result, the exchange of collateral agreement should include all material rights and obligations of the counterparties applicable to non-centrally cleared OTC derivative contracts.
