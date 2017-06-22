@@ -1,0 +1,1 @@
+(7) Afin de veiller à ce que les informations sur le nombre total de droits de vote accessible à l'investisseur soit le plus précis possible, le delta devrait être calculé quotidiennement en prenant en compte le dernier prix de clôture de l'action sous-jacente.

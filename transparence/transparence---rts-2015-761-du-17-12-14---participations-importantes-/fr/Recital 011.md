@@ -1,0 +1,3 @@
+(11) L'AEMF a procédé à des consultations publiques sur les projets de normes techniques de réglementation sur lesquels se fonde le présent règlement, analysé les coûts et avantages potentiels connexes et sollicité l'avis du groupe des parties intéressées au secteur financier institué par l'article 37 du règlement (UE) no 1095/2010 du Parlement européen et du Conseil (2).
+
+%%% (2)  Règlement (UE) no 1095/2010 du Parlement européen et du Conseil du 24 novembre 2010 instituant une Autorité européenne de surveillance (Autorité européenne des marchés financiers), modifiant la décision no 716/2009/CE et abrogeant la décision 2009/77/CE de la Commission (JO L 331 du 15.12.2010, p. 84).
