@@ -1,0 +1,1 @@
+(3) Conformément à l’article 15 du règlement (UE) no 1095/2010, l’AEMF a mené des consultations publiques ouvertes sur ces projets de normes techniques d’exécution, a analysé les coûts et avantages potentiels qu’elles impliquent et a demandé l’avis du groupe des parties intéressées au secteur financier établi conformément à l’article 37 dudit règlement,

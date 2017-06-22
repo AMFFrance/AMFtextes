@@ -1,0 +1,3 @@
+(2) Le présent règlement est fondé sur les projets de normes techniques d’exécution soumis par l’AEMF à la Commission européenne conformément à la procédure prévue à l’article 15 du règlement (UE) no 1095/2010 du Parlement européen et du Conseil du 24 novembre 2010 instituant une Autorité européenne de surveillance (Autorité européenne des marchés financiers) (3).
+
+%%% (3)  JO L 331 du 15.12.2010, p. 84.
