@@ -1,0 +1,1 @@
+(7) Visualisation or downloading of documents containing regulated information by end users is subject to OAMs' pricing policies in accordance with national law of each Member State. However, OAMs should not charge the EEAP for the delivery of metadata on regulated information.
