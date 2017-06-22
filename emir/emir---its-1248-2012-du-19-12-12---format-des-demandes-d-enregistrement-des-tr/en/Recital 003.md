@@ -1,0 +1,1 @@
+(3) In accordance with Article 15 of Regulation (EU) No 1095/2010, ESMA has conducted open public consultations on such draft implementing technical standards, analysed the potential related costs and benefits and requested the opinion of the ESMA Securities and Markets Stakeholder Group established in accordance with Article 37 of that Regulation,
