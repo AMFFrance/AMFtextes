@@ -1,0 +1,3 @@
+(7) In accordance with Article 15 of Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority) (3), ESMA has conducted an open public consultation before submitting the draft implementing technical standards on which this Regulation is based, analysed the potential related costs and benefits and requested the opinion of the Securities and Markets Stakeholder Group established in accordance with Article 37 of Regulation (EU) No 1095/2010,
+
+%%% (3)  OJ L 331, 15.12.2010, p. 84.

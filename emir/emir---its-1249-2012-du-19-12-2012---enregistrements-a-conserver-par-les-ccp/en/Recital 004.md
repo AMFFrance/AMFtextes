@@ -1,0 +1,1 @@
+(4) To facilitate straight through processing and reduction of costs to market participants, it is important to use standardised procedures and data formats across CCPs as much as possible.

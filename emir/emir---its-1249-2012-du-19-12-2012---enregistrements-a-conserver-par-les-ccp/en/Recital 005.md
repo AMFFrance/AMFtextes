@@ -1,0 +1,1 @@
+(5) The underlying should be identified by using a single identifier, however there is currently no market wide standardised code to identify the underlyings within a basket. CCPs should therefore indicate at least that the underlying is a basket and use International Securities Identification numbers (ISINs) for standardised indices where possible.

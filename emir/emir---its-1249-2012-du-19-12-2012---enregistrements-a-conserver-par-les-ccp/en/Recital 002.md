@@ -1,0 +1,1 @@
+(2) To carry out their duties effectively and consistently, the relevant authorities should be provided with data that are comparable among CCPs. The use of common formats also facilitates the reconciliation of data between CCPs.
