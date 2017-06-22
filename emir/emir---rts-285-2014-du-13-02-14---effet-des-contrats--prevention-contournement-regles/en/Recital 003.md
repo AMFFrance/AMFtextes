@@ -1,0 +1,1 @@
+(3) Certain information on contracts concluded by third country entities would still only be available to third country competent authorities. Therefore Union competent authorities should closely cooperate with those authorities in order to ensure that the relevant provisions are applied and enforced.
