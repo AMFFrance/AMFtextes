@@ -1,0 +1,1 @@
+(6) This Regulation is based on draft regulatory technical standards submitted by the European Securities and Markets Authority (ESMA) to the Commission following consultation of the European Banking Authority and the European System of Central Banks.

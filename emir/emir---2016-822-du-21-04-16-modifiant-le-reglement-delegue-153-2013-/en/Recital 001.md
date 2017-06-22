@@ -1,0 +1,3 @@
+(1) Commission Delegated Regulation (EU) No 153/2013 (2) lays down regulatory technical standards on requirements for central counterparties (CCPs) regarding the time horizons for the liquidation period to be considered for the different classes of financial instruments. It is necessary to keep those regulatory technical standards up to date with relevant regulatory developments.
+
+%%% (2)  Commission Delegated Regulation (EU) No 153/2013 of 19 December 2012 supplementing Regulation (EU) No 648/2012 of the European Parliament and of the Council with regard to regulatory technical standards on requirements for central counterparties (OJ L 52, 23.2.2013, p. 41).

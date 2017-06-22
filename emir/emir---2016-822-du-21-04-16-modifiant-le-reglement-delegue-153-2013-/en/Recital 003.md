@@ -1,0 +1,1 @@
+(3) Considering that individual segregated accounts ensure an even greater level of protection to clients than gross omnibus accounts, individual segregated accounts should benefit from a minimum liquidation period for calculating margins of the same length as gross omnibus accounts.
