@@ -1,0 +1,1 @@
+(7) In order to ensure that information about the total number of voting rights accessible to the investor is as accurate as possible, delta should be calculated daily taking into account the last closing price of the underlying share.

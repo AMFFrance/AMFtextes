@@ -1,0 +1,1 @@
+(8) To decrease the number of meaningless notifications to the market, the trading book exemption should apply to financial instruments held by a natural person or legal entity fulfilling orders received from clients, responding to a client's request to trade otherwise than on a proprietary basis or hedging positions arising out of such dealings.

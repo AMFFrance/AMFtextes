@@ -1,0 +1,1 @@
+(5) It would not be cost-efficient for an investor to build a position in an issuer through holding a financial instrument referenced to different baskets or indices. Therefore, holdings of voting rights through a financial instrument referenced to a series of baskets of shares or indices which are individually under the established thresholds should not be accumulated.

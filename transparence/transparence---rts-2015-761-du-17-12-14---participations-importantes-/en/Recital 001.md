@@ -1,0 +1,1 @@
+(1) Directive 2004/109/EC establishes transparency requirements relating to information about issuers whose securities are admitted to trading on a regulated market. That Directive also requires development of regulatory technical standards to ensure consistent application of the regime for notification of the acquisition or disposal of major holdings and related exemptions.
