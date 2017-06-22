@@ -1,0 +1,1 @@
+(4) La compréhension exacte des normes techniques appropriées nécessitant la compréhension d’un terme technique, il convient de définir celui-ci.

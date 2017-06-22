@@ -1,0 +1,3 @@
+(13) Conformément à l’article 10 du règlement (UE) no 1095/2010 du Parlement européen et du Conseil (2), l’Autorité européenne des marchés financiers a procédé à des consultations publiques sur ces projets de normes techniques de réglementation, analysé les coûts et avantages potentiels connexes et sollicité l’avis du groupe des parties intéressées au secteur financier institué en vertu de l’article 37 dudit règlement,
+
+%%% (2)  Règlement (UE) no 1095/2010 du Parlement européen et du Conseil du 24 novembre 2010 instituant une Autorité européenne de surveillance (Autorité européenne des marchés financiers) (JO L 331 du 15.12.2010, p. 84).
