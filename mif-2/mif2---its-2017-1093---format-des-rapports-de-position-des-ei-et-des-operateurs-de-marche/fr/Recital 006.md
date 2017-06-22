@@ -1,0 +1,3 @@
+(6) La nouvelle législation du Parlement européen et du Conseil sur les marchés d'instruments financiers constituée par la directive 2014/65/UE et le règlement (UE) no 600/2014 du Parlement européen et du Conseil (2) s'applique à partir du 3 janvier 2018. Par souci de cohérence et de sécurité juridique, le présent règlement devrait s'appliquer à partir de cette même date.
+
+%%% (2)  Règlement (UE) no 600/2014 du Parlement européen et du Conseil du 15 mai 2014 concernant les marchés d'instruments financiers et modifiant le règlement (UE) no 648/2012 (JO L 173 du 12.6.2014, p. 84).

@@ -1,0 +1,1 @@
+(5) Pour faciliter le traitement automatique et réduire les coûts des participants au marché, des formats standard devraient être utilisés par l'ensemble des entreprises d'investissement et des opérateurs de marché exploitant une plate-forme de négociation.
