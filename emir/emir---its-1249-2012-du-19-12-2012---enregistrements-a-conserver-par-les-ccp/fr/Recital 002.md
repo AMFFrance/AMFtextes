@@ -1,0 +1,1 @@
+(2) Pour exercer leurs missions de manière efficace et cohérente, les autorités compétentes concernées devraient disposer de données qui sont comparables entre contreparties centrales. L'utilisation de formats communs facilite également le rapprochement de données entre contreparties centrales.

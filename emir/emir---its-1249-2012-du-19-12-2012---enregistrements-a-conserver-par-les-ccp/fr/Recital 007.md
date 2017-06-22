@@ -1,0 +1,3 @@
+(7) Conformément à l’article 15 du règlement (UE) no 1095/2010 du Parlement européen et du Conseil du 24 novembre 2010 instituant une Autorité européenne de surveillance (Autorité européenne des marchés financiers) (3), l’AEMF a mené une consultation publique ouverte avant de soumettre les projets de normes techniques d'exécution sur lesquels se fonde le présent règlement, a analysé les coûts et avantages potentiels que ces normes impliquent et a demandé l’avis du groupe des parties intéressées au secteur financier établi conformément à l’article 37 du règlement (UE) no 1095/2010,
+
+%%% (3)  JO L 331 du 15.12.2010, p. 84.

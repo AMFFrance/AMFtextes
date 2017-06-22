@@ -1,0 +1,1 @@
+(4) Afin de permettre un traitement automatique et une réduction des coûts pour les participants au marché, il importe d'utiliser le plus possible des procédures et des formats de données normalisés entre contreparties centrales.
