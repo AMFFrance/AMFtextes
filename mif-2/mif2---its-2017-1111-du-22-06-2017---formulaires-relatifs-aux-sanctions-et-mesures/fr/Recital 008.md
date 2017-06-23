@@ -1,0 +1,3 @@
+(8) L'AEMF a sollicité l'avis du groupe des parties intéressées au secteur financier institué en application de l'article 37 du règlement (UE) no 1095/2010 du Parlement européen et du Conseil (2),
+
+%%% (2)  Règlement (UE) no 1095/2010 du Parlement européen et du Conseil du 24 novembre 2010 instituant une Autorité européenne de surveillance (Autorité européenne des marchés financiers), modifiant la décision no 716/2009/CE et abrogeant la décision 2009/77/CE de la Commission (JO L 331 du 15.12.2010, p. 84).

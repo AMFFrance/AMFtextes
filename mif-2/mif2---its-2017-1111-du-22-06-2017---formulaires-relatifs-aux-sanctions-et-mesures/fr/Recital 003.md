@@ -1,0 +1,1 @@
+(3) Pour faire en sorte que toutes les informations requises concernant les sanctions et mesures infligées par les autorités compétentes soient correctement identifiées et enregistrées par l'AEMF, il convient que les autorités compétentes fournissent des informations détaillées et harmonisées à l'aide de formulaires spécifiques.

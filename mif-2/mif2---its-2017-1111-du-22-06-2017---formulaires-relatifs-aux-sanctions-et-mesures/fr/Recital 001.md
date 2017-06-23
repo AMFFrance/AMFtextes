@@ -1,0 +1,1 @@
+(1) Il y a lieu de définir les procédures et formulaires communs que doivent utiliser les autorités compétentes pour communiquer à l'Autorité européenne des marchés financiers (AEMF) des informations sur les sanctions et mesures visées par l'article 71 de la directive 2014/65/UE.
