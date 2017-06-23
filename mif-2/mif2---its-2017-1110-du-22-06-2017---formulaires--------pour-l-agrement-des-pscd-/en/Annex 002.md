@@ -1,0 +1,22 @@
+# ANNEX II
+
+## Application form for the list of members of the management body
+
+
+
+Text of image
+
+Reference number: Date: From: Name of the applicant: Address: Legal Entity Identifier (where applicable): (Contact details of the designated contact person at the applicant) Full Name: Telephone: Email: To: Member State: Competent authority: Address: (Contact details of the designated contact point at the competent authority) Address: Telephone: Email: Dear [insert appropriate name] In accordance with Article 2 of Commission Implementing Regulation (EU) 2017/1110 (1) please find attached the notification relating to the members of the management body. — Person at the applicant in charge of preparing the application: Full Name: Status/position: Telephone: Email: Date: Signature:
+
+
+
+Text of image
+
+— List of members of the management body: Member 1 Full name Date and place of birth Personal national identification number or equivalent thereof Private address: Contact details (Telephone and email address) Position Curriculum vitae attached to application: Yes/No Professional experience and other relevant experience Educational qualification and relevant training Criminal records attached to this application OR self-declaration of good repute and authorisation to the competent authority to make enquiries under Article 4(d) of Commission Delegated Regulation (EU) 2017/571 (2) Self-declaration of good repute and authorisation to the competent authority to make enquiries under Article 4(e) of Delegated Regulation (EU) 2017/571 Minimum time (approximate) that will be devoted to the performance of the person’s functions within the data reporting services provider Declaration of any potential conflicts of interest that may exist or arise in performing the duties and how these conflicts are managed Additional information relevant for the assessment whether the member is of sufficiently good repute, possesses sufficient knowledge, skills and experience and commits sufficient time to perform the duties pursuant to Article 63(3) of Directive 2014/65/EU of the European Parliament and of the Council (3) Effective date [Please set out that information here or provide an explanation of how it will be provided, or make reference to the relevant annexes containing the information] Member [N] Full name Date and place of birth Personal national identification number or equivalent thereof Private address: Contact details (Telephone and email address) Position Curriculum vitae attached to application: Yes/No Professional experience and other relevant experience Educational qualification and relevant training Criminal records attached to application OR self-declaration of good repute and authorisation to the competent authority to make enquiries under Article 4(d) of Delegated Regulation (EU) 2017/571
+
+
+
+Text of image
+
+Self-declaration of good repute and authorisation to the competent authority to make enquiries under Article 4(e) of Commission Delegated Regulation (EU) 2017/571 (2) Minimum time (approximate) that will be devoted to the performance of the person’s functions within the data reporting services provider Declaration of any potential conflicts of interest that may exist or arise in performing the duties and how these conflicts are managed Additional information relevant for the assessment that the member is of sufficiently good repute, possesses sufficient knowledge, skills and experience and commits sufficient time to perform the duties referred to in Article 63(3) of Directive 2014/65/EU Effective date Notes: (1) Commission Implementing Regulation (EU) 2017/1110 of 22 June 2017 laying down implementing technical standards with regard to standard forms, templates and procedures for the authorisation of data reporting services providers and related notifications pursuant to Directive 2014/65/EU of the European Parliament and of the Council on markets in financial instruments (OJ L 162, 23.6.2017, p. 3). (2) Commission Delegated Regulation (EU) 2017/571 of 2 June 2016 supplementing Directive 2014/65/EU of the European Parliament and of the Council with regard to regulatory technical standards on the authorisation, organisational requirements and the publication of transactions for data reporting services providers (OJ L 187, 31.3.2017, p. 126). (3) Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349).
+

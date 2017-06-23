@@ -1,0 +1,1 @@
+(4) Data reporting services providers should be able to submit information on a change to the management body after that change takes effect where the change is due to factors beyond the control of the data reporting services provider.

@@ -1,0 +1,1 @@
+(2) The organisational requirements for approved publication arrangements, consolidated tape providers and approved reporting mechanisms differ from each other in some respects. As a result, an applicant should only be required to include in its application the information needed for assessing the application for the data reporting service it intends to provide.

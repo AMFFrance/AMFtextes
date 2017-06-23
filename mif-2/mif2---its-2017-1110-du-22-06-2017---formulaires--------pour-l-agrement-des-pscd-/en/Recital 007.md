@@ -1,0 +1,1 @@
+(7) ESMA has conducted open public consultations on the draft implementing technical standards on which this Regulation is based. ESMA has not analysed potential related costs and benefits as this would have been disproportionate in relation to their scope and impact.
