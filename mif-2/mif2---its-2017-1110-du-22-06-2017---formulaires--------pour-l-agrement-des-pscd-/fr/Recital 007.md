@@ -1,0 +1,1 @@
+(7) L'AEMF a procédé à des consultations publiques sur les projets de normes techniques d'exécution sur lesquels se fonde le présent règlement. Elle n'a pas analysé les coûts et avantages potentiels de ces projets, car cela aurait été disproportionné par rapport à la portée et à l'impact des normes techniques d'exécution.

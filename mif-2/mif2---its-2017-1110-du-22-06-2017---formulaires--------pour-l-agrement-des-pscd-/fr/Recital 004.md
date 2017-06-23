@@ -1,0 +1,1 @@
+(4) Les prestataires de services de communication de données devraient pouvoir transmettre des informations sur une modification de leur organe de direction résultant de facteurs indépendants de leur volonté après que cette modification a pris effet.
