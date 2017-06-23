@@ -1,0 +1,1 @@
+(1) It is appropriate to set out common procedures and forms for competent authorities to submit information to the European Securities and Markets Authority (ESMA) on sanctions and measures referred to in Article 71 of Directive 2014/65/EU.

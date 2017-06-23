@@ -1,0 +1,1 @@
+(4) With a view to including meaningful information in the annual report on sanctions and measures to be published by ESMA in accordance with Article 71 of Directive 2014/65/EU, competent authorities should report the information by using specific forms clearly indicating the provisions of Directive 2014/65/EU, as transposed in their national legislation, that were infringed.
