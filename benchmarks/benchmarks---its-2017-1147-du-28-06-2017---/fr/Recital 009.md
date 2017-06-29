@@ -1,0 +1,1 @@
+(9) La liste des indices de référence d'importance critique établie par le règlement d'exécution (UE) 2016/1368 devrait dès lors être modifiée afin d'y ajouter le taux EONIA.

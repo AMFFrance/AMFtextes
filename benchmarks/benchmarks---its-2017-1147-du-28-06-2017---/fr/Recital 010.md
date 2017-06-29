@@ -1,0 +1,1 @@
+(10) Compte tenu de l'importance cruciale d'EONIA pour le marché interbancaire et du nombre élevé de dérivés qui y font référence dans l'Union, l'entrée en vigueur du présent règlement revêt un caractère d'urgence.
