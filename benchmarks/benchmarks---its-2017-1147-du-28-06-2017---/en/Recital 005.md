@@ -1,0 +1,3 @@
+(5) Commission Implementing Regulation (EU) 2016/1368 (2) established a list of critical benchmarks used in financial markets pursuant to Regulation (EU) 2016/1011. Data analysis and contributions by the European Central Bank have shown that the value of financial instruments and financial contracts referencing the Euro Overnight Index Average (EONIA) in the Union exceeds the threshold of EUR 500 billion set out in Article 20(1) of Regulation (EU) 2016/1011.
+
+%%% (2)  Commission Implementing Regulation (EU) 2016/1368 of 11 August 2016 establishing a list of critical benchmarks used in financial markets pursuant to Regulation (EU) 2016/1011 of the European Parliament and of the Council (OJ L 217, 12.8.2016, p. 1).

@@ -1,0 +1,1 @@
+(1) Benchmarks play an important role in the determination of the price of many financial instruments and financial contracts and of the measurement of performance for many investment funds. The contribution to and administration of benchmarks are in many cases vulnerable to manipulation and persons involved often face conflict of interests.

@@ -1,0 +1,1 @@
+(6) The EONIA is an average of unsecured overnight lending transactions of a panel of banks in the interbank market in the Union and in the EFTA. It is the reference interest rate for interest rate swaps in euro. It is therefore crucial for the functioning of the euro swap market and financial stability in the Union.
