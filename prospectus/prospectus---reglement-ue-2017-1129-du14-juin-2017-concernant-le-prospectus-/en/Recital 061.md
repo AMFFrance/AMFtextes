@@ -1,0 +1,1 @@
+(61) To facilitate access to the markets of Member States, it is important that fees charged by competent authorities for the approval and filing of prospectuses and their related documents are reasonable, proportionate and publicly disclosed.

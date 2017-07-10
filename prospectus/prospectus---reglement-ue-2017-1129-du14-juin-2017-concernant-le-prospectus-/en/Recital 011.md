@@ -1,0 +1,1 @@
+(11) To ensure the approval and passporting of the prospectus as well as the supervision of compliance with this Regulation, a competent authority needs to be identified for each prospectus. Thus, this Regulation should clearly determine the home Member State best placed to approve the prospectus.

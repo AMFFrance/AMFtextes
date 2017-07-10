@@ -1,0 +1,1 @@
+(23) Issuers, offerors or persons asking for the admission to trading on a regulated market of securities which are not subject to the obligation to publish a prospectus should benefit from the single passport where they choose to comply with this Regulation on a voluntary basis.

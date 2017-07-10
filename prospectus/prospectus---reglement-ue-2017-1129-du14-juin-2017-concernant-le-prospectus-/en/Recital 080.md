@@ -1,0 +1,1 @@
+(80) Technical standards in financial services should ensure adequate protection of investors and consumers across the Union. As a body with highly specialised expertise, it would be efficient and appropriate to entrust ESMA with the elaboration of draft regulatory technical standards which do not involve policy choices, for submission to the Commission.

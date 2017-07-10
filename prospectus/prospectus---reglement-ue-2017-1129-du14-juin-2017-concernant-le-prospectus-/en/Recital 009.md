@@ -1,0 +1,1 @@
+(9) Non-equity securities issued by a Member State or by one of a Member State’s regional or local authorities, by public international bodies of which one or more Member States are members, by the European Central Bank or by the central banks of the Member States should not be covered by this Regulation and thus should remain unaffected by this Regulation.

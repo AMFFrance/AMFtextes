@@ -1,0 +1,1 @@
+(86) The application of the requirements in this Regulation should be deferred in order to allow for the adoption of delegated and implementing acts and to allow competent authorities and market participants to assimilate and plan for the application of the new measures.

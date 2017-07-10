@@ -1,0 +1,3 @@
+(2) Directive 2003/71/EC of the European Parliament and of the Council (4) laid down harmonised principles and rules on the prospectus to be drawn up, approved and published when securities are offered to the public or admitted to trading on a regulated market. Given the legislative and market developments since its entry into force, that Directive should be repealed and replaced by this Regulation.
+
+%%% (4)  Directive 2003/71/EC of the European Parliament and of the Council of 4 November 2003 on the prospectus to be published when securities are offered to the public or admitted to trading and amending Directive 2001/34/EC (OJ L 345, 31.12.2003, p. 64).

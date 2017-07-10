@@ -1,0 +1,3 @@
+(49) The simplified disclosure regime for secondary issuances should be available for offers to the public by issuers whose securities are traded on SME growth markets, as their operators are required under Directive 2014/65/EU of the European Parliament and of the Council (11) to establish and apply rules ensuring appropriate ongoing disclosure.
+
+%%% (11)  Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349).

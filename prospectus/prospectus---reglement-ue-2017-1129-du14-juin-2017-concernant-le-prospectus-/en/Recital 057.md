@@ -1,0 +1,1 @@
+(57) Member States publish abundant information on their financial situation which is, in general, available in the public domain. Thus, where a Member State guarantees an offer of securities, such information should not need to be provided in the prospectus.

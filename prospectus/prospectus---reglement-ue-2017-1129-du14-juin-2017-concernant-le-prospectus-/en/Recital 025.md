@@ -1,0 +1,1 @@
+(25) Disclosure provided by a prospectus should not be required for offers of securities to the public which are limited to qualified investors. In contrast, any resale to the public or public trading through admission to trading on a regulated market should require the publication of a prospectus.

@@ -1,0 +1,1 @@
+(84) Any processing of personal data carried out within the framework of this Regulation, such as the exchange or transmission of personal data by the competent authorities, should be undertaken in accordance with Regulation (EU) 2016/679 and any exchange or transmission of information by ESMA should be undertaken in accordance with Regulation (EC) No 45/2001.

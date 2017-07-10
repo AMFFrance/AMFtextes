@@ -1,0 +1,3 @@
+(79) In order to ensure uniform conditions for the implementation of this Regulation in respect of equivalence of the prospectus laws of third countries, implementing powers should be conferred on the Commission to take a decision on such equivalence. Those powers should be exercised in accordance with Regulation (EU) No 182/2011 of the European Parliament and of the Council (16).
+
+%%% (16)  Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by the Member States of the Commission’s exercise of implementing powers (OJ L 55, 28.2.2011, p. 13).

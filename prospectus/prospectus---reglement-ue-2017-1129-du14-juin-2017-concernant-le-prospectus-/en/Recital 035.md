@@ -1,0 +1,1 @@
+(35) For all non-equity securities, including those that are issued in a continuous or repeated manner or as part of an offering programme, issuers should be allowed to draw up a prospectus in the form of a base prospectus.

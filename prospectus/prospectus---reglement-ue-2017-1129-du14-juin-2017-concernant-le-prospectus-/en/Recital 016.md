@@ -1,0 +1,3 @@
+(16) This Regulation should be interpreted in a manner consistent with Directive 2004/25/EC of the European Parliament and of the Council (6), where applicable, in the context of takeover bids, merger transactions and other transactions affecting the ownership or control of companies.
+
+%%% (6)  Directive 2004/25/EC of the European Parliament and of the Council of 21 April 2004 on takeover bids (OJ L 142, 30.4.2004, p. 12).
