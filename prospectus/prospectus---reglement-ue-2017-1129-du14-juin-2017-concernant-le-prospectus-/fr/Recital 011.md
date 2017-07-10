@@ -1,0 +1,1 @@
+(11) Pour veiller à ce qu’un prospectus soit approuvé et fasse l’objet d’un passeport, ainsi qu’au contrôle du respect du présent règlement, il convient qu’une autorité compétente soit désignée pour chaque prospectus. Il y a donc lieu que le présent règlement détermine clairement l’État membre d’origine le mieux placé pour approuver le prospectus.

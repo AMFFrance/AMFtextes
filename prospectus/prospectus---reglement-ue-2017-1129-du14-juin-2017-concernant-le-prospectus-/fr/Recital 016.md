@@ -1,0 +1,3 @@
+(16) Le présent règlement devrait être interprété de façon cohérente avec la directive 2004/25/CE du Parlement européen et du Conseil (6), le cas échéant, dans le cadre des offres publiques d’acquisition, des opérations de fusion et autres opérations ayant des incidences sur la propriété ou le contrôle des entreprises.
+
+%%% (6)  Directive 2004/25/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les offres publiques d’acquisition (JO L 142 du 30.4.2004, p. 12).

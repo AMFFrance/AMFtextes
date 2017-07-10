@@ -1,0 +1,18 @@
+# ANNEXE III
+
+NOTE RELATIVE AUX VALEURS MOBILIÈRES
+
+I. Identité des administrateurs, des membres de la direction, des conseillers et des commissaires aux comptes L’objectif est d’identifier les représentants de la société et les autres personnes concernées par l’offre au public ou l’admission à la négociation, à savoir les personnes chargées d’établir le prospectus et les personnes chargées de contrôler les états financiers.
+
+II. Éléments clés de l’offre et calendrier prévisionnel L’objectif est de fournir des informations essentielles concernant le déroulement de l’offre et d’indiquer les dates essentielles qui s’y rapportent. A. Éléments clés de l’offre B. Méthode et calendrier prévisionnel
+
+III. Informations essentielles concernant l’émetteur L’objectif est de fournir, sous une forme résumée, des informations essentielles sur la situation financière de la société, ses capitaux propres et les facteurs de risque. Si les états financiers inclus dans le document sont retraités pour tenir compte de changements notables dans la structure du groupe auquel la société est intégrée ou dans ses politiques comptables, les données financières sélectionnées doivent également être retraitées. A. Capitaux propres et endettement (uniquement pour les titres de capital) B. Informations sur le fonds de roulement (uniquement pour les titres de capital) C. Raisons de l’offre et utilisation prévue du produit D. Facteurs de risque
+
+IV. Informations essentielles concernant les valeurs mobilières L’objectif est de fournir des informations essentielles sur les valeurs mobilières qui doivent être offertes au public et/ou admises à la négociation. A. Description de la nature et de la catégorie des valeurs mobilières offertes au public et/ou admises à la négociation B. Devise dans laquelle les valeurs mobilières sont émises C. Rang relatif des valeurs mobilières dans la structure du capital de l’émetteur en cas d’insolvabilité de ce dernier, y compris, le cas échéant, des informations sur le niveau de subordination des valeurs mobilières et l’impact potentiel sur l’investissement en cas de résolution dans le cadre de la directive 2014/59/UE D. Politique de distribution de dividendes, dispositions relatives aux intérêts dus ou description du sous-jacent incluant la méthode utilisée pour relier le sous-jacent au taux, et une indication sur la manière d’obtenir des informations sur les performances passées et futures du sous-jacent et sa volatilité E. Description des droits attachés aux valeurs mobilières, y compris toute restriction qui leur est applicable, et des modalités d’exercice de ces droits
+
+V. Intérêts des experts L’objectif est de fournir des informations sur les transactions conclues entre la société et les experts ou conseillers auxquels elle fait ponctuellement appel.
+
+VI. Modalités de l’offre ou de l’admission à la négociation L’objectif est de fournir des informations sur l’offre ou l’admission à la négociation des valeurs mobilières, sur le plan de distribution de ces valeurs et d’autres questions connexes. A. Offre ou admission à la négociation B. Plan de distribution C. Marchés D. Détenteurs de valeurs mobilières souhaitant les vendre E. Dilution (uniquement pour les titres de capital) F. Dépenses liées à l’émission
+
+VII. Informations supplémentaires L’objectif est de fournir les informations, essentiellement à caractère légal, qui n’apparaissent pas à d’autres points du prospectus. A. Contrôle des changes B. Avertissement sur les conséquences fiscales C. Dividendes et intermédiaires chargés du service financier D. Opinions émises par des experts E. Documents accessibles au public
+

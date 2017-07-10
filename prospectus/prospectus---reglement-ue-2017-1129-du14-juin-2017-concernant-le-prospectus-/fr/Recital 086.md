@@ -1,0 +1,1 @@
+(86) Il convient que l’application des exigences prévues par le présent règlement soit différée afin de permettre que les actes délégués et les actes d’exécution soient adoptés et que les autorités compétentes et les participants au marché puissent assimiler les nouvelles mesures et planifier leur application.

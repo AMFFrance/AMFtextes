@@ -1,0 +1,1 @@
+(38) Pour améliorer la flexibilité et le rapport coût-efficacité du prospectus de base, l’émetteur devrait être autorisé à établir un prospectus de base sous la forme de plusieurs documents distincts.

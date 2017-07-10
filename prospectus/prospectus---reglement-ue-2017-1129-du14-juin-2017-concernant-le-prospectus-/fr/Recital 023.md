@@ -1,0 +1,1 @@
+(23) Les émetteurs, les offreurs ou les personnes qui sollicitent l’admission à la négociation sur un marché réglementé de valeurs mobilières qui ne sont pas soumis à l’obligation de publication d’un prospectus devraient bénéficier du passeport unique s’ils choisissent de se conformer au présent règlement sur une base volontaire.

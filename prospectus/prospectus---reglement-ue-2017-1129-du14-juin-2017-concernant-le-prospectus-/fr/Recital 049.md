@@ -1,0 +1,3 @@
+(49) Il convient que le régime d’information simplifié pour les émissions secondaires puisse être utilisé pour les offres au public effectuées par des émetteurs dont les valeurs mobilières sont négociées sur les marchés de croissance des PME, étant donné que les opérateurs de ces marchés doivent, au titre de la directive 2014/65/UE du Parlement européen et du Conseil (11), établir et appliquer des règles garantissant que des informations appropriées soient rendues publiques en continu.
+
+%%% (11)  Directive 2014/65/UE du Parlement européen et du Conseil du 15 mai 2014 concernant les marchés d’instruments financiers et modifiant la directive 2002/92/CE et la directive 2011/61/UE (JO L 173 du 12.6.2014, p. 349).

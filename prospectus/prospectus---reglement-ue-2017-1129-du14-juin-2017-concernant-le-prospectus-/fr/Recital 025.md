@@ -1,0 +1,1 @@
+(25) Il ne devrait pas être nécessaire de publier un prospectus pour les offres au public de valeurs mobilières qui sont cantonnées aux investisseurs qualifiés. En revanche, la publication d’un prospectus devrait être exigée en cas de revente au public desdites valeurs mobilières ou de leur négociation publique par voie d’admission à la négociation sur un marché réglementé.

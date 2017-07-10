@@ -1,0 +1,1 @@
+(61) Pour faciliter l’accès aux marchés des États membres, il est important que les frais facturés par les autorités compétentes pour l’approbation et le dépôt des prospectus et de leurs documents connexes soient raisonnables, proportionnés et rendus publics.

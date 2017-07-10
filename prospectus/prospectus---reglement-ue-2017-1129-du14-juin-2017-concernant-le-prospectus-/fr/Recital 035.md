@@ -1,0 +1,1 @@
+(35) Pour tous les titres autres que de capital, y compris ceux émis d’une manière continue ou répétée ou dans le cadre d’un programme d’offre, les émetteurs devraient être autorisés à établir un prospectus sous la forme d’un prospectus de base.

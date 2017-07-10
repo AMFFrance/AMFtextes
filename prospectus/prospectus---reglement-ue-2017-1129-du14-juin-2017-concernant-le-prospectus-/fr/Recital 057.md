@@ -1,0 +1,1 @@
+(57) Les États membres publient une quantité importante d’informations sur leur situation financière et ces informations font, en général, partie du domaine public. Ainsi, lorsqu’un État membre garantit une offre de valeurs mobilières, de telles informations ne devraient pas nécessairement être fournies dans le prospectus.

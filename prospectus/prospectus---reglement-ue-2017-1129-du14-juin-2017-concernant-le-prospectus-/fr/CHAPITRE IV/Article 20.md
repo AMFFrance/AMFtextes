@@ -1,0 +1,44 @@
+# Article 20 - Examen et approbation du prospectus
+
+
+1.   Un prospectus n’est publié que si l’autorité compétente concernée l’a approuvé ou a approuvé toutes ses parties constitutives conformément à l’article 10.
+
+2.   L’autorité compétente notifie à l’émetteur, à l’offreur ou à la personne qui sollicite l’admission à la négociation sur un marché réglementé sa décision concernant l’approbation du prospectus, dans les dix jours ouvrables qui suivent le dépôt du projet de prospectus.
+
+Si l’autorité compétente ne prend pas de décision concernant le prospectus dans les délais fixés par le premier alinéa du présent paragraphe et par les paragraphes 3 et 6, cette absence de décision ne vaut pas approbation de la demande.
+
+L’autorité compétente notifie l’approbation du prospectus et de ses éventuels suppléments à l’AEMF dès que possible et, en tout état de cause, au plus tard à la fin du premier jour ouvrable qui suit la notification à l’émetteur, à l’offreur ou à la personne qui sollicite l’admission à la négociation sur un marché réglementé.
+
+3.   Le délai fixé au paragraphe 2, premier alinéa, est porté à vingt jours ouvrables si l’offre au public porte sur des valeurs mobilières émises par un émetteur dont aucune valeur mobilière n’a encore été admise à la négociation sur un marché réglementé et qui n’a pas encore offert des valeurs mobilières au public.
+
+Le délai de vingt jours ouvrables n’est applicable que pour le dépôt initial du projet de prospectus. Lorsque des dépôts ultérieurs sont nécessaires conformément au paragraphe 4, le délai fixé au paragraphe 2, premier alinéa, s’applique.
+
+4.   Lorsque l’autorité compétente estime que le projet de prospectus ne respecte pas les normes en matière d’exhaustivité, de compréhensibilité et de cohérence nécessaires à son approbation et/ou que des modifications ou un complément d’information sont nécessaires:
+
+a) elle en informe l’émetteur, l’offreur ou la personne qui sollicite l’admission à la négociation sur un marché réglementé rapidement et, au plus tard, dans les délais prévus au paragraphe 2, premier alinéa, ou, selon le cas, au paragraphe 3, à compter du dépôt du projet de prospectus et/ou du complément d’information; et
+
+b) elle indique clairement les modifications ou le complément d’information qui sont nécessaires.
+
+En pareil cas, le délai visé au paragraphe 2, premier alinéa, ne court dès lors qu’à compter de la date à laquelle un projet de prospectus révisé ou le complément d’information demandé est soumis à l’autorité compétente.
+
+5.   Si l’émetteur, l’offreur ou la personne qui sollicite l’admission à la négociation sur un marché réglementé ne peut ou ne veut pas apporter les modifications nécessaires ou fournir le complément d’information demandé conformément au paragraphe 4, l’autorité compétente est habilitée à refuser d’approuver le prospectus et à mettre fin au processus d’examen. Dans ce cas, l’autorité compétente notifie sa décision à l’émetteur, à l’offreur ou à la personne qui sollicite l’admission à la négociation sur un marché réglementé en indiquant la raison de ce refus.
+
+6.   Par dérogation aux paragraphes 2 et 4, les délais fixés au paragraphe 2, premier alinéa, et au paragraphe 4 sont réduits à cinq jours ouvrables pour un prospectus qui consiste en des documents distincts, établi par les émetteurs fréquents visés à l’article 9, paragraphe 11, y compris les émetteurs fréquents qui font usage de la procédure de notification prévue à l’article 26. L’émetteur fréquent informe l’autorité compétente au moins cinq jours ouvrables avant la date envisagée du dépôt d’une demande d’approbation.
+
+L’émetteur fréquent dépose auprès de l’autorité compétente une demande contenant les amendements nécessaires au document d’enregistrement universel, le cas échéant, la note relative aux valeurs mobilières et le résumé soumis pour approbation.
+
+7.   Les autorités compétentes fournissent sur leur site internet des orientations sur le processus d’examen et d’approbation afin de faciliter l’approbation efficiente et en temps voulu des prospectus. Ces orientations mentionnent des coordonnées aux fins des approbations. L’émetteur, l’offreur, la personne qui sollicite l’admission à la négociation sur un marché réglementé ou la personne chargée de rédiger le prospectus a la possibilité de communiquer et d’interagir directement avec le personnel de l’autorité compétente tout au long du processus d’approbation du prospectus.
+
+8.   À la demande de l’émetteur, de l’offreur ou de la personne qui sollicite l’admission à la négociation sur un marché réglementé, l’autorité compétente de l’État membre d’origine peut déléguer l’approbation d’un prospectus à l’autorité compétente d’un autre État membre, moyennant notification préalable à l’AEMF et avec l’accord de ladite autorité compétente. L’autorité compétente de l’État membre d’origine adresse les documents déposés, ainsi que sa décision d’approuver la délégation, sous forme électronique, à l’autorité compétente de l’autre État membre le jour de sa décision. Cette délégation est notifiée à l’émetteur, à l’offreur ou à la personne qui sollicite l’admission à la négociation sur un marché réglementé dans les trois jours ouvrables qui suivent la date de la décision prise par l’autorité compétente de l’État membre d’origine. Les délais prévus au paragraphe 2, premier alinéa, et au paragraphe 3, courent à compter de la date de la décision prise par l’autorité compétente de l’État membre d’origine. L’article 28, paragraphe 4, du règlement (UE) no 1095/2010 ne s’applique pas à la délégation de l’approbation d’un prospectus prévue au présent paragraphe. Une fois que la délégation de l’approbation du prospectus a eu lieu, l’autorité compétente à laquelle l’approbation du prospectus a été déléguée est réputée être l’autorité compétente de l’État membre d’origine pour ce prospectus aux fins du présent règlement.
+
+9.   Le présent règlement n’affecte pas la responsabilité des autorités compétentes, qui continue de relever exclusivement du droit national.
+
+Les États membres veillent à ce que leurs dispositions nationales concernant la responsabilité des autorités compétentes s’appliquent uniquement aux approbations de prospectus par leur autorité compétente.
+
+10.   Le montant des frais facturés par l’autorité compétente de l’État membre d’origine pour l’approbation des prospectus, des documents destinés à devenir des parties constitutives des prospectus conformément à l’article 10 ou des suppléments aux prospectus, ainsi que pour le dépôt des documents d’enregistrement universels, des amendements à ces documents et des conditions définitives, est raisonnable et proportionné et est communiqué au public au moins sur le site internet de l’autorité compétente.
+
+11.   Au plus tard le 21 janvier 2019, la Commission adopte des actes délégués conformément à l’article 44 afin de compléter le présent règlement en précisant les critères d’examen des prospectus, en particulier l’exhaustivité, la compréhensibilité et la cohérence des informations qu’ils contiennent, ainsi que les procédures visant à approuver le prospectus.
+
+12.   L’AEMF utilise ses pouvoirs au titre du règlement (UE) no 1095/2010 pour promouvoir la convergence en matière de surveillance en ce qui concerne les processus d’examen et d’approbation mis en œuvre par les autorités compétentes lorsqu’elles contrôlent l’exhaustivité, la cohérence et la compréhensibilité des informations contenues dans un prospectus. À cette fin, l’AEMF élabore à l’intention des autorités compétentes des orientations relatives au contrôle des prospectus et à l’application des règles en la matière et portant sur l’examen du respect du présent règlement et de tout acte délégué et d’exécution adopté en vertu de celui-ci. En particulier, l’AEMF favorise la convergence en ce qui concerne l’efficacité de l’examen des informations contenues dans les prospectus par les autorités compétentes ainsi que les méthodes et la durée applicables à cet examen, en recourant notamment à des examens par les pairs conformément au paragraphe 13.
+
+13.   Sans préjudice de l’article 30 du règlement (UE) no 1095/2010, l’AEMF organise et mène au moins un examen par les pairs des procédures d’examen et d’approbation appliquées par les autorités compétentes, y inclus les notifications des approbations aux autres autorités compétentes. L’examen par les pairs porte aussi sur l’incidence que peuvent avoir des différences d’approche entre autorités compétentes en matière d’examen et d’approbation sur la capacité des émetteurs à lever des capitaux dans l’Union. Le rapport relatif à l’examen par les pairs est publié au plus tard le 21 juillet 2022. Dans le cadre de cet examen par les pairs, l’AEMF tient compte des avis ou des conseils du groupe des parties intéressées au secteur financier visé à l’article 37 du règlement (UE) no 1095/2010.
