@@ -1,0 +1,1 @@
+(4) Information about investigations to be provided to ESMA should be consistent and comparable in order to reflect the actual investigatory activity carried out under the Market Abuse Regulation on a given year. Therefore, the information should only include the investigations on which the relevant authorities have worked on during the reference period.

@@ -1,0 +1,1 @@
+(3) To ensure that all required information concerning sanctions and measures imposed by competent authorities is correctly identified and registered by ESMA, competent authorities should provide detailed and harmonised information using specific forms to that purpose.
