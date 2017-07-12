@@ -1,0 +1,1 @@
+(2) Afin de faciliter la communication entre les autorités compétentes et l'AEMF et d'éviter les retards indus et l'échec de transmissions, chaque autorité compétente devrait désigner un point de contact chargé spécifiquement de soumettre les informations requises.

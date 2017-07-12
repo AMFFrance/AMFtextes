@@ -1,0 +1,1 @@
+(1) Il y a lieu de définir les procédures et formulaires communs que doivent utiliser les autorités compétentes pour communiquer à l'Autorité européenne des marchés financiers (AEMF) des informations sur les enquêtes, sanctions et mesures visées par l'article 33 du règlement (UE) no 596/2014.
