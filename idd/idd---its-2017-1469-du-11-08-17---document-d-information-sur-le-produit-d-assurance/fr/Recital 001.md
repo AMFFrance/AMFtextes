@@ -1,0 +1,3 @@
+(1) En vertu de la directive (UE) 2016/97, les concepteurs des produits d'assurance non-vie énumérés à l'annexe I de la directive 2009/138/CE du Parlement européen et du Conseil (2) sont tenus d'élaborer un document d'information normalisé sur le produit d'assurance, afin de fournir aux clients les informations nécessaires concernant les produits d'assurance non-vie énumérés à l'annexe I de la directive 2009/138/CE pour leur permettre de prendre une décision en connaissance de cause.
+
+%%% (2)  Directive 2009/138/CE du Parlement européen et du Conseil du 25 novembre 2009 sur l'accès aux activités de l'assurance et de la réassurance et leur exercice (solvabilité II) (JO L 335 du 17.12.2009, p. 1).

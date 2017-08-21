@@ -1,0 +1,1 @@
+(2) L'article 20, paragraphe 8, de la directive (UE) 2016/97 précise quelles informations devrait contenir le document d'information sur le produit d'assurance.
