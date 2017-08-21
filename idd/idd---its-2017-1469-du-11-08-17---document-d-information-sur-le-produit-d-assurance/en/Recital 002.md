@@ -1,0 +1,1 @@
+(2) Article 20(8) of Directive (EU) 2016/97 specifies which information the insurance product information document should contain.

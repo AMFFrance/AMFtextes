@@ -1,0 +1,3 @@
+(1) Directive (EU) 2016/97 requires manufacturers of non-life insurance products as listed in Annex I to Directive 2009/138/EC of the European Parliament and of the Council (2) to draw up a standardised insurance product information document so as to provide customers with the necessary information about non-life insurance products as listed in Annex I of Directive 2009/138/EC in order to allow the customer to make an informed decision.
+
+%%% (2)  Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (OJ L 335, 17.12.2009, p. 1).
