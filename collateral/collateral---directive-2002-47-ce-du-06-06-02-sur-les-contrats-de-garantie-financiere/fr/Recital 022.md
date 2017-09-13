@@ -1,0 +1,3 @@
+(22) Étant donné que l'objectif de l'action envisagée, à savoir la mise en place d'un régime minimal concernant l'utilisation des garanties financières, ne peut pas être réalisé de manière suffisante par les États membres et peut donc, en raison des dimensions et des effets de l'action, être mieux réalisé au niveau communautaire, la Communauté peut prendre des mesures conformément au principe de subsidiarité consacré à l'article 5 du traité. Conformément au principe de proportionnalité tel qu'énoncé audit article, la présente directive n'excède pas ce qui est nécessaire pour atteindre cet objectif,
+
+ONT ARRÊTÉ LA PRÉSENTE DIRECTIVE:
