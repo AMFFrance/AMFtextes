@@ -1,1 +1,0 @@
-(13) This Directive seeks to protect the validity of financial collateral arrangements which are based upon the transfer of the full ownership of the financial collateral, such as by eliminating the so-called re-characterisation of such financial collateral arrangements (including repurchase agreements) as security interests.

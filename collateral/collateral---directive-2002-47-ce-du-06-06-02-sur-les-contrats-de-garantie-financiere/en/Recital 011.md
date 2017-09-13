@@ -1,1 +1,0 @@
-(11) Moreover, this Directive should protect only financial collateral arrangements which can be evidenced. Such evidence can be given in writing or in any other legally enforceable manner provided by the law which is applicable to the financial collateral arrangement.
