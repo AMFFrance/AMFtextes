@@ -1,1 +1,0 @@
-(21) La présente directive est conforme aux droits fondamentaux et notamment aux principes énoncés dans la Charte des droits fondamentaux de l'Union européenne.

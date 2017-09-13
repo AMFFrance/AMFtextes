@@ -1,1 +1,0 @@
-(13) La présente directive vise à protéger la validité des contrats de garantie financière fondée sur le transfert en pleine propriété des espèces ou des instruments financiers remis à titre de garantie, notamment en supprimant la "requalification" de ces contrats de garantie financière (y compris les opérations de mise en pension) en nantissements.
