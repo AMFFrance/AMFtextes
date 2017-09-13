@@ -1,0 +1,1 @@
+(18) It should be possible to provide cash as collateral under both title transfer and secured structures respectively protected by the recognition of netting or by the pledge of cash collateral. Cash refers only to money which is represented by a credit to an account, or similar claims on repayment of money (such as money market deposits), thus explicitly excluding banknotes.

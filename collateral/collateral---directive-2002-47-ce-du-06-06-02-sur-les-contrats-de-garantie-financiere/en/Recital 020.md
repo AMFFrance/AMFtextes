@@ -1,0 +1,1 @@
+(20) This Directive does not prejudice the operation and effect of the contractual terms of financial instruments provided as financial collateral, such as rights and obligations and other conditions contained in the terms of issue and any other rights and obligations and other conditions which apply between the issuers and holders of such instruments.
