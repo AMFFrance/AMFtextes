@@ -1,0 +1,1 @@
+(5) Pour permettre aux autorités compétentes d'apprécier la renommée de toute personne devant diriger les activités de l'entreprise, ainsi que des actionnaires et associés détenteurs d'une participation qualifiée envisagés, toute entreprise d'investissement sollicitant un agrément devrait être tenue de fournir des informations sur ces personnes.

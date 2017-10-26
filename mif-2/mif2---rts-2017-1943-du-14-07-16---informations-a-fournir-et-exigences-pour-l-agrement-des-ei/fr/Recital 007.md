@@ -1,0 +1,1 @@
+(7) Toute entreprise d'investissement sollicitant un agrément devrait communiquer des informations financières la concernant aux autorités compétentes pour que celles-ci puissent évaluer sa solidité financière.

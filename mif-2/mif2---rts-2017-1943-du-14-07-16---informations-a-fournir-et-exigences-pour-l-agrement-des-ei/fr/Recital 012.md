@@ -1,0 +1,1 @@
+(12) Afin de repérer les obstacles qui pourraient entraver le bon exercice des fonctions de surveillance, les autorités compétentes devraient tenir compte de la complexité et de la transparence de la structure de groupe dont ferait partie l'entreprise d'investissement, de la localisation géographique des entités du groupe et de la nature de leurs activités.

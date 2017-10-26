@@ -1,0 +1,1 @@
+(3) Toute entreprise sollicitant l'agrément devrait également fournir des informations sur les sources de capitaux disponibles, y compris les moyens utilisés pour transférer les ressources financières en cas de levée de fonds, afin de permettre aux autorités compétentes d'évaluer si toutes les exigences en matière de lutte contre la criminalité financière ont été respectées.

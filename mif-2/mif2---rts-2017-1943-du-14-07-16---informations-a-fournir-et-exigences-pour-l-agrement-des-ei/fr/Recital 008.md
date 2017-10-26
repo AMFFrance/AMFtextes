@@ -1,0 +1,1 @@
+(8) Étant donné qu'elles pourraient ne pas être en mesure de fournir des informations sur les contrôleurs des comptes au moment de la demande, les entreprises nouvellement créées devraient être dispensées de fournir ces informations à l'autorité compétente à moins que les contrôleurs n'aient déjà été nommés.

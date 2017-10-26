@@ -1,0 +1,1 @@
+(2) Afin de garantir que l'autorité compétente fonde son appréciation sur des informations exactes, il est essentiel que le demandeur fournisse des copies de ses documents d'entreprise, notamment une copie certifiée de l'acte constitutif, des statuts et du règlement intérieur ainsi que de l'inscription au registre national des entreprises.
