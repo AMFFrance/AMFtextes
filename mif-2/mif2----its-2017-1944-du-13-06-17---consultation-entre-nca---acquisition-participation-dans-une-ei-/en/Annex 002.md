@@ -1,0 +1,18 @@
+# ANNEX II
+
+## Consultation notice template
+
+## (Article 4 of Commission Implementing Regulation (EU) 2017/1944)
+
+
+
+Text of image
+
+Consultation notice Reference number: Date: General information FROM: Member State: Requesting Authority: Legal address: (Contact details of the designated contact person) Name: Telephone: Email: TO: Member State: Requested Authority: Legal address: (Contact details of the designated contact person) Name: Telephone: Email: Dear [insert appropriate name] In accordance with Article 4 of the Commission Implementing Regulation (EU) 2017/1944 of 13 June 2017 laying down implementing technical standards with regard to standard forms, templates and procedures for the consultation process between relevant competent authorities in relation to the notification of a proposed acquisition of a qualifying holding in an investment firm in accordance with Directives 2004/39/EC and 2014/65/EU of the European Parliament and of the Council, a consultation notice is made in relation to the matters set out in further detail below. Please note that the assessment procedure (*) will expire on [insert date], therefore we would be grateful if you could provide the requested information and any other relevant and essential information by [20 working days from receipt of this letter] or, if that is not possible, an indication as to when you anticipate being in a position to provide the assistance which is sought, taking into account the mentioned deadline for the assessment procedure. (*) In accordance with second subparagraph of Article 10a(1) of Directive 2004/39/EC
+
+
+
+Text of image
+
+Information on the proposed acquisition Subject matter [please set out that information here or make reference to the relevant annexes containing the information] Details of the proposed acquisition [please set out that information here or make reference to the relevant annexes containing the information] Details of any other supervisory authorities involved [please set out that information here or make reference to the relevant annexes containing the information] Further to [if applicable, please insert details of the previous request in order to enable it to be identified] Type of assistance request Information sought [if any]: [please insert a detailed description of the specific information sought, including any relevant documents requested, with reasons why that information will be of assistance. Examples include: — The shareholding structure of the proposed acquirer or of the relevant authorised entity, and the main characteristics of its shareholders; — The most recent assessment of the suitability (fitness and propriety) of the proposed acquirer or of the relevant authorised entity; — The most recent assessment of the financial soundness of the proposed acquirer or of the relevant authorised entity, with related public or external audit reports (where relevant); — The most recent assessment by the requested authority of the quality of the management structure of the proposed acquirer or of the relevant authorised entity, and its administrative and accounting procedures, internal control systems, corporate governance, group structure etc.] Additional information provided by the requesting authority. [Whether the requesting authority has been or will be in contact with any other authority or law enforcement agency in the Member State of the requested authority in relation to the subject matter of the request or any other authority which the requesting authority is aware that has an active interest in the subject matter of the request] Yours sincerely, [signature]
+

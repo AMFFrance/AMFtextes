@@ -1,0 +1,3 @@
+(6) Regulation (EC) No 45/2001 of the European Parliament and of the Council (4) applies to the processing of personal data by ESMA in the application of this Regulation.
+
+%%% (4)  Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data (OJ L 8, 12.1.2001, p. 1).

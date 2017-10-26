@@ -1,0 +1,1 @@
+(3) Consultation procedures containing clear timing constraints should be set up in order to ensure the timely and efficient cooperation between competent authorities. A clear cooperation procedure should include a preliminary notice to be sent by the requesting authority to the requested authority, to inform the requested authority of the ongoing assessment.

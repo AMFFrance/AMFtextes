@@ -1,0 +1,1 @@
+(8) ESMA did not publicly consult or analyse the potential related costs and benefits of introducing the standard forms, templates and procedures for the consultation process between relevant competent authorities, as this was considered disproportionate in relation to their scope and impact.

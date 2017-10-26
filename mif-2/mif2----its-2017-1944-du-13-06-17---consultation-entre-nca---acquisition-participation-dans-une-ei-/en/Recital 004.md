@@ -1,0 +1,1 @@
+(4) The procedures should also aim at ensuring that competent authorities cooperate and work towards the improvement of the process by promoting the exchange of feedback on the quality and relevance of the information received.
