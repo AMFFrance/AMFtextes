@@ -1,0 +1,1 @@
+(5) In order to enable competent authorities to assess the reputation of any person who will direct the business of the investment firm, of the proposed shareholders and members with qualifying holdings it is important to require an applicant to provide information on these persons.

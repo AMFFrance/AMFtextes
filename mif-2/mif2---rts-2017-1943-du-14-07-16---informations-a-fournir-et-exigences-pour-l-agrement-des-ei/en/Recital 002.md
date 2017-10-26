@@ -1,0 +1,1 @@
+(2) In order to ensure that the competent authority's assessment is based on accurate information, it is essential that an applicant provide copies of its corporate documents, including a certified copy of the instrument of incorporation, by-laws and the articles of association and a copy of registration of the company in the national register of companies.

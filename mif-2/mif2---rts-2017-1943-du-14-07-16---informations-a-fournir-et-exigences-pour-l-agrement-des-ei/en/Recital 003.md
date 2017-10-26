@@ -1,0 +1,1 @@
+(3) Information on the sources of capital available, including the means used for transferring financial resources when raising capital, should be submitted by an applicant in order to enable competent authorities to assess that all relevant requirements in the field of financial crime have been complied with.

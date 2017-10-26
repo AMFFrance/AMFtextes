@@ -1,0 +1,1 @@
+(7) Financial information concerning the investment firm should be submitted by an applicant to the competent authorities so that these may assess the financial soundness of that investment firm.

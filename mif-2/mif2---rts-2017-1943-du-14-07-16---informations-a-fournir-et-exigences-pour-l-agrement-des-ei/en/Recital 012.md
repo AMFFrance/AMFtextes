@@ -1,0 +1,1 @@
+(12) In order to identify obstacles that could prevent effective exercise of the supervisory functions, competent authorities should consider the complexity and transparency of group structure of investment firm, the geographical location of the entities of the group and the activities the group entities perform.

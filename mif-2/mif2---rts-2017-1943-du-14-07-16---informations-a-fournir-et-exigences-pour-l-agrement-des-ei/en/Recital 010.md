@@ -1,0 +1,1 @@
+(10) National competent authorities may authorise as investment firm a natural person or a legal person managed by a single natural person. It is therefore appropriate to set out authorisation requirements applicable to the management of investment firms that are natural persons or legal persons managed by a single natural person.

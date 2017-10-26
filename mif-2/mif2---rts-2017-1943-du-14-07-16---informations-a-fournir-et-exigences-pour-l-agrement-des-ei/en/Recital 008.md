@@ -1,0 +1,1 @@
+(8) Since, at time of the application, newly established firms might not be in the position to provide information on the auditors; those applicants should be exempted from providing this information to the competent authority unless the auditors have already been appointed.
