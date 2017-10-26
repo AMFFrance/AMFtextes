@@ -1,0 +1,1 @@
+(6) Des informations financières concernant le candidat acquéreur devraient être fournies pour permettre d'évaluer sa solidité financière.
