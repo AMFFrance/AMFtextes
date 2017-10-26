@@ -1,0 +1,1 @@
+(3) In order to allow competent authorities to assess whether changes to the management body of the firm may pose a threat to the effective, sound and prudent management of the firm, and to adequately take into consideration the interests of its clients and the integrity of the market, clear time limits should be defined for the submission of information on those changes.

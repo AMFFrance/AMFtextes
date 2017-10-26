@@ -1,0 +1,1 @@
+(1) It is appropriate to set out common standard forms, templates and procedures to ensure a uniform mechanism by which Member States' competent authorities effectively exercise their powers in respect of the authorisation of firms for the provision of investment services, investment activities and, where relevant, of ancillary services.

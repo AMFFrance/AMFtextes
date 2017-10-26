@@ -1,0 +1,1 @@
+(2) To facilitate communication between an applicant seeking authorisation as an investment firm in accordance with Title II of Directive 2014/65/EU and the competent authority, competent authorities should designate a contact point specifically for the purpose of the application process and should publish the information on the contact point on their website.

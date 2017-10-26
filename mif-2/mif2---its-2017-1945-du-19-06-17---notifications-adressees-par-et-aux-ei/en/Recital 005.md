@@ -1,0 +1,3 @@
+(5) Directive 95/46/EC of the European Parliament and of the Council (2) applies to the processing of personal data by the Member States in the application of this Regulation.
+
+%%% (2)  Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (OJ L 281, 23.11.1995, p. 31).
