@@ -1,0 +1,1 @@
+(7) Le présent règlement se fonde sur le projet de normes techniques d'exécution soumis à la Commission par l'AEMF.

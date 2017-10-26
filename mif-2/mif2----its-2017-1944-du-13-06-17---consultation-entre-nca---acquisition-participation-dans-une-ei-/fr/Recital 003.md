@@ -1,0 +1,1 @@
+(3) Il y a lieu de définir des procédures de consultation prévoyant des délais explicites afin d'assurer une coopération rapide et efficace entre autorités compétentes. Pour assurer la clarté de la procédure de coopération, l'autorité requérante devrait envoyer un avis préalable à l'autorité requise afin de l'informer de l'évaluation en cours.

@@ -1,0 +1,1 @@
+(4) Les procédures devraient également promouvoir la transmission de retours d'information sur la qualité et la pertinence des informations reçues pour que les autorités compétentes puissent œuvrer de concert à l'amélioration du processus.

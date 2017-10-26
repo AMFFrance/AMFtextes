@@ -1,0 +1,3 @@
+(5) Les échanges et transmissions d'informations entre autorités compétentes et avec d'autres autorités, organes ou personnes devraient être conformes aux règles relatives aux données à caractère personnel établies dans la directive 95/46/CE du Parlement européen et du Conseil (3).
+
+%%% (3)  Directive 95/46/CE du Parlement européen et du Conseil du 24 octobre 1995 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données (JO L 281 du 23.11.1995, p. 31).
