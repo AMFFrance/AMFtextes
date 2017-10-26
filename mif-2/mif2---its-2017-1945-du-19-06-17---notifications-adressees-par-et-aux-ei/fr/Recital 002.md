@@ -1,0 +1,1 @@
+(2) Afin de faciliter la communication entre un demandeur sollicitant l'agrément comme entreprise d'investissement conformément au titre II de la directive 2014/65/UE et l'autorité compétente, les autorités compétentes devraient désigner un point de contact dédié spécialement au processus de candidature et devraient publier les informations à ce sujet sur leur site internet.

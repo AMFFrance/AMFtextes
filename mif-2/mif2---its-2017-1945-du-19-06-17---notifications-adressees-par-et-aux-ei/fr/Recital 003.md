@@ -1,0 +1,1 @@
+(3) Pour permettre aux autorités compétentes d'évaluer si les modifications de l'organe de direction d'une entreprise risquent de compromettre sa gestion efficace, saine et prudente et de prendre dûment en considération l'intérêt de ses clients et l'intégrité du marché, il convient de fixer des délais clairs pour la communication d'informations sur ces modifications.
