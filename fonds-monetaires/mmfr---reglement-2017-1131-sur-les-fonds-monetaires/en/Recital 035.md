@@ -1,0 +1,1 @@
+(35) To reduce the portfolio risk of MMFs, it is important to set maturity limitations, providing for a maximum allowable weighted average maturity (WAM) and weighted average life (WAL).

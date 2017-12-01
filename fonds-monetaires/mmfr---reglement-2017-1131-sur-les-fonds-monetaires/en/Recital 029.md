@@ -1,0 +1,1 @@
+(29) For prudential reasons and in order to avoid the exercise of significant influence over the management of an issuing body by an MMF, excessive concentration by an MMF in investments issued by the same issuing body should be avoided.

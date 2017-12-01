@@ -1,0 +1,3 @@
+(41) Under Article 84 of Directive 2009/65/EC, the managers of MMFs that are UCITS have the possibility of temporarily suspending redemptions in exceptional cases where circumstances so require. Under Article 16 of Directive 2011/61/EU and in Article 47 of the Commission Delegated Regulation (EU) No 231/2013 (9), the managers of MMFs that are AIFs can use special arrangements in order to cope with a supervening illiquidity of the funds' assets.
+
+%%% (9)  Commission Delegated Regulation (EU) No 231/2013 of 19 December 2012 supplementing Directive 2011/61/EU of the European Parliament and of the Council with regard to exemptions, general operating conditions, depositaries, leverage, transparency and supervision (OJ L 83, 22.3.2013, p. 1).

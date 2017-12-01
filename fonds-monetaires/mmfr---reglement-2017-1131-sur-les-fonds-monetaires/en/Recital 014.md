@@ -1,0 +1,1 @@
+(14) The specificity of MMFs results from the combination of the assets in which they invest and the objectives they pursue. The objective of offering returns in line with money market rates and the objective of preserving the value of an investment are not mutually exclusive. An MMF can have either one of those objectives or both objectives jointly.

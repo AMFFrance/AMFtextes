@@ -1,0 +1,1 @@
+(20) Rules on the portfolio of MMFs should clearly identify the categories of assets that are eligible for investment by MMFs and the conditions under which they are eligible. To ensure the integrity of MMFs, MMFs should also be prohibited from engaging in certain financial transactions that would endanger their investment strategy and objectives.

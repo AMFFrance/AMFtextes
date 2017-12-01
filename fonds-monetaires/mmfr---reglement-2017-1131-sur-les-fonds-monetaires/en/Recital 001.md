@@ -1,0 +1,1 @@
+(1) Money market funds (MMFs) provide short-term finance to financial institutions, corporations and governments. By providing finance to those entities, MMFs contribute to the financing of the economy of the Union. Those entities use their investments in MMFs as an efficient way to spread their credit risk and exposure, rather than relying solely on bank deposits.

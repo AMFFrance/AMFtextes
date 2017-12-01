@@ -1,0 +1,5 @@
+(11) The new rules on MMFs build upon Directive 2009/65/EC of the European Parliament and of the Council (4), which forms the legal framework governing the establishment, management and marketing of undertakings for collective investment in transferable securities (UCITS) in the Union, and also upon Directive 2011/61/EU of the European Parliament and of the Council (5), which forms the legal framework governing the establishment, management and marketing of alternative investment funds (AIFs) in the Union.
+
+%%% (4)  Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) (OJ L 302, 17.11.2009, p. 32).
+
+%%% (5)  Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers and amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010 (OJ L 174, 1.7.2011, p. 1).

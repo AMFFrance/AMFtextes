@@ -1,0 +1,1 @@
+(40) Standard MMFs have the objective of offering returns slightly higher than money market returns, and they therefore invest in assets that have an extended maturity. To achieve such outperformance, standard MMFs should be permitted to employ extended limits for the portfolio risk such as WAM and WAL.

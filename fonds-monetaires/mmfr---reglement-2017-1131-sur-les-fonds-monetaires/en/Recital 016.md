@@ -1,0 +1,1 @@
+(16) The objective of preserving the value of the investment is not to be understood to be a capital guarantee promised by an MMF. It is to be understood as an aim that a UCITS or AIF seeks to pursue. A decrease in value of the investments does not imply that the collective investment undertaking has changed its objective of preserving the value of an investment.

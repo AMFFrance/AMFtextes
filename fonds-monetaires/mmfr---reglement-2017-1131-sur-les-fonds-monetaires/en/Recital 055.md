@@ -1,0 +1,1 @@
+(55) ESMA should be able to exercise all the powers conferred on it under Directives 2009/65/EC and 2011/61/EU with respect to this Regulation. It is also entrusted with developing draft implementing technical standards.

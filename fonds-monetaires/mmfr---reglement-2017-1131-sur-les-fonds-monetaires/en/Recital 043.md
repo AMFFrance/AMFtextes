@@ -1,0 +1,1 @@
+(43) As part of prudent risk management, MMFs should, at least bi-annually, conduct stress testing. The manager of an MMF is expected to act in order to strengthen the MMF's robustness whenever the results of stress testing point to vulnerabilities.

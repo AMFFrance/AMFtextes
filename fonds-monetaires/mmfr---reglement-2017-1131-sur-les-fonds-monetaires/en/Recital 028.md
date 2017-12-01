@@ -1,0 +1,3 @@
+(28) In order to limit risk-taking by MMFs, it is essential to reduce counterparty risk by subjecting the portfolio of MMFs to clear diversification requirements. To that end, reverse repurchase agreements should be fully collateralised and, in order to limit the operational risk, a single reverse repurchase agreement counterparty should not account for more than 15 % of an MMF's assets. All OTC derivatives should be subject to Regulation (EU) No 648/2012 of the European Parliament and of the Council (6).
+
+%%% (6)  Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (OJ L 201, 27.7.2012, p. 1).
