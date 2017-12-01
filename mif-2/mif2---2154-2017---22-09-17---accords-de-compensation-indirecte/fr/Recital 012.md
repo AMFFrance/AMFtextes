@@ -1,0 +1,1 @@
+(12) Des procédures devraient être mises en place afin qu'en cas de défaillance du client, l'identité des clients indirects puisse être connue et que le membre compensateur soit en mesure de déterminer à quel client indirect appartiennent les différents actifs et positions.
