@@ -1,0 +1,3 @@
+(2) As the assets and positions of the counterparty to which indirect clearing services are provided should benefit from protection with equivalent effect to that referred to in Articles 39 and 48 of Regulation (EU) No 648/2012 of the European Parliament and of the Council (2), the different concepts of indirect client are pivotal for this Regulation and should be defined herein.
+
+%%% (2)  Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (OJ L 201, 27.7.2012, p. 1).

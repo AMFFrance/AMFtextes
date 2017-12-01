@@ -1,0 +1,3 @@
+(3) Taking into account that clearing members should qualify as participants within the meaning of Directive 98/26/EC of the European Parliament and of the Council (3), and to ensure an equivalent level of protection to indirect clients as granted to clients under Regulation (EU) No 648/2012, clients providing indirect clearing services should be credit institutions, investment firms, or third country entities equivalent to credit institutions or investment firms.
+
+%%% (3)  Directive 98/26/EC of the European Parliament and of the Council of 19 May 1998 on settlement finality in payment and securities settlement systems (OJ L 166, 11.6.1998, p. 45).

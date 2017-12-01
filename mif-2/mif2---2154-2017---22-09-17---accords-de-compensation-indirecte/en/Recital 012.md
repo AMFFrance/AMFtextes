@@ -1,0 +1,1 @@
+(12) Procedures should be put in place so that, in case of the default of the client, the information on the identity of the indirect clients can become known and the clearing member is able to identify which assets and positions belong to which indirect client.
