@@ -1,0 +1,1 @@
+(55) L'AEMF devrait pouvoir exercer tous les pouvoirs qui lui sont conférés par les directives 2009/65/CE et 2011/61/UE eu égard au présent règlement. Elle est également chargée d'élaborer des projets de normes techniques d'exécution.

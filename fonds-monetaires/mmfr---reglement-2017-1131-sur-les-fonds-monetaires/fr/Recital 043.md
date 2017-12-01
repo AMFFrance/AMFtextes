@@ -1,0 +1,1 @@
+(43) Dans le cadre d'une gestion prudente des risques, les fonds monétaires devraient effectuer des simulations de crise au moins deux fois par an. Les gestionnaires des fonds monétaires devraient prendre des mesures pour renforcer la solidité de leur fonds dès lors que les résultats de ces simulations font apparaître des vulnérabilités.

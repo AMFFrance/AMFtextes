@@ -1,0 +1,1 @@
+(29) Pour des raisons prudentielles et afin d'éviter qu'un fonds monétaire puisse exercer une influence significative sur la gestion d'un organisme émetteur, une concentration excessive d'investissements par le fonds monétaire dans des actifs émis par un même organisme émetteur devrait être évitée.
