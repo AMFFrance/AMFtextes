@@ -1,0 +1,1 @@
+(5) Changes to the name, address and contact details of investment firms in the home Member State are to be considered relevant and should therefore be notified as a change of branch particulars notification or as a change of tied agent particulars notification.
