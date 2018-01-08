@@ -1,0 +1,1 @@
+(4) Pour des raisons de clarté et de sécurité juridique, la formulation du règlement (UE) 2017/565 en ce qui concerne la date d'application devrait être alignée sur celle de la directive 2014/65/UE.

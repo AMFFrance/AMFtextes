@@ -1,0 +1,1 @@
+(6) Les mesures prévues par le présent règlement sont conformes à l'avis du groupe d'experts du comité européen des valeurs mobilières,
