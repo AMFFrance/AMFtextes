@@ -1,0 +1,1 @@
+(5) Toute modification du nom, de l'adresse ou des coordonnées des entreprises d'investissement dans l'État membre d'origine devrait être considérée comme pertinente et par conséquent notifiée en tant que modification des renseignements relatifs à une succursale ou à un agent lié.
