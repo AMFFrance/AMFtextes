@@ -1,0 +1,7 @@
+(1) Regulation (EU) No 600/2014 of the European Parliament and of the Council (4) and Directive 2014/65/EU of the European Parliament and of the Council (5) (together, ‘the new legal framework’) are major financial legislative acts adopted in the wake of the financial crisis as regards securities markets, investment intermediaries and trading venues. The new legal framework reinforces and replaces Directive 2004/39/EC of the European Parliament and of the Council (6).
+
+%%% (4)  Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012 (OJ L 173, 12.6.2014, p. 84).
+
+%%% (5)  Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349).
+
+%%% (6)  Directive 2004/39/EC of the European Parliament and of the Council of 21 April 2004 on markets in financial instruments amending Council Directives 85/611/EEC and 93/6/EEC and Directive 2000/12/EC of the European Parliament and of the Council and repealing Council Directive 93/22/EEC (OJ L 145, 30.4.2004, p. 1).
