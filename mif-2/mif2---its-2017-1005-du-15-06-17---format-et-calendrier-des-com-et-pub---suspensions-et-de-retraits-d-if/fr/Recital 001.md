@@ -1,0 +1,1 @@
+(1) La directive 2014/65/UE met en place un système pour la communication et la publication rapides et efficaces des suspensions d'instruments financiers de la négociation, de la levée de ces suspensions et du retrait de ces instruments de la négociation.
