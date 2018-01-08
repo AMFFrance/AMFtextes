@@ -1,0 +1,1 @@
+(2) Dans le cas des dérivés de taux d'intérêt soumis à l'obligation de compensation, la liquidité est concentrée dans les contrats dérivés qui présentent les caractéristiques les plus standards. Ces caractéristiques devraient par conséquent être prises en compte lors de l'établissement des catégories d'instruments dérivés soumises à l'obligation de négociation.
