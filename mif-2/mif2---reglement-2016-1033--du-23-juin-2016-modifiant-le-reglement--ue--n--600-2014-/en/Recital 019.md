@@ -1,0 +1,1 @@
+(19) Regulations (EU) No 600/2014, (EU) No 596/2014 and (EU) No 909/2014 should therefore be amended accordingly,

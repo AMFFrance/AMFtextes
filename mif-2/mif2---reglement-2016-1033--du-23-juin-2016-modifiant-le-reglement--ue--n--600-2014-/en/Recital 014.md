@@ -1,0 +1,3 @@
+(14) It is considered that securities financing transactions, as defined in Regulation (EU) 2015/2365 of the European Parliament and of the Council (8), do not contribute to the price discovery process and that it would be appropriate that Title II and Title III of Regulation (EU) No 600/2014 not apply to those transactions.
+
+%%% (8)  Regulation (EU) 2015/2365 of the European Parliament and of the Council of 25 November 2015 on transparency of securities financing transactions and of reuse and amending Regulation (EU) No 648/2012 (OJ L 337, 23.12.2015, p. 1).

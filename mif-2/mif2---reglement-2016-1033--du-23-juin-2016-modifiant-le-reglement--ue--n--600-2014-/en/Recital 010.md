@@ -1,0 +1,1 @@
+(10) The implementation process for the data collection infrastructures involves five steps: business requirements, specifications, development, testing and deployment. ESMA estimates that those steps will be completed by January 2018, provided that there is legal certainty on the final requirements under the relevant regulatory technical standards by June 2016.

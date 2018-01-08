@@ -1,0 +1,1 @@
+(11) In light of the exceptional circumstances and in order to enable ESMA, NCAs and stakeholders to complete the operational implementation, it is appropriate to defer the date of application of Regulation (EU) No 600/2014 by 12 months until 3 January 2018. Reports and reviews should be deferred accordingly.
