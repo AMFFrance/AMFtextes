@@ -1,0 +1,1 @@
+(4) For credit derivatives, with respect to the two index credit default swaps that are subject to the clearing obligation, liquidity is concentrated in the current on-the-run series and the latest off-the-run series. It is therefore appropriate to limit the application of the trading obligation to derivatives belonging to those series only.

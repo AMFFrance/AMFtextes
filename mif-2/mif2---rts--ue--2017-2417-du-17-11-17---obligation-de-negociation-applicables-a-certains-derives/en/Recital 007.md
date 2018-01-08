@@ -1,0 +1,1 @@
+(7) This Regulation is adopted on the basis of the facts, and in particular the prevailing liquidity, at the time of its adoption and will be reviewed and amended as appropriate in accordance with market developments.

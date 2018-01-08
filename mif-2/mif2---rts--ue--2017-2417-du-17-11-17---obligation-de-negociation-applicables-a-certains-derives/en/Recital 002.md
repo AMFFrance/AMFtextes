@@ -1,0 +1,1 @@
+(2) For interest rate derivatives subject to the clearing obligation, liquidity is concentrated in derivative contracts which have the most standardised characteristics. Those characteristics should therefore be taken into consideration when establishing the classes of derivatives subject to the trading obligation.

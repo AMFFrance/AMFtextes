@@ -1,0 +1,3 @@
+(1) Regulation (EU) No 600/2014 provides for an obligation to trade on a regulated market, a multilateral trading facility, an organised trading facility or an equivalent third-country trading venue certain classes of derivatives, or relevant subsets thereof, which have been declared subject to the clearing obligation referred to in Article 4 of Regulation (EU) No 648/2012 of the European Parliament and of the Council (2). That trading obligation should only apply to derivatives that are sufficiently liquid and available for trading on at least one trading venue.
+
+%%% (2)  Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (OJ L 201, 27.7.2012, p. 1).
