@@ -1,0 +1,5 @@
+(5) The cooperation arrangements should build on best practices, including the principles set out in the guidelines on cooperation arrangements and information exchange between competent authorities and between competent authorities and the European Securities and Markets Authority (ESMA) (3) and the related multilateral memorandum of understanding on Cooperation Arrangements and Exchange of Information (4) to ensure that all areas relevant to efficient cooperation between competent authorities are encompassed and to draw from the expertise established by competent authorities and ESMA in ascertaining seamless cross-border cooperation.
+
+%%% (3)  ESMA/2014/298. Available: https://www.esma.europa.eu/databases-library/esma-library
+
+%%% (4)  ESMA/2014/608. Available: https://www.esma.europa.eu/databases-library/esma-library

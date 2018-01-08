@@ -1,0 +1,3 @@
+(9) Where, in exceptional circumstances, urgent action is required in order to fulfil obligations under Directive 2014/65/EU or Regulation (EU) No 600/2014 of the European Parliament and of the Council (5), or to ensure the stability of markets in its Member State, standard agreements for cooperation arrangements should allow for a competent authority to reasonably delay fulfilling its obligations under such agreements.
+
+%%% (5)  Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012 (OJ L 173, 12.6.2014, p. 84).

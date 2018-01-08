@@ -1,0 +1,3 @@
+(4) Most cooperation arrangements should take place according to modalities governed by Commission Delegated Regulation (EU) 2017/589 (2). Standard forms, templates and procedures that permit adapting those arrangements should be laid down to achieve a higher degree of involvement of the competent authority of the host Member State where there is a higher impact on the securities markets and the investor protection in its jurisdiction.
+
+%%% (2)  Commission Delegated Regulation (EU) 2017/589 of 19 July 2016 supplementing Directive 2014/65/EU of the European Parliament and of the Council with regard to regulatory technical standards specifying the organisational requirements of investment firms engaged in algorithmic trading (OJ L 87, 31.3.2017, p. 417).

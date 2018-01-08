@@ -1,0 +1,1 @@
+(7) Competent authorities should, when requesting assistance in the form of the taking of a statement, the opening of an investigation or carrying out of an on-site inspection, provide a clear explanation on why such assistance is needed to discharge a competent authority's duty.

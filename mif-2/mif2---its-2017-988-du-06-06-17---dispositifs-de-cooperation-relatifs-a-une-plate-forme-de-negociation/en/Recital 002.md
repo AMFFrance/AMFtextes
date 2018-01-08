@@ -1,0 +1,1 @@
+(2) Competent authorities should use standard forms, templates and procedures as a basis for their cooperation arrangements, but should be able to adapt them in the form of bilateral or multilateral agreements to the individual circumstances of each case in order to set out appropriate supervisory cooperation.
