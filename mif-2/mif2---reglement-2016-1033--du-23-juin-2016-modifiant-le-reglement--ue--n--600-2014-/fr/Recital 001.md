@@ -1,0 +1,7 @@
+(1) Le règlement (UE) no 600/2014 du Parlement européen et du Conseil (4) et la directive 2014/65/UE du Parlement européen et du Conseil (5) (ci-après dénommés ensemble le «nouveau cadre juridique») constituent des actes majeurs de la législation financière adoptée à la suite de la crise financière en ce qui concerne les marchés de valeurs mobilières, les intermédiaires d'investissement et les plates-formes de négociation. Le nouveau cadre juridique renforce et remplace la directive 2004/39/CE du Parlement européen et du Conseil (6).
+
+%%% (4)  Règlement (UE) no 600/2014 du Parlement européen et du Conseil du 15 mai 2014 concernant les marchés d'instruments financiers et modifiant le règlement (UE) no 648/2012 (JO L 173 du 12.6.2014, p. 84).
+
+%%% (5)  Directive 2014/65/UE du Parlement européen et du Conseil du 15 mai 2014 concernant les marchés d'instruments financiers et modifiant la directive 2002/92/CE et la directive 2011/61/UE (JO L 173 du 12.6.2014, p. 349).
+
+%%% (6)  Directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d'instruments financiers, modifiant les directives 85/611/CEE et 93/6/CEE du Conseil et la directive 2000/12/CE du Parlement européen et du Conseil et abrogeant la directive 93/22/CEE du Conseil (JO L 145 du 30.4.2004, p. 1).

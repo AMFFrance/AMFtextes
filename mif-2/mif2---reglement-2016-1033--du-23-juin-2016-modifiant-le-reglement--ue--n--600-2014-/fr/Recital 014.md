@@ -1,0 +1,3 @@
+(14) Il est considéré que les opérations de financement sur titres, telles qu'elles sont définies dans le règlement (UE) 2015/2365 du Parlement européen et du Conseil (8), ne contribuent pas au processus de découverte des prix et qu'il convient que les titres II et III du règlement (UE) no 600/2014 ne s'appliquent pas à ces opérations.
+
+%%% (8)  Règlement (UE) 2015/2365 du Parlement européen et du Conseil du 25 novembre 2015 relatif à la transparence des opérations de financement sur titres et de la réutilisation et modifiant le règlement (UE) no 648/2012 (JO L 337 du 23.12.2015, p. 1).

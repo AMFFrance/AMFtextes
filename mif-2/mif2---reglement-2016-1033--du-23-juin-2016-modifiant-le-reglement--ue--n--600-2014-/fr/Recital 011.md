@@ -1,0 +1,1 @@
+(11) Au vu de ces circonstances exceptionnelles et afin de permettre à l'AEMF, aux autorités nationales compétentes et aux parties prenantes de mener à bien la mise en œuvre opérationnelle, il convient de reporter la date d'application du règlement (UE) no 600/2014 de douze mois, soit au 3 janvier 2018. Les rapports et les réexamens devraient être reportés en conséquence.

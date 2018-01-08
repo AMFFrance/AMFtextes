@@ -1,0 +1,1 @@
+(19) Il convient, dès lors, de modifier les règlements (UE) no 600/2014, (UE) no 596/2014 et (UE) no 909/2014 en conséquence,
