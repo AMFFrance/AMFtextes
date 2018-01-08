@@ -1,0 +1,1 @@
+(1) Directive 2014/65/EU establishes a system by which suspensions from trading, the lifting of those suspensions and removals from trading are to be published and communicated in a timely and efficient manner.
