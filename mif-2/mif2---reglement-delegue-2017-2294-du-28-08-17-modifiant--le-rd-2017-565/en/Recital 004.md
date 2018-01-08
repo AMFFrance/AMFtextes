@@ -1,0 +1,1 @@
+(4) For reasons of clarity and legal certainty, the wording on the date of application of Delegated Regulation (EU) 2017/565 should be brought in line with the wording on the date of application of Directive 2014/65/EU.

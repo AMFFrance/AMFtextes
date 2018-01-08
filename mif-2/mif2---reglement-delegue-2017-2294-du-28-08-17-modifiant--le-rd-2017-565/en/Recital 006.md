@@ -1,0 +1,1 @@
+(6) The measures provided for in this Regulation are in accordance with the opinion of the Expert Group of the European Securities Committee,
