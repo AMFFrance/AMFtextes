@@ -1,0 +1,3 @@
+(9) Si, dans des circonstances exceptionnelles, une autorité compétente doit prendre des mesures d'urgence pour remplir ses obligations au titre de la directive 2014/65/UE ou du règlement (UE) no 600/2014 du Parlement européen et du Conseil (5), ou pour assurer la stabilité des marchés dans son État membre, les accords de coopération types devraient prévoir la possibilité qu'elle diffère l'exécution de ses obligations en vertu de tels accords.
+
+%%% (5)  Règlement (UE) no 600/2014 du Parlement européen et du Conseil du 15 mai 2014 concernant les marchés d'instruments financiers et modifiant le règlement (UE) no 648/2012 (JO L 173 du 12.6.2014, p. 84).

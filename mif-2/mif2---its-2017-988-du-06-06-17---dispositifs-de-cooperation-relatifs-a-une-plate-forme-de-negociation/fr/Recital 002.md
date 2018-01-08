@@ -1,0 +1,1 @@
+(2) Les autorités compétentes devraient baser leurs accords de coopération sur des formulaires, modèles et procédures normalisés, mais ils devraient pouvoir les adapter aux circonstances de chaque cas, sous la forme d'accords bilatéraux ou multilatéraux, en vue d'établir une coopération appropriée en matière de surveillance.

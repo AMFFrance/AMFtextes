@@ -1,0 +1,1 @@
+(7) Les autorités compétentes qui demandent une assistance consistant à recueillir une déclaration, à ouvrir une enquête ou à effectuer une inspection sur place devraient expliquer clairement les raisons pour lesquelles cette assistance est nécessaire à l'exercice de leurs missions en tant qu'autorités compétentes.
