@@ -1,0 +1,1 @@
+(3) Dedicated staff members of the competent authorities, who are professionally trained, including on applicable data protection rules, would be necessary in order to handle reports of infringements of Regulation (EU) No 596/2014 and to ensure communication with the reporting person, as well as following up on the report in a suitable manner.

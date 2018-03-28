@@ -1,0 +1,1 @@
+(5) In order to allow for effective communication with its dedicated staff it is necessary that the competent authorities have in place and use different communication channels that should be user-friendly and allow for written and oral, as well as electronic and non-electronic communication.

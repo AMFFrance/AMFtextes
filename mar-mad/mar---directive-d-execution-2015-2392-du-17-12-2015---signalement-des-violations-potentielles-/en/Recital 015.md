@@ -1,0 +1,1 @@
+(15) Given the fact that Regulation (EU) No 596/2014 enters into application on 3 July 2016, it is appropriate that the Member States transpose and apply provisions pertaining to this Directive from 3 July 2016.
