@@ -1,0 +1,1 @@
+(15) Étant donné que le règlement (UE) no 596/2014 entre en application le 3 juillet 2016, il convient que les États membres transposent la présente directive et appliquent les dispositions à cet effet à partir du 3 juillet 2016.

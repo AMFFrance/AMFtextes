@@ -1,0 +1,3 @@
+(9) Les États membres doivent veiller à la tenue adéquate de registres rassemblant tous les signalements de violations, à ce que chaque signalement soit accessible au sein de l'autorité compétente et à ce que les informations reçues au travers des signalements puissent être utilisées comme éléments de preuve dans le cadre d'actions d'application, le cas échéant. Les États membres doivent veiller au respect de la directive 95/46/CE du Parlement européen et du Conseil (2) et de la législation nationale transposant la directive 95/46/CE.
+
+%%% (2)  JO L 281 du 23.11.1995, p. 31.
